@@ -5,7 +5,16 @@
 !.gitignore
 !LICENSE
 !README.md
-!MémoiresMargueriteDeValois.txt
+!*.sh
+!*.bat
+!*.py
 
 # Even if they are in subdirectories
 **/
+
+# Excepting this
+!/CasEN/
+!/CoreNLP/
+!/Perdido/
+!/SEM/
+!/Spacy/

@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!LICENSE
+!README.md
+!MémoiresMargueriteDeValois.txt
+
+# Even if they are in subdirectories
+**/

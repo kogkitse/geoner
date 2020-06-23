@@ -1,0 +1,61 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+41
+"<E>" 120 524 1 4 
+"" 1687 524 0 
+"/<csc><form>quatre-vingt-quatre</form><code>quantity</code></csc>+<csc><form>En ce moment</form><code>time</code><code>type=\"adverb\"</code></csc>" 147 79 0 
+"\<\/form\>\<code\>" 678 524 1 16 
+"\<csc\>\<form\>" 174 524 1 9 
+"\<\/form\>+\<csc\>" 397 524 1 8 
+"<TOKEN>" 543 524 2 7 10 
+"$![" 357 524 1 5 
+"$]" 489 524 1 6 
+"$form(" 317 524 1 7 
+"$form)" 644 524 1 3 
+"/on empêche le fonctionnement si imbrication:+seules les balises internes seront touchées+A passer en \"until fix point\"" 328 609 0 
+"\<\/code\>+type" 902 524 1 15 
+"<TOKEN>" 1048 524 2 14 17 
+"$![" 862 524 1 12 
+"$]" 994 524 1 13 
+"$cat(" 822 524 1 14 
+"$cat)" 1149 524 2 18 25 
+"\<\/code\>" 406 734 2 19 23 
+"\<\/csc\>" 816 734 1 20 
+"<E>/<_$cat$>$form$</_$cat$>" 931 734 1 1 
+"\<\/csc\>" 556 798 1 24 
+"<TOKEN>" 702 798 2 23 19 
+"$![" 516 798 1 21 
+"$]" 644 798 1 22 
+"type=\\\"" 250 251 1 30 
+"\\\"" 555 251 1 29 
+"<TOKEN>" 701 251 2 28 31 
+"$![" 515 251 1 26 
+"$]" 647 251 1 27 
+"$type(" 475 251 1 28 
+"$type)" 802 251 1 32 
+"\\\"\<\/code\>" 845 251 2 33 37 
+"\<\/csc\>" 1255 251 1 34 
+"<E>/<_$cat$ type=\"$type$\">$form$</_$cat$>" 1370 251 1 1 
+"\<\/csc\>" 995 315 1 38 
+"<TOKEN>" 1141 315 2 37 33 
+"$![" 955 315 1 35 
+"$]" 1083 315 1 36 
+"/<csc><form><date type=\"adverb\">auparavant</date></form><code>w type=\"modifier\"</code><code>quaero=\"qualifier\"</code></csc>" 827 66 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 33 390 0 

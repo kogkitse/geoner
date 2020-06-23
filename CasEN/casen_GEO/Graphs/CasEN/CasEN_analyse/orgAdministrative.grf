@@ -1,0 +1,74 @@
+#Unigraph
+SIZE 1887 867
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+54
+"<E>" 53 253 9 5 3 15 23 27 31 37 49 51 
+"" 1700 253 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 917 97 0 
+"<douane>+justice+mairie+Impôts+Trésor+Pouvoir/{{" 206 253 1 4 
+"<E>/,.w+type=\"noun\"+name}" 293 253 1 14 
+"<fonction>/{{" 187 164 1 7 
+"d'" 657 52 1 10 
+"<E>/,.w+type=\"noun\"+kind}" 296 162 1 8 
+"publique/{" 447 162 1 9 
+"<E>/,.w+type=\"adjective\"}" 552 162 2 14 20 
+"état/{" 693 52 1 11 
+"<E>/,.w+type=\"noun\"+name}" 745 52 1 21 
+"hospitalière+territoriale/{" 663 106 1 13 
+"<E>/,.w+type=\"adjective\"}" 757 106 1 21 
+"<E>/,.org+type=\"administrative\"+quaero=\"adm\"+grforgAdministrative}" 1261 253 1 1 
+"action+<centre>/{{" 137 335 1 16 
+"<E>/,.w+type=\"noun\"+kind}" 214 335 1 17 
+"<social>/{" 365 335 1 18 
+"<E>/,.w+type=\"adjective\"}" 470 335 1 14 
+":listEtOu" 569 33 1 20 
+"<E>" 609 106 2 12 6 
+"<E>" 796 106 2 14 22 
+"<E>" 825 33 1 19 
+"<audiovisuel>+<transport>+trésor+sureté+sûreté+<pouvoir.N>/{{" 132 449 1 24 
+"<E>/,.w+type=\"noun\"+kind}" 240 449 1 25 
+"<public>/{" 391 449 1 26 
+"<E>/,.w+type=\"adjective\"}" 496 449 1 14 
+"<service>/{{" 133 563 1 28 
+"<E>/,.w+type=\"noun\"+kind}" 210 563 1 29 
+"<secret>+spéciaux+<publique>/{" 372 563 1 30 
+"<E>/,.w+type=\"adjective\"}" 497 563 1 14 
+"<préfecture>/{{" 134 682 1 32 
+"<E>/,.w+type=\"noun\"+kind}" 242 682 2 33 34 
+"<E>" 623 682 1 14 
+"de" 353 633 1 35 
+"police/{" 405 633 1 36 
+"<E>/,.w+type=\"noun\"+name}" 457 633 1 33 
+"<commissariat>/{{" 114 766 1 39 
+":listALe" 486 766 1 40 
+"<E>/,.w+type=\"noun\"+kind}" 269 766 2 38 41 
+"<N>/{" 588 766 2 43 44 
+":tagAdjectifGeoPolitique+:tagDemonym" 315 737 1 38 
+"<E>/,.w+type=\"noun\"+name}" 1111 764 1 53 
+"<A>" 657 734 1 44 
+"<E>" 738 766 2 42 45 
+"et" 814 685 1 48 
+"<N>" 942 686 2 47 42 
+"<A>" 1016 686 1 42 
+":listALe" 868 685 1 46 
+"<haut.A:f>/{{" 127 66 1 50 
+"<fonction>" 230 65 1 7 
+"<haut.A:m>/{{" 93 823 1 52 
+"<commissariat>" 214 823 1 39 
+"<E>/,.orgName+type=\"administrative\"+quaero=\"adm\"+grforgAdministrative}" 1279 764 1 1 

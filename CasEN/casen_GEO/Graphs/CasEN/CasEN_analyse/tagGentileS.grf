@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 151 468 5 4 5 11 12 14 
+"" 1148 471 0 
+"<E>/,.demonym+grftagGentileS}" 893 641 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1008 87 0 
+"<N+PR+Hum~Pays:s>+<A+Toponyme~Pays:s>+<N+Ethnonym:s>/{" 518 641 1 2 
+"nord+sud+est+ouest/{" 442 471 2 7 8 
+"<N+PR+Hum~Pays:s>+<A+Toponyme~Pays:s>" 644 471 1 2 
+"-" 521 445 1 8 
+"<E>" 563 471 2 6 9 
+"<N+PR+Hum+Pays:s>+<A+Toponyme+Pays:s>" 689 366 1 10 
+"<E>/,.nationality+grftagGentileS}" 903 366 1 1 
+"<N+PR+Hum+Pays:s>+<A+Toponyme+Pays:s>+étranger/{" 578 221 1 10 
+"<PFX+Toponyme~Pays>/{" 383 542 1 13 
+"#-#" 577 542 1 6 
+"<PFX+Toponyme+Pays>/{" 406 366 1 15 
+"#-#" 600 366 1 9 

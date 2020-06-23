@@ -1,0 +1,47 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+27
+"<E>" 17 309 4 6 10 19 23 
+"" 1436 309 0 
+":patternNomMixte" 247 406 1 4 
+"<industrie>+<service>" 446 406 1 15 
+"#-#" 396 406 1 3 
+":BB" 206 406 1 2 
+"$![" 83 406 1 7 
+"<DET>+<ADV>" 118 406 1 8 
+"$]" 185 406 1 5 
+"<E>/,.orgName+type=\"company\"+quaero=\"ent\"+grftagOrgNameEntreprise}" 1073 309 1 1 
+"<société>/{{" 91 309 1 11 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 178 309 2 17 18 
+":patternNomMixte" 538 309 1 13 
+"SA+SARL+<vieuxSigle>" 661 309 1 15 
+":B" 497 309 1 12 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 793 309 1 9 
+":patternIncludePersName" 480 256 1 13 
+"<E>/${1}$" 441 309 1 14 
+"<E>/${2}$" 392 256 1 20 
+"<fondation>/{{" 98 198 1 21 
+":B" 447 256 1 16 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 218 198 1 22 
+":patternIncludePersName+<N+Commerce>" 515 199 1 9 
+"<compagnie>/{{" 102 76 1 24 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 222 76 1 25 
+":patternNomMixte+:patternIncludePersName+<N+Commerce>" 519 77 1 9 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1030 121 0 

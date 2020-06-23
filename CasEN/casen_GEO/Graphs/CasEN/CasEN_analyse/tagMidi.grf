@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1232 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 13395456
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 127 385 1 3 
+"" 617 385 0 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 215 73 0 
+"midi+minuit/{" 393 385 1 4 
+"<E>/,.gHour}" 551 385 1 1 

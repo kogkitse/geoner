@@ -1,0 +1,598 @@
+0000000032
+-1 timeHoraire
+: -9 1 
+: -2 2 
+: 6 4 5 3 
+: -9 5 
+t -9 6 
+: -4 8 -7 8 -8 8 3 7 2 7 
+: -3 9 
+: 4 10 
+: -3 9 1 11 
+: 1 11 
+: -3 9 -4 8 -7 8 1 11 
+t 
+f 
+-2 tagHoraire
+: -13 4 -17 3 14 2 13 2 7 1 
+: 12 5 
+: 12 6 
+t -10 8 -11 4 -15 4 -16 4 8 7 
+t -10 8 
+: -12 9 
+: -12 10 
+: 11 11 9 11 
+t 
+t -10 8 -11 4 -16 4 8 12 
+t -10 8 -11 4 -15 4 8 13 
+: 10 14 
+: 11 11 
+: 9 11 
+t -10 8 -14 4 
+f 
+-3 listPredeterminant
+: 44 5 43 10 42 5 41 5 40 5 37 9 35 8 34 7 33 5 32 5 31 5 30 5 29 5 27 6 26 5 25 4 23 3 21 2 15 1 
+: 20 5 19 5 18 5 17 5 16 5 
+: 22 5 
+: 24 5 
+: 17 5 
+t 
+: 28 5 22 5 
+: 22 11 
+: 46 13 45 5 22 12 
+: 38 14 
+: 38 15 33 5 
+: 35 16 
+: 47 5 
+: 41 5 
+: 39 5 
+: 33 5 
+: 36 5 
+f 
+-4 tagDateSuivante
+: 59 4 56 3 54 2 53 1 52 1 51 1 50 1 49 1 48 1 
+: 4 5 
+: 55 1 
+: 38 6 
+: 62 7 61 7 60 7 
+t 
+: 58 1 57 1 
+: 63 5 
+f 
+-5 listDe
+: 66 2 65 1 64 1 25 1 
+t 
+: 67 1 
+f 
+-6 tagObjet
+: -9 2 100 1 99 1 
+t 
+: -18 6 -19 6 -20 6 105 17 104 16 103 16 98 6 96 15 94 14 92 13 90 12 88 11 86 10 84 9 80 8 77 7 76 6 74 5 71 4 69 3 
+: 27 18 
+: 25 19 
+: 64 20 
+: 68 21 
+: 64 22 
+: 64 23 
+: 64 24 
+: 64 25 
+: 66 26 
+: 38 27 
+: 64 28 
+: 65 29 
+: 64 30 
+: -18 6 -19 6 98 6 96 15 94 14 92 13 90 12 88 11 86 10 84 9 80 8 77 7 76 6 74 5 71 4 69 3 
+: 105 17 104 16 103 16 
+: 70 6 
+: 72 31 
+: 75 6 
+: 101 32 
+: 78 33 
+: 81 34 
+: 85 6 
+: 87 6 
+: 67 35 
+: 91 6 
+: 81 36 
+: 95 6 
+: 97 6 
+: 73 6 
+: 67 37 
+: 79 6 
+: 82 38 
+: 89 6 
+: 93 6 
+: 102 1 
+: 83 6 
+f 
+-7 tagAffilee
+: 108 3 106 2 54 1 
+: 81 3 
+: 67 4 
+: 109 5 
+: 107 5 
+: 110 6 
+t 
+f 
+-8 tagParNomDeTemps
+: 112 1 111 1 
+: -9 2 
+: -21 3 -22 3 
+: 113 4 
+t 
+f 
+-9 B
+: 114 2 56 1 
+t 
+: 56 1 
+f 
+-10 tagApresHoraire
+: -9 7 131 6 123 5 122 5 121 4 119 3 117 2 54 1 
+: 125 8 
+: -5 10 127 9 
+: 131 6 121 4 117 2 54 1 
+: 115 6 
+: 120 11 
+: 116 9 
+: -23 13 -24 12 
+: 67 14 
+: 120 15 
+: 118 16 
+t 131 6 121 4 119 3 117 2 54 1 
+: -23 13 
+: 130 5 129 5 128 5 120 11 
+: 126 2 
+t 
+: 124 9 
+f 
+-11 tagEtQuart
+: 137 3 136 2 8 1 
+: 134 2 133 2 132 4 
+: 135 5 
+: 141 2 140 2 139 2 138 2 134 2 133 2 
+: 133 2 
+t 
+f 
+-12 tagHeuresUnit
+: 143 1 142 1 
+: 113 2 
+t 
+f 
+-13 tagNumHeureMinuteSeconde
+: 7 1 
+: 12 2 
+: 144 3 
+: 145 4 
+: 144 5 
+: 146 6 
+: 10 7 
+t 144 8 
+: 145 9 
+: 144 10 
+: 146 11 
+: 147 12 
+t 
+f 
+-14 tagMinutesUnit
+: 150 1 149 1 148 1 
+: 113 2 
+t 
+f 
+-15 tagMinutesSecondes
+: 151 2 137 1 
+: 154 2 
+: 10 3 
+t -14 4 
+t 157 6 156 6 155 6 151 6 137 5 
+: 160 6 159 6 158 6 154 6 
+: 147 7 
+t -25 8 
+t 161 10 137 9 
+: 162 10 
+: 152 11 
+t -26 12 
+t 163 14 137 13 
+: 164 14 
+: 153 15 
+t -27 16 
+t 
+f 
+-16 tagNumMinutesSecondes
+: 146 2 137 1 
+: 165 2 
+: 10 3 
+t -14 4 
+t 157 6 156 6 155 6 146 6 137 5 
+: 165 6 160 6 159 6 158 6 
+: 147 7 
+t -25 8 
+t 166 10 137 9 
+: 167 10 
+: 152 11 
+t -26 12 
+t 168 14 137 13 
+: 169 14 
+: 153 15 
+t -27 16 
+t 
+f 
+-17 tagMidi
+: 171 1 170 1 
+: 12 2 
+t 
+f 
+-18 patternNomMixte
+: -28 1 -29 1 173 1 172 1 
+t 144 2 
+: 177 3 175 4 174 4 67 3 38 3 
+: 144 5 
+t 
+: -28 1 -29 1 176 1 173 1 172 1 
+f 
+-19 patternMin
+: 178 1 
+: 179 2 
+: 180 3 179 2 
+t 
+f 
+-20 tagDemonym
+: -9 3 -31 2 192 1 
+: 193 4 
+t -30 0 
+: -32 5 
+: 102 6 
+: 188 8 187 8 186 8 185 8 38 7 
+: 199 9 198 9 197 9 196 9 195 9 194 9 184 8 183 8 182 8 181 8 
+: 188 8 187 8 186 8 185 8 
+: 189 2 
+: 4 2 
+f 
+-21 listNomDeTempsJourPlus
+: 226 1 225 1 224 1 223 1 222 1 221 1 220 1 219 1 218 1 217 1 216 1 215 1 214 1 213 1 212 1 211 1 210 1 209 1 208 1 207 1 206 1 205 1 204 1 203 1 202 1 201 1 200 1 
+t 
+f 
+-22 listNomDeTempsJourMoins
+: 238 2 237 2 236 2 235 2 234 2 233 2 232 2 231 2 230 2 229 2 228 2 227 2 141 1 140 1 
+: 227 2 201 2 38 3 
+t 
+: 227 2 201 2 
+f 
+-23 listPartieJournee
+: 243 1 242 1 241 1 240 1 239 1 229 1 
+t 
+f 
+-24 listDeLe
+: 66 3 65 1 64 2 25 1 
+t 
+t 125 3 81 1 
+: 67 1 
+f 
+-25 tagSecondesUnit
+: 247 2 245 1 244 1 
+: 113 3 
+: 113 4 
+t 
+: 246 5 
+: 67 6 
+: 102 3 
+f 
+-26 tagDixiemesUnit
+: 249 1 248 1 
+: 113 2 
+t 
+f 
+-27 tagCentiemesUnit
+: 251 2 250 2 249 1 
+: 67 2 
+: 113 3 
+t 
+f 
+-28 patternMajMin
+: 178 1 
+: 252 2 
+: 252 3 179 3 
+: 252 3 180 4 179 3 
+t 
+f 
+-29 patternMaj1
+: 178 1 
+: 252 2 
+: 180 3 
+t 
+f 
+-30 listEtOu
+: 258 1 257 1 256 1 254 4 253 3 119 2 38 1 
+t 177 5 
+t 258 1 257 1 256 1 254 4 253 3 177 5 119 1 38 1 
+t 177 5 112 6 
+t 255 7 177 5 29 1 
+: 177 8 
+: 254 1 
+t 177 5 29 1 
+: 177 9 
+t 
+f 
+-31 patternPFXPhone
+: 178 1 
+: 259 2 
+: 261 3 260 3 
+: 180 4 
+: 4 5 
+t 
+f 
+-32 patternPrefixeToponyme
+: 267 1 266 1 265 1 264 1 263 1 262 2 240 1 
+t 38 3 
+t 262 2 38 4 
+t 
+: 262 2 
+f 
+%<E>
+%<E>/,.postInclude}
+%<complet>/{
+%<entier>/{
+%<E>/,.w+type="adjective"}
+%<E>/,.measure+type="duration"+grftimeHoraire}
+%<E>/,.time+quaero="abs"+grftimeHoraire}
+%<num+0a24+chiffre>/{
+%moins/{
+%<num+1a29+lettre>
+%<E>/,.gMinute}
+%<num+1a29+chiffre>
+%<E>/,.gHour}
+%<num+0a24+lettre>/{
+%une/{
+%au
+%mieux
+%moins
+%pire
+%pis
+%plus
+%avant
+%tout
+%dans
+%les
+%du
+%déjà
+%en
+%gros
+%encore
+%ensuite
+%environ
+%exactement
+%même
+%pas
+%à
+%fait
+%peut
+%-
+%être
+%presque
+%près
+%précisément
+%quand
+%surtout
+%peine
+%peu
+%casser
+%<dernier>/{
+%<précédent>/{
+%<prochain>/{
+%<suivant>/{
+%<passer.V:K>/{
+%<écouler.V:K>/{
+%à/{
+%venir
+%#/{
+%ci
+%là
+%qui
+%<précèder.V:3>/{
+%<suivre.V:3>/{
+%<venir:3>/{
+%<E>/,.w+type="verb"}
+%de
+%des
+%d
+%'
+%<E>/,.object}
+%chocolat
+%poudre
+%député
+%Front
+%National
+%<étudiant>
+%Grenoble
+%eux
+%farine
+%blé
+%complet
+%pays
+%la
+%Ligue
+%Arabe
+%<point>
+%surveillance
+%<type>
+%spectateurs
+%<policier>
+%élite
+%<camion>
+%<citerne>
+%<fief>
+%rébellion
+%<bastion>
+%rebelles
+%<farine>
+%châtaignes
+%bug
+%fois
+%<reprise>
+%$![0
+%$]
+%<A~Toponyme>
+%<V:K>
+%<ADV>
+%d/{
+%affilée
+%de/{
+%suite
+%<E>/,.w+type="adjectif"}
+%par
+%/
+%<E>/,.unit}
+@ 
+%temps
+%universel
+%heure/{
+%<N+Ville>/{
+%,
+%<E>/,.w+type="modifier"}
+%en/{
+%pile/{
+%<précis>/{
+%<E>/,.placeName+type="city"}
+%l
+%heure
+%<A+Toponyme:fs>
+%pile
+%<précis>
+%<sonnant>
+%temps/{
+%le
+%quart
+%<¼>
+%<E>/,.val}
+%<num+horaire>/{
+%et/{
+%<un quart>
+%<½>
+%demie
+%demi
+%<heure>/{
+%h/{
+%#
+%:
+%<num+0a59+chiffre>/{
+%<E>/,.gSeconde}
+%<minute>/{
+%mn/{
+%min/{
+%<num+0a59+lettre>/{
+%<E>/,.gTenth}
+%<E>/,.gHundredth}
+%<num+0a59+lettre>
+%¼/{
+%½/{
+%¾/{
+%¼
+%½
+%¾
+%<num+0a9+lettre>/{
+%<num+0a9+lettre>
+%<num+0a99+lettre>/{
+%<num+0a99+lettre>
+%<num+0a59+chiffre>
+%<num+0a9+chiffre>/{
+%<num+0a9+chiffre>
+%<num+0a99+chiffre>/{
+%<num+0a99+chiffre>
+%midi/{
+%minuit/{
+%<sigleNum>
+%<vieuxSigle>
+%®
+%©
+%<num>
+%.
+%$<
+%<LOWER>
+%$>
+%<A+Toponyme>/{
+%<A+Ethnonyme~Religion>/{
+%<N+Hum+Toponyme>/{
+%<N+Ethnonyme~Religion>/{
+%<A+Toponyme>
+%<A+Ethnonyme~Religion>
+%<N+Hum+Toponyme>
+%<N+Ethnonyme~Religion>
+%<E>/,.w+type="adjective"+demonym}
+%pro
+%anti
+%$![1
+%<N+Prenom>
+%<A+Ethnonyme+Religion>/{
+%<N+Ethnonyme+Religion>/{
+%<noir>/{
+%<blanc>/{
+%<A+PartiPolitique>/{
+%<N+PartiPolitique>/{
+%<jour>
+%<journée>
+%<week-end>
+%<week end>
+%<semaine>
+%<décade>
+%<quinzaine>
+%mois
+%<trimestre>
+%<semestre>
+%<quadrimestre>
+%<saison>
+%<printemps>
+%<automne>
+%<hiver>
+%<an>
+%<année>
+%<décennie>
+%<siècle>
+%<millénaire>
+%<dimanche>
+%<lundi>
+%<mardi>
+%<mercredi>
+%<jeudi>
+%<vendredi>
+%<samedi>
+%<heure>
+%<matin>
+%<après-midi>
+%<tantôt>
+%<soir>
+%<matinée>
+%<soirée>
+%<nuit>
+%<minute>
+%secondes
+%moment
+%instant
+%matin
+%midi
+%tantôt
+%soir
+%nuit
+%seconde/{
+%secondes/{
+%$![2
+%s/{
+%<dixième>/{
+%'/{
+%<centième>/{
+%ms/{
+%<UPPER>
+%et
+%ou
+%bien
+%voire
+%puis
+%enfin
+%<PFX+Toponyme>/{
+%phone
+%phones
+%<PFX+Toponyme>
+%outre
+%nord
+%sud
+%est
+%ouest
+f

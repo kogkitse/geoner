@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 269 347 1 2 
+"" 602 347 0 
+"<aiguille>+<alpage>+<ballon>+<bassin>+<bocage>+<bois>+<bosquet>+<canion>+<chaîne> de <montagne>+<chênaie>+<cirque>+<colline>+<crête>+<cîme>+<désert>+<falaise>+<forêt>+<futaie>+<glacier>+<grotte>+<isthme>+<massif.N> montagneux+<mont>+<montagne>+<pinède>+<plaine>+<plateau>+<relief>+<reliefs>+<sapinière>+<sommet>+sous-<continent>+sub-<continent>+<terre>+<val.N>+<vallée>+<volcan>" 336 347 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 774 286 0 
+"/massif, pic ambigus" 670 524 0 
+"/<val.N> car il existe une étiquette \"val\"" 635 566 0 

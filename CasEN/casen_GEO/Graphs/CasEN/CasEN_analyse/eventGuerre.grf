@@ -1,0 +1,54 @@
+#Unigraph
+SIZE 1632 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+34
+"<E>" 70 342 3 5 24 30 
+"" 1181 342 0 
+":listDe+:listDeLe+:listEnLe" 675 342 1 4 
+":listLe" 767 220 1 6 
+":patternIncludePlaceName" 784 342 1 15 
+"guérilla+combat+conflit+lutte+révolte+hostilités+révolution/{{" 130 201 1 22 
+"<E>" 840 254 1 33 
+"campagne militaire/{" 734 564 1 17 
+"contre+avec" 688 254 2 6 3 
+"lutte/{" 745 446 2 10 11 
+"de+pour le" 821 446 1 20 
+"contre" 794 507 1 12 
+":listLe" 871 507 1 13 
+":patternMin" 926 507 1 16 
+"<E>/,.event+guerre+grfeventGuerre}" 1141 342 1 1 
+"<E>" 1081 342 1 14 
+"<E>" 1011 446 1 18 
+"<E>" 1002 564 1 18 
+"<E>" 1078 442 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 976 97 0 
+"pouvoir" 905 446 1 16 
+"<armée>+<révolutionnaire>+contre-<révolutionnaire>+<islamique>+<militaire>+<terroriste>+<djihadiste>+<rouge>/{" 316 91 1 23 
+"<E>/,.w+type=\"noun\"+kind}" 220 201 2 21 28 
+"<E>/,.w+type=\"adjective\"}" 478 91 1 28 
+"guerre/{{" 232 342 1 26 
+"<mondial.N:f>+<civil.N:f>/{" 357 279 1 27 
+"<E>/,.w+type=\"noun\"+kind}" 296 342 2 25 29 
+"<E>/,.w+type=\"adjective\"}" 467 279 1 29 
+"<E>" 555 201 1 29 
+"<E>" 621 342 2 2 8 
+"<num+type=\"ordinal\">/{{" 112 441 1 31 
+"<E>/,.w+type=\"adjective\"}" 266 441 1 32 
+"guerre/{" 408 441 1 26 
+":patternIncludePersName+:patternIncludeOrgName+:patternIncludePlaceName" 902 254 1 15 

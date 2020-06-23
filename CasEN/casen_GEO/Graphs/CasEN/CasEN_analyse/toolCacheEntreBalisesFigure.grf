@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 121 234 3 2 8 14 
+"" 1448 234 0 
+"<Xml+Begin+name=label>" 302 154 1 20 
+"<Xml+End+name=label>" 582 154 1 6 
+"<TOKEN>" 838 154 2 5 23 
+"$![" 539 154 1 3 
+"$]" 747 154 1 4 
+"<Xml+End+name=label>" 1084 154 1 1 
+"<Xml+Begin+name=cell>" 296 234 1 21 
+"<Xml+End+name=cell>" 576 234 1 12 
+"<TOKEN>" 832 234 2 11 24 
+"$![" 533 234 1 9 
+"$]" 741 234 1 10 
+"<Xml+End+name=cell>" 1078 234 1 1 
+"<Xml+Begin+name=figDesc>" 279 295 1 22 
+"<Xml+End+name=figDesc>" 577 295 1 18 
+"<TOKEN>" 833 295 2 17 25 
+"$![" 534 295 1 15 
+"$]" 776 295 1 16 
+"<Xml+End+name=figDesc>" 1079 295 1 1 
+":B" 475 154 1 5 
+":B" 470 234 1 11 
+":B" 478 295 1 17 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFigure}" 992 154 1 7 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFigure}" 977 234 1 13 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFigure}" 979 295 1 19 
+"/cell+figDesc+label" 385 537 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 736 527 0 

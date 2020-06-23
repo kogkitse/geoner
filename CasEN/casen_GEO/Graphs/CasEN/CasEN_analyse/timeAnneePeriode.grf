@@ -1,0 +1,94 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+74
+"<E>" 26 596 6 3 27 20 19 2 53 
+"" 1129 462 0 
+"à partir/{{" 68 233 1 71 
+":B" 85 596 1 13 
+"<E>" 460 277 2 8 5 
+"<nombre~1a31+lettre>/{" 489 222 1 24 
+"<E>/,.entity+time+date+abs+grftimeAnneePeriode}" 1092 462 1 1 
+":listPredeterminant" 903 462 1 52 
+"<nombre~1a31+chiffre>/{" 489 324 1 42 
+"et/{" 707 390 1 50 
+":listEtOu" 701 547 1 62 
+"<E>/,.range-mark}" 211 277 1 23 
+":tagTimeDet" 265 236 1 21 
+"<E>" 111 596 2 31 32 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 321 153 0 
+":listA" 807 263 1 36 
+"jusqu'/{" 734 221 1 15 
+"jusque/{" 746 169 1 36 
+":listDe" 156 197 1 11 
+":BB" 46 197 1 18 
+"depuis/{{" 84 277 1 11 
+"<E>" 347 277 2 22 4 
+":tagDebutFin" 368 242 1 4 
+"<E>" 241 277 2 21 12 
+"<E>/,.year}" 639 221 3 17 16 66 
+"<E>/,.range-mark}" 188 428 1 30 
+":tagTimeDet" 291 396 1 28 
+"entre/{{" 137 428 1 25 
+"<E>" 374 428 2 45 29 
+":tagDebutFin" 395 397 1 45 
+"<E>" 268 428 2 28 26 
+":tagTimeDet" 199 548 2 32 35 
+":tagDebutFin" 287 596 1 35 
+"<nombre~1a31+lettre>/{" 968 547 1 57 
+":tagDebutFin" 844 582 1 56 
+"<E>" 407 548 2 72 73 
+"<E>/,.range-mark}" 861 230 1 61 
+":tagDebutFin" 880 159 1 61 
+"<nombre~1a31+lettre>/{" 1006 230 1 44 
+":listA" 795 369 1 43 
+"jusqu'/{" 723 325 1 39 
+"jusque/{" 749 288 1 43 
+"<E>/,.year}" 643 325 3 41 40 67 
+"<E>/,.range-mark}" 847 343 1 70 
+"<E>/,.year}" 1226 343 2 7 52 
+"<E>" 481 428 2 47 46 
+"<nombre~1a31+lettre>/{" 508 390 1 48 
+"<nombre~1a31+chiffre>/{" 550 439 1 49 
+"<E>/,.year}" 662 390 1 9 
+"<E>/,.year}" 710 439 1 51 
+"<E>" 817 344 1 36 
+"et/{" 801 439 1 43 
+"<E>" 1048 462 1 6 
+"<nombre~1a31+chiffre>/{{" 240 668 1 54 
+"<E>/,.year}" 551 668 1 58 
+"<E>/,.year}" 653 547 1 10 
+"<E>" 937 547 1 33 
+"<E>/,.year}" 1171 547 2 7 52 
+":listEtOu" 644 668 1 63 
+":tagDebutFin" 824 710 1 60 
+"<E>" 939 668 1 64 
+":I" 916 230 2 37 38 
+":I" 806 547 2 34 56 
+":I" 760 668 2 60 59 
+"<nombre~1a31+chiffre>/{" 975 668 1 57 
+"Dans Etape, que des années en chiffre" 601 122 0 
+":B" 713 263 1 15 
+":B" 689 369 1 39 
+":tagDebutFin" 897 292 1 70 
+"<nombre~1a31+chiffre>/{" 1045 343 1 44 
+":I" 931 343 2 68 69 
+":listDe" 136 233 1 11 
+"<nombre~1a31+chiffre>/{" 394 621 1 54 
+"<nombre~1a31+lettre>/{" 479 547 1 55 

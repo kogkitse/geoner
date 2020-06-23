@@ -1,0 +1,73 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+53
+"<E>" 42 628 6 12 9 2 8 29 37 
+"" 1244 497 0 
+"à partir/{{" 108 220 1 15 
+"<num+1900a2099+lettre>/{" 341 165 1 10 
+"<E>/,.extent+1900a2099+1000a9999+1a9999+lettre+complexe+grftoolnumComplexe1000a9999}" 1140 349 1 1 
+"<E>/,.w+type=\"preposition\"}" 240 264 2 3 31 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 64 70 0 
+":listJusque+:listA" 621 165 1 13 
+":BB" 141 320 1 50 
+"depuis/{{" 124 264 1 5 
+"<E>/,.val}" 527 165 1 51 
+"<E>/,.w+type=\"preposition\"}" 215 502 2 38 22 
+"entre/{{" 164 502 1 11 
+"<E>/,.w+type=\"preposition\"}" 705 164 1 14 
+"<num+1900a2099+lettre>/{" 882 164 1 16 
+":listDe" 176 220 1 5 
+"<E>/,.val}" 1066 164 1 4 
+":listEtOu" 631 448 1 18 
+"<E>/,.w+type=\"preposition\"}" 701 448 1 19 
+"<num+1900a2099+lettre>/{" 879 448 1 20 
+"<E>/,.val}" 1063 448 1 4 
+":B" 586 448 1 17 
+"<num+1900a2099+chiffre>/{" 328 543 1 24 
+":listEtOu" 640 543 1 25 
+"<E>/,.val}" 521 543 1 28 
+"<E>/,.w+type=\"preposition\"}" 710 543 1 26 
+"<num+1900a2099+chiffre>/{" 886 543 1 27 
+"<E>/,.val}" 1081 543 1 30 
+":B" 595 543 1 23 
+"<num+1900a2099+chiffre>/{{" 224 628 1 46 
+"<E>/,.extent+1900a2099+1000a9999+1a9999+chiffre+complexe+grftoolnumComplexe1000a9999}" 1186 543 1 1 
+"<num+1900a2099+chiffre>/{" 327 264 1 33 
+":listJusque+:listA" 626 264 1 34 
+"<E>/,.val}" 515 264 1 52 
+"<E>/,.w+type=\"preposition\"}" 724 264 1 35 
+"<num+1900a2099+chiffre>/{" 896 264 1 36 
+"<E>/,.val}" 1086 264 1 30 
+"<num+1900a2099+lettre>/{{" 206 349 1 41 
+"<num+1900a2099+lettre>/{" 307 448 1 39 
+"<E>/,.val}" 505 448 1 21 
+"à" 557 390 1 42 
+"<E>/,.val}" 417 349 2 40 44 
+"<num+1900a2099+lettre>/{" 635 390 1 43 
+"<E>/,.val}" 833 390 2 44 4 
+":listEtOu" 544 319 1 42 
+"à" 623 669 1 47 
+"<E>/,.val}" 483 628 2 45 49 
+"<num+1900a2099+chiffre>/{" 789 669 1 48 
+"<E>/,.val}" 979 669 2 49 30 
+":listEtOu" 610 598 1 47 
+":listDe" 180 320 1 5 
+":B" 585 165 1 7 
+":B" 588 264 1 32 

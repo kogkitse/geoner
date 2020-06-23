@@ -1,0 +1,40 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+20
+"<E>" 23 308 1 7 
+"" 716 308 0 
+"<E>/,.date+quaero=\"abs\"+grftimeSiecle}" 644 308 1 1 
+":tagApresAn" 529 266 1 4 
+"<E>" 620 308 1 2 
+"<E>" 503 308 2 3 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 600 122 0 
+":B" 69 308 1 8 
+"<E>" 131 308 2 9 14 
+"<num+type=\"ordinal\">/{" 188 308 2 12 13 
+":listEtOu" 310 178 1 9 
+"<E>/,.gCentury}" 435 308 2 10 5 
+"<siècle>" 356 308 1 11 
+"<E>/,.gCentury}" 218 178 1 10 
+"<num+type=\"ordinal\"+romain>/{" 189 523 2 17 18 
+":listEtOu" 348 389 1 14 
+"<E>/,.gCentury}" 450 523 2 15 5 
+"s." 390 523 1 16 
+"<E>/,.gCentury}" 256 389 1 15 
+"/Pour reconnâitre+<sc>iv</sc><sup>e</sup>-<sc>v</sc><sup>e</sup> s." 193 592 0 

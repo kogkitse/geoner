@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1188 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 58 289 1 5 
+"" 622 289 0 
+"<A>/{" 406 289 1 3 
+"<E>/,.w+type=\"adjective\"}" 504 289 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 598 88 0 
+"$![" 205 289 1 6 
+"<DET>+<PREP>+<ADV>+est+par+pour+<A+Toponyme>+<N+Toponyme>+<A+Ethnonyme>+<N+Ethnonyme>" 234 289 1 7 
+"$]" 362 289 1 2 

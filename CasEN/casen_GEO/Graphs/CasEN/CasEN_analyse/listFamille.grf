@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 99 431 5 8 10 2 26 27 
+"" 954 500 0 
+"<époux.N:s>+gendre+mari+pacsé+pacsée+parrain+<veuf>+bru+femme+marraine+soeur+sœur+frère+fils+fille" 275 738 1 11 
+"grand" 509 236 3 4 17 25 
+"-" 594 236 2 17 25 
+"arrière" 213 294 2 6 20 
+"-" 274 255 1 20 
+"frère+soeur+sœur" 638 431 1 14 
+"<demi.A:s>+<beau.A:s>+<grand.A:s>+<petit.A:s>+semi" 474 431 2 9 7 
+"-" 581 406 1 7 
+"<beau.N:s>" 480 663 2 15 16 
+"<E>" 755 738 1 14 
+"<cadet.N:s>+<aîné.N:s>+<puîné.N:s>" 558 529 1 14 
+"frère+soeur+sœur" 456 569 1 12 
+"<E>" 912 500 1 1 
+"fils+père+fille+mère+papa+maman+frère+soeur+sœur" 638 663 1 14 
+"-" 588 641 1 15 
+"papi+papy+mamie+mamy+pépé+mémé+daddy+maman+papa+oncle+père+mère+tante" 691 122 1 14 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 954 757 0 
+"<cousin.N:s>" 707 294 1 14 
+"<E>" 305 294 2 5 24 
+"<petit>" 482 357 3 22 23 25 
+"fils+fille" 660 357 1 14 
+"-" 594 336 2 22 25 
+"<E>" 422 294 3 3 21 25 
+"<E>" 646 294 1 19 
+"<E>" 166 122 3 17 5 24 
+"<E>" 367 529 2 12 13 

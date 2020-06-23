@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1392 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 71 200 2 2 4 
+"" 707 200 0 
+"<millilitre>+<centilitre>+<décilitre>+<litre>+<décalitre>+<hectolitre>+ml+cl+dl+dal+hl+<stère>+<baril>" 342 199 1 1 
+"l est ambigüe avec l'" 445 98 0 
+":listMetre+m" 321 345 1 5 
+"³+<cube>+#3+#<3>" 399 345 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 625 89 0 

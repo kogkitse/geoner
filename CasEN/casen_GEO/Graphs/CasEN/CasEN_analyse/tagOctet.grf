@@ -1,0 +1,31 @@
+﻿#Unigraph
+SIZE 1188 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+":B" 70 199 4 2 3 6 4 
+"" 529 250 0 
+"ko+Mo+Go+To+<<(kilo|méga|giga|téra|k|m|g|t)(octet|octets)>>" 144 139 1 9 
+"kilo+méga+téra" 151 259 2 4 5 
+"octet+octets+bit+bits+byte+bytes" 239 241 1 9 
+"-" 211 269 1 4 
+"kb+Mb+Gb+Tb+<<(kilo|méga|giga|téra|k|m|g|t)(bit|bits|byte|bytes)>>" 148 339 1 9 
+"o et b sont trop ambigus" 44 57 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 486 77 0 
+"<E>/,.unit}" 500 248 1 1 
+

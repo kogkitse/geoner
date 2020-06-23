@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 73 326 1 6 
+"" 1027 326 0 
+"de" 192 363 2 3 10 
+"l'+cette+la même+cette même/{" 255 401 1 8 
+"année/{" 557 401 1 7 
+":tagDateSuivante" 686 326 1 9 
+"<E>" 160 326 3 2 5 14 
+"<E>/,.w+type=\"noun\"}" 615 401 2 5 9 
+"<E>/,.w+type=\"determiner\"}" 344 401 1 4 
+"<E>" 887 326 1 1 
+"ce+ce même/{" 260 255 1 13 
+"mois/{" 542 161 1 12 
+"<E>/,.w+type=\"noun\"}" 600 161 1 5 
+"<E>/,.w+type=\"determiner\"}" 329 161 1 11 
+"du+du même/{" 247 161 1 13 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1031 69 0 

@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 88 211 4 2 6 7 12 
+"" 695 211 0 
+"par l'intermédiaire+en compagnie+dans le cadre+au fond+sous la garde/{" 253 406 1 5 
+"/intermédiaire est une profession" 281 181 0 
+"<E>/,.PREP+grftagPolylexicalPrep}" 602 211 1 1 
+":listDe" 465 406 1 4 
+"du jour au lendemain/{" 312 211 1 4 
+"dans le fond/{" 239 294 1 9 
+":listDeLe" 409 294 1 10 
+"$![" 369 294 1 8 
+"$]" 498 294 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 605 376 0 
+"dans le cadre/{" 195 82 1 13 
+":listDeLe" 407 82 1 14 
+"<E>/,.PREP+dansLeCadre+grftagPolylexicalPrep}" 544 82 1 1 
+"/pour utilisation dans les funder" 725 63 0 

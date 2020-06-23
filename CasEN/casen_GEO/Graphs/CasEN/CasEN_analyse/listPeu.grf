@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1392 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 113 235 3 3 7 11 
+"" 625 235 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 513 88 0 
+"un" 172 235 4 4 6 8 7 
+"petit" 277 177 1 8 
+"chouia+poil+instant+moment" 399 235 1 1 
+"tout" 204 177 1 4 
+"peu" 374 351 2 1 9 
+"<E>" 339 235 2 5 7 
+"de" 460 351 1 10 
+"temps" 520 351 1 1 
+"très+infiniment" 197 351 1 7 

@@ -1,0 +1,14 @@
+0000000001
+-1 dateGenerique
+: 3 1 
+: 4 2 
+: 2 3 
+: 1 4 
+t 
+f 
+%<E>
+%<E>/+grfdateGenerique}
+%gYear/,.date
+%$/{
+%G
+f

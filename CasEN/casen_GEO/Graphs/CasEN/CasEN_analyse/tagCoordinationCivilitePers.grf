@@ -1,0 +1,42 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+22
+"<E>" 44 233 1 21 
+"" 1435 233 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 363 90 0 
+":tagNomFamille" 1026 233 1 13 
+":tagTitreNobiliaireS" 290 278 1 8 
+":tagCiviliteS+:tagFonctionUniversitaire" 177 182 1 8 
+":tagCiviliteNobiliaireS" 131 233 2 4 8 
+"/<listPerson>+<person><roleName type=\"honorific\">Monsieur</roleName></person>+ et +<person><roleName type=\"honorific\">Madame</roleName> <persName>Chirac</persName></person>+</listPerson>" 422 398 0 
+"<E>" 427 233 2 19 20 
+":patternIncludePersName" 1078 147 1 1 
+":B" 985 233 1 3 
+"<E>/${2}$" 954 147 1 9 
+"<E>/${1}$" 941 233 1 10 
+"<E>/,.persName+tagCoordinationCivilitePers}" 1160 233 1 1 
+"<E>" 539 233 2 16 17 
+":tagTitreNobiliaireS" 756 278 1 18 
+":tagCiviliteS+:tagFonctionUniversitaire" 651 175 1 18 
+":tagCiviliteNobiliaireS" 597 233 2 15 18 
+"<E>" 893 233 2 12 11 
+":listEtOu" 465 233 1 14 
+":listEtOu" 203 80 1 21 
+"<E>" 91 233 2 5 6 

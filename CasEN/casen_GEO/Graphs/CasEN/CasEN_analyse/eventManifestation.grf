@@ -1,0 +1,71 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+51
+"<E>" 25 535 4 5 2 7 11 
+"" 1366 535 0 
+"Biennale+Colloque+concile+Conférence+Congrès+Exposition+Festival+Foire+Forum+Fête+Journées+Meeting+Mondial+Rassemblement+Rencontres+Réunion+Salon+Sommet/{{" 81 535 1 4 
+"<E>/,.event+grfeventManifestation}" 1137 535 1 1 
+"<E>/,.w+type=\"noun\"+kind}" 201 535 2 9 44 
+"<N+Fête>/{" 79 718 1 6 
+"<E>/,.event+feast+grfeventManifestation}" 361 718 1 1 
+"<sommet>+<débat>/{{" 78 221 1 10 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1084 712 0 
+":tagFinOrg" 375 535 1 3 
+"<E>/,.w+type=\"noun\"+kind}" 158 221 1 15 
+"procès/{{" 85 360 1 30 
+":tagNomFamilleDe" 423 221 1 20 
+"-" 986 221 1 24 
+":tagJuniorAlias" 672 185 1 13 
+"<E>" 273 221 2 18 19 
+":patternIncludePersName" 762 132 1 13 
+":B" 357 221 2 12 31 
+"<E>/${2}$" 407 132 1 16 
+"<E>/${1}$" 308 221 1 17 
+"<E>/,.persName+eventManifestation}" 566 221 1 13 
+":tagNomFamilleDe" 1144 221 1 29 
+"<E>" 1506 221 1 34 
+":tagJuniorAlias" 1342 193 1 22 
+"<E>" 1024 221 2 27 28 
+":patternIncludePersName" 1282 132 1 22 
+":B" 1108 221 1 21 
+"<E>/${2}$" 1158 132 1 25 
+"<E>/${1}$" 1059 221 1 26 
+"<E>/,.persName+eventManifestation}" 1278 221 2 23 22 
+"<E>/,.w+type=\"noun\"+kind}" 156 360 1 36 
+":tagNomFamilleDe" 400 185 1 32 
+"<E>/,.persName+eventManifestation}" 567 185 1 14 
+":tagNomFamilleDe" 457 360 1 41 
+"<E>" 1020 360 1 3 
+":tagJuniorAlias" 706 324 1 34 
+"<E>" 307 360 2 39 40 
+":patternIncludePersName" 796 271 1 34 
+":B" 391 360 2 33 42 
+"<E>/${2}$" 441 271 1 37 
+"<E>/${1}$" 342 360 1 38 
+"<E>/,.persName+eventManifestation}" 600 360 1 34 
+":tagNomFamilleDe" 434 324 1 43 
+"<E>/,.persName+eventManifestation}" 601 324 1 35 
+"sur/{" 314 447 1 45 
+"<E>/,.w+type=\"preposition\"}" 357 447 1 46 
+":listLe" 406 447 2 47 49 
+"<N>/{" 655 447 1 48 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 723 447 1 3 
+"<A>/{" 482 401 1 50 
+"<E>/,.w+type=\"adjective\"+quaero=\"qualifier\"}" 550 401 1 47 

@@ -1,0 +1,40 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+20
+"<E>" 56 287 4 9 12 14 17 
+"" 1097 287 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 989 74 0 
+"<E>/,.num+type=\"cardinal\"+chiffre+grftoolNombreChiffres}" 817 287 1 1 
+":patternChiffres" 168 287 4 3 5 7 18 
+"<millier>+<million>+<milliard>+<billion>+<trillion>+<quatrillion>" 398 222 2 6 11 
+"<E>/,.num+type=\"cardinal\"+mixte+grftoolNombreChiffres}" 678 222 1 1 
+"<centième>+<millième>+<millionième>+<milliardième>" 447 96 1 8 
+"<E>/,.num+type=\"ordinal\"+mixte+grftoolNombreChiffres}" 571 96 1 1 
+"<E>" 247 55 1 10 
+":tagNombreChiffres" 675 55 1 1 
+":patternChiffres" 526 190 1 6 
+":B" 113 287 1 4 
+"\/+sur" 386 344 1 15 
+"<NB>/{" 157 344 1 18 
+":patternChiffres+<NB>" 496 344 1 16 
+"<E>/,.num+type=\"fraction\"+chiffre+grftoolNombreChiffres}" 778 344 1 1 
+"⅓+⅔+⅕+⅖+⅗+⅘+⅙+⅚+⅛+⅜+⅝+⅞/{" 393 643 1 16 
+"<E>" 303 344 2 13 19 
+"¼+½+¾+⅓+⅔+⅕+⅖+⅗+⅘+⅙+⅚+⅛+⅜+⅝+⅞" 440 467 1 16 

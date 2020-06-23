@@ -1,0 +1,60 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+40
+"<E>" 46 493 2 19 35 
+"" 1138 493 0 
+"<E>/,.adress+grfadress}" 1045 493 1 1 
+":tagZoneIndustrielle" 423 365 2 33 2 
+":patternTelephone" 632 667 1 26 
+".+\:+. \:" 521 621 1 25 
+":tagAdresse" 818 493 1 2 
+"<E>/,.entity+loc+adm+town+grflocAdresse}" 1300 1018 0 
+"à la place+au passage+porte" 378 249 1 11 
+"expressions qui ne sont pas des débuts d'adresse la plupart du temps" 298 292 0 
+"en place" 510 175 1 13 
+":listDeLe" 478 249 1 14 
+"<E>" 229 249 3 8 10 36 
+"<E>" 822 249 1 1 
+":patternMin+:patternIncludeOrgName+:patternIncludePersName" 566 249 1 13 
+"<E>" 245 493 3 31 32 28 
+",+au" 733 456 1 6 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1203 260 0 
+"tél+tel+télc+telc+fax+<composer> le+<téléphoner> au+SMS au" 260 667 1 23 
+"<E>/${1}$" 94 493 2 15 20 
+"<E>" 125 667 3 18 21 27 
+"numéro+n°" 262 763 1 22 
+"d'urgence" 351 763 1 23 
+"<E>" 480 667 2 5 25 
+":tagVilleAmerique" 691 560 1 2 
+":B" 583 667 1 4 
+"<E>/,.adrLine+grfadress}" 821 667 1 1 
+":B" 318 560 1 24 
+":BB" 374 417 1 29 
+":patternIncludePlaceName" 420 417 1 30 
+"<E>/,.adrLine}" 585 417 1 33 
+":B" 388 365 1 3 
+":B" 388 493 1 34 
+"<E>" 643 417 2 16 34 
+"<E>" 692 493 1 6 
+"<E>/${2}$" 178 249 1 12 
+"sur" 352 116 2 37 38 
+"place" 438 116 1 13 
+"la place de" 413 71 1 39 
+"<placeName+type=\"settlement\">" 503 71 1 13 

@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1887 867
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 211 372 2 3 6 
+"" 661 251 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 706 102 0 
+"de" 293 251 1 4 
+"week-end en week-end+printemps en printemps+saison en saison+quadrimestre en quadrimestre+semestre en semestre+trimestre en trimestre+mois en mois+quinzaine en quinzaine+décade en décade+semaine en semaine+décennie en décennie+millénaire en millénaire+samedi en samedi+vendredi en vendredi+jeudi en jeudi+mercredi en mercredi+mardi en mardi+lundi en lundi+dimanche en dimanche+siècle en siècle" 380 251 1 1 
+"été en été+année en année+hiver en hiver+automne en automne" 465 498 1 1 
+"d'" 301 498 1 5 

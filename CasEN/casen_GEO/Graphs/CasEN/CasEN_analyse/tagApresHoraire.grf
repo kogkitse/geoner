@@ -1,0 +1,44 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+24
+"<E>" 94 542 2 10 7 
+"" 1364 542 0 
+"temps universel" 849 426 1 8 
+"heure/{" 730 542 1 19 
+"<N+Ville>/{" 944 542 1 13 
+"," 614 567 1 6 
+"<E>" 665 542 4 3 9 14 18 
+"<E>" 564 542 2 5 6 
+"<E>/,.w+type=\"modifier\"}" 1265 542 1 1 
+"en/{" 763 426 1 2 
+"<E>" 189 321 2 12 23 
+"<E>/,.w+type=\"modifier\"}" 722 321 2 7 1 
+"pile+<précis>/{" 320 403 1 11 
+"<E>/,.placeName+type=\"city\"}" 1026 542 1 8 
+"à l'heure/{" 726 594 1 19 
+":listDe" 851 542 1 4 
+"<A+Toponyme:fs>" 996 675 1 8 
+"pile+<précis>+<sonnant>" 581 268 1 11 
+"temps universel/{" 819 476 1 8 
+"<E>" 804 542 2 15 16 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 1191 110 0 
+":listPartieJournee" 415 321 2 17 11 
+":listDeLe" 331 265 1 21 
+":B" 265 321 2 22 21 

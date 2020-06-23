@@ -1,0 +1,1173 @@
+0000000046
+-1 product
+: -5 3 3 2 2 1 
+: -2 4 -3 4 
+: -6 4 
+: -4 5 
+t 
+: 1 6 
+: 3 2 2 1 
+f 
+-2 productMedia
+: -5 5 25 4 24 4 23 4 22 4 21 4 20 4 19 4 18 4 15 3 14 3 13 3 11 2 5 1 
+: 6 6 
+: 12 3 
+: 16 7 
+: 27 9 26 8 
+: -9 10 
+: 8 11 
+: -7 12 -10 12 
+: 3 14 2 13 
+: 28 8 
+: -11 16 4 15 
+: 9 17 
+: -5 5 
+: -5 18 
+: -13 16 
+t 
+: 4 15 
+: 7 19 
+: -12 20 
+: 10 21 
+: 29 16 
+: -7 22 
+: -8 23 -9 23 
+: 17 24 
+t -11 15 
+f 
+-3 productNameMedia
+: -5 5 36 4 32 3 31 3 15 2 14 2 13 2 11 1 
+: 12 2 
+: 16 6 
+: 3 8 2 7 
+: 26 9 
+: -8 11 -14 10 
+: -7 12 -10 12 
+: -5 13 
+: -7 14 
+: 37 15 
+: -7 17 -15 16 -16 16 -17 16 
+: -11 16 30 18 
+: -5 19 36 4 
+: -18 20 
+: -5 21 
+: 38 22 
+: 30 18 
+: -15 16 -16 16 -17 16 
+t 
+: -8 11 
+: -18 20 35 23 33 11 
+: -18 24 
+: 39 25 
+: 33 11 
+: -18 24 34 26 
+: 38 27 
+: -11 16 35 11 30 18 
+: 40 28 33 16 
+: 38 29 
+: 33 16 
+f 
+-4 tagEx
+: 43 1 42 1 41 1 
+: 46 3 44 2 
+: 45 4 
+t 
+: 44 5 
+: 46 3 
+f 
+-5 B
+: 48 2 47 1 
+: 48 2 
+t 
+f 
+-6 productDico
+: 59 5 56 4 55 4 54 3 51 2 49 1 
+: 50 6 
+: 52 7 
+: 53 7 
+: 57 7 
+: 58 7 
+: 58 7 26 8 
+t 
+: -5 9 
+: 3 11 2 10 
+: -5 12 
+: -13 13 
+: -12 14 
+: 61 5 
+: 60 13 
+f 
+-7 listDeLe
+: 63 3 62 3 27 2 26 1 
+t 65 2 64 3 
+: 28 3 
+t 
+f 
+-8 tagChaine
+: 3 2 2 1 
+: -5 4 77 3 76 3 75 3 74 3 73 3 
+: 72 5 71 5 
+: -19 6 
+: -19 7 
+: 3 6 2 8 
+: 78 10 70 9 69 9 68 9 67 9 66 9 
+: 70 9 69 9 68 9 67 9 66 9 
+: -19 9 44 11 
+: 78 10 
+t 
+: 79 12 
+: 44 13 
+: -19 9 
+f 
+-9 tagEmission
+: 90 4 89 3 88 3 87 3 86 3 84 2 83 1 82 1 81 1 80 1 
+: 10 5 
+: 26 6 
+: -7 7 10 5 
+: -20 9 10 8 
+t 
+: 85 1 
+: 100 1 99 1 98 1 97 1 
+t 95 10 94 10 
+: 27 12 26 11 
+: 96 5 
+: 93 13 
+: 28 14 
+: 10 8 
+: 92 13 91 13 
+f 
+-10 listALe
+: 103 2 102 1 101 1 
+t 
+t 65 3 64 1 
+: 28 1 
+f 
+-11 tagFinOrg
+: -7 4 106 3 105 3 8 3 3 2 2 1 
+: -5 5 
+: -13 7 -21 8 -22 8 -23 8 -24 7 -25 7 104 6 
+: -26 9 
+: -5 13 118 12 117 12 116 12 115 12 109 11 107 10 3 2 2 1 
+: -19 6 
+: 114 7 
+t -7 15 -21 8 -22 8 -23 8 111 14 
+t -7 15 111 14 
+: 3 2 2 1 
+: 108 16 
+: 110 16 
+: 119 16 
+: -27 17 -28 12 
+: -5 20 109 19 107 18 
+: -5 13 118 12 117 12 116 12 115 12 109 11 107 10 
+t 
+: 113 16 
+: 108 21 
+: 110 21 
+: -27 22 
+: 112 16 
+: 113 21 
+f 
+-12 tagNomFamille
+: -5 3 -29 1 121 2 120 1 
+: -5 3 
+: 122 4 
+: -30 5 
+: 123 6 
+: -30 5 124 8 44 7 
+: 44 9 
+: 45 10 28 10 
+t -29 11 
+: 28 10 
+: 44 3 
+: -5 12 
+: -30 13 
+: -30 13 124 15 44 14 
+: 45 16 28 16 
+t 
+: 44 12 
+f 
+-13 patternIncludePersName
+: 128 0 127 1 126 1 
+t 125 1 
+f 
+-14 tagSiteInternet
+: 136 3 131 2 130 1 129 1 
+: 135 5 134 5 133 5 10 4 
+: 135 5 134 5 133 5 132 1 
+: 135 5 5 6 
+t 
+: 10 4 
+: 137 5 
+f 
+-15 eventManifestation
+: 161 4 160 3 159 3 157 2 155 1 154 1 153 1 152 1 151 1 150 1 149 1 148 1 147 1 146 1 145 1 144 1 143 1 142 1 141 1 140 1 139 1 138 1 
+: 10 5 
+: 158 6 
+: 10 7 
+: 10 8 
+: -11 10 163 9 
+t 
+: 3 12 2 11 
+: 3 14 2 13 
+: 164 15 
+: 156 6 
+: -5 16 
+: -13 17 
+: -5 18 
+: -13 10 
+: -26 19 
+: -31 20 
+: 45 8 
+: -31 21 
+: 167 23 165 22 
+: 162 24 
+: 162 25 
+: 166 10 
+: 168 26 
+: -32 17 45 8 
+: -32 10 156 6 
+: 165 22 
+f 
+-16 eventManifestationSportive
+: 195 11 193 10 192 4 191 4 190 9 189 8 187 7 185 6 184 4 182 5 181 4 180 4 179 4 178 4 177 4 174 3 172 2 171 1 170 1 
+: 199 12 
+: 173 1 
+: 63 14 62 13 
+: 10 15 
+: 45 16 
+: 186 4 
+: 188 4 
+: 26 16 
+: 62 17 10 15 
+: 199 12 194 11 27 18 
+: 199 12 27 18 
+: 169 19 
+: 175 1 
+: 176 1 
+: -7 24 -20 24 -33 12 205 23 202 22 198 21 169 19 63 20 
+: 183 4 
+: 201 13 
+: 28 25 
+t 
+: 176 12 
+: 200 26 
+: 199 27 
+: 44 28 
+: -33 12 205 23 202 22 169 19 63 20 
+: 197 1 196 1 
+: -7 24 -20 24 -33 12 205 23 202 22 169 19 63 20 
+: 204 29 203 29 169 19 63 20 
+: 206 30 45 30 
+: 96 31 
+: 44 32 
+: 169 19 63 20 
+: 205 12 
+f 
+-17 eventGuerre
+: 232 3 229 2 213 1 212 1 211 1 210 1 209 1 208 1 207 1 
+: 10 4 
+: 10 5 
+: 96 6 
+: -7 10 -20 10 -34 10 228 8 227 8 226 8 225 8 224 8 222 9 221 8 220 8 216 7 105 7 
+: -7 10 -20 10 -34 10 231 8 230 8 216 7 105 7 
+: 233 2 
+: -13 11 -24 11 -26 12 -35 11 
+: 96 13 
+: 45 14 
+: -35 11 
+: 218 15 
+: -13 11 -24 11 -35 11 
+: -7 10 -20 10 -34 10 216 7 105 7 
+: 223 8 
+t 
+f 
+-18 patternMajMinTiret
+: 121 1 
+: 234 2 
+: 235 3 234 3 
+: 235 3 234 3 123 4 45 1 
+t 
+f 
+-19 patternNomMixte
+: -30 1 -37 1 237 1 236 1 
+t 44 2 
+: 239 4 238 4 79 3 45 3 28 3 
+: 44 5 
+t 
+: -30 1 -37 1 240 1 237 1 236 1 
+f 
+-20 listDe
+: 63 1 62 1 27 2 26 1 
+t 
+: 28 1 
+f 
+-21 tagAdjectifGeoPolitique
+: -22 2 275 1 274 1 273 1 272 1 271 1 270 1 269 1 268 1 267 1 266 1 265 1 264 1 263 1 262 1 261 1 260 1 259 1 258 1 257 1 256 1 255 1 254 1 253 1 252 1 251 1 250 1 249 1 248 1 247 1 246 1 245 1 244 1 243 1 242 1 241 1 225 1 224 1 221 1 
+: -22 4 96 3 
+: 275 1 274 1 273 1 272 1 271 1 270 1 269 1 268 1 267 1 266 1 265 1 264 1 263 1 262 1 261 1 260 1 259 1 258 1 257 1 256 1 255 1 254 1 253 1 252 1 251 1 250 1 249 1 248 1 247 1 246 1 245 1 244 1 243 1 242 1 241 1 225 1 224 1 221 1 
+t 
+: 96 3 
+f 
+-22 tagDemonym
+: -5 3 -39 2 287 1 
+: 288 4 
+t -38 0 
+: -40 5 
+: 289 6 
+: 283 8 282 8 281 8 280 8 45 7 
+: 295 9 294 9 293 9 292 9 291 9 290 9 279 8 278 8 277 8 276 8 
+: 283 8 282 8 281 8 280 8 
+: 284 2 
+: 96 2 
+f 
+-23 tagOrganisationEtranger
+: -5 3 332 1 331 1 330 1 329 1 328 1 327 2 326 1 325 1 324 1 323 1 322 1 321 1 320 1 319 1 
+: -19 6 318 5 316 5 300 5 299 5 45 4 
+: 309 1 
+: -19 7 -41 1 
+: 317 8 
+: -19 6 318 5 316 5 300 5 299 5 298 11 297 10 296 10 199 9 45 4 
+: -19 6 318 5 316 5 300 5 299 5 298 11 297 10 296 10 199 9 45 4 28 12 
+: -19 17 -41 1 318 1 316 1 315 5 314 5 313 5 312 5 311 5 310 16 309 5 308 5 307 5 306 5 305 5 304 5 303 5 302 5 300 15 299 15 298 11 297 10 296 10 45 14 28 13 
+: 45 5 
+t 
+: 199 9 
+: 79 10 
+: 301 5 
+: 301 1 
+: 317 18 
+: -19 6 318 5 316 5 300 5 299 5 298 11 297 10 296 10 45 4 
+: 309 5 
+: 28 13 
+: 45 1 
+f 
+-24 patternIncludeOrgName
+: 335 1 334 2 333 1 128 0 
+t 125 1 
+: 333 1 
+f 
+-25 patternSaint
+: 337 3 336 2 64 1 
+: 339 4 
+: 288 6 45 5 
+: 45 7 
+: -7 8 
+: 288 6 
+: -7 8 45 9 
+: 338 4 
+: -18 11 45 10 
+: -7 8 288 6 
+: -18 11 
+t 
+f 
+-26 listLe
+: 340 1 65 2 64 1 9 1 
+t 
+: 28 1 
+f 
+-27 patternVille
+: 344 3 3 2 2 1 
+: -5 4 
+: -5 6 341 5 
+t 240 7 
+: -42 8 -43 8 
+: 342 3 44 9 
+: -30 10 
+t 
+: 342 3 
+: 45 11 
+: 44 12 
+: 44 13 
+: 45 14 
+: 3 4 2 15 
+: 44 16 
+: -30 8 
+: 343 8 
+f 
+-28 patternPointCardinal
+: 354 2 353 3 352 2 351 2 350 2 349 2 347 2 346 1 345 1 
+t 348 2 347 2 45 4 
+t 
+: 348 2 347 2 346 2 345 2 45 5 
+: 348 2 347 2 
+: 348 2 347 2 346 2 345 2 
+f 
+-29 tagParticule
+: 367 1 366 2 365 1 364 1 363 1 362 1 361 1 360 1 359 1 358 1 357 1 356 1 355 1 
+: 370 3 
+: 370 3 369 1 368 1 
+t 
+f 
+-30 patternMajMin
+: 121 1 
+: 234 2 
+: 235 3 234 3 
+: 235 3 234 3 123 4 
+t 
+f 
+-31 tagNomFamilleDe
+: -5 3 -29 2 121 1 
+: 122 4 
+: -5 5 
+: -7 7 -30 6 
+: 123 8 
+: -30 6 
+: 371 10 44 9 
+: 372 2 
+: 44 11 
+: 45 12 28 12 
+t -5 14 -29 13 
+: 28 12 
+: 44 5 
+: -5 15 
+: -7 16 
+: -30 17 
+: 372 13 
+: 371 19 44 18 
+: 45 20 28 20 
+t 
+: 44 15 
+f 
+-32 tagJuniorAlias
+: -5 1 
+: -44 3 -45 2 
+: -44 3 373 4 
+: 373 4 
+t 
+f 
+-33 patternToponymeToponyme
+: 381 9 380 8 379 7 378 6 377 5 376 4 375 3 3 2 2 1 
+: -5 10 
+: -5 11 
+: 107 12 
+: 109 13 
+: 341 14 
+: 107 15 
+: 109 16 
+: 341 17 
+: -5 18 
+: -30 14 
+: -30 13 
+: 108 19 
+: 110 20 
+: 374 21 
+: 108 22 
+: 110 23 
+: 374 24 
+: -30 12 
+: 44 25 
+: 44 26 
+: 44 27 
+: 44 28 
+: 44 29 
+: 44 30 
+: 206 31 45 31 
+: 206 32 45 32 
+: 206 33 45 33 
+: 206 34 45 34 
+: 206 35 45 35 
+: 206 36 45 36 
+: 44 37 
+: 44 38 
+: 44 39 
+: 44 40 
+: 44 41 
+: 44 42 
+: 107 43 
+: 109 44 
+: 341 45 
+: -5 46 
+: -5 47 
+: -5 48 
+: 108 49 
+: 110 49 
+: 374 49 
+: -30 43 
+: -30 44 
+: -30 45 
+t 
+f 
+-34 listEnLe
+: 5 1 
+t 340 2 65 3 64 2 
+t 
+: 28 2 
+f 
+-35 patternIncludePlaceName
+: 384 1 383 2 382 1 128 0 
+t 125 1 
+: 382 1 
+f 
+-36 patternMin
+: 121 1 
+: 235 2 
+: 235 2 123 3 
+t 
+f 
+-37 patternMaj1
+: 121 1 
+: 234 2 
+: 123 3 
+t 
+f 
+-38 listEtOu
+: 392 4 391 1 390 1 389 1 386 3 385 2 45 1 
+t 79 5 
+t 206 6 79 5 
+t 388 1 387 7 79 5 
+t 392 1 391 1 390 1 389 1 386 3 385 2 79 5 45 1 
+: 79 8 
+: 386 1 
+t 388 1 79 5 
+: 79 9 
+t 
+f 
+-39 patternPFXPhone
+: 121 1 
+: 393 2 
+: 395 3 394 3 
+: 123 4 
+: 96 5 
+t 
+f 
+-40 patternPrefixeToponyme
+: 397 1 396 2 348 1 347 1 346 1 345 1 98 1 
+t 45 3 
+t 396 2 45 4 
+t 
+: 396 2 
+f 
+-41 listOrgEtranger
+: 466 1 465 1 464 1 463 1 462 1 461 1 460 1 459 1 458 1 456 3 455 1 454 1 453 1 452 1 451 1 450 1 449 1 448 1 447 1 446 1 445 1 444 1 443 1 442 1 441 1 440 1 439 1 438 1 437 1 436 1 435 1 434 1 433 1 432 1 431 1 430 1 429 1 428 1 427 1 426 1 425 1 424 1 423 1 422 1 421 1 420 1 419 1 418 1 417 1 416 1 415 1 414 2 413 1 412 1 411 1 410 1 409 1 408 1 407 1 406 1 405 1 404 1 403 1 402 1 401 1 400 1 399 1 398 1 
+t 
+: 79 1 
+: 45 4 
+: 457 1 
+f 
+-42 patternNomVille
+: 3 2 2 1 
+: -46 3 
+: 482 4 481 4 480 4 479 4 478 4 477 4 476 4 475 4 474 4 473 4 472 4 471 4 470 4 469 4 468 4 467 4 315 4 
+t 
+: -30 6 44 5 
+: 45 7 
+t 485 10 484 8 483 8 206 8 44 9 8 8 
+: 44 11 
+: -30 3 44 12 
+: 45 13 
+: -30 3 206 8 44 12 
+: -30 6 
+: 45 14 
+: 44 15 
+: 44 16 
+: 485 10 484 8 483 8 206 8 8 8 
+: -30 3 
+f 
+-43 patternLeNomVille
+: 489 2 488 1 487 1 486 1 
+: -30 4 44 3 
+: 28 1 
+: 45 5 
+: 485 8 484 6 483 6 206 6 44 7 8 6 
+: 44 9 
+: -30 11 44 10 
+: 45 12 
+: -30 11 206 6 44 10 
+: -30 4 
+: 45 13 
+t 
+: 44 14 
+: 44 15 
+: 485 8 484 6 483 6 206 6 8 6 
+: -30 11 
+f 
+-44 tagAlias
+: 494 2 493 2 492 2 491 2 490 2 392 1 
+: 494 2 493 2 492 2 491 2 490 2 
+: -5 4 495 3 
+: -45 6 496 5 
+: -18 3 
+t 
+: 496 5 
+f 
+-45 tagJunior
+: 514 3 500 2 499 2 498 1 497 1 
+: 505 5 79 4 
+: 505 5 
+: 517 6 516 6 515 6 79 6 
+: 505 7 
+t 
+: 513 8 512 8 511 8 510 8 509 8 
+: 508 9 
+: 289 10 
+: 507 11 
+: 518 12 
+: 289 5 
+: 504 13 503 13 502 13 501 13 
+: 505 14 
+: 506 15 
+: 63 11 27 11 26 11 
+f 
+-46 patternNomVilleFin
+: 121 1 
+: 234 2 
+: 235 3 234 3 
+: 534 5 533 5 532 5 531 5 530 5 529 5 528 5 527 5 526 5 525 5 524 5 523 5 522 5 521 5 520 5 519 5 235 3 234 3 45 4 
+: 123 6 
+: 123 7 
+: 485 11 484 8 483 8 206 8 64 10 9 9 8 8 
+t 
+: 44 12 
+: 45 13 
+: 45 14 
+: 206 8 44 12 
+: 45 15 
+: 539 7 538 16 536 16 
+: 537 16 535 16 
+: 44 17 
+t 9 18 
+: -30 7 
+: 45 19 
+: 539 7 
+f 
+%<E>
+%<E>/,.preInclude}
+%<E>/${1}$
+%<E>/${2}$
+%<E>/,.product+type="media"+grfprodMedia}
+%en
+%direct
+%plateau/{{
+%sur
+%le
+%<E>/,.w+type="noun"+kind}
+%<envoyé>/{
+%<spécial>
+%<éditorialiste>/{
+%<journaliste>/{
+%<reporter>/{
+%<E>/,.roleName+type="office"+grfprodMedia}
+%<E>/,.placeName+fac+grfprodMedia}
+%<album>/{
+%<dique>/{
+%<livre>/{
+%<oeuvre>/{
+%<peinture>/{
+%<sculture>/{
+%<single>/{
+%<tableau>/{
+%de
+%d
+%'
+%<E>/,.person+grfprodMedia}
+%<E>/,.productName+type="media"+grfprodMedia}
+%codex/{
+%papyrus/{
+%<E>/,.name}
+%<E>/,.place}
+%<num+romain>
+%journal/{
+%<val>/{{
+%<E>/,.erase}
+%<measure>/{
+%<val>/{
+%vice/{
+%ex/{
+%sous/{
+%#
+%-
+%<E>/,.w+type="prefix"}
+@ 
+%#/{
+%<N+Oeuvre>/{{
+%<E>/,.title}
+%<N+Pensee>/{
+%<E>/,.productName+type="doctrine"+grfproductDico}
+%<E>/,.productName+type="vessel"+grfproductDico}
+%<N+Vaisseau>/{
+%<N+Objet>/{
+%<N+Ergonym>/{
+%<E>/,.productName+type="object"+grfproductDico}
+%<E>/,.productName+type="product"+grfproductDico}
+%<N+Produit>/{
+%<E>/,.person}
+%<E>/,.author}
+%des
+%du
+%la
+%l
+%FM
+%Radio
+%Channel
+%TV
+%télé
+%<N+Chaine+TV>/{
+%<N+Ergonyme+Media>/{
+%FM/{
+%Radio/{
+%Channel/{
+%TV/{
+%télé/{
+%<E>/,.orgName+media+tagChaine}
+%.
+%<documentaire>/{
+%<hebdo>/{
+%<bimensuel>/{
+%<écho>/{
+%<revue>/{
+%presse
+%<chronique>/{
+%<journal>/{
+%<gazette>/{
+%<bulletin>/{
+%<magazine>/{
+%information
+%info
+%télévision
+%<spécialisé>/{
+%<télévisé>/{
+%<E>/,.w+type="adjective"}
+%matin
+%midi
+%soir
+%nuit
+%au
+%aux
+%à
+%<N+Commerce>/{
+%contre
+%pour
+%<N+Toponyme+Pays~Hum>/{
+%<E>/,.country}
+%<N+Toponyme+Region~Hum>/{
+%<E>/,.region}
+%(
+%)
+%<E>/,.settlement}
+%<E>/,.w+type="noun"+quaero="name"+grftagFinOrg}
+%<oriental>/{
+%<septentrionnal>/{
+%<occidental>/{
+%<méridional>/{
+%<E>/,.offset}
+%De
+%$<
+%<UPPER>/{
+%$>
+%<E>/,.surname+grftagNomFamille}
+%<postInclude>
+%<persName>
+%<listPers>
+%<preInclude>
+%<blog>/{
+%<forum>/{
+%<site>/{
+%<forum>
+%internet
+%intranet
+%web
+%<service>/{
+%ligne
+%Biennale/{{
+%Colloque/{{
+%concile/{{
+%Conférence/{{
+%Congrès/{{
+%Exposition/{{
+%Festival/{{
+%Foire/{{
+%Forum/{{
+%Fête/{{
+%Journées/{{
+%Meeting/{{
+%Mondial/{{
+%Rassemblement/{{
+%Rencontres/{{
+%Réunion/{{
+%Salon/{{
+%Sommet/{{
+%<E>/,.event+grfeventManifestation}
+%<N+Fête>/{
+%<E>/,.event+feast+grfeventManifestation}
+%<sommet>/{{
+%<débat>/{{
+%procès/{{
+%<E>/,.persName+eventManifestation}
+%sur/{
+%<E>/,.w+type="preposition"}
+%<N>/{
+%<E>/,.w+type="noun"+quaero="name"}
+%<A>/{
+%<E>/,.w+type="adjective"+quaero="qualifier"}
+%<E>/,.event+grfeventManifestationSportive}
+%mondial/{{
+%euro/{{
+%copa/{{
+%america
+%coupe/{{
+%nations
+%monde
+%Internationaux/{{
+%championnat/{{
+%critérium/{{
+%cross/{{
+%decathlon/{{
+%demi/{{
+%finale
+%marathon/{{
+%match/{{
+%amical
+%matches/{{
+%amicaux
+%quart/{{
+%tournoi/{{
+%triathlon/{{
+%trophée/{{
+%jeux/{{
+%olympiques
+%JO/{{
+%hiver
+%été
+%<num+1a9999>/{
+%<E>/,.w+type="noun"+name}
+%<E>/,.time+abs}
+%<nombre+0a9>
+%<N+Sport>/{
+%<masculin>/{
+%<féminin>/{
+%<orgName+sport>
+%/
+%guérilla/{{
+%combat/{{
+%conflit/{{
+%lutte/{{
+%révolte/{{
+%hostilités/{{
+%révolution/{{
+%campagne/{
+%militaire
+%avec
+%lutte/{
+%<E>/,.event+guerre+grfeventGuerre}
+%pouvoir
+%<armée>/{
+%<révolutionnaire>/{
+%contre/{
+%<révolutionnaire>
+%<islamique>/{
+%<militaire>/{
+%<terroriste>/{
+%<djihadiste>/{
+%<rouge>/{
+%guerre/{{
+%<mondial.N:f>/{
+%<civil.N:f>/{
+%<num+type=\"ordinal\">/{{
+%guerre/{
+%<UPPER>
+%<LOWER>
+%<sigleNum>
+%<vieuxSigle>
+%®
+%©
+%<num>
+%<autonome>/{
+%<central>/{
+%<confédéral>/{
+%<constitutionnel>/{
+%<démocratique>/{
+%<départemental>/{
+%<économique>/{
+%<extérieur>/{
+%<intérieur>/{
+%<fédéral>/{
+%<impérial>/{
+%<indépendant>/{
+%<interieur>/{
+%<interministériel>/{
+%<international>/{
+%<interrégional>/{
+%<intercommunal>/{
+%<légal>/{
+%<local>/{
+%<loyaliste>/{
+%<national>/{
+%<mixte>/{
+%<mondial>/{
+%<municipal>/{
+%<officiel>/{
+%<politique>/{
+%<populaire>/{
+%<présidentiel>/{
+%<religieux>/{
+%<régional>/{
+%<républicain>/{
+%<royal>/{
+%<supérieur>/{
+%<territorial>/{
+%<universel>/{
+%<A+Toponyme>/{
+%<A+Ethnonyme~Religion>/{
+%<N+Hum+Toponyme>/{
+%<N+Ethnonyme~Religion>/{
+%<A+Toponyme>
+%<A+Ethnonyme~Religion>
+%<N+Hum+Toponyme>
+%<N+Ethnonyme~Religion>
+%<E>/,.w+type="adjective"+demonym}
+%pro
+%anti
+%$![0
+%<N+Prenom>
+%$]
+%<A+Ethnonyme+Religion>/{
+%<N+Ethnonyme+Religion>/{
+%<noir>/{
+%<blanc>/{
+%<A+PartiPolitique>/{
+%<N+PartiPolitique>/{
+%Cie
+%Co
+%Corp
+%&
+%and
+%s
+%British
+%Deutsche
+%Deutsch
+%American
+%European
+%Center
+%Society
+%school
+%business
+%university
+%college
+%institute
+%hochschule
+%New
+%the
+%i
+%of
+%British/{
+%Deutsche/{
+%Deutsch/{
+%American/{
+%European/{
+%Center/{
+%Society/{
+%school/{
+%business/{
+%university/{
+%college/{
+%institute/{
+%hochschule/{
+%the/{
+%<orgName>
+%<org>
+%<listOrg>
+%saint
+%Notre
+%Dame
+%Vierge
+%les
+%<N+Toponyme+Ville~Hum>/{
+%<E>/,.placeName+type="settlement"+grftagVille}
+%<N+Toponyme+Ville~Hum>
+%<placeName+type=\"settlement\">
+%nord
+%sud
+%ouest
+%est
+%north
+%south
+%west
+%east
+%centre
+%Est
+%ad/{
+%ben/{
+%bin/{
+%da/{
+%di/{
+%do/{
+%don/{
+%el/{
+%al/{
+%mac/{
+%mc/{
+%van/{
+%von/{
+%den
+%der
+%<E>/,.nameLink+grftagParticule}
+%<E>/,.surname+grftagNomFamilleDe}
+%<E>/,.nameLink}
+%<E>/,.postInclude}
+%<E>/,.city}
+%<E>/${9}$
+%<E>/${8}$
+%<E>/${7}$
+%<E>/${6}$
+%<E>/${5}$
+%<E>/${4}$
+%<E>/${3}$
+%<placeName>
+%<place>
+%<listPlace>
+%et
+%ou
+%bien
+%encore
+%voire
+%puis
+%enfin
+%,
+%<PFX+Toponyme>/{
+%phone
+%phones
+%<PFX+Toponyme>
+%outre
+%Bank
+%Banca
+%Banco
+%Bros
+%Brother
+%Consulting
+%Communications
+%Communication
+%Company
+%Computers
+%Corporation
+%Credit
+%Engineering
+%Foundation
+%Group
+%Holding
+%Inc
+%Aero
+%Aerolineas
+%Air
+%Association
+%Agency
+%Airways
+%Board
+%Bill
+%Club
+%Congress
+%Council
+%Department
+%Dept
+%District
+%Fund
+%Federation
+%Institute
+%International
+%Labs
+%Land
+%Movement
+%Office
+%Organisation
+%Project
+%Research
+%Securities
+%System
+%Systems
+%United
+%Band
+%Opera
+%Theater
+%Ltd
+%Limited
+%Management
+%Media
+%Motors
+%Oil
+%Products
+%Sites
+%Software
+%Stock
+%Exchange
+%Task
+%Technologies
+%Technology
+%Telekom
+%Telefonica
+%Telefon
+%Trade
+%Trust
+%Food
+%Ville
+%Port
+%Château
+%Saint
+%St
+%Ste
+%Stes
+%Saintes
+%Las
+%Los
+%San
+%Santiago
+%Santo
+%Saõ
+%Sao
+%Puerto
+%lès
+%sous
+%ss
+%La
+%Le
+%Les
+%L
+%alias
+%dite
+%<appeler.V:K>
+%<nommer.V:K>
+%<surnommer.V:K>
+%<persName>/{
+%<E>/,.addName+grftagAlias}
+%jr/{
+%sr/{
+%junior/{
+%senior/{
+%fils/{
+%père/{
+%fille/{
+%mère/{
+%<E>/,.genName+grftagJunior}
+%$![1
+%<baliseXml+nomDs>
+%$![2
+%<A>
+%<DET>
+%<PREP>
+%<CONJS>
+%<CONJC>
+%$![3
+%:
+%!
+%?
+%<TOKEN>
+%berg
+%borough
+%bourg
+%burgh
+%burgo
+%caster
+%city
+%dorf
+%grad
+%ham
+%shima
+%shire
+%stad
+%stadt
+%town
+%york
+%nouvelle
+%nouveau
+%neuve
+%neuf
+%château
+f

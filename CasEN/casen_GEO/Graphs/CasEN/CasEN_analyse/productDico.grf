@@ -1,0 +1,43 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+23
+"<E>" 116 522 5 9 8 5 12 3 
+"" 1034 522 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 177 130 0 
+"<N+Oeuvre>/{{" 233 308 1 4 
+"<E>/,.title}" 341 308 2 13 14 
+"<N+Pensee>/{" 311 596 1 6 
+"<E>/,.productName+type=\"doctrine\"+grfproductDico}" 445 596 1 1 
+"<E>/,.productName+type=\"vessel\"+grfproductDico}" 449 522 1 1 
+"<N+Vaisseau>/{" 315 522 1 7 
+"<N+Objet>+<N+Ergonym>/{" 328 729 1 10 
+"<E>/,.productName+type=\"object\"+grfproductDico}" 483 729 1 1 
+"<E>/,.productName+type=\"product\"+grfproductDico}" 464 429 1 1 
+"<N+Produit>/{" 336 429 1 11 
+"<E>/,.productName+type=\"product\"+grfproductDico}" 890 308 1 1 
+"de" 379 230 1 20 
+"<E>/${1}$" 518 230 1 22 
+"<E>/${2}$" 527 165 1 19 
+":tagNomFamille" 593 230 1 18 
+"<E>/,.person}" 706 230 1 21 
+":patternIncludePersName" 558 165 1 21 
+":B" 445 230 2 16 15 
+"<E>/,.author}" 780 230 1 13 
+":B" 556 230 1 17 

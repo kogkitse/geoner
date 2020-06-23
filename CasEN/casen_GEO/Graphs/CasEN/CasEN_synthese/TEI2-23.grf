@@ -1,0 +1,44 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+24
+"<E>" 239 279 6 3 2 4 12 14 22 
+"" 1056 278 0 
+"dix+10/10" 605 213 1 1 
+":TEI11-19" 592 278 1 1 
+"vingt/2" 510 363 3 5 7 11 
+"et" 642 349 2 6 8 
+"un+une/1" 776 308 1 1 
+"-" 606 389 2 5 11 
+"-" 724 349 1 6 
+"deux/2" 756 385 1 1 
+"trois/3" 733 452 1 1 
+"<E>" 637 452 2 9 10 
+"<E>" 467 112 1 13 
+"vingt/20" 693 112 1 1 
+"2" 484 544 4 15 16 17 19 
+"1/21" 589 494 1 18 
+"2/22" 592 544 1 18 
+"3/23" 593 599 1 18 
+"<E>" 707 544 1 1 
+"0/20" 589 443 1 18 
+":TEI2-9" 604 142 1 1 
+"zéro+0" 549 186 1 20 
+"<E>/0" 508 142 2 21 20 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 44 512 0 

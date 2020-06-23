@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 70 217 2 3 7 
+"" 624 217 0 
+"<E>/,.forename+grftagPrenom}" 581 217 1 1 
+"<N+Prenom>/{" 192 217 2 2 5 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 471 91 0 
+"#-#" 338 288 1 6 
+":patternMajMinTiret" 408 288 1 2 
+":B" 185 362 1 8 
+":patternMajMinTiret" 242 362 1 9 
+"#-#" 391 362 1 10 
+"<N+Prenom>" 458 362 1 2 
+"/ne pas mettre 2 prénoms qui se suivent sans tirets, risque de ne pas trouver le nom de famille" 96 429 0 

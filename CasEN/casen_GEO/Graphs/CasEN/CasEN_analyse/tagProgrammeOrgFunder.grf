@@ -1,0 +1,66 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10027008
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+46
+"<E>" 43 376 1 20 
+"" 1806 331 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1420 99 0 
+"<orgName>/{{" 431 453 1 4 
+"<E>/,.erase}" 527 453 1 9 
+"<orgName>/{{" 1127 589 1 6 
+"<E>/,.erase}" 1223 589 1 14 
+"(" 1088 589 1 5 
+":patternNomMixte" 414 539 1 9 
+"<E>/,.orgName+type=\"funder\"+grftagProgrammeOrgFunder}" 606 539 2 24 17 
+"(" 1091 683 1 13 
+")" 1679 683 1 24 
+":patternNomMixte" 1191 683 1 14 
+":B" 1132 683 1 12 
+"<E>/,.orgName+type=\"funder\"+grftagProgrammeOrgFunder}" 1322 683 1 11 
+"<E>/${2}$" 354 453 1 3 
+"<E>/${1}$" 322 539 1 36 
+"<E>" 967 683 2 18 19 
+"<E>/${2}$" 1032 589 1 7 
+"<E>/${1}$" 1023 683 1 10 
+"<programme>+<convention>+<appel> d'offre" 84 376 1 29 
+":patternNomMixte" 910 332 2 22 33 
+":listEtOu" 933 263 1 21 
+":listDeLe" 257 539 2 16 15 
+"<E>" 1726 331 1 1 
+"<E>" 810 376 2 32 35 
+":listDe" 415 311 2 27 42 
+"action+coopération+échange+recherche" 500 311 1 40 
+"<scientifique>+<national>+:tagDemonym" 255 318 1 30 
+"<E>" 210 376 2 28 30 
+"<E>" 365 376 2 26 25 
+"scientifique+<structurant.A:s>+:tagDemonym" 634 254 1 41 
+"<E>" 1250 375 1 34 
+"<E>/,.orgName+type=\"funder\"+grftagProgrammeOrgFunder}" 1032 332 2 38 39 
+"<E>" 203 432 1 23 
+":B" 860 332 1 21 
+":B" 373 539 1 8 
+"/Nous sommes redevables au programme d’échange Lai franco québèquois pour la mise en oeuvre de cette recherche. " 416 77 0 
+":tagDemonym" 1082 284 1 39 
+"<E>" 1184 332 2 32 24 
+"<E>" 598 311 2 31 41 
+"<E>" 765 311 1 25 
+"lutte" 481 156 1 45 
+":listLe" 633 156 1 44 
+"<N>+<!DIC>" 706 156 1 25 
+"pour+contre" 545 156 1 43 

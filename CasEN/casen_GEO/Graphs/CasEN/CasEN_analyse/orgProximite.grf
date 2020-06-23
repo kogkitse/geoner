@@ -1,0 +1,40 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+20
+"<E>" 86 374 4 4 8 12 18 
+"" 1096 241 0 
+"<E>/,.org+type=\"local\"+quaero=\"ent\"+grforgProximite}" 551 241 1 1 
+":tagAdmin+:tagAnimalerie+:tagArtisan+:tagBoutique+:tagCabinet+:tagEcole+:tagGarage+:tagHopital+:tagHotel+:tagLoisir+:tagUniversite" 228 241 1 2 
+":B" 144 374 3 3 14 6 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 1057 158 0 
+":listOrgRecherche" 287 454 1 19 
+"<E>" 570 604 1 19 
+"Académie/{" 183 604 2 9 11 
+":listDe" 271 604 1 10 
+"arts+beaux arts+beaux-arts+langues+lettres+médecine+pharmacie+sciences+technologies" 353 604 1 7 
+"française" 349 492 1 7 
+"<fédération>/{" 224 93 1 13 
+"<E>/,.org+type=\"voluntary\"+quaero=\"ent\"+grforgProximite}" 511 93 1 1 
+":tagRecherche" 202 374 2 2 15 
+":listDeLe" 324 374 1 16 
+":tagUniversite+:listOrgRecherche" 403 374 1 19 
+"<amicale>+<association>/{" 404 34 1 13 
+"<DET>+<PREPDET>" 180 34 1 17 
+"<E>/,.orgName+type=\"institution\"+quaero=\"ent\"+grforgProximite}" 603 374 1 1 

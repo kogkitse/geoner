@@ -1,0 +1,46 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+26
+"<E>" 145 429 2 4 2 
+"" 1174 429 0 
+"<num+0a59+chiffre>/{" 210 429 1 8 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 137 135 0 
+"et/{" 196 378 1 15 
+":tagMinutesUnit" 445 396 2 6 1 
+"<E>" 367 300 2 16 17 
+":tagSecondesUnit" 640 262 2 1 14 
+"<E>/,.gMinute}" 414 429 2 5 1 
+"<E>/,.gSeconde}" 608 300 2 1 7 
+":tagDixiemesUnit" 928 183 3 1 22 23 
+"<E>/,.gTenth}" 903 215 2 1 10 
+":tagCentiemesUnit" 1158 243 1 1 
+"<E>/,.gHundredth}" 1119 243 2 1 12 
+"<E>" 658 215 2 19 20 
+"<num+0a59+chiffre>" 236 378 1 8 
+"<num+0a59+chiffre>+¼+½+¾/{" 406 300 1 9 
+"et/{" 391 203 1 18 
+"<num+0a59+chiffre>+¼+½+¾" 431 203 1 9 
+"<num+0a9+chiffre>/{" 721 215 1 11 
+"et/{" 703 157 1 21 
+"<num+0a9+chiffre>" 743 157 1 11 
+"<num+0a99+chiffre>/{" 1091 183 1 25 
+"et/{" 1080 124 1 24 
+"<num+0a99+chiffre>" 1120 124 1 25 
+"<E>" 1291 183 1 13 

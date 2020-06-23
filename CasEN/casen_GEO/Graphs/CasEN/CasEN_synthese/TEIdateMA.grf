@@ -1,0 +1,76 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+56
+"<E>" 62 109 1 3 
+"" 1313 579 0 
+"/<date><gMonth>décembre</gMonth> <gYear>1998</gYear></date>" 246 47 0 
+"\<_date\>" 140 109 2 4 41 
+"\<_gMonth\>" 123 235 1 10 
+"\<\/_gMonth\>" 319 235 1 7 
+"$![" 278 235 1 5 
+"$]" 438 235 1 8 
+"<TOKEN>" 486 235 2 6 11 
+"\<\/_gMonth\>" 628 235 2 12 54 
+"$gMonth(" 238 235 1 6 
+"$gMonth)" 587 235 1 9 
+"<E>" 1145 235 1 13 
+"\<_gYear\>" 126 484 1 19 
+"\<\/_gYear\>" 322 484 1 16 
+"$![" 281 484 1 14 
+"$]" 441 484 1 17 
+"<TOKEN>" 495 484 2 15 20 
+"\<\/_gYear\>" 638 484 2 21 43 
+"$gYear(" 241 484 1 15 
+"$gYear)" 596 484 1 18 
+"\<\/_date\>" 1114 484 1 22 
+"<E>/<_date when=\"$gYear$-$gMonth$-\">" 133 640 1 31 
+"$]" 460 109 1 24 
+"<TOKEN>" 511 109 2 25 42 
+"$![" 286 109 1 26 
+"\<_gDayName\>+\<_gDay\>+\<_gMonth\>+\<_gYear\>+\<\/_date\>" 327 109 1 23 
+"$]" 932 429 1 28 
+"<TOKEN>" 983 429 2 29 44 
+"$![" 783 429 1 30 
+"\<\/_date\>" 824 429 1 27 
+"<E>" 394 640 2 32 39 
+"<E>/$avant.UNSET$" 468 640 1 33 
+"<E>/$gMonth$" 661 640 2 46 47 
+"<E>/ $gYear$" 993 579 2 35 37 
+"<E>/$apres.UNSET$" 1099 579 1 36 
+"<E>/</_date>" 1264 579 1 1 
+"<E>/$apres.SET$" 1105 654 1 38 
+"<E>/ $apres$" 1213 654 1 36 
+"<E>/$avant.SET$" 467 704 1 40 
+"<E>/$avant$ " 583 704 1 33 
+"$avant(" 246 109 1 25 
+"$avant)" 612 109 1 4 
+"$apres(" 743 429 1 29 
+"$apres)" 1084 429 1 21 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 30 345 0 
+"<E>/$entre.UNSET$" 776 579 1 49 
+"<E>/$entre.SET$" 780 640 1 48 
+"<E>/ $entre$" 896 640 1 49 
+"<E>" 938 579 1 34 
+"\<_gYear\>+\<\/_date\>" 839 164 1 52 
+"$![" 798 164 1 50 
+"$]" 958 164 1 53 
+"<TOKEN>" 1007 164 2 51 55 
+"$entre(" 758 164 1 51 
+"$entre)" 1108 164 1 12 

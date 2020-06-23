@@ -1,0 +1,88 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+68
+"<E>" 36 261 2 44 57 
+"" 1409 131 0 
+"\</{" 222 40 2 27 35 
+"\<\//{" 255 199 1 32 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 719 285 0 
+"<E>/$nameSpace.SET$" 755 71 1 28 
+"<E>/$nameSpace.UNSET$" 941 131 1 7 
+"<E>/+grftoolXml}" 1250 131 1 1 
+"/<!--Version 1.2 générée le 1-4-2016-->" 361 616 0 
+"\<!--/{" 242 566 1 12 
+"--\>" 371 566 1 13 
+"<TOKEN>" 490 566 2 12 14 
+"$![" 331 566 1 10 
+"$]" 435 566 1 11 
+"--\>" 607 566 1 21 
+"\<?/{" 255 675 1 18 
+"?\>" 384 675 1 19 
+"<TOKEN>" 503 675 2 18 20 
+"$![" 344 675 1 16 
+"$]" 448 675 1 17 
+"?\>" 620 675 1 21 
+"<E>/,.Xml+BeginEnd" 739 566 1 67 
+"/<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>" 282 717 0 
+"/https://xmlwriter.net/resources/xml_guide.shtml" 816 683 0 
+"\<![/{" 270 771 1 41 
+"\>" 380 40 1 26 
+"<E>/,.Xml+Begin" 431 40 1 29 
+":patternXml" 280 40 1 25 
+"<E>/+nameSpace=$nameSpace$" 918 71 1 7 
+"<E>/+name=$name$" 675 131 2 5 6 
+"\>" 417 199 1 31 
+"<E>/,.Xml+End" 468 199 1 29 
+":patternXml" 317 199 1 30 
+"\/\>" 409 131 1 34 
+"<E>/,.Xml+BeginEnd" 460 131 1 29 
+":patternXml" 309 131 1 33 
+"/<image height=\"32\" width=\"32\"/>" 250 163 0 
+"/<image height=\"32\" width=\"32\">" 299 93 0 
+"/</image>" 321 232 0 
+"]]\>" 370 771 1 42 
+"<TOKEN>" 453 771 2 43 41 
+"$![" 330 771 1 39 
+"$]" 416 771 1 40 
+"]]\>" 576 771 1 21 
+"<E>/${2}$" 146 566 5 9 15 45 46 24 
+"\<!DOCTYPE/{" 223 486 1 49 
+"\<![CDATA[/{" 230 411 1 54 
+"]\>" 393 486 1 50 
+"<TOKEN>" 512 486 2 49 51 
+"$![" 353 486 1 47 
+"$]" 457 486 1 48 
+"]\>" 629 486 1 21 
+"]]\>" 397 411 1 55 
+"<TOKEN>" 516 411 2 54 56 
+"$![" 357 411 1 52 
+"$]" 461 411 1 53 
+"]]\>" 633 411 1 21 
+"<E>/${1}$" 112 131 3 2 3 58 
+"\<!/{" 238 305 1 61 
+"\>" 355 305 1 62 
+"<TOKEN>" 474 305 2 61 63 
+"$![" 315 305 1 59 
+"$]" 419 305 1 60 
+"\>" 615 305 1 21 
+"/<!ENTITY % final \"IGNORE\">" 300 341 0 
+"/<![%draft;[<!ELEMENT book (title,author,summary)>]]>" 302 819 0 
+"/<!DOCTYPE foo [<!--define the internal DTD--><!ELEMENT foo (#PCDATA)><!--close the DOCTYPE declaration-->]>" 679 723 0 
+"<E>/+name=$name$" 893 566 1 7 

@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11294209
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 279 411 2 7 9 
+"" 1289 411 0 
+"<E>/,.date+quaero=\"rel\"+grftimeDateCalendaireRelative}" 1110 411 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1274 198 0 
+":tagFinDateRelative" 937 411 1 2 
+":tagNumJourMois+:tagJourMois+:tagJour+:tagNumJour+:tagNumJourNumMois" 688 411 1 4 
+":tagAvantJour" 516 373 1 8 
+":tagLeCem" 348 380 1 9 
+"<E>" 635 411 1 5 
+":B" 459 411 2 6 8 

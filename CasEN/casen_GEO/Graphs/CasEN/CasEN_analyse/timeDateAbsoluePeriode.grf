@@ -1,0 +1,98 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+78
+"<E>" 26 432 7 3 2 20 21 31 57 55 
+"" 1579 396 0 
+"à partir/{{" 53 46 1 58 
+":B" 84 432 1 16 
+"<E>" 464 125 2 5 7 
+"<date+quaero=\"abs\">" 525 71 1 75 
+"<E>/,.datePeriod+quaero=\"abs\"+grftimeDateAbsoluePeriode}" 1284 396 2 72 1 
+"<num+1a31>+<type=\"ordinal\"+1a1>+un+une/{{" 500 154 1 25 
+"et/" 835 261 1 42 
+"<date+quaero=\"abs\">" 527 261 1 8 
+"<num+1a31>+<type=\"ordinal\"+1a1>+un+une/{{" 534 337 1 36 
+":listEtOu" 1002 701 1 13 
+"<date+quaero=\"abs\">" 446 430 1 40 
+"<E>" 881 499 2 50 51 
+"<E>/,.w+type=\"preposition\"}" 147 125 1 62 
+":tagTimeDet" 273 88 1 22 
+"<E>" 112 433 4 39 37 52 38 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 1441 78 0 
+":listA" 873 71 1 24 
+":listDe" 132 191 1 14 
+":BB" 80 191 1 19 
+"depuis/{{" 76 125 1 14 
+"<E>" 357 125 2 23 4 
+":tagDebutFin" 378 90 1 4 
+"<E>/,.w+type=\"preposition\"}" 967 71 1 42 
+"<E>/,.gDay}" 648 154 1 59 
+":listLe" 203 83 1 27 
+"<E>" 250 125 2 22 15 
+"<E>" 474 280 2 9 10 
+"<E>/,.w+type=\"preposition\"}" 149 280 1 63 
+":tagTimeDet" 283 243 1 32 
+"entre/{{" 98 280 1 29 
+"<E>" 367 280 2 33 28 
+":tagDebutFin" 388 245 1 28 
+":listLe" 209 237 1 35 
+"<E>" 260 280 2 32 30 
+"<E>/,.gDay}" 682 337 1 65 
+":tagTimeDet" 220 382 2 38 53 
+":tagDebutFin" 311 433 1 53 
+":listLe" 141 329 2 37 53 
+"<E>" 761 499 2 61 60 
+"<date+quaero=\"abs\">" 1109 261 1 6 
+"<E>" 887 261 3 41 44 45 
+":tagDebutFin" 1000 199 1 41 
+":listLe" 920 203 1 45 
+"<E>" 973 216 2 43 41 
+"<num+1a31>+<type=\"ordinal\"+1a1>+un+une/{{" 430 498 1 47 
+"<E>/,.gDay}" 577 499 1 67 
+"<date+quaero=\"abs\">" 1076 499 2 11 6 
+":tagDebutFin" 983 537 1 48 
+":listLe" 906 537 1 51 
+"<E>" 958 499 2 49 48 
+":listLe" 201 475 1 38 
+"<E>" 408 385 2 12 46 
+"<E>" 529 644 1 40 
+"<num+1a31>+<type=\"ordinal\"+1a1>+un+une/{{{" 225 644 1 56 
+"<E>/,.gDay}" 385 644 1 66 
+"<date+quaero=\"abs\">/{" 190 540 1 54 
+":listDe" 113 46 1 14 
+"<E>/,.date+quaero=\"abs\"}" 695 154 1 75 
+":listALe" 799 499 1 13 
+":listEtOu" 799 441 1 13 
+"<E>" 180 125 2 27 26 
+"<E>" 178 280 2 34 35 
+":B" 805 71 2 18 76 
+"<E>/,.date+quaero=\"abs\"}" 738 337 1 8 
+"<E>/,.date+quaero=\"abs\"}" 450 644 1 54 
+"<E>/,.date+quaero=\"abs\"}" 628 499 1 40 
+":listPredeterminant" -302 -102 1 70 
+":B" -333 -102 1 68 
+"<E>/,.postInclude+quaero=\"time-modifier\"}" -168 -102 0 
+":listPredeterminant" 1369 337 1 73 
+":B" 1338 337 1 71 
+"<E>/,.postInclude+quaero=\"time-modifier\"}" 1503 337 1 1 
+"et" 773 30 1 77 
+"<E>" 730 71 2 74 64 
+":listJusque" 865 30 1 24 
+":B" 822 30 1 76 

@@ -1,0 +1,58 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+38
+"<E>" 47 364 4 4 5 13 15 
+"" 1427 364 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 1222 146 0 
+"<E>/,.productName+type=\"media\"+grfprodMedia}" 1353 364 1 1 
+":B" 430 621 1 9 
+"<envoyé> <spécial>+<éditorialiste>+<journaliste>+<reporter>/{" 164 274 1 7 
+":listDeLe+:listALe" 352 274 1 13 
+"<E>/,.roleName+type=\"office\"+grfprodMedia}" 292 274 1 6 
+":tagChaine" 650 364 1 11 
+":tagSiteInternet" 500 621 2 10 14 
+":listDeLe" 638 579 1 14 
+"<E>" 1207 364 2 3 12 
+":tagFinOrg" 1248 320 1 3 
+"<E>" 450 364 2 28 35 
+":eventManifestation+:eventManifestationSportive+:eventGuerre" 750 621 1 3 
+"codex+papyrus/{" 191 180 2 16 19 
+"<E>/${1}$" 310 98 1 26 
+":patternMajMinTiret" 479 98 3 17 18 27 
+"<E>/,.name}" 811 98 1 11 
+"<E>/${2}$" 321 180 1 20 
+":listDeLe" 395 180 1 21 
+":B" 467 180 1 22 
+":patternMajMinTiret" 520 180 2 22 23 
+"<E>/,.place}" 643 180 1 24 
+"<E>" 685 180 2 11 25 
+"<num+romain>" 729 180 1 11 
+":B" 393 98 1 17 
+"<num+romain>" 665 49 1 18 
+"journal/{" 515 465 1 29 
+"de" 585 465 1 30 
+"<val>/{{" 627 465 1 34 
+"<E>/,.erase}" 866 465 2 32 36 
+"<E>/,.name}" 1011 465 1 3 
+"<measure>/{" 774 465 1 31 
+"<E>/,.erase}" 696 465 1 33 
+":B" 592 364 1 8 
+"<val>/{" 891 398 1 37 
+"<E>/,.erase}" 960 398 1 32 

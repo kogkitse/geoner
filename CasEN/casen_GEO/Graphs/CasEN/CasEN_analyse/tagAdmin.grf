@@ -1,0 +1,44 @@
+#Unigraph
+SIZE 1872 899
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+24
+"<E>" 38 472 5 7 11 2 17 22 
+"" 807 472 0 
+"<préfecture>+sous-<préfecture>/{" 127 199 2 3 5 
+"listDeLe" 280 145 1 4 
+"arrondissement+région" 370 145 1 5 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 509 199 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 855 91 0 
+"<trésorerie>+<administration>/{" 185 639 1 8 
+"<E>/,.w+type=\"noun\"+kind}" 330 639 1 9 
+"<municipal>+<départemental>+<régional>+<communal>/{" 488 639 1 10 
+"<E>/,.w+type=\"adjective\"}" 624 639 1 1 
+"<bibliothèque>+<blanchisserie>+<cafétéria>+<cantine>+<cité>+<restaurant>/{" 123 472 1 12 
+"<E>/,.w+type=\"noun\"+kind}" 240 472 4 13 15 16 9 
+"<interadministratif.N:f>+<interjudiciaire>/{" 398 472 1 14 
+"<E>/,.w+type=\"adjective\"}" 563 472 1 1 
+"<administratif.N:f>+<judiciaire>+<hospitalier.N:f>+<pénitentiaire>/{" 406 387 1 14 
+"-" 333 387 1 15 
+"<centre>/{" 136 293 2 18 12 
+"<E>/,.w+type=\"noun\"+kind}" 223 293 1 19 
+":listDe" 289 293 1 20 
+"impôts+impots+pompiers/{" 389 293 1 21 
+"<E>/,.w+type=\"noun\"+name}" 490 293 1 1 
+"<académie>/{" 192 758 1 23 
+"<E>/,.w+type=\"noun\"+kind}" 663 758 1 1 

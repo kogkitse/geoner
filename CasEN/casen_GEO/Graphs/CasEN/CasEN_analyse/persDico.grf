@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1887 867
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 47 352 2 5 17 
+"" 966 352 0 
+"<N+Celebrite~Pseudo>/{" 510 352 1 3 
+"<E>/,.persName+grfpersDico}" 723 352 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1207 324 0 
+"$![" 158 352 1 6 
+"<saint>+en" 203 352 1 7 
+"$]" 286 352 1 16 
+"<N+Celebrite+Pseudo>/{" 517 446 1 9 
+"<E>/,.persName+type=\"nickname\"+grfpersDico}" 731 446 1 1 
+"<N+Ethnonyme><<^[ABCDEFGHIJKLMNOPQRSTUVWXYZ]>>_f_/{" 413 193 1 11 
+"<E>/,.persName+type=\"demonym\"+grfpersDico}" 845 193 1 1 
+"<N+Pseudo-anthroponyme>/{" 514 533 1 13 
+"<E>/,.persName+type=\"pseudoAnthroponyme\"+grfpersDico}" 725 533 1 1 
+"<N+Dynastie>/{" 514 268 1 15 
+"<E>/,.name+type=\"dynasty\"+grfpersDico}" 725 268 1 1 
+"<TOKEN>" 321 352 4 14 2 8 12 
+"$![" 149 193 1 18 
+"<N>" 194 193 1 19 
+"$]" 277 193 1 20 
+"<TOKEN>" 312 193 1 10 

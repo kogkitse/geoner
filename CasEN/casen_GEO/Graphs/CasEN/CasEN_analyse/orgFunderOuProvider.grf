@@ -1,0 +1,107 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10027008
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+87
+"<E>" 13 385 3 7 8 22 
+"" 1804 385 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1533 101 0 
+":listEtOu+ainsi que+ainsi qu'" 397 172 3 30 6 35 
+":tagOrgFunder+:tagProgrammeOrgFunder+:tagProjetOrgFunder" 765 385 6 9 3 31 38 45 84 
+"<E>" 1506 385 2 1 85 
+"<E>" 394 385 3 27 28 83 
+"gratitude+<remerciement>" 69 564 2 23 33 
+"<remercier>" 129 385 2 13 36 
+"pour" 939 385 1 11 
+"/pour sa contribution à la recherche, ainsi qu'à l'Institut indo-canadien Shastri pour son soutien financier" 156 15 0 
+"<DET>" 1031 376 3 12 15 50 
+"financement" 1305 376 1 5 
+"<E>" 290 385 2 6 14 
+":listLe" 335 312 1 6 
+"aide+contribution+couverture+participation+soutien" 1143 459 1 16 
+"<financier>" 1288 468 1 5 
+":tagOrgProvider" 845 719 5 18 54 57 76 78 
+"pour" 973 719 1 19 
+"<DET>" 1047 719 2 20 24 
+"aide+contribution+fourniture+participation+soutien" 1297 719 1 56 
+"/Nous sommes redevables au programme d’échange Lai franco québèquois pour la mise en oeuvre de cette recherche. " 218 48 0 
+"<redevable>" 71 463 1 23 
+":listALe" 307 463 1 6 
+"<mettre.V:K>" 1123 654 1 63 
+"en" 1249 654 1 26 
+"oeuvre+œuvre" 1341 654 1 56 
+"<E>" 705 385 1 4 
+":patternRoleOuPersonneRole" 443 335 1 29 
+":listDeLe+:listALe" 626 335 1 27 
+":listDeLe+:listALe+:listLe" 543 172 1 6 
+"," 275 172 1 3 
+"/Ma gratitude va également à Monsieur Hubert, Directeur au C.E.A.N. qui a bien voulu mettre à notre disposition" 954 30 0 
+"<aller.V>" 201 564 2 23 34 
+"<ADV>" 303 564 2 23 34 
+"<ADV>" 470 112 2 35 30 
+"<ADV>" 220 335 2 36 13 
+"/je remercie vivement le Directeur de l'<orgName>Institut des Sciences Nucléaires</orgName> pour les subsides accordées" -23 74 0 
+":patternQuiAVpp+:patternPourAvoirVpp" 941 303 2 72 75 
+"financé" 1140 231 1 5 
+"aidé+contribué+participé+soutenu" 1126 303 2 41 49 
+"financièrement" 1221 303 1 5 
+"à" 1250 604 2 43 44 
+"<DET>" 1281 580 1 44 
+"disposition" 1342 604 1 56 
+":patternQuiAVppVinf+:patternPourAvoirVppVinf" 938 203 2 51 60 
+"financer" 1280 203 1 5 
+"aider+contribuer+participer+soutenir" 1222 145 2 48 53 
+"financièrement" 1317 145 1 5 
+"le+au" 1226 357 1 12 
+"bouse+subsides+subvention" 1267 418 1 5 
+"<E>" 1151 203 3 47 46 74 
+"financement" 1368 91 1 5 
+"le+au" 1314 91 1 52 
+":patternQuiAVpp+:patternPourAvoirVpp" 957 656 1 73 
+"aidé+contribué+fourni+participé+soutenu" 1167 565 1 56 
+"<E>" 1496 565 1 1 
+":patternQuiAVppVinf+:patternPourAvoirVppVinf" 965 766 2 59 61 
+"aider+contribuer+fournir+participer+soutenir" 1390 766 1 56 
+":listDe" 1129 740 1 61 
+":listDe" 1098 160 1 51 
+"<E>" 1181 766 2 58 62 
+"mettre" 1294 824 1 64 
+"<E>" 1214 655 2 42 25 
+"<E>" 1474 824 2 65 67 
+"en" 1520 824 1 66 
+"oeuvre+œuvre" 1612 824 1 70 
+"à" 1521 762 2 68 69 
+"<DET>" 1552 738 1 69 
+"disposition" 1613 762 1 70 
+"<E>" 1718 762 1 1 
+"/Nous remercions les Laboratoires Stallergènes® qui nous ont fourni gracieusement" 881 54 0 
+"<E>" 1078 303 2 39 40 
+"<E>" 1089 654 2 55 24 
+"fournir" 1205 91 1 53 
+"fourni" 1133 357 1 49 
+":listEtOu+ainsi que+ainsi qu'" 580 518 3 77 79 83 
+":listDeLe+:listALe+:listLe" 726 518 1 83 
+"," 492 518 1 76 
+"<ADV>" 653 458 2 79 77 
+"<E>" 797 719 1 17 
+":patternRoleOuPersonneRole" 526 673 1 82 
+":listDeLe+:listALe" 709 673 1 80 
+"<E>" 480 719 2 80 81 
+"<PREP+dansLeCadre>" 771 468 1 4 
+"<PREP+dansLeCadre>" 1548 294 1 86 
+":tagProgrammeOrgFunder+:tagProjetOrgFunder" 1700 294 1 1 

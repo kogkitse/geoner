@@ -1,0 +1,39 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+19
+"<E>" 17 276 2 3 12 
+"" 808 276 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 1083 91 0 
+"<cabinet>/{" 66 276 1 4 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 208 276 3 5 7 16 
+"<médical>+<notarial>/{" 477 276 1 6 
+"<E>/,.w+type=\"adjective\"}" 590 276 1 1 
+":listDeLe" 254 137 2 9 10 
+":listSpecialiteMedicale" 407 137 1 11 
+"<avocat>+<huissier>+<huissier> de justice+<notaire>/{" 396 58 1 11 
+":B" 358 137 1 8 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 598 137 1 1 
+"<étude>+<office>/{" 126 542 1 13 
+"<E>/,.w+type=\"noun\"+kind}" 209 542 2 14 16 
+"<notarial>/{" 455 542 1 15 
+"<E>/,.w+type=\"adjective\"}" 659 542 1 1 
+":listDeLe" 259 406 1 17 
+"<huissier>+<huissier> de justice+<notaire>/{" 357 406 1 18 
+"<E>/,.w+type=\"noun\"+name}" 506 406 1 1 

@@ -1,0 +1,33 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+13
+"<E>" 113 392 1 2 
+"" 894 399 0 
+"<centrale>/{" 193 392 1 6 
+"fioul+fuel+<géothermique>+<hydraulique>+<hydroélectrique>+<nucléaire>+<solaire>+<thermique>+<électrique>+<éolienne>/{" 591 299 1 8 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 189 171 0 
+":listEtOu" 615 83 1 7 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 284 392 1 7 
+"<E>" 424 392 2 3 9 
+"<E>/,.w+type=\"adjective\"}" 726 299 1 12 
+"à" 569 435 1 10 
+"charbon+fioul+fuel/{" 614 435 1 11 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 686 435 1 12 
+"<E>" 823 399 2 5 1 

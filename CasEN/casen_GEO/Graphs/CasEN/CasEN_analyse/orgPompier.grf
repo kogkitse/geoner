@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 80 546 1 3 
+"" 1259 546 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 191 281 0 
+"<brigade>+<centre>/{{" 122 546 1 4 
+"<E>/,.w+type=\"noun\"+kind}" 205 546 2 5 11 
+"<municipal>/{" 279 478 1 6 
+"<E>/,.w+type=\"adjective\"+qualifier}" 371 478 1 11 
+"<E>/,.w+type=\"noun\"+name}" 949 546 2 10 12 
+":listDe" 761 546 1 9 
+"pompiers+sapeurs-pompiers/{" 822 546 1 7 
+"<E>/,.orgName+adm+pompier+grforgPompier}" 1207 546 1 1 
+"<E>" 436 546 2 8 14 
+"<municipal>/{" 1020 474 1 13 
+"<E>/,.w+type=\"adjective\"+qualifier}" 1112 474 1 10 
+"de" 529 428 1 15 
+"secours" 610 428 1 8 

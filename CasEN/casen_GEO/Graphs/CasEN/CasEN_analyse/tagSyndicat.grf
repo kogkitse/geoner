@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1392 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 127 127 3 3 5 10 
+"" 774 127 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 170 372 0 
+"<syndicat>/{" 311 127 1 4 
+"<E>/,.w+type=\"noun\"+kind}" 429 127 1 9 
+"<organisme>+<organisation>/{" 190 57 1 6 
+"<E>/,.w+type=\"noun\"+kind}" 320 57 1 7 
+"<syndical>/{" 479 57 1 8 
+"<E>/,.w+type=\"adjective\"}" 584 57 1 9 
+"<E>" 712 127 1 1 
+"<union>/{" 204 250 1 11 
+"<E>/,.w+type=\"noun\"+kind}" 293 250 2 12 15 
+"des" 368 185 1 13 
+"syndicats/{" 432 185 1 14 
+"<E>/,.w+type=\"noun\"+kind}" 550 185 1 9 
+"<syndical.N:f>/{" 544 250 1 16 
+"<E>/,.w+type=\"adjective\"}" 649 250 1 9 

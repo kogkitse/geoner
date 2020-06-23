@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 13395456
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 87 344 6 3 4 9 11 17 19 
+"" 1082 344 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 926 133 0 
+":B" 317 153 1 14 
+"un+une/{" 227 344 2 6 13 
+"nombre+pourcentage+proportion+quantité+partie+train+augmentation+marge+somme+tas" 441 344 1 18 
+"<petit>+<grand>+<gros>+<certain>+<bon>" 286 275 1 13 
+"<nombreux>" 487 761 1 20 
+"<ADV>" 412 732 1 7 
+"de moins en moins+de plus en plus+quelques-uns+quelques uns+pas mal+beaucoup+plein+beaucoup moins+beaucoup plus+quantités/{" 424 598 1 18 
+":listDe" 347 761 2 8 7 
+"la/{" 403 473 1 12 
+"plupart+majorité" 522 473 1 18 
+"<E>" 368 344 1 5 
+":listPeu" 501 153 1 18 
+":listDeLe+:listDeCe" 970 344 1 1 
+"<E>/,.val+type=\"approximatif\"}" 582 100 1 1 
+"quelques+plusieurs/{" 276 100 1 16 
+"<E>/,.val+type=\"approximatif\"}" 724 344 1 15 
+":B" 292 761 1 10 
+"<E>/,.val+type=\"approximatif\"}" 611 761 1 1 

@@ -1,0 +1,77 @@
+0000000003
+-1 tagCiviliteNobiliaire
+: -2 5 13 4 12 3 11 3 10 3 3 2 1 1 
+: 6 6 2 6 
+: 5 6 4 6 
+: -3 8 19 7 
+: 14 9 
+: -3 8 
+: -3 8 19 7 9 3 8 3 7 3 
+t 
+: 19 7 
+: 15 10 
+: 14 11 
+: 17 13 16 12 
+: 14 3 
+: 14 14 
+: -3 8 19 7 18 12 
+f 
+-2 B
+: 21 2 20 1 
+: 21 2 
+t 
+f 
+-3 listMonseigneur
+: 39 3 30 2 29 1 28 1 27 1 26 1 25 1 24 1 23 1 22 1 
+t 
+: 34 5 31 4 
+t 14 6 
+: 32 7 
+: 32 8 
+: 37 9 
+: 33 1 
+: 35 1 
+: 36 10 
+: 38 1 
+f 
+%<E>
+%son/{
+%altesse
+%sa/{
+%majesté
+%sainteté
+%excellence
+%royale
+%sérinissime
+%impériale
+%SAS/{
+%SAR/{
+%SARI/{
+%S/{
+%.
+%A
+%S
+%R
+%I
+%<E>/,.addName+type="honorific"+grftagCiviliteNobiliaire}
+@ 
+%#/{
+%monseigneur
+%seigneur
+%dame
+%lady
+%milady
+%lord
+%sieur
+%sir
+%M
+%<nomDhi>
+%gr
+%<nomFhi>
+%<nomNSceDsup>
+%<nomNSceFsup>
+%<nomFs>
+%$![0
+%$]
+%Mgr
+f

@@ -1,0 +1,22 @@
+0000000001
+-1 persGenerique
+: 8 2 7 1 
+: 3 3 
+: 3 4 
+: 4 5 
+: 4 6 
+: 6 7 1 7 
+: 5 7 
+: 2 8 
+t 
+f 
+%<E>
+%forename/,.persName
+%<E>/+grfpersGenerique}
+%$/{
+%G
+%<E>/,.persName
+%surname/,.persName
+%<E>/${2}$
+%<E>/${1}$
+f

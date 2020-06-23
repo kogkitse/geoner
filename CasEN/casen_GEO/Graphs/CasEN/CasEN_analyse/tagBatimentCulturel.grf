@@ -1,0 +1,44 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+24
+"<E>" 182 439 9 5 2 7 10 14 15 17 18 21 
+"" 894 439 0 
+"MJC+<amphithéâtre>+<bibliothèque>+<cinéma>+<muséum>+<médiathèque>+<opéra>+palais des congrés+<scène>+<théatre>+<théâtre>+<vidéothèque>/{" 444 125 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 942 185 0 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 781 439 1 1 
+"<studio>/{" 374 665 1 6 
+"d'enregistrement" 514 665 1 4 
+"opéra" 344 800 1 8 
+"comique" 719 800 1 1 
+"/ce n'est pas un bâtiment" 557 781 0 
+"musée/{" 369 439 2 11 4 
+":listDe" 471 380 1 12 
+"art contemporain+art moderne+beaux arts+beaux-arts" 564 380 1 4 
+"<culturel.A:m>+de conférences+<social.A:m>" 541 296 1 4 
+"<centre>/{" 388 296 1 13 
+"<complexe>/{" 384 509 1 16 
+"multifonctions+<polyvalent>" 549 509 1 4 
+"<parc>/{" 379 610 1 20 
+"<salle>/{" 408 560 2 16 19 
+"de presse" 567 560 1 4 
+"des expos+des expositions" 527 610 1 4 
+"<maison>/{" 373 737 1 22 
+"des jeunes+de la culture" 607 737 2 23 4 
+"et" 643 674 1 22 

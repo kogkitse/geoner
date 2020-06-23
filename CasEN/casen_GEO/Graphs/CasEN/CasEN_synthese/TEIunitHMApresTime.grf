@@ -1,0 +1,76 @@
+#Unigraph
+SIZE 1887 876
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+56
+"<E>" 60 113 1 2 
+"" 1288 381 0 
+"\<_unit\>" 100 112 1 8 
+"\<\/_unit\>" 275 112 1 5 
+"$![" 234 112 1 3 
+"$]" 415 112 1 6 
+"<TOKEN>" 450 112 2 4 9 
+"\<\/_unit\>" 638 112 1 21 
+"$unitH(" 194 112 1 4 
+"$unitH)" 597 112 1 7 
+"\<_gMinute\>" 224 277 1 19 
+"/<_time>à <_gHour>huit</_gHour> <_unit>heures</_unit></_time>+<_time>à <_gHour>huit</_gHour> <_unit>heures</_unit> <_gMinute>quarante</_gMinute></_time>" 1090 84 0 
+":TEIapresDouze" 1083 326 1 14 
+"\<\/_gMinute\>" 812 277 1 24 
+"<E>/<_time when=\"$gHour$$douze$:$gMinute$:00\">" 1229 381 1 1 
+"\<\/_gMinute\>" 417 277 1 18 
+"<TOKEN>" 652 277 2 17 20 
+"$![" 377 277 1 15 
+"$]" 553 277 1 16 
+"$gMinute(" 337 277 1 17 
+"$gMinute)" 769 277 1 13 
+"<E>" 38 301 2 22 33 
+"#" 153 277 1 23 
+"$diese(" 184 277 2 10 46 
+"$diese)" 948 277 1 36 
+"\<_gMinute\>" 209 476 1 31 
+"\<\/_gMinute\>" 824 476 1 35 
+"\<\/_gMinute\>" 429 476 1 30 
+"<TOKEN>" 664 476 2 29 32 
+"$![" 389 476 1 27 
+"$]" 565 476 1 28 
+"$gMinute(" 349 476 1 29 
+"$gMinute)" 781 476 1 26 
+"\" \"" 138 476 1 34 
+"$espace(" 169 476 2 25 38 
+"$espace)" 960 476 1 36 
+"<E>" 1027 381 2 12 54 
+"/<_time><_gHour>10</_gHour><_unit>h</_unit> <_val>et quart</_val></_time>" 1110 134 0 
+"\<_val\>" 216 572 1 44 
+"\<\/_val\>" 834 572 1 35 
+"\<\/_val\>" 436 572 1 43 
+"<TOKEN>" 648 572 2 42 45 
+"$![" 373 572 1 40 
+"$]" 549 572 1 41 
+"$gMinute(" 300 572 1 42 
+"$gMinute)" 765 572 1 39 
+"\<_val\>" 239 371 1 52 
+"\<\/_val\>" 857 371 1 24 
+"\<\/_val\>" 459 371 1 51 
+"<TOKEN>" 671 371 2 50 53 
+"$![" 396 371 1 48 
+"$]" 572 371 1 49 
+"$gMinute(" 323 371 1 50 
+"$gMinute)" 788 371 1 47 
+"\<\/_time\>" 1102 381 1 14 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1154 542 0 

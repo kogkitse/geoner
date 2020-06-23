@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1232 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 254 292 2 2 7 
+"" 726 292 0 
+"et+ou+ou bien+ou bien encore+ou encore+voire+puis+enfin+et\/ou+,+-" 395 292 2 4 5 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 648 101 0 
+"..." 560 249 1 5 
+"<E>" 642 292 1 1 
+"/– a été ajouté pour reconnaitre 19–73 ans" 122 382 0 
+"," 315 244 1 2 

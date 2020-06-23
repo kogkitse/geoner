@@ -1,0 +1,108 @@
+d000000001
+-1 tagCiviliteSC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagCiviliteS.grf
+: 68 9 39 8 35 7 34 7 23 6 22 6 21 5 20 5 19 1 18 1 17 1 14 4 11 3 8 2 7 1 6 1 5 1 4 1 3 1 2 1 1 1 
+: 51 10 
+: 9 11 
+: 12 12 
+: 15 13 
+: 67 1 66 1 51 10 
+: 51 10 24 14 
+: 36 15 
+: 54 17 40 16 
+: 24 14 
+t 
+: 10 1 
+: 13 1 
+: 16 1 
+: 30 18 
+: 68 9 39 8 23 6 22 6 21 5 20 5 19 1 18 1 17 1 14 4 11 3 8 2 7 1 6 1 5 1 4 1 3 1 2 1 1 1 
+: 45 20 44 19 43 19 42 19 41 19 
+: 60 22 59 21 58 21 57 21 56 21 55 21 
+: 31 23 
+: 47 1 
+: 46 24 
+: 62 1 
+: 61 25 
+: 26 27 25 26 
+: 51 10 48 28 38 1 37 1 
+: 63 29 53 1 52 1 51 10 
+: 32 30 
+: 27 31 
+: 49 32 
+: 64 33 
+: 33 1 
+: 28 34 
+: 50 19 
+: 65 21 
+: 29 26 
+f 
+%<E>
+%mademoiselle/{1:2:0mademoiselle
+%Melle/{1:2:1Melle
+%Mle/{1:2:2Mle
+%Mlle/{1:2:3Mlle
+%miss/{1:2:4miss
+%mister/{1:2:5mister
+%monsieur/{1:2:6monsieur
+%mam/{1:2:7mam
+%'/1:2:7'
+%zelle/1:2:7zelle
+%m/{1:2:8m
+%'/1:2:8'
+%zelle/1:2:8zelle
+%m/{1:2:9m
+%'/1:2:9'
+%sieu/1:2:9sieu
+%<saint.A:s>/{1:2:10<saint.A:s>
+%Veuve/{1:3:0Veuve
+%Vve/{1:3:1Vve
+%Mme/{1:4:0Mme
+%madame/{1:4:1madame
+%Mr/{1:7:0Mr
+%Mrs/{1:7:1Mrs
+%./1:8:0.
+%<nomFs>/1:10:0<nomFs>
+%</1:10:1<
+%//1:10:1/
+%s/1:10:1s
+%>/1:10:1>
+%<E>/1:11:0$![
+%$![0
+%$]
+%<E>/1:12:0$]
+%feu/{1:14:0feu
+%feue/{1:14:1feue
+%<E>/,.addName}1:15:0<E>
+%Veuve/1:16:0Veuve
+%Vve/1:16:1Vve
+%M/{1:18:0M
+%<nomNSceDsup>/1:19:0<nomNSceDsup>
+%elle/1:20:0elle
+%le/1:20:1le
+%lle/1:20:2lle
+%r/1:20:3r
+%me/1:21:0me
+%<nomNSceFsup>/1:23:0<nomNSceFsup>
+%<nomNSceFsup>/1:24:0<nomNSceFsup>
+%V/1:25:0V
+%<nomNSceDsup>/1:26:0<nomNSceDsup>
+%ve/1:27:0ve
+%<E>/,.roleName+type="honorific"+grftagCiviliteS}1:30:0<E>
+%Veuve/1:31:0Veuve
+%Vve/1:31:1Vve
+%<nomDhi>/1:33:0<nomDhi>
+%e/1:34:0e
+%elle/1:34:1elle
+%le/1:34:2le
+%lle/1:34:3lle
+%r/1:34:4r
+%me/1:35:0me
+%<nomFhi>/1:37:0<nomFhi>
+%<nomFhi>/1:38:0<nomFhi>
+%V/1:39:0V
+%<nomDhi>/1:40:0<nomDhi>
+%ve/1:41:0ve
+%Veuve/1:44:0Veuve
+%Vve/1:44:1Vve
+%M/{1:45:0M
+f

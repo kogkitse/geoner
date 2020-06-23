@@ -1,0 +1,46 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+26
+"<E>" 110 177 2 4 12 
+"" 1010 178 0 
+"<E>/,.measure+type=\"power\"+grfamountForce}" 959 178 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1024 323 0 
+"<force>+<voiture>+<camion>+<tracteur>+<moteur>" 193 366 1 10 
+"chevaux/{{" 840 366 1 6 
+"<E>/,.unit}" 907 366 1 2 
+":tagEntreMesure" 660 103 1 18 
+":tagVal+:tagApproximatif" 708 366 1 5 
+"<E>" 378 366 2 24 8 
+":listDeLe" 286 366 1 9 
+"<E>" 914 178 1 2 
+"<E>" 166 177 2 14 20 
+":tagForce" 671 177 1 17 
+":tagVal+:tagApproximatif" 454 177 1 22 
+":tagApresMesure" 802 142 1 11 
+"<E>" 773 178 2 15 11 
+"<E>" 742 177 2 7 16 
+"<E>" 642 177 1 13 
+":patternDeterminant" 269 100 1 21 
+":B" 210 100 1 19 
+"<E>/,.preInclude}" 401 100 1 14 
+":B" 586 177 1 18 
+":patternDeterminant" 496 275 1 25 
+":B" 437 275 1 23 
+"<E>/,.preInclude}" 628 275 1 8 

@@ -1,0 +1,35 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10053120
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+15
+"<E>" 83 416 1 13 
+"" 1023 358 0 
+"<avoir.V:3s>" 395 353 1 11 
+"eu" 697 291 1 12 
+"voici+voilà" 545 497 1 12 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 31 165 0 
+"il" 192 353 2 7 8 
+"y" 340 353 1 2 
+"n'" 268 334 1 7 
+"que+pas" 659 392 1 12 
+"pas" 619 291 1 3 
+"<E>" 564 353 4 10 3 9 12 
+"<E>" 806 353 2 1 14 
+"<E>" 129 416 3 6 4 7 
+":tagInsertionAdverbe" 857 297 1 1 

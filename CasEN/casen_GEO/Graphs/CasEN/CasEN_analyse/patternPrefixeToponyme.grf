@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 66 223 2 5 7 
+"" 518 223 0 
+"<PFX+Toponyme>" 342 140 3 3 2 1 
+"-" 388 51 1 2 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 613 112 0 
+"<PFX+Toponyme>" 116 223 3 1 2 6 
+"-" 286 140 1 2 
+"outre+nord+sud+est+ouest+midi" 247 324 2 1 8 
+"-" 367 324 1 1 

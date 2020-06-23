@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1188 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 70 200 2 2 3 
+"" 300 200 0 
+"<hectare>+<are>+<centiare>+<acre>" 165 142 1 1 
+":listMetre+m" 121 273 1 4 
+"²+<carré>+#2+#<2>" 199 273 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 418 95 0 

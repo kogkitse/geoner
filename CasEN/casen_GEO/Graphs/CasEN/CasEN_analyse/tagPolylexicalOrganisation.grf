@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 9843200
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 77 667 8 4 5 8 9 12 14 15 18 
+"" 570 667 0 
+"<E>/,.V+grftagPolylexicalOrganisation}" 454 449 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1182 155 0 
+"<rendre>+<passer> en/{" 226 316 2 2 20 
+"club/{" 227 667 1 6 
+"méditérranée+med+ Bouygues Telecom+ Bouygues+de jeunes+ de prévention+de la presse" 298 667 1 7 
+"<E>/,.orgName+grftagPolylexicalOrganisation}" 499 667 1 1 
+"<ligue> des droits de l'homme/{" 225 758 1 7 
+"<num>/{" 206 261 1 10 
+"<édition>" 339 261 1 11 
+"<E>/,.N+grftagPolylexicalOrganisation}" 470 261 1 1 
+"<tendance> de fond+<levé.N:f> de fonds+<fond> <propre>+<formule> <club>+<obstruction> à la justice/{" 195 142 1 11 
+"<E>/,.ADV+grftagPolylexicalOrganisation}" 390 516 1 1 
+"à fond/{" 218 516 1 13 
+"<être> le" 194 449 1 16 
+"théatre+théâtre" 286 449 1 17 
+":listDe" 381 449 1 2 
+"théatre+théâtre/{" 172 34 1 19 
+"des opérations" 267 34 1 11 
+"justice" 343 316 1 2 

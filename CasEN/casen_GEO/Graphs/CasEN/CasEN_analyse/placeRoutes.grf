@@ -1,0 +1,72 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+52
+"<E>" 39 304 7 2 8 12 15 18 24 47 
+"" 1446 304 0 
+"autoroute+départementale/{{" 118 49 1 6 
+"<E>/,.placeName+type=\"oronym\"+grfplaceRoutes}" 1158 223 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 683 111 0 
+"<E>" 847 408 2 21 22 
+"<E>/,.w+type=\"noun\"+kind}" 490 49 1 11 
+":tagDeA" 1048 223 1 3 
+"route/{{" 120 149 1 10 
+"nationale+départementale/{" 242 106 1 38 
+"<E>/,.w+type=\"noun\"+kind}" 192 149 2 9 37 
+"<E>/,.place+type=\"oronym\"+grfplaceRoutes}" 727 304 3 5 1 48 
+"axe/{{" 121 206 1 14 
+"routier+autoroutier/{" 329 206 1 39 
+"<E>/,.w+type=\"noun\"+kind}" 175 206 1 13 
+"chemin/{{" 151 576 2 17 44 
+"communal+pédestre+vicinal/{" 385 576 1 43 
+"<E>/,.w+type=\"noun\"+kind}" 221 576 1 16 
+"voie/{{" 107 304 1 20 
+"rapide+romaine+sur berge/{" 325 304 1 41 
+"<E>/,.w+type=\"noun\"+kind}" 165 304 3 19 25 40 
+"<E>/${1}$" 887 482 1 30 
+"<E>/${0}$" 893 408 1 33 
+":patternNomMixte" 999 408 1 49 
+"liaison/{{" 119 370 1 26 
+"ferroviaire+maritime+aerienne/{" 339 369 1 42 
+"<E>/,.w+type=\"noun\"+kind}" 182 369 1 25 
+".+?+!+\:+{S}" 904 787 1 29 
+"$![" 864 787 1 27 
+"$]" 957 787 1 34 
+"A+C+D+E+GR+RN/{" 940 482 1 31 
+"#" 1191 482 1 32 
+"<nombre+1a999+chiffre>" 1227 482 1 49 
+":B" 952 408 1 23 
+"<TOKEN>" 996 787 1 35 
+"A+C+D+E/{" 1093 787 1 31 
+"GR+RN/{" 907 694 1 31 
+"<E>" 397 149 1 11 
+"<E>/,.w+type=\"adjective\"}" 364 106 1 37 
+"<E>/,.w+type=\"adjective\"}" 423 206 1 11 
+":patternIncludePersName" 273 259 1 11 
+"<E>/,.w+type=\"adjective\"}" 416 304 1 11 
+"<E>/,.w+type=\"adjective\"}" 436 369 1 11 
+"<E>/,.w+type=\"adjective\"}" 476 576 1 11 
+"de randonnée+de grande randonnée" 229 649 1 45 
+"<E>/,.w+type=\"noun\"+kind}" 374 649 1 46 
+"<E>" 515 648 1 11 
+"<E>" 140 694 1 50 
+":B" 998 223 1 7 
+"<E>/,.placeName+type=\"oronym\"+grfplaceRoutes}" 1402 408 1 1 
+"<E>" 772 694 2 36 28 
+"/nationale ambigü" 311 31 0 

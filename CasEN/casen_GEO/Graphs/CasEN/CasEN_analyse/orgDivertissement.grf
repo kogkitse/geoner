@@ -1,0 +1,49 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+29
+"<E>" 13 380 5 7 17 19 14 24 
+"" 920 380 0 
+"<multiplexe>/{" 433 153 1 13 
+"<E>" 844 380 1 6 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 1089 139 0 
+"<E>/,.w+type=\"noun\"+kind}" 332 380 1 3 
+"<E>/,.orgName+ent+grforgDivertissement}" 881 380 1 1 
+"<cirque>+<musée>+<museum>+<zoo>+<aquarium>/{{" 237 380 1 5 
+"<E>" 315 264 2 9 23 
+"d'art et d'essai/{" 395 211 1 13 
+":patternMajMin" 155 503 2 11 10 
+"Museum+galery" 287 503 1 15 
+"of" 480 503 1 20 
+"<E>/,.w+type=\"adjective\"}" 533 211 1 23 
+":BB" 87 503 1 10 
+"<E>/,.name}" 401 503 2 12 3 
+"<E>/,.w+type=\"noun\"+kind}" 210 264 1 8 
+"<théâtre>+<exposition>+<studio>+<galerie>/{{" 115 264 1 16 
+"<E>/,.w+type=\"noun\"+kind}" 201 153 2 2 8 
+"<cinéma>/{{" 125 153 1 18 
+":B" 559 503 1 21 
+":patternMajMin" 622 503 2 22 21 
+"<E>/,.name}" 754 503 1 3 
+"<E>" 568 264 1 3 
+"<festival>/{" 97 67 1 25 
+"<E>/,.w+type=\"noun\"+kind}" 210 67 1 26 
+":listDeLe" 374 67 1 27 
+"théatre+cinéma+danse/{" 487 67 1 28 
+"<E>/,.w+type=\"noun\"+name}" 568 67 1 3 

@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 138 192 1 2 
+"" 1170 192 0 
+":TEItimeAvantGHour" 170 192 1 7 
+"<E>/$avant.UNSET$" 648 257 1 4 
+"<E>/$gHour$ $gMinute$" 852 257 1 15 
+"<E>/$avant.SET$" 645 303 1 6 
+"<E>/$avant$ " 772 303 1 4 
+":TEImidiMApresTime" 359 192 2 9 16 
+"/<_time>A <_gHour>8</_gHour><_unit>h</_unit></_time>" 706 405 0 
+"<E>/$gMinute.SET$" 503 303 2 3 5 
+"<E>" 631 118 2 11 13 
+"<E>/$avant.UNSET$" 702 72 1 12 
+"<E>/$gHour$" 923 72 1 15 
+"<E>/$avant.SET$" 699 118 1 14 
+"<E>/$avant$ " 834 118 2 15 12 
+":TEIapresTime" 1051 192 1 1 
+"<E>/$gMinute.UNSET$" 534 118 1 10 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 107 396 0 

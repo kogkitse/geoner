@@ -1,0 +1,1298 @@
+d000000028
+-1 persCoordinationCiviliteC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\persCoordinationCivilite.grf
+: 7 1 
+: -5 2 
+: 8 3 
+: 5 6 3 5 1 4 
+: -2 7 
+: -3 8 
+: -4 9 
+: 2 10 
+: 4 10 
+: 6 10 
+: 9 11 
+t 
+f 
+-2 tagCiviliteCoordinationPersC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagCiviliteCoordinationPers.grf
+: 44 4 34 3 17 2 14 1 
+: -8 5 
+: -9 6 
+: 35 7 
+: 42 8 
+: 15 9 
+: 18 10 
+: 36 9 
+: -14 11 
+: 42 8 40 12 
+: 42 8 40 12 12 13 
+: 43 14 
+: -5 15 
+: -7 16 
+: 40 12 
+: 41 17 
+: 13 9 
+: 29 19 28 18 
+: 21 20 
+: 23 21 
+: -11 22 
+: -5 23 
+: 22 24 
+: 24 25 
+: 16 26 
+: 47 28 10 27 
+: 25 29 
+: -6 30 
+: -15 31 
+: -12 32 
+: 11 33 
+: 48 34 
+: 26 35 
+: 37 24 
+: 49 36 
+: 45 38 30 37 
+: 19 39 
+: 38 40 
+: -5 41 
+: -10 42 
+: -13 43 
+: 46 44 
+: 20 24 
+: 39 45 
+: 33 46 
+: 55 48 50 47 
+: 31 49 
+: -6 50 
+: -15 51 
+: -11 52 
+: 51 53 
+: 56 54 
+: 32 55 
+: 54 55 
+: 57 56 
+: 27 57 
+: 52 58 
+t 25 29 
+: -10 59 
+: 53 55 
+f 
+-3 tagCoordinationCivilitePersC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagCoordinationCivilitePers.grf
+: 66 3 64 2 62 1 
+: -17 4 
+: -18 5 
+: -19 6 
+: 63 7 
+: 65 7 
+: 67 8 
+: 85 10 83 9 
+: 85 10 83 9 60 11 
+: -12 12 
+: -12 13 
+: -16 14 
+: 84 15 
+: 86 0 
+: 61 7 
+: 81 18 79 17 77 16 
+: -17 19 
+: -18 20 
+: -19 21 
+: 78 22 
+: 80 22 
+: 82 23 
+: 73 25 72 24 
+: 75 26 73 25 72 24 
+: 68 27 
+: 70 28 
+: -16 29 
+: -11 30 
+: -5 31 
+: 76 22 
+: 69 32 
+: 71 33 
+t 
+: 58 34 
+: -6 35 
+: 59 36 
+: 74 32 
+f 
+-4 tagCoordinationCoupleC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagCoordinationCouple.grf
+: 93 3 91 2 89 1 
+: -17 4 
+: -18 5 
+: -19 6 
+: 90 7 
+: 92 7 
+: 94 8 
+: 95 9 
+: 95 9 87 10 
+: -12 11 
+: -16 12 
+: 96 13 
+: 88 7 
+: 104 16 102 15 100 14 
+: -17 17 
+: -18 18 
+: -19 19 
+: 101 20 
+: 103 20 
+: 105 21 
+: 97 22 
+: 98 23 97 22 
+: 109 25 108 24 
+: -16 26 
+: 110 27 
+: 114 28 
+: 99 20 
+: -5 29 
+: -13 30 
+: 111 31 
+: 115 32 
+: 106 33 
+: 112 34 
+: -11 35 
+: -6 36 
+: 107 37 
+: 113 38 
+t 
+: 116 39 
+t 117 40 
+: -10 41 
+: 118 37 
+f 
+-5 BC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\B.grf
+: 120 2 119 1 
+: 120 2 
+t 
+f 
+-6 tagNomFamilleC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagNomFamille.grf
+: 140 4 132 3 123 2 121 1 
+: -20 5 
+: 140 4 
+: 133 6 
+: -5 7 
+: 122 2 
+: 134 8 
+: 141 9 
+: 135 10 
+: 128 11 
+: 136 12 
+: -21 13 
+: 130 14 
+: 129 15 
+: 131 16 
+: 144 18 128 11 126 17 
+: 130 9 
+: 125 19 124 19 
+t 142 20 
+: 127 9 
+: -20 21 
+: 143 22 
+: 145 23 
+: -5 24 
+: 146 25 
+: 137 26 
+: -21 27 
+: 138 28 
+: 149 30 139 29 137 26 
+t 
+: 148 31 147 31 
+: 150 25 
+f 
+-7 tagTitreNobiliairePC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagTitreNobiliaireP.grf
+: 178 4 174 3 171 2 170 1 169 1 168 1 167 1 166 1 165 1 164 1 163 1 162 1 161 1 160 1 159 1 158 1 157 1 156 1 155 1 154 1 153 1 152 1 151 1 
+: 177 5 
+: 180 6 177 5 173 1 172 1 
+: 177 5 176 1 175 1 
+: 179 1 177 5 
+t 
+: 181 7 
+: 180 8 
+: 173 1 172 1 
+f 
+-8 tagCivilitePC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagCiviliteP.grf
+: 212 7 208 6 207 6 200 5 199 4 198 4 197 1 196 1 195 1 192 3 189 2 188 1 187 1 186 1 185 1 184 1 183 1 182 1 
+: 224 8 
+: 190 9 
+: 193 10 
+: 239 1 238 1 224 8 
+: 224 8 201 11 
+: 209 12 
+: 227 14 213 13 
+t 
+: 191 1 
+: 194 1 
+: 203 15 
+: 212 7 200 5 199 4 198 4 197 1 196 1 195 1 192 3 189 2 188 1 187 1 186 1 185 1 184 1 183 1 182 1 
+: 218 17 217 16 216 16 215 16 214 16 
+: 232 19 231 18 230 18 229 18 228 18 
+: 204 20 
+: 220 1 
+: 219 21 
+: 234 1 
+: 233 22 
+: 202 23 
+: 224 8 221 24 211 1 210 1 
+: 235 25 226 1 225 1 224 8 
+: 205 26 
+: 222 27 
+: 236 28 
+: 206 1 
+: 223 16 
+: 237 18 
+f 
+-9 tagCiviliteNobiliairePC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagCiviliteNobiliaireP.grf
+: 267 9 262 8 258 7 254 6 253 5 252 5 251 5 246 4 244 3 242 2 240 1 
+: 241 10 
+: 243 10 
+: 245 10 
+: 247 10 
+: 270 12 269 11 
+: 255 13 
+: 259 14 
+: 263 15 
+: -5 16 
+: 270 12 269 11 250 5 249 5 248 5 
+t 
+: -22 17 
+: 256 18 
+: 260 19 
+: 264 20 
+: 268 21 
+: 271 22 
+: 255 23 
+: 259 24 
+: 263 25 
+: 270 12 
+: 269 11 
+: 257 26 
+: 261 27 
+: 265 28 
+: 255 5 
+: 259 5 
+: 263 29 
+: 266 30 
+: 263 5 
+f 
+-10 tagJuniorAliasC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagJuniorAlias.grf
+: 273 1 
+: -5 2 
+: 274 3 
+: 277 5 275 4 
+: -23 6 
+: -24 7 
+: 276 8 
+: 278 9 
+: 272 10 
+: 275 4 272 10 
+t 
+f 
+-11 patternIncludePersNameC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\patternIncludePersName.grf
+: 282 0 281 1 280 1 
+t 279 1 
+f 
+-12 listEtOuC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\listEtOu.grf
+: 301 6 299 1 298 1 295 5 294 1 293 1 292 1 290 4 287 3 285 2 284 1 283 1 
+t 300 7 
+: 286 1 
+: 288 8 
+: 291 1 
+: 296 9 
+: 299 1 298 1 295 5 294 1 293 1 292 1 290 4 287 3 285 2 284 1 283 1 
+: 300 10 
+: 289 1 
+: 297 1 
+: 300 11 
+t 
+f 
+-13 BBC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\BB.grf
+: 303 2 302 1 
+: 303 2 
+t 
+f 
+-14 tagGentilePC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagGentileP.grf
+: 324 5 321 4 320 3 319 3 318 3 311 2 310 2 309 2 308 2 307 1 306 1 305 1 
+: 304 6 
+: 316 3 315 3 314 7 313 1 312 1 
+: 317 6 
+: 322 8 
+: 325 9 
+t 
+: 316 3 315 3 313 1 312 1 
+: 323 10 
+: 326 11 
+: 322 12 
+: 325 13 
+: 316 3 315 3 
+: 313 1 312 1 
+f 
+-15 tagNomFamilleDeC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagNomFamilleDe.grf
+: 351 4 343 3 337 2 327 1 
+: -20 5 
+: 133 6 
+: -5 7 
+: -5 8 
+: 328 9 
+: 338 10 
+: 344 11 
+: 352 12 
+: 343 3 
+: 339 13 
+: 333 14 
+: 353 15 
+: 136 16 
+: -21 17 
+: -25 18 
+: 335 19 
+: 334 20 
+: 354 21 
+: 336 22 
+: 347 24 331 23 
+: 350 9 
+: 335 11 
+: 330 25 329 25 
+t 356 27 345 26 
+: 332 11 
+: -20 28 
+: -5 29 
+: 346 30 
+: 357 31 
+: 348 32 
+: 358 33 
+: -5 34 
+: -25 35 
+: 349 36 
+: 359 37 
+: 340 38 
+: 355 30 
+: -21 39 
+: 341 40 
+: 362 42 342 41 
+t 
+: 361 43 360 43 
+: 363 36 
+f 
+-16 tagTitreNobiliaireSC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagTitreNobiliaireS.grf
+: 393 5 391 4 387 3 384 2 383 1 382 1 381 1 380 1 379 1 378 1 377 1 376 1 375 1 374 1 373 1 372 1 371 1 370 1 369 1 368 1 367 1 366 1 365 1 364 1 
+: 390 6 
+: 395 7 390 6 386 1 385 1 
+: 390 6 389 1 388 1 
+: 392 8 
+: 394 1 390 6 
+t 
+: 396 9 
+: 393 5 387 3 384 2 383 1 382 1 381 1 380 1 379 1 378 1 377 1 376 1 375 1 374 1 373 1 372 1 371 1 370 1 369 1 368 1 367 1 366 1 365 1 364 1 
+: 395 10 
+: 386 1 385 1 
+f 
+-17 tagCiviliteSC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagCiviliteS.grf
+: 463 9 434 8 430 7 429 7 419 6 418 6 417 5 416 5 415 1 414 1 413 1 410 4 407 3 404 2 403 1 402 1 401 1 400 1 399 1 398 1 397 1 
+: 446 10 
+: 405 11 
+: 408 12 
+: 411 13 
+: 462 1 461 1 446 10 
+: 446 10 420 14 
+: 431 15 
+: 449 17 435 16 
+: 420 14 
+t 
+: 406 1 
+: 409 1 
+: 412 1 
+: 426 18 
+: 463 9 434 8 419 6 418 6 417 5 416 5 415 1 414 1 413 1 410 4 407 3 404 2 403 1 402 1 401 1 400 1 399 1 398 1 397 1 
+: 440 20 439 19 438 19 437 19 436 19 
+: 455 22 454 21 453 21 452 21 451 21 450 21 
+: 427 23 
+: 442 1 
+: 441 24 
+: 457 1 
+: 456 25 
+: 422 27 421 26 
+: 446 10 443 28 433 1 432 1 
+: 458 29 448 1 447 1 446 10 
+: 205 30 
+: 423 31 
+: 444 32 
+: 459 33 
+: 428 1 
+: 424 34 
+: 445 19 
+: 460 21 
+: 425 26 
+f 
+-18 tagFonctionUniversitaireC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagFonctionUniversitaire.grf
+: 518 10 517 10 513 9 511 8 503 7 496 6 484 5 480 4 472 3 471 2 469 1 468 1 467 1 466 1 465 1 464 1 
+: 470 11 
+: 475 12 470 11 
+: 473 13 
+: 493 15 481 14 
+: 488 17 485 16 
+: 500 19 497 18 
+: 504 20 
+: 512 21 
+: 514 21 
+: 507 22 470 11 
+t 
+: 477 23 
+: 474 2 
+: 482 24 
+: 494 25 
+: 487 26 486 26 
+: 490 27 489 27 
+: 498 28 
+: 501 29 
+: 505 30 
+: 515 31 475 12 470 11 
+: -26 32 
+: 478 33 
+: 483 1 
+: 495 1 
+: 492 1 
+: 491 1 
+: 499 34 
+: 502 34 
+: 481 14 
+: -26 35 
+: 508 1 
+: 476 36 
+: 509 38 506 37 470 11 
+: 516 1 
+: 205 39 
+: 480 4 
+: -26 40 
+: 479 1 
+: 510 1 
+f 
+-19 tagCiviliteNobiliaireSC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagCiviliteNobiliaireS.grf
+: 541 8 536 7 532 6 531 5 530 5 525 4 523 3 521 2 519 1 
+: 520 9 
+: 522 9 
+: 524 9 
+: 526 9 
+: 544 11 543 10 
+: 533 12 
+: 537 13 
+: -5 14 
+: 544 11 543 10 529 5 528 5 527 5 
+t 
+: -27 15 
+: 534 16 
+: 538 17 
+: 542 18 
+: 545 19 
+: 533 20 
+: 537 21 
+: 544 11 
+: 543 10 
+: 535 22 
+: 539 23 
+: 533 5 
+: 537 24 
+: 540 25 
+: 537 5 
+f 
+-20 tagParticuleC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagParticule.grf
+: 561 3 559 2 558 1 557 1 556 1 555 1 554 1 553 1 552 1 551 1 550 1 549 1 548 1 547 1 546 1 
+: 563 4 
+: 560 1 
+: 562 1 
+t 
+f 
+-21 patternMajMinC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\patternMajMin.grf
+: 564 1 
+: 133 2 
+: 565 3 
+: 567 4 566 4 
+: 568 5 567 4 566 4 
+: 136 6 
+t 
+f 
+-22 listMonseigneurPC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\listMonseigneurP.grf
+: 589 3 577 2 576 1 575 1 574 1 573 1 572 1 571 1 570 1 569 1 
+t 
+: 581 5 578 4 
+t 584 6 
+: 579 7 
+: 582 8 
+: 586 9 
+: 580 1 
+: 583 1 
+: 587 10 
+: 585 11 
+: 205 12 
+: 588 1 
+f 
+-23 tagAliasC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagAlias.grf
+: 596 2 594 1 593 1 592 1 591 1 590 1 
+: 599 4 595 3 
+: 594 1 593 1 592 1 591 1 590 1 
+: 603 6 601 5 
+: -5 7 
+: -24 8 
+t 
+: 600 9 
+: 602 10 
+: 597 11 
+: 603 6 
+: -28 12 
+: 598 3 
+f 
+-24 tagJuniorC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\tagJunior.grf
+: 634 4 622 3 620 2 607 1 606 1 605 1 604 1 
+: 612 5 
+: 621 6 
+: 623 6 
+: 635 7 
+t 
+: 624 8 
+: 640 9 639 9 638 9 637 9 
+: 626 10 
+: 633 11 632 11 631 11 630 11 629 11 
+: 627 12 
+: 205 13 
+: 625 14 
+: 636 15 
+: 205 16 
+: 641 17 
+: 628 5 
+: 611 18 610 18 609 18 608 18 
+: 613 19 
+: 617 20 
+: 618 21 
+: 616 22 615 22 614 22 
+: 205 23 
+: 619 5 
+f 
+-25 listDeLeC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\listDeLe.grf
+: 649 4 647 3 645 2 644 1 643 1 642 1 
+t 
+: 646 1 
+: 648 1 
+: 650 5 
+: 651 1 
+f 
+-26 patternGeneralC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\patternGeneral.grf
+: 655 2 654 1 653 1 652 1 
+t 
+: 660 4 656 3 
+: 658 5 657 5 
+: 662 6 661 6 
+: 659 1 
+: 663 1 
+f 
+-27 listMonseigneurSC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\listMonseigneurS.grf
+: 684 3 672 2 671 1 670 1 669 1 668 1 667 1 666 1 665 1 664 1 
+t 
+: 676 5 673 4 
+t 679 6 
+: 674 7 
+: 677 8 
+: 681 9 
+: 675 1 
+: 678 1 
+: 682 10 
+: 680 11 
+: 205 12 
+: 683 1 
+f 
+-28 patternMajMinTiretC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\patternMajMinTiret.grf
+: 689 1 
+: 133 2 
+: 685 3 
+: 687 4 686 4 
+: 690 2 688 5 687 4 686 4 
+: 136 6 
+t 
+f 
+%<E>
+%<E>/1:3:0<2
+%<E>/1:3:0>2
+%<E>/1:3:1<3
+%<E>/1:3:1>3
+%<E>/1:3:2<4
+%<E>/1:3:2>4
+%<E>/1:4:0<5
+%<E>/1:4:0>5
+%<E>/,.listPerson+persCoordinationCivilite}1:5:0<E>
+%<E>/2:3:0<6
+%<E>/2:3:0>6
+%<E>/2:4:0<7
+%<E>/2:4:0>7
+%<E>/2:5:0<8
+%<E>/2:5:0>8
+%<E>/,.person}2:6:0<E>
+%<E>/2:7:0<9
+%<E>/2:7:0>9
+%<E>/2:8:0<10
+%<E>/2:8:0>10
+%<E>/2:11:0<11
+%<E>/2:11:0>11
+%<E>/2:12:0<5
+%<E>/2:12:0>5
+%<E>/2:13:0<12
+%<E>/2:13:0>12
+%<E>/,.person}2:14:0<E>
+%<E>/${2}$2:15:0<E>
+%<E>/${1}$2:16:0<E>
+%<E>/${1}$2:17:0<E>
+%<E>/2:18:0<11
+%<E>/2:18:0>11
+%<E>/${2}$2:19:0<E>
+%les/2:20:0les
+%noms/2:20:0noms
+%de/2:20:0de
+%<E>/,.persName+tagCiviliteCoordinationPers}2:21:0<E>
+%<E>/2:22:0<13
+%<E>/2:22:0>13
+%<E>/2:23:0<5
+%<E>/2:23:0>5
+%<E>/2:24:0<14
+%<E>/2:24:0>14
+%<DET:p>/2:25:0<DET:p>
+%<E>/2:26:0<5
+%<E>/2:26:0>5
+%<E>/2:27:0<15
+%<E>/2:27:0>15
+%<E>/,.persName+tagCiviliteCoordinationPers}2:28:0<E>
+%<E>/2:29:0<6
+%<E>/2:29:0>6
+%<E>/2:30:0<10
+%<E>/2:30:0>10
+%<E>/,.persName+tagCiviliteCoordinationPers}2:31:0<E>
+%<E>/2:32:0<15
+%<E>/2:32:0>15
+%<E>/,.persName+tagCiviliteCoordinationPers}2:33:0<E>
+%<E>/3:3:0<6
+%<E>/3:3:0>6
+%<E>/3:4:0<16
+%<E>/3:4:0>16
+%<E>/3:5:0<17
+%<E>/3:5:0>17
+%<E>/3:5:1<18
+%<E>/3:5:1>18
+%<E>/3:6:0<19
+%<E>/3:6:0>19
+%<E>/3:9:0<11
+%<E>/3:9:0>11
+%<E>/3:10:0<5
+%<E>/3:10:0>5
+%<E>/${2}$3:11:0<E>
+%<E>/${1}$3:12:0<E>
+%<E>/,.persName+tagCoordinationCivilitePers}3:13:0<E>
+%<E>/3:15:0<16
+%<E>/3:15:0>16
+%<E>/3:16:0<17
+%<E>/3:16:0>17
+%<E>/3:16:1<18
+%<E>/3:16:1>18
+%<E>/3:17:0<19
+%<E>/3:17:0>19
+%<E>/3:19:0<12
+%<E>/3:19:0>12
+%<E>/3:20:0<12
+%<E>/3:20:0>12
+%<E>/4:4:0<16
+%<E>/4:4:0>16
+%<E>/4:5:0<17
+%<E>/4:5:0>17
+%<E>/4:5:1<18
+%<E>/4:5:1>18
+%<E>/4:6:0<19
+%<E>/4:6:0>19
+%<E>/4:7:0<12
+%<E>/4:7:0>12
+%<E>/,.preInclude}4:8:0<E>
+%<E>/4:9:0<16
+%<E>/4:9:0>16
+%<E>/4:10:0<17
+%<E>/4:10:0>17
+%<E>/4:10:1<18
+%<E>/4:10:1>18
+%<E>/4:11:0<19
+%<E>/4:11:0>19
+%<E>/4:14:0<11
+%<E>/4:14:0>11
+%<E>/${2}$4:15:0<E>
+%<E>/${1}$4:16:0<E>
+%<E>/4:17:0<5
+%<E>/4:17:0>5
+%<E>/4:18:0<6
+%<E>/4:18:0>6
+%<E>/4:19:0<13
+%<E>/4:19:0>13
+%<E>/,.persName}4:20:0<E>
+%<E>/4:21:0<10
+%<E>/4:21:0>10
+@ /5:2:0 
+%#/{5:3:0#
+%<E>/6:2:0<20
+%<E>/6:2:0>20
+%De/6:2:1De
+%-/6:5:0-
+%'/6:5:1'
+%#/6:6:0#
+%#/6:7:0#
+%<E>/6:8:0<21
+%<E>/6:8:0>21
+%#/6:9:0#
+%'/6:9:0'
+%<E>/6:10:0$<
+%$<
+%<UPPER>/{6:11:0<UPPER>
+%<E>/6:12:0$>
+%$>
+%<E>/6:13:0<21
+%<E>/6:13:0>21
+%<E>/,.surname+grftagNomFamille}6:14:0<E>
+%<E>/6:15:0<5
+%<E>/6:15:0>5
+%<E>/6:16:0<20
+%<E>/6:16:0>20
+%<E>/,.surname+grftagNomFamille}6:17:0<E>
+%<E>/6:18:0<5
+%<E>/6:18:0>5
+%-/6:19:0-
+%'/6:19:1'
+%#/6:20:0#
+%#/6:21:0#
+%<archiduc.N:p>/{7:2:0<archiduc.N:p>
+%<baron.N:p>/{7:2:1<baron.N:p>
+%<comte.N:p>/{7:2:2<comte.N:p>
+%<csar.N:p>/{7:2:3<csar.N:p>
+%<czar.N:p>/{7:2:4<czar.N:p>
+%<duc.N:p>/{7:2:5<duc.N:p>
+%<empereur.N:p>/{7:2:6<empereur.N:p>
+%<marquis.N:p>/{7:2:7<marquis.N:p>
+%rois/{7:2:8rois
+%roys/{7:2:9roys
+%<tsar.N:p>/{7:2:10<tsar.N:p>
+%<tzar.N:p>/{7:2:11<tzar.N:p>
+%<vicomte.N:p>/{7:2:12<vicomte.N:p>
+%califes/{7:2:13califes
+%vizirs/{7:2:14vizirs
+%pachas/{7:2:15pachas
+%émirs/{7:2:16émirs
+%cheikhs/{7:2:17cheikhs
+%seigneurs/{7:2:18seigneurs
+%rajas/{7:2:19rajas
+%reines/{7:3:0reines
+%régentes/7:4:0régentes
+%mères/7:4:1mères
+%princes/{7:5:0princes
+%royaux/7:6:0royaux
+%consors/7:6:1consors
+%<E>/,.roleName+type="nobility"+grftagTitreNobiliaireP}7:9:0<E>
+%princesses/{7:11:0princesses
+%royales/7:12:0royales
+%#/7:13:0#
+%-/7:13:0-
+%mesdemoiselles/{8:2:0mesdemoiselles
+%Melles/{8:2:1Melles
+%Mles/{8:2:2Mles
+%Mlles/{8:2:3Mlles
+%missis/{8:2:4missis
+%misters/{8:2:5misters
+%messieurs/{8:2:6messieurs
+%mesm/{8:2:7mesm
+%'/8:2:7'
+%zelles/8:2:7zelles
+%m/{8:2:8m
+%'/8:2:8'
+%sieus/8:2:8sieus
+%<saint.A:p>/{8:2:9<saint.A:p>
+%Veuves/{8:3:0Veuves
+%Vves/{8:3:1Vves
+%Mmes/{8:4:0Mmes
+%mesdames/{8:4:1mesdames
+%MM/{8:7:0MM
+%./8:8:0.
+%<nomFs>/8:10:0<nomFs>
+%<E>/8:11:0$![
+%$![0
+%$]
+%<E>/8:12:0$]
+%feus/{8:14:0feus
+%feues/{8:14:1feues
+%<E>/,.addName}8:15:0<E>
+%Veuves/8:16:0Veuves
+%Vves/8:16:1Vves
+%M/{8:18:0M
+%<nomNSceDsup>/8:19:0<nomNSceDsup>
+%elles/8:20:0elles
+%les/8:20:1les
+%lles/8:20:2lles
+%rs/8:20:3rs
+%mes/8:21:0mes
+%<nomNSceFsup>/8:23:0<nomNSceFsup>
+%<nomNSceFsup>/8:24:0<nomNSceFsup>
+%V/8:25:0V
+%<nomNSceDsup>/8:26:0<nomNSceDsup>
+%ves/8:27:0ves
+%<E>/,.roleName+type="honorific"+grftagCiviliteS}8:30:0<E>
+%Veuves/8:31:0Veuves
+%Vves/8:31:1Vves
+%<nomDhi>/8:33:0<nomDhi>
+%elles/8:34:0elles
+%les/8:34:1les
+%lles/8:34:2lles
+%rs/8:34:3rs
+%mes/8:35:0mes
+%<nomFhi>/8:37:0<nomFhi>
+%<nomFhi>/8:38:0<nomFhi>
+%V/8:39:0V
+%<nomDhi>/8:40:0<nomDhi>
+%ves/8:41:0ves
+%Veuves/8:44:0Veuves
+%Vves/8:44:1Vves
+%ses/{9:2:0ses
+%altesses/9:2:0altesses
+%ses/{9:2:1ses
+%majestés/9:2:1majestés
+%ses/{9:2:2ses
+%saintetés/9:2:2saintetés
+%ses/{9:2:3ses
+%excellences/9:2:3excellences
+%royales/9:3:0royales
+%sérinissimes/9:3:1sérinissimes
+%impériales/9:3:2impériales
+%SAS/{9:4:0SAS
+%SAR/{9:4:1SAR
+%SARI/{9:4:2SARI
+%S/{9:4:3S
+%./9:4:3.
+%A/9:4:3A
+%S/9:4:3S
+%S/{9:4:4S
+%./9:4:4.
+%A/9:4:4A
+%R/9:4:4R
+%S/{9:4:5S
+%./9:4:5.
+%A/9:4:5A
+%R/9:4:5R
+%I/9:4:5I
+%<E>/9:5:0<5
+%<E>/9:5:0>5
+%<E>/,.addName+type="honorific"+grftagCiviliteNobiliaireP}9:7:0<E>
+%<E>/9:11:0<22
+%<E>/9:11:0>22
+%<E>/,.postInclude}10:3:0<E>
+%<E>/10:4:0<5
+%<E>/10:4:0>5
+%<E>/10:5:0<23
+%<E>/10:5:0>23
+%<E>/10:8:0<24
+%<E>/10:8:0>24
+%<postInclude>/11:3:0<postInclude>
+%<persName>/11:4:0<persName>
+%<listPers>/11:4:1<listPers>
+%<preInclude>/11:7:0<preInclude>
+%et/12:2:0et
+%ou/12:2:1ou
+%ou/12:2:2ou
+%bien/12:2:2bien
+%ou/12:2:3ou
+%bien/12:2:3bien
+%encore/12:2:3encore
+%ou/12:2:4ou
+%encore/12:2:4encore
+%voire/12:2:5voire
+%puis/12:2:6puis
+%enfin/12:2:7enfin
+%et/12:2:8et
+%//12:2:8/
+%ou/12:2:8ou
+%,/12:2:9,
+%-/12:2:10-
+%./12:4:0.
+%,/12:7:0,
+@ /13:2:0 
+%#/{{13:3:0#
+%<E>/,.demonym+grftagGentileP}14:2:0<E>
+%<N+PR+Hum~Pays:p>/{14:4:0<N+PR+Hum~Pays:p>
+%<A+Toponyme~Pays:p>/{14:4:1<A+Toponyme~Pays:p>
+%<N+Ethnonym:p>/{14:4:2<N+Ethnonym:p>
+%nord/{14:5:0nord
+%sud/{14:5:1sud
+%est/{14:5:2est
+%ouest/{14:5:3ouest
+%<N+PR+Hum~Pays:p>/14:6:0<N+PR+Hum~Pays:p>
+%<A+Toponyme~Pays:p>/14:6:1<A+Toponyme~Pays:p>
+%-/14:7:0-
+%<N+PR+Hum+Pays:p>/14:9:0<N+PR+Hum+Pays:p>
+%<A+Toponyme+Pays:p>/14:9:1<A+Toponyme+Pays:p>
+%<E>/,.nationality+grftagGentileP}14:10:0<E>
+%<N+PR+Hum+Pays:p>/{14:11:0<N+PR+Hum+Pays:p>
+%<A+Toponyme+Pays:p>/{14:11:1<A+Toponyme+Pays:p>
+%étrangers/{14:11:2étrangers
+%<PFX+Toponyme+Pays>/{14:12:0<PFX+Toponyme+Pays>
+%#/14:13:0#
+%-/14:13:0-
+%<PFX+Toponyme~Pays>/{14:14:0<PFX+Toponyme~Pays>
+%#/14:15:0#
+%-/14:15:0-
+%<E>/15:2:0<20
+%<E>/15:2:0>20
+%-/15:5:0-
+%'/15:5:1'
+%#/15:6:0#
+%#/15:7:0#
+%<E>/15:8:0<21
+%<E>/15:8:0>21
+%#/15:9:0#
+%'/15:9:0'
+%<E>/15:10:0$<
+%<UPPER>/{15:11:0<UPPER>
+%<E>/15:12:0$>
+%<E>/15:13:0<21
+%<E>/15:13:0>21
+%<E>/,.surname+grftagNomFamilleDe}15:14:0<E>
+%<E>/15:15:0<5
+%<E>/15:15:0>5
+%<E>/15:16:0<20
+%<E>/15:16:0>20
+%<E>/,.surname+grftagNomFamilleDe}15:17:0<E>
+%<E>/15:18:0<5
+%<E>/15:18:0>5
+%<E>/,.nameLink}15:19:0<E>
+%<E>/15:20:0<5
+%<E>/15:20:0>5
+%<E>/15:21:0<25
+%<E>/15:21:0>25
+%<E>/,.nameLink}15:22:0<E>
+%<E>/15:23:0<5
+%<E>/15:23:0>5
+%<E>/15:24:0<25
+%<E>/15:24:0>25
+%-/15:25:0-
+%'/15:25:1'
+%#/15:26:0#
+%#/15:27:0#
+%<archiduc.N:s>/{16:2:0<archiduc.N:s>
+%<baron.N:s>/{16:2:1<baron.N:s>
+%<comte.N:s>/{16:2:2<comte.N:s>
+%<csar.N:s>/{16:2:3<csar.N:s>
+%<czar.N:s>/{16:2:4<czar.N:s>
+%<duc.N:s>/{16:2:5<duc.N:s>
+%<empereur.N:s>/{16:2:6<empereur.N:s>
+%<marquis.N:s>/{16:2:7<marquis.N:s>
+%roi/{16:2:8roi
+%roy/{16:2:9roy
+%<tsar.N:s>/{16:2:10<tsar.N:s>
+%<tzar.N:s>/{16:2:11<tzar.N:s>
+%<vicomte.N:s>/{16:2:12<vicomte.N:s>
+%calife/{16:2:13calife
+%vizir/{16:2:14vizir
+%pacha/{16:2:15pacha
+%émir/{16:2:16émir
+%cheikh/{16:2:17cheikh
+%seigneur/{16:2:18seigneur
+%raja/{16:2:19raja
+%reine/{16:3:0reine
+%régente/16:4:0régente
+%mère/16:4:1mère
+%prince/{16:5:0prince
+%royal/16:6:0royal
+%consor/16:6:1consor
+%<E>/,.roleName+type="nobility"+grftagTitreNobiliaireS}16:9:0<E>
+%<num+type=\"ordinal\">/{16:11:0<num+type=\"ordinal\">
+%<E>/,.w+type="adjective"}16:12:0<E>
+%princesse/{16:13:0princesse
+%royale/16:14:0royale
+%#/16:15:0#
+%-/16:15:0-
+%mademoiselle/{17:2:0mademoiselle
+%Melle/{17:2:1Melle
+%Mle/{17:2:2Mle
+%Mlle/{17:2:3Mlle
+%miss/{17:2:4miss
+%mister/{17:2:5mister
+%monsieur/{17:2:6monsieur
+%mam/{17:2:7mam
+%'/17:2:7'
+%zelle/17:2:7zelle
+%m/{17:2:8m
+%'/17:2:8'
+%zelle/17:2:8zelle
+%m/{17:2:9m
+%'/17:2:9'
+%sieu/17:2:9sieu
+%<saint.A:s>/{17:2:10<saint.A:s>
+%Veuve/{17:3:0Veuve
+%Vve/{17:3:1Vve
+%Mme/{17:4:0Mme
+%madame/{17:4:1madame
+%Mr/{17:7:0Mr
+%Mrs/{17:7:1Mrs
+%./17:8:0.
+%<nomFs>/17:10:0<nomFs>
+%</17:10:1<
+%//17:10:1/
+%s/17:10:1s
+%>/17:10:1>
+%<E>/17:11:0$![
+%$![1
+%<E>/17:12:0$]
+%feu/{17:14:0feu
+%feue/{17:14:1feue
+%<E>/,.addName}17:15:0<E>
+%Veuve/17:16:0Veuve
+%Vve/17:16:1Vve
+%M/{17:18:0M
+%<nomNSceDsup>/17:19:0<nomNSceDsup>
+%elle/17:20:0elle
+%le/17:20:1le
+%lle/17:20:2lle
+%r/17:20:3r
+%me/17:21:0me
+%<nomNSceFsup>/17:23:0<nomNSceFsup>
+%<nomNSceFsup>/17:24:0<nomNSceFsup>
+%V/17:25:0V
+%<nomNSceDsup>/17:26:0<nomNSceDsup>
+%ve/17:27:0ve
+%<E>/,.roleName+type="honorific"+grftagCiviliteS}17:30:0<E>
+%Veuve/17:31:0Veuve
+%Vve/17:31:1Vve
+%<nomDhi>/17:33:0<nomDhi>
+%e/17:34:0e
+%elle/17:34:1elle
+%le/17:34:2le
+%lle/17:34:3lle
+%r/17:34:4r
+%me/17:35:0me
+%<nomFhi>/17:37:0<nomFhi>
+%<nomFhi>/17:38:0<nomFhi>
+%V/17:39:0V
+%<nomDhi>/17:40:0<nomDhi>
+%ve/17:41:0ve
+%Veuve/17:44:0Veuve
+%Vve/17:44:1Vve
+%M/{17:45:0M
+%docteur/{18:2:0docteur
+%docteure/{18:2:1docteure
+%Me/{18:2:2Me
+%Mtre/{18:2:3Mtre
+%maître/{18:2:4maître
+%maitre/{18:2:5maitre
+%<E>/,.w+type="noun"}18:4:0<E>
+%Dr/{18:5:0Dr
+%Prof/{18:5:1Prof
+%./18:5:1.
+%Dr/18:5:1Dr
+%./18:6:0.
+%<nomFs>/18:8:0<nomFs>
+%<E>/18:9:0$![
+%$![2
+%<E>/18:10:0$]
+%D/{18:11:0D
+%<nomNSceDsup>/18:12:0<nomNSceDsup>
+%r/18:13:0r
+%<nomNSceFsup>/18:14:0<nomNSceFsup>
+%M/{18:17:0M
+%<nomNSceDsup>/18:18:0<nomNSceDsup>
+%e/18:19:0e
+%tre/18:19:1tre
+%<nomDhi>/18:20:0<nomDhi>
+%e/18:21:0e
+%tre/18:21:1tre
+%<nomFhi>/18:22:0<nomFhi>
+%<nomNSceFsup>/18:23:0<nomNSceFsup>
+%<nomDhi>/18:24:0<nomDhi>
+%r/18:25:0r
+%<nomFhi>/18:27:0<nomFhi>
+%P/{18:29:0P
+%<nomNSceDsup>/18:30:0<nomNSceDsup>
+%r/18:31:0r
+%<nomNSceFsup>/18:32:0<nomNSceFsup>
+%<nomDhi>/18:33:0<nomDhi>
+%r/18:34:0r
+%<nomFhi>/18:35:0<nomFhi>
+%Prof/{18:36:0Prof
+%./18:36:0.
+%D/18:36:0D
+%<E>/,.w+type="noun"}18:38:0<E>
+%<E>/18:39:0<26
+%<E>/18:39:0>26
+%<E>/18:40:0<26
+%<E>/18:40:0>26
+%Pr/{18:41:0Pr
+%./18:41:0.
+%Prof/{18:41:1Prof
+%./18:41:1.
+%<E>/18:43:0<26
+%<E>/18:43:0>26
+%professeur/{18:44:0professeur
+%professeure/{18:44:1professeure
+%son/{19:2:0son
+%altesse/19:2:0altesse
+%sa/{19:2:1sa
+%majesté/19:2:1majesté
+%sa/{19:2:2sa
+%sainteté/19:2:2sainteté
+%son/{19:2:3son
+%excellence/19:2:3excellence
+%royale/19:3:0royale
+%sérinissime/19:3:1sérinissime
+%impériale/19:3:2impériale
+%SAR/{19:4:0SAR
+%SARI/{19:4:1SARI
+%S/{19:4:2S
+%./19:4:2.
+%A/19:4:2A
+%R/19:4:2R
+%S/{19:4:3S
+%./19:4:3.
+%A/19:4:3A
+%R/19:4:3R
+%I/19:4:3I
+%<E>/19:5:0<5
+%<E>/19:5:0>5
+%<E>/,.addName+type="honorific"+grftagCiviliteNobiliaireS}19:7:0<E>
+%<E>/19:11:0<27
+%<E>/19:11:0>27
+%ad/{20:2:0ad
+%ben/{20:2:1ben
+%bin/{20:2:2bin
+%da/{20:2:3da
+%di/{20:2:4di
+%do/{20:2:5do
+%don/{20:2:6don
+%el/{20:2:7el
+%al/{20:2:8al
+%mac/{20:2:9mac
+%mc/{20:2:10mc
+%van/{20:2:11van
+%von/{20:2:12von
+%van/{20:2:13van
+%den/20:2:13den
+%van/{20:2:14van
+%der/20:2:14der
+%<E>/,.nameLink+grftagParticule}20:4:0<E>
+%<E>/21:2:0$<
+%<UPPER>/21:3:0<UPPER>
+%<LOWER>/21:4:0<LOWER>
+%<UPPER>/21:4:1<UPPER>
+%<E>/21:5:0$>
+%monseigneurs/22:2:0monseigneurs
+%seigneurs/22:2:1seigneurs
+%dames/22:2:2dames
+%ladies/22:2:3ladies
+%miladies/22:2:4miladies
+%lords/22:2:5lords
+%sieurs/22:2:6sieurs
+%sirs/22:2:7sirs
+%M/22:4:0M
+%<nomDhi>/22:5:0<nomDhi>
+%grs/22:6:0grs
+%<nomFhi>/22:7:0<nomFhi>
+%<nomNSceDsup>/22:8:0<nomNSceDsup>
+%grs/22:9:0grs
+%<nomNSceFsup>/22:10:0<nomNSceFsup>
+%./22:12:0.
+%<nomFs>/22:13:0<nomFs>
+%<E>/22:14:0$![
+%$![3
+%<E>/22:15:0$]
+%Mgrs/22:16:0Mgrs
+%alias/23:4:0alias
+%dite/23:4:1dite
+%<appeler.V:K>/23:4:2<appeler.V:K>
+%<nommer.V:K>/23:4:3<nommer.V:K>
+%<surnommer.V:K>/23:4:4<surnommer.V:K>
+%<persName>/{23:5:0<persName>
+%,/23:6:0,
+%<E>/23:8:0<28
+%<E>/23:8:0>28
+%<E>/23:9:0<5
+%<E>/23:9:0>5
+%<E>/23:10:0<24
+%<E>/23:10:0>24
+%<E>/,.addName+grftagAlias}23:11:0<E>
+%jr/{24:3:0jr
+%sr/{24:3:1sr
+%junior/{24:3:2junior
+%senior/{24:3:3senior
+%fils/{24:4:0fils
+%père/{24:4:1père
+%fille/{24:4:2fille
+%mère/{24:4:3mère
+%<E>/,.genName+grftagJunior}24:5:0<E>
+%<E>/,.genName+grftagJunior}24:6:0<E>
+%de/24:7:0de
+%du/24:7:1du
+%d/24:7:2d
+%<E>/24:8:0$![
+%$![4
+%<E>/24:9:0$]
+%jr/{24:10:0jr
+%./24:10:0.
+%sr/{24:10:1sr
+%./24:10:1.
+%<E>/,.genName+grftagJunior}24:11:0<E>
+%<baliseXml+nomDs>/24:12:0<baliseXml+nomDs>
+%<E>/24:13:0$![
+%$![5
+%<E>/24:14:0$]
+%<A>/24:15:0<A>
+%<DET>/24:15:1<DET>
+%<PREP>/24:15:2<PREP>
+%<CONJS>/24:15:3<CONJS>
+%<CONJC>/24:15:4<CONJC>
+%<E>/24:16:0$![
+%$![6
+%<E>/24:17:0$]
+%./24:18:0.
+%:/24:18:1:
+%!/24:18:2!
+%?/24:18:3?
+%<TOKEN>/24:19:0<TOKEN>
+%des/25:2:0des
+%du/25:2:1du
+%de/25:2:2de
+%d/25:2:3d
+%'/25:2:3'
+%de/25:2:4de
+%la/25:2:4la
+%de/25:2:5de
+%l/25:2:5l
+%'/25:2:5'
+%<général.N:s>/26:2:0<général.N:s>
+%gal/26:2:1gal
+%gale/26:2:2gale
+%g/26:5:0g
+%<nomDhi>/26:6:0<nomDhi>
+%al/26:7:0al
+%ale/26:7:1ale
+%<nomFhi>/26:9:0<nomFhi>
+%<nomNSceDsup>/26:10:0<nomNSceDsup>
+%al/26:11:0al
+%ale/26:11:1ale
+%<nomNSceFsup>/26:12:0<nomNSceFsup>
+%monseigneur/27:2:0monseigneur
+%seigneur/27:2:1seigneur
+%dame/27:2:2dame
+%lady/27:2:3lady
+%milady/27:2:4milady
+%lord/27:2:5lord
+%sieur/27:2:6sieur
+%sir/27:2:7sir
+%M/27:4:0M
+%<nomDhi>/27:5:0<nomDhi>
+%gr/27:6:0gr
+%<nomFhi>/27:7:0<nomFhi>
+%<nomNSceDsup>/27:8:0<nomNSceDsup>
+%gr/27:9:0gr
+%<nomNSceFsup>/27:10:0<nomNSceFsup>
+%./27:12:0.
+%<nomFs>/27:13:0<nomFs>
+%<E>/27:14:0$![
+%$![7
+%<E>/27:15:0$]
+%Mgr/27:16:0Mgr
+%<UPPER>/28:3:0<UPPER>
+%<LOWER>/28:4:0<LOWER>
+%<UPPER>/28:4:1<UPPER>
+%<E>/28:5:0$>
+%<E>/28:6:0$<
+%-/28:7:0-
+f

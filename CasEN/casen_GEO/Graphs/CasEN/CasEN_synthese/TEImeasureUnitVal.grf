@@ -1,0 +1,47 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+27
+"<E>" 65 58 1 13 
+"" 808 269 0 
+"\>\<_unit\>" 505 58 1 8 
+"\<\/_unit\>" 680 58 1 6 
+"<TOKEN>" 819 58 2 5 9 
+"$![" 640 58 1 3 
+"$]" 770 58 1 4 
+"\<\/_unit\>" 948 58 1 18 
+"$unit(" 604 58 1 5 
+"$unit)" 919 58 1 7 
+"\<_measure type=\\\"" 139 58 1 11 
+"<WORD>" 294 58 1 12 
+"\\\"" 402 58 1 14 
+"$measure(" 99 58 1 10 
+"$measure)" 456 58 1 2 
+"\<\/_measure\>" 611 269 1 16 
+"<E>/$measure$ quantity=\"$val$\" unit=\"$unit$\">$unit$ $val$</_measure>" 729 269 1 1 
+"/<_measure type=\"magnitude\"><_unit>magnitude</_unit> <_val>3</_val></_measure>" 1231 54 0 
+"\<_val\>" 91 269 1 24 
+"\<\/_val\>" 253 269 1 22 
+"<TOKEN>" 392 269 2 21 25 
+"$![" 213 269 1 19 
+"$]" 343 269 1 20 
+"\<\/_val\>" 521 269 1 15 
+"$val(" 177 269 1 21 
+"$val)" 492 269 1 23 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1280 181 0 

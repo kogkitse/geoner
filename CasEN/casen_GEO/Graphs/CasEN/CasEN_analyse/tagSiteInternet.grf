@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1188 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 67 183 3 2 5 7 
+"" 427 183 0 
+"<blog>+<forum>+<site> <forum>/{" 124 183 2 3 4 
+"internet+intranet+web" 282 133 1 4 
+"<E>/,.w+type=\"noun\"+kind}" 398 183 1 1 
+"<service>/{" 165 298 1 6 
+"en ligne+web" 263 298 1 4 
+"<site>/{" 155 98 1 3 
+"/site est ambigü" 261 49 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 496 93 0 

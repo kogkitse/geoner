@@ -1,0 +1,33 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+13
+"<E>" 66 201 2 10 11 
+"" 978 201 0 
+":eventGuerre+:eventHydro+:eventManifestation+:eventManifestationSportive" 359 201 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 327 75 0 
+"cyclone+ouragan+tempête+tornade/{{" 225 294 1 8 
+":patternMajMinTiret" 511 294 1 6 
+"<E>/,.w+type=\"noun\"+name} " 644 294 1 7 
+"<E>/,.event+grfevent}" 810 294 1 1 
+"<E>/,.w+type=\"noun\"+kind} " 307 294 1 9 
+":B" 466 294 1 5 
+"<E>/${2}$" 155 201 2 2 4 
+"<E>/${1}$" 280 467 1 12 
+":eventDico" 634 467 1 1 

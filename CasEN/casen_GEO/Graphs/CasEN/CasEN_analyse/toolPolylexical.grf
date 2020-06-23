@@ -1,0 +1,24 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10053120
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+4
+"<E>" 40 256 1 3 
+"" 411 256 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 32 74 0 
+":persAmbigus+:persTerminologie+:tagPolylexicalEtat+:tagPolylexicalNom+:tagPolylexicalPhrase+:tagPolylexicalPrep+:tagPolylexicalProfession+:tagPolylexicalOrgPlace+:tagPolylexicalTemps+:tagTableauFigure" 161 256 1 1 

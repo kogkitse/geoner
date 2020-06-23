@@ -1,0 +1,55 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+35
+"<E>" 82 254 2 4 18 
+"" 1091 254 0 
+":B" 691 254 1 6 
+"<E>/,.term+grfpersTerminologie}" 978 254 3 1 7 33 
+"<algorithme>+<automorphisme>+<champ>+<coefficient>+<cohomologie>+<correction>+<corrélation>+<diagramme>+<dimension>+<décomposition>+<estimateur>+<exposant>+<loi>+<maladie>+<modèle>+<méthode>+<nombre>+<opérateur>+<point>+<polynôme>+<saucisse>+<score>+<surface>+<technique>+<température>+<théorème>+<transformer.V:Kf>/{{" 122 254 1 22 
+"<E>/,.w+type=\"noun\"+kind}" 415 254 1 14 
+":tagNomFamille" 751 254 1 16 
+":listEtOu" 717 147 2 21 11 
+"/coefficients de Lyapunov+surface de Kähler+corrélation de Prémoli+transformée inverse de Laplace+décomposition de Noether+théorème de Sigel+cohologie de Dolbeault+polynômes de Tchyebychev+automorphismes de Hénon" 1100 106 0 
+"/les nombres de Reynolds et de Weber" 781 79 0 
+"/groupe de Cremona et l'ensemble de Julia sont ambigus" 767 49 0 
+"<celui>+<dit>/{" 522 186 1 14 
+"/corrélation de Prémoli<ce:cross-ref refid=\"BIB12\">[12]</ce:cross-ref> et celle de Hughmark" 573 609 0 
+"<crossRefCache>+<xrefCache>+<citeCache>" 1142 494 0 
+"de+des+d'" 613 254 1 2 
+"<A>" 354 226 2 5 15 
+"<E>/,.persName}" 867 254 1 3 
+"<travail>+<étude>" 146 524 1 31 
+"<E>" 110 524 1 17 
+"<ref>" 1120 560 1 20 
+"<V>" 1242 560 0 
+":B" 653 222 1 2 
+"<E>" 307 254 2 5 15 
+":B" 628 524 1 25 
+"<E>" 352 524 1 28 
+":tagNomFamille" 688 524 1 30 
+":listEtOu" 686 412 2 27 23 
+"<celui>+<dit>" 459 456 1 28 
+"de+des+d'" 550 524 1 23 
+"<A>" 291 496 2 24 29 
+"<E>/,.persName+grfpersTerminologie}" 804 524 3 1 26 34 
+"<E>" 244 524 2 24 29 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 255 87 0 
+"plus" 699 58 1 11 
+"plus" 718 314 1 27 

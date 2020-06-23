@@ -1,0 +1,64 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+44
+"<E>" 11 166 7 7 9 17 30 25 32 34 
+"" 1315 181 0 
+"un+une+:list2-9" 198 74 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1109 621 0 
+"<E>/,.num+type=\"cardinal\"+0a9+0a24+0a59+0a99+1a12+1a29+1a30+1a31+1a54+1a999+1a9999+lettre+grftoolNombreLettres}" 367 74 1 1 
+":list25-29" 160 230 1 6 
+"<E>/,.num+type=\"cardinal\"+0a59+0a99+1a29+1a30+1a31+1a54+10a99+1a999+1a9999+lettre+grftoolNombreLettres}" 365 230 1 1 
+"trente/{" 182 276 1 8 
+"<E>/,.num+type=\"cardinal\"+0a59+0a99+1a30+1a31+1a54+10a99+1a999+1a9999+lettre+grftoolNombreLettres}" 405 276 1 1 
+"trente/{" 197 344 2 35 36 
+"<E>/,.num+type=\"cardinal\"+0a59+0a99+1a31+1a54+1a99+10a999+1a9999+lettre+grftoolNombreLettres}" 497 344 1 1 
+":list100-999" 244 549 1 12 
+"<E>/,.num+type=\"cardinal\"+1a999+1a9999+lettre+grftoolNombreLettres}" 605 549 1 1 
+":list1000-1899" 238 601 1 14 
+"<E>/,.num+type=\"cardinal\"+1000a9999+1a9999+lettre+grftoolNombreLettres}" 652 601 1 1 
+":list32-54" 250 399 1 16 
+"<E>/,.num+type=\"cardinal\"+0a59+0a99+1a54+10a99+1a999+1a9999+lettre+grftoolNombreLettres}" 546 399 1 1 
+"zéro/{" 153 12 3 18 29 2 
+"<E>/,.num+type=\"cardinal\"+0a9+0a24+0a59+0a99+lettre+grftoolNombreLettres}" 357 12 1 1 
+":list13-24" 153 180 1 20 
+"<E>/,.num+type=\"cardinal\"+0a24+0a59+0a99+1a29+1a30+1a31+1a54+10a99+1a999+1a9999+lettre+grftoolNombreLettres}" 359 180 1 1 
+":list2100-9999" 238 726 1 22 
+"<E>/,.num+type=\"cardinal\"+1000a9999+1a9999+lettre+grftoolNombreLettres}" 619 726 1 1 
+":list55-59" 250 449 1 24 
+"<E>/,.num+type=\"cardinal\"+0a59+0a99+10a99+1a999+1a9999+lettre+grftoolNombreLettres}" 576 449 1 1 
+"dix+onze+douze/{" 252 137 1 26 
+"<E>/,.num+type=\"cardinal\"+0a24+0a59+0a99+1a12+1a29+1a30+1a31+1a54+10a99+1a999+1a9999+lettre+grftoolNombreLettres}" 386 137 1 1 
+":list60-99" 250 496 1 28 
+"<E>/,.num+type=\"cardinal\"+0a99+10a99+1a999+1a9999+lettre+grftoolNombreLettres}" 576 496 1 1 
+"zéro" 264 38 1 18 
+":B" 100 117 1 31 
+":list2-9" 150 117 1 4 
+":B" 101 180 2 19 5 
+"un+une" 440 344 1 10 
+":B" 169 399 9 15 23 27 11 13 21 38 40 42 
+"et" 332 344 2 33 37 
+"-" 281 317 1 35 
+"-" 390 317 1 33 
+":list10000-99999" 225 777 1 39 
+"<E>/,.num+type=\"cardinal\"+10000a99999+lettre+grftoolNombreLettres}" 610 777 1 1 
+":list1900-1999+:list2000-2099" 241 662 1 41 
+"<E>/,.num+type=\"cardinal\"+1900a2099+1000a9999+1a9999+lettre+grftoolNombreLettres}" 655 662 1 1 
+":list100000-9999999+:listMilliards" 209 824 1 43 
+"<E>/,.num+type=\"cardinal\"+lettre+grftoolNombreLettres}" 594 824 1 1 

@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 144 344 4 16 14 19 21 
+"" 1052 344 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1274 203 0 
+":tagApresMesure" 554 386 1 5 
+"<E>" 525 344 2 3 5 
+"<E>" 666 344 1 6 
+"<E>/,.measure+type=\"length\"+grfamountLongueur}" 714 344 2 7 1 
+"de/{" 778 193 1 8 
+"hauteur+longueur+largeur+profondeur+haut+long+large+diagonale+rayon+diamètre+circonférence" 827 193 1 9 
+"<E>/,.offset}" 936 193 1 1 
+"<E>/,.unit}" 470 344 3 12 4 20 
+":listLongueur" 378 344 1 10 
+":tagEntreMesure" 366 285 1 13 
+":B" 341 344 1 11 
+"<pied>+<pouce>/{{" 249 193 1 15 
+"<E>/,.unit}" 326 193 3 12 18 30 
+"<point>/{{" 204 145 1 17 
+"<E>/,.unit}" 309 145 1 18 
+"<E>/,.measure+type=\"length\"+grfamountLongueur}" 405 193 1 7 
+":B" 246 344 1 13 
+":tagEntreMesure" 344 427 1 23 
+"m/{{" 324 574 1 22 
+"<E>/,.unit}" 370 574 1 25 
+"m/{" 322 493 1 24 
+"<E>/,.unit}" 368 493 1 25 
+"<E>" 441 493 3 20 28 3 
+"'+(" 595 493 1 29 
+"#" 547 493 1 26 
+"$![" 507 493 1 27 
+"$]" 644 493 1 6 
+":tagApresMesure" 533 272 1 5 

@@ -1,0 +1,62 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+42
+"<E>" 39 341 7 2 12 16 25 30 32 38 
+"" 1221 341 0 
+"commission+<institution>+union+assemblée+parlement/{{" 221 79 1 3 
+"<E>/,.w+type=\"noun\"+kind}" 329 79 1 4 
+"<européen.N:f>/{" 730 79 1 5 
+"<E>/,.w+type=\"adjective\"}" 887 79 1 41 
+"<territorial.A:f>+<national.A:f>+<local.A:f>+<régional.A:f>+<municipal.A:f>/{" 393 341 1 7 
+"<E>/,.w+type=\"adjective\"}" 522 341 1 15 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 810 704 0 
+"des" 337 232 1 10 
+"départements+régions+territoires/{" 389 232 1 11 
+"<E>/,.w+type=\"noun\"+name}" 489 232 1 15 
+"<assemblée>+<collectivité>/{{" 118 341 1 13 
+"<E>/,.w+type=\"noun\"+kind}" 214 341 2 6 9 
+"<E>/,.org+type=\"assembly\"+quaero=\"adm\"+grforgAssemblee}" 746 341 1 1 
+"<E>" 666 341 1 14 
+"<conseil>/{{" 134 482 1 19 
+":listDeLe" 362 600 1 18 
+"état+ministres+ordre+sécurité/{" 457 600 1 20 
+"<E>/,.w+type=\"noun\"+kind}" 222 482 2 17 21 
+"<E>/,.w+type=\"noun\"+name}" 533 600 1 15 
+"<consultatif.A:f>+<général.A:f>+<local.A:f>+<municipal.A:f>+<national.A:f>+<royal.A:f>+<régional.A:f>+<supérieur.A:f>+<territorial.A:f>/{" 379 482 1 22 
+"<E>/,.w+type=\"adjective\"}" 508 482 1 15 
+"<général.A:f>/{" 472 155 1 24 
+"<E>/,.w+type=\"adjective\"}" 583 155 1 27 
+"<assemblée>/{{" 221 155 1 26 
+"<E>/,.w+type=\"noun\"+kind}" 317 155 1 23 
+":listDeLe" 639 155 1 28 
+"Onu+Organisation des nations unies+Nations unies/{" 730 155 1 29 
+"<E>/,.w+type=\"noun\"+name}" 935 155 1 41 
+"<parlement>+<sénat>/{{" 154 649 1 31 
+"<E>/,.w+type=\"noun\"+kind}" 583 649 1 15 
+"<chambre>/{{" 132 772 1 33 
+"<E>/,.w+type=\"noun\"+kind}" 251 772 1 34 
+":listDe" 381 772 1 35 
+"agriculture+commerce+communes+députés+industrie+lords+métiers+notaires+pairs+représentants/{" 449 772 1 36 
+"<E>/,.w+type=\"noun\"+name}" 589 772 2 15 37 
+"et" 476 663 1 34 
+"G#/{{" 188 19 1 39 
+"<num+type=\"cardinal\"+0a24>" 358 19 1 40 
+"<E>/,.w+type=\"noun\"+name}" 964 19 1 41 
+"<E>/,.orgName+type=\"assembly\"+quaero=\"adm\"+grforgAssemblee}" 1100 79 1 1 

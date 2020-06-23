@@ -1,0 +1,62 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 9843200
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+42
+"<E>" 67 220 11 2 5 8 11 18 21 28 30 32 35 39 
+"" 817 220 0 
+"après-midi+cours du soir/{" 191 220 1 3 
+"<E>/,.N+grftagPolylexicalTemps}" 571 220 1 1 
+"<E>/,.none+grftagPolylexicalTemps}" 554 359 1 1 
+"dans le/{" 185 389 1 6 
+"Midi/{" 287 389 1 7 
+"<E>/,.placeName+type=\"region\"}" 357 389 1 4 
+"printemps/{" 203 29 1 9 
+"<arabe>" 307 29 1 10 
+"<E>/,.event+grftagPolylexicalTemps}" 528 29 1 1 
+"<heure>/{" 210 268 1 12 
+"<supplémentaire>" 385 268 1 3 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 908 169 0 
+"<E>/,.titleStmt+media=\"radio\"+grftagPolylexicalTemps}" 511 738 1 1 
+":listMois" 306 782 1 17 
+"$![" 266 782 1 15 
+"$]" 385 782 1 38 
+"le cinq sept/{{" 133 782 1 16 
+"<bon>/{" 428 521 1 20 
+"journée+matinée+soirée+nuit+semaine+week-end+weekend" 519 521 1 27 
+"<E>" 173 521 2 23 26 
+"<DET>" 252 521 1 24 
+"$![" 214 521 1 22 
+"$]" 309 521 1 25 
+"<TOKEN>" 334 521 1 19 
+"{^}" 312 463 1 19 
+"<E>/,.INTJ+grftagPolylexicalTemps}" 610 521 1 1 
+"<ordre>/{" 208 162 1 29 
+"du jour" 364 162 1 3 
+"au grand jour+de jour+de nuit+jour et nuit/{" 169 610 1 31 
+"<E>/,.ADV+grftagPolylexicalTemps}" 610 610 1 1 
+"sous un jour/{" 165 697 2 33 34 
+"<A>" 375 697 1 31 
+"<ADV>" 279 655 1 33 
+"heure d'/{" 237 336 1 36 
+"hiver+été" 458 336 1 3 
+"/<titleStmt media=\"radio\"><title level=\"s\">" 598 836 0 
+"<E>/,.title+level=\"s\"}" 425 782 1 14 
+"homme+femme+<sportif.N:s>/{" 181 104 2 40 41 
+"de l'année" 460 104 1 3 
+"politique" 344 75 1 40 

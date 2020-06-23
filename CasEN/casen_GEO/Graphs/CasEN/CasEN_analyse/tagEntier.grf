@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1887 867
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 47 415 5 2 3 15 14 17 
+"" 1104 415 0 
+":B" 123 149 1 8 
+":tagUple" 183 590 1 1 
+"<E>" 398 198 2 5 6 
+"mille+<millier>+<million>+<milliard>" 660 198 2 10 11 
+"<num+type=\"collective\">" 435 272 2 7 10 
+"de" 615 242 1 5 
+":listDe" 161 149 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 545 -3 0 
+"<E>/,.val}" 908 272 2 1 13 
+"et " 778 198 1 12 
+"demi+quart" 831 198 1 10 
+":listDe" 1002 272 1 1 
+"un+une+<num~romain>/{" 136 415 2 4 16 
+"quelques+plusieurs+chaque+les/{" 146 248 1 4 
+"<E>/,.val}" 398 415 1 1 
+"<num+type=\"fraction\">/{" 158 500 1 16 

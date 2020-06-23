@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1188 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 70 200 1 2 
+"" 300 200 0 
+"<centime>+cent+cents+<shilling>+penny+pens+pennies+kopeck/{" 152 200 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 417 91 0 
+"<E>/,.unit}" 258 200 1 1 

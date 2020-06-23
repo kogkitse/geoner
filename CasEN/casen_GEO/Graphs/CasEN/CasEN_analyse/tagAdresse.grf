@@ -1,0 +1,62 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+42
+"<E>" 53 430 3 2 31 37 
+"" 1561 601 0 
+":tagAdresseRue" 119 430 3 4 21 36 
+":patternBoitePostale" 331 375 1 4 
+"<E>" 510 430 4 26 22 5 33 
+"<E>" 829 430 3 6 30 29 
+"<E>" 1126 430 1 17 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1367 372 0 
+":listDeLe" 685 676 1 9 
+"<N+Region>/{" 755 676 1 10 
+"<E>/,.adrLine+type=\"region\"}" 898 676 1 19 
+"<E>" 1250 685 1 12 
+"<N+pays>+<A+pays>+<placeName+type=\"country\">/{" 1296 685 1 13 
+"<E>/,.adrLine+type=\"country\"}" 1516 685 1 1 
+"," 1200 685 1 11 
+"<E>" 625 748 2 8 20 
+"," 573 748 1 15 
+"<E>" 1086 519 1 18 
+"<E>" 453 601 3 19 16 15 
+"<E>" 1044 601 3 1 14 11 
+"<placeName+type=\"region\">+<A+Region>/{" 685 748 1 10 
+"," 225 375 1 36 
+":listALe+:listDeLe" 587 480 1 24 
+":patternVille" 699 480 1 25 
+":B" 666 480 1 23 
+"<E>/,.adrLine+type=\"settlement\"}" 789 480 1 5 
+"," 534 480 1 22 
+":tagAdresseVille" 670 376 1 5 
+"," 614 376 1 27 
+":tagAdresseArrondissement" 923 376 1 6 
+"," 878 376 1 29 
+":patternBoitePostaleExtent" 175 225 3 32 33 34 
+":tagAdresseRue" 378 283 1 4 
+"<E>" 568 225 3 27 28 40 
+"," 339 283 1 32 
+":patternBoitePostaleExtent" 312 331 1 33 
+"<E>" 276 375 2 3 35 
+":patternBoitePostale" 114 505 3 38 39 4 
+":tagAdresseRue" 316 505 1 4 
+"," 265 547 1 38 
+":tagVilleAmerique" 1060 225 1 41 
+"<E>" 1258 512 1 19 

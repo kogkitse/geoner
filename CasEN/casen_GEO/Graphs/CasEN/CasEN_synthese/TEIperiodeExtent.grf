@@ -1,0 +1,58 @@
+#Unigraph
+SIZE 1887 879
+FONT dates New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+38
+"<E>" 59 226 1 2 
+"" 1307 585 0 
+"\<_datePeriod\>\<_extent\>" 111 226 2 8 7 
+"\<_val\>" 380 130 1 6 
+"<TOKEN>" 522 130 2 5 9 
+"$![" 340 130 1 3 
+"$]" 465 130 1 4 
+"\<_val\>" 663 226 1 14 
+"$de(" 300 130 1 5 
+"$de)" 623 130 1 7 
+"\<\/_val\>" 869 226 1 13 
+"<TOKEN>" 1011 226 2 12 15 
+"$![" 829 226 1 10 
+"$]" 954 226 1 11 
+"$un(" 789 226 1 12 
+"$un)" 1112 226 1 16 
+"\<\/_val\>" 1180 226 1 33 
+"\<\/_val\>" 681 403 1 20 
+"<TOKEN>" 796 403 2 19 22 
+"$![" 641 403 1 17 
+"$]" 761 403 1 18 
+"$deux(" 601 403 1 19 
+"$deux)" 903 403 1 23 
+"\<\/_val\>\<\/_extent\>\<\/_datePeriod\>" 944 403 1 24 
+"<E>/<_date from=\"$un$\" to=\"$deux$\">" 718 650 2 25 27 
+"<E>/$de.UNSET$" 998 585 1 26 
+"<E>/$un$ $a$ $deux$</date>" 1265 585 1 1 
+"<E>/$de.SET$" 1004 650 1 28 
+"<E>/$de$ " 1141 650 1 26 
+"\<_val\>" 189 403 1 32 
+"<TOKEN>" 331 403 2 31 34 
+"$![" 149 403 1 29 
+"$]" 274 403 1 30 
+"$a(" 109 403 1 31 
+"$a)" 432 403 1 35 
+"\<_val\>" 500 403 1 21 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1337 401 0 
+"/<_datePeriod><_extent>de <_val>2009</_val> à <_val>2015</_val></_extent></_datePeriod>" 819 64 0 

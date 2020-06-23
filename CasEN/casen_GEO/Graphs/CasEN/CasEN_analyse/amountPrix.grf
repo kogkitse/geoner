@@ -1,0 +1,43 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+23
+"<E>" 102 305 2 5 9 
+"" 1004 305 0 
+"<E>/,.measure+type=\"price\"+grfamountPrix}" 964 305 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 620 78 0 
+"par+\/+le+la+l'+l`+les" 520 305 2 13 22 
+"<measure+type=\"currency\">/{{" 158 305 1 12 
+"pour" 582 189 1 7 
+"<measure>" 642 189 1 2 
+"<E>" 420 305 2 6 4 
+":tagAvantEntier+:tagApproximatif" 198 435 1 10 
+"<livre>/{{" 319 435 1 11 
+"<E>/,.unit}" 374 435 1 8 
+"<E>/,.erase}" 349 305 1 8 
+":tagAmountAmountPar" 711 305 1 2 
+"h+min+mn/{" 774 449 1 15 
+"<E>/,.unit}" 917 524 1 2 
+"s/{" 733 524 1 18 
+"'" 811 524 1 19 
+"$![" 771 524 1 17 
+"$]" 858 524 1 15 
+":B" 661 361 1 21 
+":listNomDeTempsJourPlus+:listNomDeTempsJourMoins" 708 361 1 15 
+"<E>" 598 524 3 16 14 20 

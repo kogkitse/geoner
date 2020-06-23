@@ -1,0 +1,188 @@
+0000000013
+-1 geogPlaceCoordination
+: 4 2 3 1 
+: -4 3 
+: -7 4 
+: -5 5 -6 5 
+: -4 6 
+: 1 7 
+: -3 8 
+: -2 9 
+: 2 10 
+: 4 12 3 11 
+: 1 13 
+: -7 14 
+: -4 15 
+: -2 16 
+: -5 17 -6 17 
+: -3 18 
+: -4 6 -7 14 
+: 1 19 
+: 2 17 
+: -2 9 5 20 
+t 
+f 
+-2 listEtOu
+: 15 3 14 4 12 3 11 3 10 3 7 2 6 1 
+t 16 6 13 5 
+t 16 6 9 3 8 7 
+t 16 6 
+t 16 6 15 3 14 3 12 3 11 3 10 3 7 2 6 1 
+: 7 3 
+: 16 8 
+t 16 6 9 3 
+: 16 9 
+t 
+f 
+-3 patternNomMixte
+: -8 1 -9 1 18 1 17 1 
+t 19 2 
+: 23 3 21 4 20 4 16 3 15 3 
+: 19 5 
+t 
+: -8 1 -9 1 22 1 18 1 17 1 
+f 
+-4 BB
+: 25 2 24 1 
+: 25 2 
+t 
+f 
+-5 patternIncludeGeogName
+: 30 1 29 2 27 1 26 0 
+t 28 1 
+: -10 4 -11 3 29 2 27 1 
+: 29 2 27 1 
+: -11 3 29 2 27 1 
+f 
+-6 patternIncludePlaceName
+: 32 2 31 1 30 1 26 0 
+t 28 1 
+: 31 1 
+f 
+-7 B
+: 33 2 24 1 
+: 33 2 
+t 
+f 
+-8 patternMajMin
+: 34 1 
+: 35 2 
+: 36 3 35 3 
+: 37 4 36 3 35 3 
+t 
+f 
+-9 patternMaj1
+: 34 1 
+: 35 2 
+: 37 3 
+t 
+f 
+-10 tagDemonym
+: -7 3 -12 2 49 1 
+: 50 4 
+t -2 0 
+: -13 5 
+: 51 6 
+: 45 8 44 8 43 8 42 8 15 7 
+: 57 9 56 9 55 9 54 9 53 9 52 9 41 8 40 8 39 8 38 8 
+: 45 8 44 8 43 8 42 8 
+: 46 2 
+: 58 2 
+f 
+-11 listDeLe
+: 62 3 61 2 60 1 59 1 
+t 
+t 64 3 63 1 
+: 23 1 
+f 
+-12 patternPFXPhone
+: 34 1 
+: 65 2 
+: 67 3 66 3 
+: 37 4 
+: 58 5 
+t 
+f 
+-13 patternPrefixeToponyme
+: 74 2 73 2 72 2 71 2 70 2 69 2 68 1 
+t 68 1 15 3 
+t 15 4 
+: 68 1 
+t 
+f 
+%<E>
+%<E>/,.place}
+%<E>/,.placeName}
+%<E>/${2}$
+%<E>/${1}$
+%<E>/,.listPlace+grfgeogPlaceCoordination}
+%et
+%ou
+%bien
+%encore
+%voire
+%puis
+%enfin
+%/
+%,
+%-
+%.
+%<sigleNum>
+%<vieuxSigle>
+%#
+%®
+%©
+%<num>
+%'
+@ 
+%#/{{
+%<preInclude>
+%<geogName>
+%<postInclude>
+%<geogFeat>
+%<listPlace>
+%<placeName>
+%<place>
+%#/{
+%$<
+%<UPPER>
+%<LOWER>
+%$>
+%<A+Toponyme>/{
+%<A+Ethnonyme~Religion>/{
+%<N+Hum+Toponyme>/{
+%<N+Ethnonyme~Religion>/{
+%<A+Toponyme>
+%<A+Ethnonyme~Religion>
+%<N+Hum+Toponyme>
+%<N+Ethnonyme~Religion>
+%<E>/,.w+type="adjective"+demonym}
+%pro
+%anti
+%$![0
+%<N+Prenom>
+%$]
+%<A+Ethnonyme+Religion>/{
+%<N+Ethnonyme+Religion>/{
+%<noir>/{
+%<blanc>/{
+%<A+PartiPolitique>/{
+%<N+PartiPolitique>/{
+%<E>/,.w+type="adjective"}
+%des
+%du
+%de
+%d
+%la
+%l
+%<PFX+Toponyme>/{
+%phone
+%phones
+%<PFX+Toponyme>
+%outre
+%nord
+%sud
+%est
+%ouest
+%midi
+f

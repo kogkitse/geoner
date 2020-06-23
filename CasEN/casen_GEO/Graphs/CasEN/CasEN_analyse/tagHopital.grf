@@ -1,0 +1,58 @@
+#Unigraph
+SIZE 1919 927
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+38
+"<E>" 31 459 5 5 2 24 25 34 
+"" 1387 502 0 
+"<asile>+<dispensaire>+<hospice>+<hosto>+<hôpital>+<léproserie>+<maternité>+<mouroir>+<polyclinique>+<préventorium>+<sanatorium>+<solarium>/{" 118 457 2 21 17 
+"<régional>+universitaire/{" 1172 440 1 18 
+"<E>" 1207 628 1 1 
+"CHU+CHRU+CHR+Epad/{" 110 628 1 17 
+":listSpecialiteMedicale" 768 457 1 10 
+"santé/{" 699 502 1 15 
+"mentale+publique/{" 1009 536 1 16 
+"<E>" 1143 502 2 1 3 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 928 457 1 9 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 996 218 0 
+"<E>" 627 457 1 22 
+":B" 731 457 1 6 
+"<E>" 948 502 2 9 8 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 757 502 1 14 
+"<E>/,.w+type=\"adjective\"}" 1075 539 1 9 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 393 628 1 4 
+"<E>/,.w+type=\"adjective\"}" 1264 440 1 1 
+"<privé>+<public>/{" 520 406 1 20 
+"<E>/,.w+type=\"adjective\"}" 590 406 1 12 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 297 457 1 30 
+"<E>" 663 457 3 13 23 7 
+"<chirurgical>+<hospitalier>+psychiatrique/{" 736 374 1 31 
+"<antenne>+<établissement>+<pôle>+<institut>+<laboratoire>/{" 113 290 1 21 
+"<centre>+<maison>/{" 102 214 1 26 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 194 214 2 28 36 
+"repos+retraite/{" 350 187 1 29 
+"de" 256 187 1 27 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 432 214 1 30 
+"<E>" 462 457 2 19 12 
+"<E>/,.w+type=\"adjective\"}" 907 374 1 9 
+"<N>" 121 818 1 35 
+"<clinique>/{" 225 818 1 17 
+"$![" 81 818 1 32 
+"$]" 191 818 1 33 
+"<chirurgical>+<hospitalier>+anti-douleur+psychiatrique/{" 279 88 1 37 
+"<E>/,.w+type=\"adjective\"}" 749 88 1 9 

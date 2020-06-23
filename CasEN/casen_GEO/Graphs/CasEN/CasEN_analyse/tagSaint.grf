@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 36 279 2 2 5 
+"" 849 285 0 
+"<saint>/{" 139 175 2 4 3 
+"-" 258 133 1 4 
+":patternMajMinTiret" 312 175 2 11 8 
+"Notre/{" 170 370 2 6 7 
+"Dame" 280 370 2 11 8 
+"-" 234 352 1 6 
+":listDeLe" 502 285 1 9 
+":patternMajMinTiret" 591 285 1 11 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 641 81 0 
+"<E>/,.name}" 797 285 1 1 

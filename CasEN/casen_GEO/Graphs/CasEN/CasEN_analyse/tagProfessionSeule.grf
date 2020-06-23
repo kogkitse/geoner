@@ -1,0 +1,45 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+25
+"<E>" 38 224 4 3 13 17 19 
+"" 899 224 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 810 93 0 
+"<apprenti.N:s>/{" 192 224 1 11 
+"<N+Profession>/{" 514 224 1 5 
+"<E>/,.w+type=\"noun\"}" 726 224 2 10 1 
+"<E>" 462 224 2 4 7 
+"<réparateur>/{" 508 323 1 8 
+"de" 608 323 1 9 
+"<N>" 648 323 1 5 
+":listEtOu" 574 149 1 6 
+"<E>/,.w+type=\"adjective\"}" 297 224 2 6 12 
+"-" 376 173 1 6 
+"<E>" 227 323 1 7 
+"<N+Profession>/{" 475 424 1 15 
+"<E>/,.w+type=\"noun\"}" 589 424 1 1 
+"<principal>" 320 424 1 18 
+"$![" 280 424 1 16 
+"$]" 429 424 1 14 
+"<N+Profession>/{" 291 544 1 20 
+"<E>/,.w+type=\"noun\"}" 405 544 1 22 
+"/ici, Principal de collège" 319 381 0 
+"<principal>/{" 562 544 1 23 
+"<E>/,.w+type=\"adjective\"}" 680 544 1 1 
+"/ici, adjectif principal" 551 497 0 

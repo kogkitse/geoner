@@ -1,0 +1,73 @@
+#Unigraph
+SIZE 1632 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+53
+"<E>" 42 377 1 19 
+"" 1388 377 0 
+"<E>" 224 377 3 49 50 51 
+"<E>/,.unit}" 631 377 2 7 8 
+":listUnit" 575 377 1 3 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 142 97 0 
+":tagAvantEntier" 312 377 4 9 17 26 23 
+":tagApresEntier" 681 347 1 8 
+"<E>" 830 377 1 45 
+":B" 542 377 2 4 37 
+"sur+de" 655 457 1 11 
+":tagEntier" 705 457 1 8 
+"<E>" 692 653 2 13 25 
+"<pers+coll>+<func+ind>+<func+coll>/{" 787 653 1 14 
+"<E>/,.object}" 949 653 1 36 
+":tagDemonym" 776 726 1 16 
+"<E>/,.entity+pers+coll}" 907 726 1 14 
+"<E>" 576 653 3 12 21 35 
+":tagQualifierDet" 112 404 1 2 
+":B" 81 377 2 2 18 
+":tagFraction+:tagUple" 330 653 1 43 
+":tagObjet" 786 519 1 22 
+"<E>/,.measure+casen_divers+grfamountDivers}" 1332 377 1 1 
+":listDe+:listDeLe+:listDeCe" 470 653 1 17 
+":listDe+:listDeLe+:listDeCe" 942 333 1 47 
+":BB" 728 726 1 15 
+"fois" 531 457 2 27 10 
+"plus+moins" 574 516 1 23 
+"<E>/,.unit}" 649 176 2 33 52 
+"%+‰+pour cent+pour mille/{" 575 176 1 28 
+"une/{" 333 457 1 31 
+"<E>/,.val}" 381 457 1 26 
+":tagAvantMesure" 435 176 1 29 
+":listDe" 754 74 1 46 
+":tagObjet" 1112 377 1 22 
+":tagAdjectif" 605 695 1 12 
+"<E>" 1010 653 1 22 
+"<car.N>+<voiture>+<fourgon>+<fourgonette>+<camion>+<train>+<convoi>+<hélicoptère>+<avion>" 762 186 1 38 
+"<E>/,.unit}" 887 186 1 39 
+":listDe" 925 186 2 40 41 
+":B" 1043 131 1 48 
+"<coll>+<N~PR~func~loc~org~pers>/{" 1070 186 1 42 
+"<E>/,.object}" 1265 186 1 22 
+":I" 426 653 1 23 
+"<E>" 899 377 2 24 47 
+":I" 871 377 1 44 
+":tagEntier" 958 74 2 9 8 
+"<E>" 1047 377 1 34 
+":patternPre" 1127 131 1 42 
+"<E>/${0}$" 277 377 1 6 
+"<E>/${1}$" 255 457 2 30 20 
+"<E>/${2}$" 406 176 1 32 
+":I" 801 333 1 24 

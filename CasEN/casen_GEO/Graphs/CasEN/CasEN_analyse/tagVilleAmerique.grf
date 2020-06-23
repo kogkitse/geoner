@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 137 293 1 10 
+"" 832 293 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1002 143 0 
+"<E>/${2}$" 275 293 1 4 
+":patternIncludePlaceName" 311 293 1 9 
+":tagEtatAmerique" 654 293 1 1 
+"<E>/${1}$" 270 210 1 8 
+"," 580 293 1 5 
+":patternMajMin" 384 210 1 9 
+"<E>/,.adrLine+settlement+grftagVilleAmerique}" 517 293 1 7 
+":B" 184 293 2 3 6 

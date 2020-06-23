@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1232 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 196 278 1 2 
+"" 599 278 0 
+"<calorie>+électron-<volt>+<volt>+eV+V+cal+<joule>+<mégajoule>+<kilojoule>+watt-<heure>+kilowatt-<heure>+J+kJ+W+Wh+kW+kWh+<watt>+<kilowatt>+<mégawatt>+<gigawatt>+MW+GW/{" 324 278 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 567 80 0 
+"<E>/,.unit}" 497 278 1 1 

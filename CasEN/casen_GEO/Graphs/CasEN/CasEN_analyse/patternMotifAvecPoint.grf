@@ -1,0 +1,69 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+49
+"<E>" 112 303 4 7 23 31 34 
+"" 1223 303 0 
+"MM+Prof+M+Pr" 482 190 1 3 
+"#." 592 190 1 1 
+"#." 892 427 1 1 
+"<N+Prenom>" 378 427 1 10 
+"#-#" 617 401 1 16 
+"<E>/${1}$" 197 303 2 5 25 
+"Ch+Ph+Th" 445 303 1 11 
+"#." 549 303 2 10 28 
+"<E>" 581 427 2 6 16 
+"<E>" 513 303 2 9 10 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 841 109 0 
+"$<" 372 362 1 14 
+"<UPPER>" 408 362 1 15 
+"$>" 482 362 1 11 
+"<E>" 664 427 2 19 17 
+"Ch+Ph+Th" 753 401 1 18 
+"<E>" 860 427 1 4 
+"$<" 705 461 1 20 
+"<UPPER>" 741 461 1 21 
+"$>" 815 461 1 18 
+"/prénoms" 479 397 0 
+"<E>/${2}$" 333 190 2 2 38 
+"." 294 303 1 26 
+"$![" 255 303 1 24 
+"$]" 323 303 2 13 8 
+"Chez+Analyse+Synthèse+Schéma" 671 303 1 29 
+"$![" 635 303 1 27 
+"$]" 752 303 1 1 
+"/ajout Istex pour les légendes de figure" 794 336 0 
+"<WORD>" 467 582 1 32 
+"#.#" 580 582 1 33 
+"<WORD>" 678 582 1 1 
+"<NB>" 438 650 2 35 43 
+"#.#" 551 650 1 36 
+"<NB>" 678 650 2 1 40 
+"/nombre" 710 612 0 
+"Mr+Mrs" 475 89 1 3 
+"/erreur fréquente" 529 84 0 
+"#.#" 775 650 1 41 
+"<NB>" 902 650 1 1 
+"/date" 840 630 0 
+"#\:#" 534 789 1 44 
+"<NB>" 661 789 2 46 48 
+"/heure:minute" 573 743 0 
+"#\:#" 758 789 1 41 
+"/:seconde" 775 711 0 
+"<E>" 829 842 1 1 

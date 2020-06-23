@@ -1,0 +1,72 @@
+#Unigraph
+SIZE 1887 879
+FONT times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+52
+"<E>" 115 227 1 3 
+"" 1333 568 0 
+"/<_timePeriod>de <_time when=\"07:20:00\">sept heures vingt du matin</_time> à <_time when=\"08:40:00\">huit heures quarante</_time></_timePeriod>" 382 53 0 
+"\<_timePeriod\>" 167 227 2 9 8 
+"\<_time" 380 130 1 7 
+"<TOKEN>" 522 130 2 6 10 
+"$![" 340 130 1 4 
+"$]" 465 130 1 5 
+"\<_time when" 660 227 1 15 
+"$de(" 300 130 1 6 
+"$de)" 623 130 1 8 
+"\>" 855 227 1 14 
+"<TOKEN>" 946 227 2 13 16 
+"$![" 815 227 1 11 
+"$]" 911 227 1 12 
+"$from(" 775 227 1 13 
+"$from)" 1053 227 1 23 
+"\<\/_time\>" 1294 227 1 20 
+"<TOKEN>" 1436 227 2 19 22 
+"$![" 1254 227 1 17 
+"$]" 1379 227 1 18 
+"$un(" 1214 227 1 19 
+"$un)" 1537 227 1 24 
+"\>" 1098 227 1 21 
+"\<\/_time\>" 1605 227 1 41 
+"\<\/_time\>" 255 633 1 28 
+"<TOKEN>" 370 633 2 27 30 
+"$![" 215 633 1 25 
+"$]" 335 633 1 26 
+"$deux(" 175 633 1 27 
+"$deux)" 477 633 1 31 
+"\<\/_time\>\<\/_timePeriod\>" 518 633 1 32 
+"<E>/<_time from$from$ to$to$>" 744 633 2 33 35 
+"<E>/$de.UNSET$" 1024 568 1 34 
+"<E>/$un$ $a$ $deux$</time>" 1291 568 1 1 
+"<E>/$de.SET$" 1030 633 1 36 
+"<E>/$de$ " 1167 633 1 34 
+"\<_time" 189 403 1 40 
+"<TOKEN>" 331 403 2 39 42 
+"$![" 149 403 1 37 
+"$]" 274 403 1 38 
+"$a(" 109 403 1 39 
+"$a)" 432 403 1 43 
+"\<_time when" 500 403 1 48 
+"\>" 733 403 1 47 
+"<TOKEN>" 824 403 2 46 49 
+"$![" 693 403 1 44 
+"$]" 789 403 1 45 
+"$to(" 653 403 1 46 
+"$to)" 931 403 1 50 
+"\>" 976 403 1 29 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1290 417 0 

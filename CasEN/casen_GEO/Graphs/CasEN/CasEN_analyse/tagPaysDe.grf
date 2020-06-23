@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 69 261 1 3 
+"" 1199 452 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1088 107 0 
+"pays/{{" 129 261 1 4 
+"<E>/,.w+type=\"noun\"}" 199 261 1 6 
+"<A+Toponyme+Pays>/{" 420 213 1 7 
+"<E>/,.place}" 319 261 5 5 9 11 20 8 
+"<E>/,.placeName+type=\"country\"+grftagPaysDe}" 700 213 1 1 
+":listDeLe" 371 426 3 13 15 17 
+"<A+Toponyme+Supranational>/{" 430 156 1 10 
+"<E>/,.placeName+type=\"bloc\"+grftagPaysDe}" 765 156 1 1 
+"<A+Toponyme+Region>+<A+Toponyme+Ville>/{" 420 282 1 12 
+"<E>/,.placeName+type=\"region\"+grftagPaysDe}" 707 282 1 1 
+"<N+Toponyme+Pays>/{" 455 426 1 14 
+"<E>/,.placeName+type=\"country\"+grftagPaysDe}" 735 426 1 1 
+"<N+Toponyme+Supranational>/{" 465 369 1 16 
+"<E>/,.placeName+type=\"bloc\"+grftagPaysDe}" 800 369 1 1 
+"<N+Toponyme+Region>+<N+Toponyme+Ville>/{" 455 495 1 18 
+"<E>/,.placeName+type=\"region\"+grftagPaysDe}" 742 495 1 1 
+":tagAdjectifGeoPolitique+:tagDemonym" 465 77 1 10 
+":B" 417 77 1 19 

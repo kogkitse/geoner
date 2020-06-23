@@ -1,0 +1,45 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+25
+"<E>" 38 312 1 19 
+"" 1133 322 0 
+":B" 223 447 1 4 
+"Ville+Port+Château+Saint+St+Ste+Stes+Saintes+Las+Los+New+San+Santiago+Santo+Saõ+Sao+Puerto/{" 220 188 1 20 
+":patternNomVilleFin" 288 447 1 12 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1048 115 0 
+"#-#" 385 151 1 7 
+":patternMajMinTiret" 447 188 2 16 13 
+"lès+sous+ss+sur+ss\/+\/" 692 249 2 9 10 
+"#-#" 794 281 1 10 
+":patternMajMin" 870 249 1 13 
+"La+Le+Les/{" 475 365 1 20 
+"<E>/,.settlement+grftagNomVille}" 1049 322 1 1 
+"<E>" 979 188 1 12 
+"#-#" 636 275 1 8 
+"<E>/${2}$" 126 447 1 2 
+"<E>" 591 249 2 14 8 
+"<E>/${3}$" 123 188 1 3 
+"<E>/${1}$" 121 365 1 22 
+"<E>" 70 312 3 17 15 18 
+"<E>" 333 188 2 7 6 
+"<baliseXml+nomDs>" 193 365 1 23 
+"$![" 153 365 1 21 
+"$]" 343 365 1 24 
+"<TOKEN>" 380 365 1 11 

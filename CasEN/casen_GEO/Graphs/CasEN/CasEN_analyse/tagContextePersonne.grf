@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 73 233 3 4 19 25 
+"" 991 233 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1082 103 0 
+":tagGentileS" 806 269 1 23 
+"<E>" 118 233 3 12 27 29 
+":tagCiviliteS+:tagFonctionUniversitaire" 380 271 1 6 
+":listLe" 547 272 1 7 
+":tagRoleName" 615 233 1 14 
+":tagTitreNobiliaireS" 555 407 2 15 14 
+":tagCiviliteNobiliaireS" 185 363 1 16 
+":listLe+," 360 371 1 11 
+"<E>" 415 407 2 8 13 
+"<E>" 162 407 2 9 16 
+":tagViceEx" 464 358 1 8 
+"<E>" 751 233 2 3 23 
+":tagPays+:tagRegion" 815 407 1 23 
+"<E>" 319 407 2 11 10 
+":listFamille" 406 102 1 22 
+"<E>" 738 102 1 23 
+":B" 357 102 1 17 
+"<E>" 565 102 2 18 21 
+":tagGentileS" 617 69 1 18 
+"<E>/,.addName}" 490 102 1 20 
+"<E>" 934 233 1 1 
+":listAdjectifPossessif" 157 102 1 26 
+"$![" 117 102 1 24 
+"$]" 303 102 1 19 
+"feu+feue/{" 203 285 1 28 
+"<E>/,.addName}" 262 285 1 29 
+"<E>" 332 233 2 7 5 

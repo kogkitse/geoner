@@ -1,0 +1,67 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+47
+"<E>" 47 522 4 44 45 36 38 
+"" 1397 522 0 
+":tagNomFamille+:tagNomFamilleParticule" 817 522 1 4 
+":tagPrenom" 304 522 3 2 7 10 
+"<E>/,.persName+grfpersPrenomNom}" 1360 522 1 1 
+":B" 191 522 2 3 28 
+":tagPrenomInitiale" 515 311 2 9 12 
+":tagPrenomInitiale" 434 466 2 2 8 
+":tagPrenomInitiale" 652 466 1 2 
+":tagNomFamille+:tagNomFamilleParticule" 997 311 1 4 
+":tagPrenom" 490 589 2 11 2 
+":tagPrenomInitiale" 674 589 1 2 
+":tagPrenomInitiale" 661 249 2 13 9 
+":tagPrenomInitiale" 836 249 1 9 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1396 106 0 
+"<num+1a59>+<num+type=\"ordinal\"+1a1>/{" 758 681 1 17 
+"<E>" 673 681 2 15 18 
+"<E>/,.genName}" 964 681 3 24 27 41 
+"#-#" 709 656 1 15 
+"<DET>+<PREPDET>+<PREP>" 333 635 1 21 
+"$![" 293 635 1 19 
+"$]" 443 635 1 35 
+"<E>/,.surname+type=\"dynasty\"}" 1299 681 1 4 
+":patternMajMinTiret" 1139 645 1 22 
+"<E>/${1}$" 1056 645 1 25 
+":B" 1101 645 1 23 
+"<N+Dynastie>/{" 1098 719 1 22 
+"<E>/${2}$" 1057 719 1 26 
+":tagNomFamilleParticule" 527 384 1 4 
+".+-+_+'+\/+\#" 229 311 1 34 
+"$![" 181 311 1 29 
+"$]" 323 311 1 32 
+"<TOKEN>" 353 311 1 33 
+":B" 457 311 1 6 
+"#" 285 311 1 31 
+":patternMajMinTiret" 473 635 1 40 
+"<E>/${1}$" 220 635 1 37 
+":BB" 255 635 1 20 
+"<E>/${2}$" 193 715 1 46 
+":tagPrenom" 524 715 2 16 42 
+"<E>/,.forename}" 599 635 1 16 
+"<E>" 1108 576 1 4 
+"I+V+X/{" 827 763 1 17 
+"/ces 3 nombres ne sont pas reconnus suivis d'un point" 868 807 0 
+"<E>/${1}$" 135 311 1 30 
+"<E>/${2}$" 124 522 1 5 
+":B" 461 715 1 39 

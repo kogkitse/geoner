@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 61 255 2 2 4 
+"" 600 255 0 
+"<château>+<chateau>/{" 188 255 2 3 6 
+"<fort,.A:m>" 335 214 1 6 
+"<arc> de triomphe+<bastide>+<beffroi>+<castel>+<citadelle>+<cénotaphe>+<donjon>+<forteresse>+<mausolée>+<nécropole>+<pagode>+<pyramide>+<rempart>+<statue>+<sépulcre>+<tourelle>+chastel+palais/{" 274 496 1 6 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 667 96 0 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 546 255 1 1 
+"/tour est placé dans tagBatimentHabitat" 233 128 0 
+"/fort est ambigu" 487 560 0 

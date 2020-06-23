@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 133 436 3 3 5 7 
+"" 632 436 0 
+"/En compilant ce graphe reconnaît <E> car ce ne sont que des sorties" 60 37 0 
+"<E>/${3}$" 281 283 2 4 9 
+":TEIdateJJMA+:TEIdateJMA+:TEIdateMA+:TEIdateA" 450 283 1 1 
+"<E>/${2}$" 278 436 1 6 
+":TEIdateJJM+:TEIdateJM+:TEIdateM" 456 436 1 1 
+"<E>/${1}$" 290 572 1 8 
+":TEIdateJJ+:TEIdateJ" 468 572 1 1 
+":TEItimeHMS+:TEItimeHM+:TEItimeMidiGMinute+:TEItimeHGMinute+:TEItimeH" 437 155 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 743 145 0 

@@ -1,0 +1,40 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+20
+"<E>" 129 324 2 3 16 
+"" 1206 324 0 
+":listDe+:listDeLe" 800 428 1 6 
+"<crue>+<décrue>+<montée> des eaux+<baisse> des eaux/{{" 202 428 1 9 
+"<num+1a9999+chiffre>+<num+1a9999+lettre>/{{" 493 378 1 11 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 660 125 0 
+"<N+Toponyme+Hydronyme>/{" 877 428 1 7 
+"<E>/,.geogName+type=\"river\"}" 1068 428 1 13 
+"de" 437 378 2 4 12 
+"<E>/,.w+type=\"noun\"+kind}" 337 428 2 2 8 
+"<E>/,.date+abs}" 705 378 1 14 
+"<E>/,.gYear}" 647 378 1 10 
+"<date>" 489 324 1 14 
+"<E>/,.event+grfgeogHydro}" 1129 324 1 1 
+"<E>" 742 324 2 13 2 
+":listDe+:listDeLe" 808 230 1 17 
+"<tempête>+<tsunami>+raz de marée+raz-de-marée/{{" 222 230 1 19 
+"<N+Toponyme+Hydronyme>/{" 885 230 1 18 
+"<E>/,.geogName+type=\"sea\"}" 1076 230 1 13 
+"<E>/,.w+type=\"noun\"+kind}" 393 230 2 15 8 

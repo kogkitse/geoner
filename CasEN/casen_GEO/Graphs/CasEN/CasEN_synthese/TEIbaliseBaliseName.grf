@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1872 840
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 74 205 1 2 
+"" 811 205 0 
+":TEIgeogFeatGeogName+:TEIorgOrgName+:TEIplacePlaceName+:TEInameUnit" 323 205 1 1 
+"/Il pourrait y avoir un soucis si il y a imbrication, par exemple place dans place?" 152 100 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 291 392 0 

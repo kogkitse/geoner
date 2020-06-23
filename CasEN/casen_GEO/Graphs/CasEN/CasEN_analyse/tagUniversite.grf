@@ -1,0 +1,47 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+27
+"<E>" 107 320 5 3 4 16 10 17 
+"" 828 320 0 
+"et <technologique>+de technologie+de formation des maîtres+<professionalisé.A:m>" 596 320 1 6 
+"<institut>/{" 227 320 1 9 
+"ENS+ENSI+ESPE+IUT+IUFM+IUP+UFR/{" 309 142 1 8 
+"<universitaire>/{" 471 320 1 2 
+"<E>/,.w+type=\"adjective\"}" 784 320 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1158 299 0 
+"<E>/,.w+type=\"noun\"+name}" 729 242 1 1 
+"<E>/,.w+type=\"noun\"+kind}" 321 320 1 5 
+"<université> d'été/{" 282 242 1 8 
+"<E>/,.w+type=\"noun\"+kind}" 309 442 1 12 
+"<E>" 481 442 3 13 15 26 
+"<privé.A:f>+<public.A:f>+<régional.A:f>/{" 515 393 1 14 
+"<E>/,.w+type=\"adjective\"}" 629 393 1 15 
+"<E>" 671 442 1 1 
+"<université>/{" 207 442 1 11 
+"<faculté>/{" 225 695 1 18 
+"<E>/,.w+type=\"noun\"+kind}" 296 695 1 19 
+":listDe" 388 695 1 20 
+"Droit+Langues+Lettres+Médecine+Pharmacie+Sciences/{" 499 695 2 22 23 
+"et" 531 578 1 19 
+"-" 440 828 1 24 
+"<E>/,.w+type=\"noun\"+name}" 614 695 3 21 1 25 
+"Droit+Langues+Lettres+Médecine+Pharmacie+Sciences" 501 828 1 23 
+":listDeLe" 634 583 1 16 
+":tagDemonym" 541 474 1 15 

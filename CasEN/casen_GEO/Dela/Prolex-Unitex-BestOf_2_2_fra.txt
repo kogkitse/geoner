@@ -1,0 +1,5 @@
+La cascade CasEN utilise le dictionnaire Prolex-Unitex-BestOf_2_2_fra qui contient les noms propres les plus significatifs du dictionnaire Prolex-Unitex.
+
+Il est disponible sous licence LGPL-LR.
+
+Voir http://tln.li.univ-tours.fr/Tln_CasEN.html

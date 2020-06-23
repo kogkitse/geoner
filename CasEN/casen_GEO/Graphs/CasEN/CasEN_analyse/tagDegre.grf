@@ -1,0 +1,35 @@
+#Unigraph
+SIZE 1887 867
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+15
+"<E>" 153 323 1 2 
+"" 990 323 0 
+"°+<degré>/{" 212 323 1 5 
+"<E>" 761 323 2 1 11 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 470 81 0 
+"<E>/,.unit}" 277 323 1 6 
+"<num>/{" 336 323 1 9 
+"'+<minute>/{" 482 248 1 8 
+"<E>/,.unit}" 566 248 1 10 
+"<E>/,.val}" 416 323 2 7 3 
+"<num>/{" 672 248 1 13 
+"''+<seconde>/{" 804 248 1 12 
+"<E>/,.unit}" 896 248 1 1 
+"<E>/,.val}" 749 248 1 11 
+"/<degré> est ambigü.+On le place dans les températures." 361 442 0 

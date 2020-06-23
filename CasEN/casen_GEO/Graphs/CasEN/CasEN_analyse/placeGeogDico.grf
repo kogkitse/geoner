@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1887 867
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 46 372 4 8 4 6 10 
+"" 784 370 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 175 88 0 
+":patternVille" 242 251 1 9 
+"<N+Toponyme+Pays~Hum>/{" 185 490 1 5 
+"<E>/,.placeName+type=\"country\"+grfplaceGeogDico}" 393 490 1 1 
+"<N+Toponyme+Region~Hum>/{" 177 372 1 7 
+"<E>/,.placeName+type=\"region\"+grfplaceGeogDico}" 385 372 1 1 
+":B" 177 251 1 3 
+"<E>/,.placeName+type=\"settlement\"+grfplaceGeogDico}" 378 251 1 1 
+"<N+Geonyme>+<N+Hydronyme>/{" 201 619 1 11 
+"<E>/,.geogName+grfplaceGeogDico}" 370 619 1 1 

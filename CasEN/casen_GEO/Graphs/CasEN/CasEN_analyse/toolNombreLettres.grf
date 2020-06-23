@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 79 126 8 2 10 12 14 4 18 23 25 
+"" 912 126 0 
+":tagNombreLettres+:tagDizaineCent" 258 47 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 957 174 0 
+":B" 174 126 1 8 
+"demi-douz+huit+neuv+diz+douz+quinz+vingt+trent+quarant+cinquant+soixant+septant+octant+nonant+huitant+neuvant+cent/{" 272 497 1 6 
+"aine" 361 497 1 16 
+"<E>/,.num+type=\"collective\"+lettre+grftoolNombreLettres}" 585 497 1 1 
+":listO5-999" 250 126 1 9 
+"<E>/,.num+type=\"ordinal\"+5aN+lettre+grftoolNombreLettres}" 407 126 1 1 
+"<premier>/{" 252 185 1 11 
+"<E>/,.num+type=\"ordinal\"+1a1+1a2+1a4+lettre+grftoolNombreLettres}" 405 185 1 1 
+"<deuxième>+<second>/{" 247 254 1 13 
+"<E>/,.num+type=\"ordinal\"+1a2+1a4+lettre+grftoolNombreLettres}" 441 254 1 1 
+"<troisième>+<quatrième>/{" 245 325 1 15 
+"<E>/,.num+type=\"ordinal\"+1a4+lettre+grftoolNombreLettres}" 440 325 1 1 
+"<E>" 428 497 2 17 19 
+"s" 487 462 1 19 
+"$<" 217 497 1 5 
+"$>" 535 497 1 7 
+"un/{" 377 641 1 21 
+"demi+tiers" 468 641 1 22 
+"<E>/,.num+type=\"fraction\"+lettre+grftoolNombreLettres}" 625 682 1 1 
+"un quart+trois quarts/{" 205 796 1 24 
+"<E>/,.num+type=\"fraction\"+lettre+horaire+grftoolNombreLettres}" 694 796 1 1 
+"<E>" 222 716 2 20 26 
+"une/{" 377 716 1 27 
+"demie" 468 716 1 22 

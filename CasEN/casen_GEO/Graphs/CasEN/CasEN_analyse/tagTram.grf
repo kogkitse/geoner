@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 55 256 3 5 13 26 
+"" 1172 256 0 
+"<E>/,.placeName+grftagTram}" 791 256 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 790 133 0 
+"<E>" 744 256 1 2 
+"station/{{" 124 256 1 6 
+"<E>/,.w+type=\"noun\"+kind}" 182 256 2 10 21 
+"#" 692 404 1 8 
+"<nombre+1a999+chiffre>" 728 404 1 25 
+":patternIncludePersName+:patternIncludePlaceName+:patternIncludeGeogName+:patternIncludeDate+:patternIncludeRule" 551 76 1 4 
+"de" 258 256 1 11 
+"bus+métro+tram+tramway/{" 341 256 1 12 
+"<E>/,.w+type=\"noun\"+name}" 423 256 2 4 21 
+"ligne/{{" 148 469 1 14 
+"<E>/,.w+type=\"noun\"+kind}" 206 469 2 15 19 
+"de" 261 394 1 16 
+"bus+métro+tram+tramway/{" 344 394 1 17 
+"<E>/,.w+type=\"noun\"+name}" 426 394 1 19 
+"<UPPER>" 559 469 1 20 
+"<E>" 503 469 2 28 7 
+"$>" 647 469 2 7 25 
+"<E>" 459 150 2 22 23 
+"<E>/${2}$" 495 76 1 9 
+"<E>/${1}$" 497 150 1 24 
+":patternNomMixte" 560 150 1 4 
+"<E>/,.placeName+type=\"oronyme\"+grftagTram}" 916 469 1 1 
+"bus+métro+tram+tramway/{" 146 585 1 27 
+"<E>/,.w+type=\"noun\"+kind}" 228 585 2 19 29 
+"$<" 529 469 1 18 
+"ligne" 406 585 1 19 

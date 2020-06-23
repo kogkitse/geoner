@@ -1,0 +1,39 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+19
+"<E>" 96 225 2 9 3 
+"" 1229 225 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 907 85 0 
+"<E>/${1}$" 229 225 1 4 
+":B" 362 225 2 8 17 
+":patternChiffreRomain" 429 225 1 18 
+"<E>/,.num+type=\"ordinal\"+romain+grftoolNombreRomainMajuscule}" 654 318 1 1 
+"<E>/,.num+type=\"cardinal\"+romain+grftoolNombreRomainMajuscule}" 618 225 1 1 
+":patternChiffreRomainOrdinal" 411 318 1 6 
+"<E>/${2}$" 274 496 1 11 
+"<E>/,.num+type=\"ordinal\"+1a4+romain+grftoolNombreRomainMajuscule}" 764 571 1 1 
+":B" 340 496 3 14 16 15 
+"<E>/,.num+type=\"ordinal\"+1a1+1a2+1a4+romain+grftoolNombreRomainMajuscule}" 688 424 1 1 
+"<E>/,.num+type=\"ordinal\"+1a2+1a4+romain+grftoolNombreRomainMajuscule}" 741 496 1 1 
+":patternChiffreRomainOrdinal1" 443 424 1 12 
+":patternChiffreRomainOrdinal3-4" 436 571 1 10 
+":patternChiffreRomainOrdinal2" 430 496 1 13 
+"$<" 389 225 1 5 
+"$>" 588 225 1 7 

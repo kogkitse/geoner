@@ -1,0 +1,72 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+52
+"<E>" 161 347 10 12 2 5 9 14 17 22 31 40 44 
+"" 827 347 0 
+"<abattoir>+<auberge> de jeunesse+<bureau> de poste+<crèche>+<halle>+<marché> <couvert.A:m>+palais de justice+<pénitencier>/{" 351 347 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 820 194 0 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 531 347 1 1 
+"<restaurant>+<cantine>/{" 252 241 1 6 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 343 240 1 7 
+"<scolaire>+<administratif>/{" 569 240 1 8 
+"<E>/,.w+type=\"adjective\"}" 680 240 1 1 
+"<salle>/{" 303 566 1 50 
+"abstinence+consommation+désintoxication+presse+sevrage+shoot/{" 531 523 1 37 
+":listDe" 435 516 1 10 
+"<DET:f>" 271 445 1 13 
+"<poste>/{" 355 445 1 47 
+"<centre>/{" 273 767 1 38 
+":listDe" 423 767 2 16 19 
+"hébergement/{" 511 751 1 20 
+"<maison>/{" 285 701 1 49 
+":listDe" 462 668 1 19 
+"arrêt+correction+détention+presse+rétention/{" 567 668 1 20 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 670 668 1 1 
+"consulaire/{" 422 607 1 51 
+"<commissariat>/{" 301 38 1 23 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 423 38 2 29 25 
+"<E>" 675 38 1 1 
+"de" 465 91 1 26 
+"police/{" 533 91 1 27 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 585 92 1 24 
+":listALe" 508 38 1 30 
+"$![" 468 38 1 28 
+"$]" 592 38 1 24 
+"<caserne>/{" 288 135 1 32 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 410 135 2 34 33 
+"<E>" 662 135 1 1 
+"de" 452 188 1 35 
+"pompiers/{" 498 188 1 36 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 572 188 1 33 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 654 566 1 1 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 345 767 2 15 42 
+"/bureau+foyer+locaux+marché+siège+sont ambigus" 933 429 0 
+"<établissement>/{" 240 832 1 41 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 354 832 1 42 
+"<scolaire>+<pénitenciaire>/{" 564 808 1 43 
+"<E>/,.w+type=\"adjective\"}" 675 808 1 1 
+"<prison>/{" 289 502 1 47 
+"<central.A:f>/{" 535 406 1 46 
+"<E>/,.w+type=\"adjective\"}" 646 406 1 1 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 447 445 2 45 48 
+"<E>" 683 445 1 1 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 373 701 2 18 21 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 367 566 1 11 
+"<E>/,.w+type=\"adjective\"}" 674 607 1 1 

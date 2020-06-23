@@ -1,0 +1,42 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+22
+"<E>" 32 290 3 3 11 17 
+"" 838 290 0 
+"<LETTER>" 253 184 2 2 13 
+"<club>+<ligue>+<équipe>/{" 109 290 1 14 
+":listDe" 260 424 1 5 
+"<N+Sport>+champions/{" 326 424 1 6 
+"<E>/,.w+type=\"noun\"+name}" 430 424 1 15 
+"<sportif>+<hippique>+<équestre>+<nautique>+<alpin>+<A+Sport>+<olympique>/{" 339 290 1 9 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 551 94 0 
+"<E>/,.w+type=\"adjective\"}" 450 290 1 15 
+"<E>/,.w+type=\"noun\"+name}" 450 184 1 15 
+"$<" 117 184 1 16 
+"$>" 405 184 1 10 
+"club" 349 184 1 12 
+"<E>/,.w+type=\"noun\"+kind}" 185 290 2 7 4 
+"<E>" 586 290 2 19 21 
+"<LETTER>/{" 155 184 1 2 
+"<N+Sport>+<N+Toponyme+Ville~Hum>/{" 144 96 1 18 
+"club" 348 96 1 10 
+"<masculin>+<féminin>/{" 638 242 1 20 
+"<E>/,.w+type=\"adjective\"}" 736 242 1 21 
+"<E>" 791 290 1 1 

@@ -1,0 +1,47 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+27
+"<E>" 59 431 1 21 
+"" 1573 270 0 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 66 79 0 
+":tagHoraire" 161 431 2 23 22 
+"<E>" 1113 560 2 1 26 
+"<E>/,.postInclude}" 1421 270 1 1 
+":listPredeterminant" 1285 243 1 5 
+"<E>" 1247 270 2 6 5 
+"<E>" 1027 195 1 13 
+"<complet>+<entier>/{" 630 195 1 11 
+"<E>" 790 195 3 8 12 17 
+"<E>/,.w+type=\"adjective\"}" 720 195 1 10 
+":tagDateSuivante" 848 160 1 8 
+"<E>" 1060 195 1 14 
+"<E>" 1208 195 1 7 
+":listDe" 1087 161 1 16 
+":tagObjet" 1141 161 1 14 
+":tagAffilee" 869 247 1 8 
+":tagDateSuivante" 820 348 1 8 
+":tagParNomDeTemps" 990 431 1 7 
+":B" 584 431 4 18 9 17 19 
+":B" 97 431 1 3 
+"<E>/,.measure+type=\"duration\"+grftimeHoraire}" 317 431 1 20 
+"<E>/,.time+quaero=\"abs\"+grftimeHoraire}" 319 560 1 4 
+"<E>/,.postInclude}" 1353 560 1 1 
+":listPredeterminant" 1215 560 1 24 
+":B" 1171 560 1 25 

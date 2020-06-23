@@ -1,0 +1,548 @@
+0000000019
+-1 toolPolylexical
+: -2 1 -3 1 -4 1 -5 1 -6 1 -7 1 -8 1 -9 1 -10 1 -11 1 
+t 
+f 
+-2 persAmbigus
+: 1 1 
+: 31 3 8 2 
+: 5 4 
+: 4 6 3 5 2 5 
+: 30 7 29 7 28 7 27 7 26 7 25 7 24 7 23 7 22 7 21 7 20 7 19 7 18 7 17 7 16 7 15 7 14 7 13 7 12 7 11 7 10 7 9 7 
+: 5 8 
+: 3 9 2 9 
+: 6 10 
+: -13 11 
+: 5 12 
+: 7 13 
+: -12 7 
+: -13 11 7 13 
+t 
+f 
+-3 persTerminologie
+: 70 2 69 2 59 1 58 1 57 1 56 1 55 1 54 1 53 1 52 1 51 1 50 1 49 1 48 1 47 1 46 1 45 1 44 1 43 1 42 1 41 1 40 1 39 1 38 1 37 1 36 1 35 1 34 1 33 1 
+: 67 1 60 3 
+: 67 2 65 5 64 4 63 4 
+: 65 7 64 6 63 6 
+: -13 8 
+: 66 4 
+: -13 9 
+: 66 6 
+: -12 10 
+: -12 11 
+: 74 12 
+: 68 13 
+t -14 15 75 14 
+: 32 16 
+: 73 17 72 17 
+: -13 8 73 17 72 17 
+t -14 19 75 18 
+: 65 5 64 4 63 4 
+: 62 3 61 3 
+: -13 6 62 3 61 3 
+f 
+-4 tagPolylexicalEtat
+: 89 4 88 3 85 2 76 1 
+: 79 8 78 8 77 8 65 7 64 6 63 5 
+: 86 9 
+: 86 8 
+: 91 4 86 10 
+: 82 8 81 8 
+: 80 8 
+: 66 11 
+: 84 12 
+: 87 12 
+: 90 12 
+: 83 8 
+t 
+f 
+-5 tagPolylexicalNom
+: 106 6 104 5 102 4 100 3 96 2 93 1 
+: 94 7 
+: 97 8 
+: 101 9 
+: 103 9 
+: 4 10 
+: 107 9 
+: 4 11 
+: 98 12 
+: 92 13 
+: 105 9 
+: 95 9 
+: 99 9 
+t 
+f 
+-6 tagPolylexicalPhrase
+: 110 1 109 1 
+: 111 2 
+: 112 3 
+: 108 4 
+t 
+f 
+-7 tagPolylexicalPrep
+: 126 6 122 5 120 4 117 3 113 2 85 1 
+: 116 7 
+: 114 8 
+: 118 9 
+: 121 7 
+: 123 10 
+: 127 11 
+: -15 12 
+: 66 13 
+: 121 15 119 14 
+: 124 7 
+: 128 16 
+: 125 17 
+: 115 7 
+: -15 12 -16 18 
+: 130 19 
+: 129 12 
+t 
+: 132 17 
+: -16 20 
+: 131 12 
+f 
+-8 tagPolylexicalProfession
+: 140 4 138 3 136 2 134 1 
+: 135 5 
+: 63 6 
+: 63 7 
+: 63 8 
+: 133 9 
+: 137 10 
+: 116 10 
+: 143 10 142 10 141 10 
+t 
+: 139 9 
+f 
+-9 tagPolylexicalOrgPlace
+: 172 11 170 10 167 9 163 8 161 7 159 7 156 6 154 5 151 4 149 3 146 2 144 1 
+: 145 13 4 12 
+: 147 13 4 14 
+: 150 15 
+: 152 15 
+: 63 16 
+: 157 18 4 17 
+: 63 20 4 19 
+: 4 21 
+: 63 22 
+: 171 23 
+: 4 10 
+: 145 13 
+: 148 24 
+: 147 13 
+: 153 24 
+: 155 18 
+: 157 18 
+: 158 24 
+: 63 25 
+: 160 26 
+: 165 27 164 27 
+: 168 28 
+: 173 24 
+t 
+: 4 20 
+: 162 24 
+: 166 24 
+: 169 24 
+f 
+-10 tagPolylexicalTemps
+: 220 15 219 15 218 15 214 14 210 13 209 12 207 11 205 10 203 9 190 8 186 7 183 6 176 5 174 4 122 3 120 2 117 1 
+: 118 16 
+: 208 17 
+: 213 18 
+: 4 19 
+: 177 20 
+: 184 21 
+: 187 22 
+: 191 23 
+: 202 24 
+: 193 25 
+: 177 26 
+: 197 27 127 27 
+: 211 28 
+: 65 29 
+: 222 31 63 30 
+: 181 32 
+: 127 27 
+: 127 33 
+: 175 22 
+: 178 22 
+: 185 34 
+: 179 34 
+: 192 35 
+: 131 36 
+: 201 37 199 38 198 37 197 37 196 37 195 37 194 37 
+: 127 22 
+: 212 34 
+: 197 27 
+: 66 39 
+: 114 40 
+: 63 30 
+: 182 41 
+: 91 42 67 27 
+t 
+: 189 43 
+: 204 10 
+: 206 34 
+: 4 44 
+: 216 22 215 22 
+: 66 45 
+: 180 34 
+: 67 27 
+: -17 46 
+: 200 37 
+: 221 22 
+: 131 47 
+: 217 48 
+: 188 34 
+f 
+-11 tagTableauFigure
+: 230 2 225 1 224 1 
+: 229 2 228 2 227 2 226 2 
+: 223 3 
+t 
+f 
+-12 tagNomFamille
+: -13 3 -18 1 233 2 231 1 
+: -13 3 
+: 234 4 
+: -19 5 
+: 235 6 
+: -19 5 236 8 232 7 
+: 232 9 
+: 66 10 4 10 
+t -18 11 
+: 66 10 
+: 232 3 
+: -13 12 
+: -19 13 
+: -19 13 236 15 232 14 
+: 66 16 4 16 
+t 
+: 232 12 
+f 
+-13 B
+: 238 2 237 1 
+: 238 2 
+t 
+f 
+-14 listEtOu
+: 246 4 244 1 243 1 242 1 239 3 211 2 4 1 
+t 97 5 
+t 245 6 97 5 
+t 241 1 240 7 97 5 
+t 246 1 244 1 243 1 242 1 239 3 211 2 97 5 4 1 
+: 97 8 
+: 239 1 
+t 241 1 97 5 
+: 97 9 
+t 
+f 
+-15 listDe
+: 177 1 65 2 64 1 63 1 
+t 
+: 66 1 
+f 
+-16 listDeLe
+: 177 2 65 3 64 2 63 1 
+t 123 2 114 3 
+t 
+: 66 2 
+f 
+-17 listMois
+: 259 1 258 1 257 1 256 1 255 1 254 1 253 1 252 1 251 1 250 1 249 1 248 1 247 1 
+t 
+f 
+-18 tagParticule
+: 272 1 271 2 270 1 269 1 268 1 267 1 266 1 265 1 264 1 263 1 262 1 261 1 260 1 
+: 275 3 
+: 275 3 274 1 273 1 
+t 
+f 
+-19 patternMajMin
+: 233 1 
+: 276 2 
+: 277 3 276 3 
+: 277 3 276 3 235 4 
+t 
+f 
+%<E>
+%<Prenom>/{{
+%Noël
+%Ramadan
+%-
+%<E>/,.forename}
+%<E>/,.surname}
+%<E>/,.persName+grfpersAmbigus}
+%<E>/${0}$
+%Noël/{
+%Ramadan/{
+%Janvier/{
+%Février/{
+%Mars/{
+%Avril/{
+%Mai/{
+%Juin/{
+%Juillet/{
+%Août/{
+%Aout/{
+%Septembre/{
+%Octobre/{
+%Novembre/{
+%Décembre/{
+%Dimanche/{
+%Lundi/{
+%Mardi/{
+%Mercredi/{
+%Jeudi/{
+%Vendredi/{
+%Samedi/{
+%<E>/${1}$
+%<E>/,.term+grfpersTerminologie}
+%<algorithme>/{{
+%<automorphisme>/{{
+%<champ>/{{
+%<coefficient>/{{
+%<cohomologie>/{{
+%<correction>/{{
+%<corrélation>/{{
+%<diagramme>/{{
+%<dimension>/{{
+%<décomposition>/{{
+%<estimateur>/{{
+%<exposant>/{{
+%<loi>/{{
+%<maladie>/{{
+%<modèle>/{{
+%<méthode>/{{
+%<nombre>/{{
+%<opérateur>/{{
+%<point>/{{
+%<polynôme>/{{
+%<saucisse>/{{
+%<score>/{{
+%<surface>/{{
+%<technique>/{{
+%<température>/{{
+%<théorème>/{{
+%<transformer.V:Kf>/{{
+%<E>/,.w+type="noun"+kind}
+%<celui>/{
+%<dit>/{
+%de
+%des
+%d
+%'
+%<A>
+%<E>/,.persName}
+%<travail>
+%<étude>
+%<ref>
+%<celui>
+%<dit>
+%<E>/,.persName+grfpersTerminologie}
+%plus
+%état/{
+%critique
+%alcoolique
+%réél
+%lieux
+%grâce
+%droit
+%esprit
+%<E>/,.N+grftagPolylexicalEtat}
+%en/{
+%état
+%<E>/,.A+grftagPolylexicalEtat}
+%piteux/{
+%<faire>/{
+%<E>/,.V+grftagPolylexicalEtat}
+%<ADV>
+%<E>/,.N+grftagPolylexicalNom}
+%<coquille>/{
+%Saint
+%Jacques
+%C/{
+%.
+%Platysteira
+%cyanea
+%Eurystomus/{
+%orientalis
+%Muscicapa/{
+%infuscata
+%garde/{
+%robe
+%station/{
+%marine
+%<E>/,.V+grftagPolylexicalPhrase}
+%<franchir>/{
+%<passer>/{
+%<DET:s>
+%cap
+%par/{
+%l
+%intermédiaire
+%compagnie
+%dans/{
+%le
+%cadre
+%au/{
+%fond
+%sous/{
+%la
+%garde
+%<E>/,.PREP+grftagPolylexicalPrep}
+%du/{
+%jour
+%au
+%lendemain
+%$![0
+%$]
+%<E>/,.PREP+dansLeCadre+grftagPolylexicalPrep}
+%<E>/,.N+grftagPolylexicalProfession}
+%<cavalier>/{
+%<seul>
+%<bailleur>/{
+%fonds
+%<dame>/{
+%<E>/,.roleName+type="office"+grftagPolylexicalProfession}
+%gens/{
+%théatre
+%théâtre
+%cinéma
+%états/{
+%unis
+%royaume/{
+%uni
+%<E>/,.placeName+type="country"+grftoolPolylexical}
+%Communauté/{
+%européenne
+%Bibliothèque/{
+%vaticane
+%<E>/,.orgName+type="administrative"+grftoolPolylexical}
+%Rio/{
+%Janeiro
+%New/{
+%York
+%<E>/,.placeName+type="settlement"+grftoolPolylexical}
+%Île/{
+%France
+%Ile/{
+%<E>/,.placeName+type="region"+grftoolPolylexical}
+%Outre/{
+%Atlantique
+%Mer
+%<E>/,.placeName+type="area"+grftoolPolylexical}
+%canal/{
+%Suez
+%<E>/,.placeName+type="hydronym"+grftoolPolylexical}
+%Wall/{
+%Street
+%W/{
+%<E>/,.orgName+type="company"+grftoolPolylexical}
+%après/{
+%midi
+%cours/{
+%du
+%soir
+%<E>/,.N+grftagPolylexicalTemps}
+%<E>/,.none+grftagPolylexicalTemps}
+%Midi/{
+%<E>/,.placeName+type="region"}
+%printemps/{
+%<arabe>
+%<E>/,.event+grftagPolylexicalTemps}
+%<heure>/{
+%<supplémentaire>
+%<E>/,.titleStmt+media="radio"+grftagPolylexicalTemps}
+%$![1
+%le/{{
+%cinq
+%sept
+%<bon>/{
+%journée
+%matinée
+%soirée
+%nuit
+%semaine
+%week
+%end
+%weekend
+%<DET>
+%$![2
+%<TOKEN>
+%{^}
+%<E>/,.INTJ+grftagPolylexicalTemps}
+%<ordre>/{
+%grand
+%de/{
+%jour/{
+%et
+%<E>/,.ADV+grftagPolylexicalTemps}
+%un
+%heure/{
+%hiver
+%été
+%<E>/,.title+level="s"}
+%homme/{
+%femme/{
+%<sportif.N:s>/{
+%année
+%politique
+%<E>/,.N+grftagTableauFigure}
+%<tableau>/{
+%<figure>/{
+%<num+type=\"cardinal\"+romain>
+%I
+%V
+%X
+%VAR/{
+%De
+%#
+%$<
+%<UPPER>/{
+%$>
+%<E>/,.surname+grftagNomFamille}
+@ 
+%#/{
+%ou
+%bien
+%encore
+%voire
+%puis
+%enfin
+%/
+%,
+%janvier
+%février
+%avril
+%mai
+%juin
+%juillet
+%août
+%aout
+%septembre
+%octobre
+%novembre
+%décembre
+%<LOWER><<^mars$>>
+%ad/{
+%ben/{
+%bin/{
+%da/{
+%di/{
+%do/{
+%don/{
+%el/{
+%al/{
+%mac/{
+%mc/{
+%van/{
+%von/{
+%den
+%der
+%<E>/,.nameLink+grftagParticule}
+%<UPPER>
+%<LOWER>
+f

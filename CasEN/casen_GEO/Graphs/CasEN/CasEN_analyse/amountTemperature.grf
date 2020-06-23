@@ -1,0 +1,35 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+15
+"<E>" 167 278 1 10 
+"" 1198 278 0 
+"<E>/,.measure+type=\"temperature\"+grfamountTemperature}" 574 278 2 12 14 
+":tagTemperature" 286 278 1 6 
+":tagApresMesure" 422 242 1 7 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1010 133 0 
+"<E>" 393 278 2 4 7 
+"<E>" 534 278 1 2 
+"au-dessus de zéro+en-dessous de zéro+au-dessous de zéro+au dessus de zéro+au dessous de zéro+en dessous de zéro/{" 984 424 1 9 
+"<E>/,.offset}" 1117 422 1 1 
+":B" 233 278 1 3 
+":listPredeterminant" 718 424 1 13 
+":B" 668 424 1 11 
+"<E>/,.postInclude}" 856 424 1 8 
+"<E>" 887 278 2 1 8 

@@ -1,0 +1,993 @@
+0000000049
+-1 amount
+: -3 3 -15 2 -16 2 -19 1 -20 1 -21 1 -22 1 
+t -3 4 
+: -4 1 -5 1 -6 1 -7 1 -8 1 -9 1 -10 1 -11 1 -12 1 -13 1 -14 1 
+: -2 5 
+: -17 6 
+: 1 7 
+: 2 8 
+: -15 2 -16 2 -19 1 -20 1 -21 1 
+t 
+f 
+-2 patternDeterminant
+: -17 4 -23 3 -24 2 -26 1 
+t -17 3 
+: -18 3 -25 3 
+t 
+t -23 3 -24 2 -26 1 
+f 
+-3 B
+: 4 2 3 1 
+: 4 2 
+t 
+f 
+-4 amountMonnaie
+: 15 4 12 3 11 1 9 2 8 1 7 1 6 1 5 1 
+: 23 6 22 6 14 5 
+: 10 1 
+: 21 1 20 2 19 1 18 1 17 1 16 1 
+: 23 8 22 8 14 7 
+: -28 11 -29 10 13 9 
+: 14 5 
+: -28 11 
+: 14 7 
+t 
+: 13 9 
+: -27 12 
+: -29 10 13 9 
+f 
+-5 amountEnergie
+: -3 1 
+: -30 2 
+: -28 1 -29 4 24 3 
+t 
+: 24 3 
+f 
+-6 amountLongueur
+: -3 4 42 3 41 2 40 1 39 1 
+: 14 5 
+: 14 6 
+: 14 7 
+: -3 8 
+: -28 4 -29 10 25 9 
+: 25 9 
+: -28 12 -29 10 47 11 
+: -31 13 
+: 26 14 
+: 25 15 
+: 46 16 
+: 43 3 
+: 14 17 
+: 37 18 36 18 35 18 34 18 33 18 32 18 31 18 30 18 29 18 28 18 27 18 
+t 26 14 
+: 45 19 44 19 
+: -28 20 -29 10 25 15 
+: 38 21 
+: 48 10 
+: -3 8 43 3 
+t 
+f 
+-7 amountMasse
+: -3 2 15 1 
+: 14 3 
+: -32 4 
+: -28 2 -29 5 
+: -28 2 -29 5 49 6 
+: 49 6 
+t 
+f 
+-8 amountSurface
+: -3 1 
+: -3 2 
+: -33 3 
+: 14 4 
+: -28 1 -29 6 50 5 
+t 
+: 50 5 
+f 
+-9 amountVolume
+: -3 2 52 1 
+: 14 3 
+: -3 4 
+: -28 7 -29 6 54 5 
+: -34 8 
+: 46 9 
+: 51 10 
+: -3 4 53 1 
+: 14 11 
+: 45 12 44 12 
+t 
+: -28 7 -29 6 51 10 
+: 48 6 
+f 
+-10 amountOctet
+: -3 2 57 1 56 1 
+: 14 3 
+: -35 4 
+: -29 7 58 6 55 5 
+: -29 7 55 5 
+t 
+: 44 8 
+: 55 5 
+: 48 7 
+f 
+-11 amountPression
+: -3 1 
+: -36 2 
+: -28 1 -29 3 
+: 59 4 
+t 
+f 
+-12 amountRadiation
+: -3 2 61 1 
+: 14 3 
+: -3 4 
+: -28 7 -29 6 62 5 
+: -37 8 
+: 44 9 
+: 60 10 
+: -3 4 63 1 
+: 14 11 
+: 48 6 
+t 
+: -28 7 -29 6 60 10 
+f 
+-13 amountConcentration
+: -3 1 
+: -3 2 
+: -38 3 
+: 14 4 
+: -28 1 -29 6 64 5 
+t 
+: 64 5 
+f 
+-14 amountTemperature
+: -3 1 
+: -39 2 
+: -29 4 65 3 
+t -3 7 71 6 66 5 
+: 65 3 
+: 72 9 68 9 67 8 
+: 72 9 67 10 
+: -17 11 
+: 72 9 68 9 
+: 69 12 
+: 72 9 
+: 73 13 
+: 70 14 
+: 71 6 66 5 
+: 38 15 
+t 
+f 
+-15 tagVal
+: -40 6 100 5 94 4 93 4 92 4 91 4 90 1 89 1 88 1 87 3 86 1 85 1 81 2 80 2 79 2 26 1 
+: 78 8 77 7 76 7 75 7 
+: 78 8 77 7 76 7 75 7 74 5 
+: 44 1 
+: 98 9 97 9 96 9 95 9 
+t -18 10 -41 0 
+: -18 10 -41 11 
+: 82 12 74 5 
+: 74 5 69 13 
+: 74 5 
+t 
+: -40 6 
+: 84 9 83 9 
+: 99 9 77 7 76 7 75 7 
+f 
+-16 tagApproximatif
+: -3 9 127 8 126 7 125 7 124 6 122 5 89 4 88 3 81 2 80 2 26 1 
+: 120 11 118 10 
+: 115 12 114 12 113 12 112 12 111 12 110 7 109 7 108 7 107 7 106 7 105 7 104 7 103 7 102 7 101 7 
+: 130 14 121 7 67 13 
+: 130 14 
+: 123 7 
+: 130 15 120 7 118 7 
+: 130 15 
+: 129 7 128 7 
+: -18 16 -42 7 
+: 119 17 
+: 119 18 
+: 110 7 109 7 108 7 107 7 106 7 105 7 104 7 103 7 102 7 101 7 
+: 121 7 
+t 
+: -25 14 -43 14 
+: 117 19 116 4 
+: 118 7 
+: 120 7 
+: 116 4 
+f 
+-17 listPredeterminant
+: 156 6 155 10 154 6 153 6 152 6 150 9 148 8 147 7 146 6 145 6 144 6 143 6 142 6 140 6 139 5 137 4 135 3 131 2 119 1 
+: 141 6 136 6 
+: 134 6 133 6 132 6 120 6 118 6 
+: 136 6 
+: 138 6 
+: 118 6 
+t 
+: 136 11 
+: 158 13 157 6 136 12 
+: 67 14 
+: 146 6 67 15 
+: 148 16 
+: 159 6 
+: 153 6 
+: 151 6 
+: 146 6 
+: 149 6 
+f 
+-18 listDe
+: 161 2 160 1 139 1 69 1 
+t 
+: 44 1 
+f 
+-19 amountAngle
+: -15 2 -16 2 165 1 
+: 74 3 
+: -3 4 
+: -45 5 
+: -3 7 163 6 162 6 
+: -29 9 164 8 
+: 14 10 
+: -44 6 
+t 
+: 164 8 
+: -28 4 -29 9 164 8 
+f 
+-20 amountGeographie
+: -3 2 165 1 
+: 74 3 
+: -15 4 -16 4 
+: -45 5 
+: 163 6 162 6 
+: 173 7 
+: 14 5 
+: 26 8 
+: 172 11 169 10 166 9 
+: 168 11 167 11 38 12 
+: 171 11 170 11 38 12 
+: 38 12 
+t 
+f 
+-21 amountSeisme
+: 178 1 
+: 14 2 
+: 165 3 
+: 180 4 74 5 10 4 
+: 181 6 
+: 179 7 
+: 74 5 
+t -3 9 174 8 
+: 175 10 
+: -17 11 
+: 44 12 
+: 73 13 
+: 176 14 
+: 174 8 
+: 69 15 
+: 177 16 
+: 38 17 
+t 
+f 
+-22 amountForce
+: -3 3 -15 2 -16 2 187 1 186 1 185 1 184 1 183 1 
+: -25 4 
+: -3 5 
+: -2 6 
+: -3 8 -15 7 -16 7 
+: -46 9 
+: 189 10 
+: 188 11 
+: -2 12 
+: -28 5 -29 14 182 13 
+: -15 2 -16 2 
+: 14 14 
+: 189 15 
+t 
+: 182 13 
+: -15 7 -16 7 
+f 
+-23 listDeterminantAdjectival
+: -47 5 -48 5 197 4 194 3 193 1 192 1 191 1 190 1 142 2 114 1 
+t 
+: 192 1 
+: 44 6 
+: -47 1 -48 1 
+: 201 1 200 1 199 1 198 1 
+: 195 7 
+: 196 1 
+f 
+-24 listDeterminantNominal
+: -42 10 217 10 215 3 212 9 211 8 209 3 208 3 207 3 206 3 204 7 203 3 202 3 192 6 175 5 158 3 153 3 147 4 120 3 118 3 98 2 97 1 
+: 101 3 
+: 210 3 105 3 
+t 
+: 123 3 
+: 44 11 
+: 67 12 
+: 205 3 
+: 214 3 158 3 141 3 120 13 
+: 216 3 128 3 
+t 120 3 118 3 
+: 97 3 
+: 121 3 
+: 213 3 
+f 
+-25 listDeLe
+: 161 3 160 2 139 2 69 1 
+t 212 2 175 3 
+t 
+: 44 2 
+f 
+-26 listDeterminantAdverbial
+: 224 1 223 1 222 1 221 1 220 1 219 1 218 1 154 1 145 1 
+t 
+f 
+-27 tagCentimes
+: 232 1 231 1 230 1 229 1 228 1 227 1 226 1 225 1 
+: 14 2 
+t 
+f 
+-28 tagEntreMesure
+: 233 2 94 2 93 2 92 2 91 2 81 1 80 1 79 1 
+: 74 3 
+: 234 1 98 1 97 1 
+t 
+f 
+-29 tagApresMesure
+: -3 3 233 2 79 1 
+: 74 4 
+: 95 1 
+: 234 5 98 5 97 5 
+t 
+: 238 6 237 6 236 6 235 6 
+: -41 3 74 4 
+f 
+-30 tagEnergie
+: 263 1 262 1 261 1 260 1 259 1 258 1 257 1 256 1 255 1 254 1 253 1 252 1 251 3 249 3 248 1 247 1 246 1 245 1 244 1 243 1 242 1 240 2 239 1 
+: 14 4 
+: 67 5 
+: 67 6 
+t 
+: 241 1 
+: 250 1 
+f 
+-31 listLongueur
+: -49 1 274 1 273 1 272 1 271 1 269 2 268 1 267 1 266 1 265 1 264 1 
+t 
+: 270 1 
+f 
+-32 tagMasse
+: 296 2 295 2 294 2 293 1 292 1 291 1 290 1 289 1 288 1 287 1 286 1 285 1 284 1 283 1 282 1 281 1 280 1 279 1 278 1 277 1 276 1 275 1 
+: 14 3 
+: 14 4 
+t 
+: 297 5 
+: 46 6 
+: 45 7 
+: 48 3 
+f 
+-33 listSurface
+: -49 2 302 2 301 1 300 1 299 1 298 1 
+t 
+: 304 1 303 1 46 3 
+: 306 1 305 1 
+f 
+-34 listVolume
+: -49 1 319 2 318 2 317 2 316 2 315 2 314 2 313 2 312 2 311 2 310 2 309 2 308 2 307 2 302 1 
+: 321 2 320 2 46 3 
+t 
+: 323 2 322 2 
+f 
+-35 tagOctet
+: -3 1 
+: 342 2 341 2 340 2 339 2 338 2 337 2 336 2 335 2 334 2 333 2 332 2 331 3 330 3 329 3 328 2 327 2 326 2 325 2 324 2 
+: 14 4 
+: 337 2 336 2 335 2 334 2 333 2 332 2 67 5 
+t 
+: 337 2 336 2 335 2 334 2 333 2 332 2 
+f 
+-36 tagPression
+: 377 4 375 2 374 2 373 2 372 2 371 2 370 2 369 2 368 2 366 3 365 2 364 2 363 2 362 2 361 2 360 2 359 2 358 2 357 2 356 2 355 2 354 2 353 2 352 2 351 2 350 2 349 2 348 2 347 2 346 1 345 1 343 1 
+: 69 5 
+: 14 6 
+: 367 2 
+: 14 7 
+: 344 2 
+t 
+: 376 8 
+: 46 9 
+: 45 10 
+: 48 6 
+f 
+-37 listRadiation
+: 383 1 382 1 381 1 380 1 379 1 378 1 
+t 
+f 
+-38 listConcentration
+: 393 4 387 3 385 2 384 1 
+t 
+: 386 1 
+: 390 7 388 6 45 5 
+: 392 8 
+: 390 7 388 6 
+: 389 9 
+: 389 10 
+: 394 2 
+: 388 11 
+: 390 11 388 11 
+t 391 1 
+f 
+-39 tagTemperature
+: 163 1 162 1 
+: 404 3 403 3 402 3 401 3 400 3 399 3 398 3 397 3 396 3 395 3 14 2 
+t 
+: 14 2 
+f 
+-40 tagUple
+: 211 1 139 1 
+: 412 2 411 2 410 2 409 2 408 2 407 2 406 2 405 2 
+: 74 3 
+t 
+f 
+-41 listEtOu
+: 417 1 416 1 415 1 413 4 180 3 82 2 67 1 
+t 10 5 
+t 389 6 10 5 
+t 417 1 416 1 415 1 413 4 180 1 82 2 67 1 10 5 
+t 414 7 142 1 10 5 
+: 10 8 
+: 413 1 
+t 142 1 10 5 
+: 10 9 
+t 
+f 
+-42 listPeu
+: 425 3 424 3 158 2 97 1 
+: 422 6 421 6 420 6 419 6 418 5 158 2 136 4 
+t 69 7 
+: 158 2 
+: 418 5 
+: 422 6 421 6 420 6 419 6 158 2 
+t 
+: 423 6 
+f 
+-43 listDeCe
+: 69 1 
+: 429 2 428 2 427 2 426 2 
+t 
+f 
+-44 listAngle
+: 441 1 440 3 439 1 438 1 436 3 435 1 434 1 432 2 431 1 430 1 379 1 
+t 
+: 433 1 
+: 161 4 
+: 44 5 
+: 437 1 
+f 
+-45 tagDegre
+: 163 1 162 1 
+: 14 2 
+: 79 3 
+: 74 4 
+t 444 7 443 6 442 5 
+: 44 7 14 8 
+: 14 8 
+: 14 9 
+: 79 10 
+t 
+: 74 11 
+: 444 7 442 12 
+: 44 7 
+f 
+-46 tagForce
+: 464 1 463 1 462 1 461 1 460 1 459 1 458 1 457 1 456 1 455 1 453 2 452 1 451 1 450 1 449 1 448 1 447 1 446 1 445 1 
+: 14 3 
+: 454 1 67 4 
+t 
+: 454 1 
+f 
+-47 listLe
+: 212 1 211 1 175 2 138 1 
+t 
+: 44 1 
+f 
+-48 listCe
+: 429 1 428 1 427 1 426 1 
+t 
+f 
+-49 listMetre
+: 482 1 481 1 480 1 479 1 478 1 477 1 476 1 475 1 474 1 473 1 472 1 471 1 470 1 469 1 468 1 467 1 466 1 465 1 385 3 302 2 273 1 
+t 
+: 483 4 
+: 302 1 
+: 46 5 
+: 45 6 44 6 
+: 48 1 
+f 
+%<E>
+%<E>/,.preInclude+quaero="qualifier"}
+%<E>/,.postInclude+quaero="qualifier"}
+@ 
+%#/{
+%<N+Monnaie>/{{
+%€/{{
+%£/{{
+%$/{{
+%fr/{{
+%.
+%F/{{
+%<ancien>/{{
+%<E>/,.measure+type="currency"+grfamountMonnaie}
+%<E>/,.unit}
+%<livre>/{{
+%<N+Monnaie>
+%€
+%£
+%$
+%fr
+%F
+%net
+%brut
+%<E>/,.measure+type="energy"+grfamountEnergie}
+%<E>/,.measure+type="length"+grfamountLongueur}
+%de/{
+%hauteur
+%longueur
+%largeur
+%profondeur
+%haut
+%long
+%large
+%diagonale
+%rayon
+%diamètre
+%circonférence
+%<E>/,.offset}
+%<pied>/{{
+%<pouce>/{{
+%<point>/{{
+%m/{{
+%m/{
+%'
+%(
+%#
+%$![0
+%$]
+%<E>/,.measure+type="bulk"+grfamountMasse}
+%<E>/,.measure+type="area"+grfamountSurface}
+%<E>/,.measure+type="volume"+grfamountVolume}
+%l/{{
+%l/{
+%$![1
+%<E>/,.measure+type="byte"+grfamountOctet}
+%o/{{
+%b/{{
+%$![2
+%<E>/,.measure+type="pressure"+grfamountPression}
+%<E>/,.measure+type="radioactivity"+grfamountRadiation}
+%c/{{
+%$![3
+%c/{
+%<E>/,.measure+type="concentration"+grfamountConcentration}
+%<E>/,.measure+type="temperature"+grfamountTemperature}
+%au/{
+%-
+%dessus
+%de
+%zéro
+%en/{
+%dessous
+%<E>/,.postInclude}
+%<E>/,.val}
+%<millier>
+%<million>
+%<milliard>
+%<num+collective>
+%<num>/{
+%un/{
+%une/{
+%et
+%demi
+%quart
+%des/{
+%du/{
+%d/{
+%quelques/{
+%plusieurs/{
+%chaque/{
+%moins/{
+%plus/{
+@+/{
+%-/{
+%<num+type=\"fraction\">
+%<num~romain>
+%un
+%une
+%mille
+%<extent>
+%nombre
+%pourcentage
+%proportion
+%quantité
+%partie
+%train
+%augmentation
+%marge
+%somme
+%tas
+%<petit>
+%<grand>
+%<gros>
+%<certain>
+%<bon>
+%<nombreux>
+%<ADV>
+%moins
+%en
+%plus
+%uns
+%pas/{
+%mal
+%beaucoup/{
+%plein/{
+%quantités/{
+%la/{
+%plupart
+%majorité
+%<E>/,.val+type="approximatif"}
+%au
+%mieux
+%pire
+%pis
+%avant
+%tout
+%dans
+%les
+%du
+%déjà
+%gros
+%encore
+%ensuite
+%environ
+%exactement
+%même
+%pas
+%à
+%fait
+%peut
+%être
+%presque
+%près
+%précisément
+%quand
+%surtout
+%peine
+%peu
+%casser
+%des
+%d
+%°/{
+%<degré>/{
+%<E>/,.measure+type="angle"+grfamountAngle}
+%<num>/{{
+%latitude
+%nord
+%sud
+%longitude
+%est
+%ouest
+%méridien
+%<E>/,.measure+type="coordinate"+grfamountGeographie}
+%sur/{
+%l
+%échelle
+%richter
+%magnitude/{
+%<E>/,.measure+type="magnitude"+grfamountSeisme}
+%,
+%<num>
+%<E>/,.measure+type="power"+grfamountForce}
+%<force>
+%<voiture>
+%<camion>
+%<tracteur>
+%<moteur>
+%chevaux/{{
+%<E>/,.preInclude}
+%chaque
+%plusieurs
+%quelques
+%quelque
+%n
+%importe
+%<quel>
+%<tous>
+%<seul>
+%<autre>
+%<même>
+%<dernier>
+%autant
+%autour
+%aux
+%alentours
+%davantage
+%assez
+%trop
+%tant
+%moitié
+%le
+%la
+%clair
+%millier
+%chacun
+%période
+%beaucoup
+%approximativement
+%pratiquement
+%seulement
+%simplement
+%uniquement
+%sûrement
+%certainement
+%<centime>/{
+%cent/{
+%cents/{
+%<shilling>/{
+%penny/{
+%pens/{
+%pennies/{
+%kopeck/{
+%et/{
+%<num~extent>
+%<dixième>
+%<centième>
+%<millième>
+%<millionième>
+%<calorie>/{
+%électron/{
+%<volt>
+%<volt>/{
+%eV/{
+%V/{
+%cal/{
+%<joule>/{
+%<mégajoule>/{
+%<kilojoule>/{
+%watt/{
+%<heure>
+%kilowatt/{
+%J/{
+%kJ/{
+%W/{
+%Wh/{
+%kW/{
+%kWh/{
+%<watt>/{
+%<kilowatt>/{
+%<mégawatt>/{
+%<gigawatt>/{
+%MW/{
+%GW/{
+%<angström>
+%<brasse>
+%<furlong>
+%<lieue>
+%<mile>
+%<pied>
+%anglais
+%<toise>
+%<yard>
+%milles
+%pt
+%<microgramme>/{
+%<milligramme>/{
+%<centigramme>/{
+%<décigramme>/{
+%<décagramme>/{
+%<kilogramme>/{
+%<gramme>/{
+%<tonne>/{
+%kilo/{
+%kilos/{
+%<quintal>/{
+%<carat>/{
+%<denier>/{
+%<once>/{
+%mg/{
+%cg/{
+%dg/{
+%dag/{
+%kg/{
+%g/{
+%q/{
+%t/{
+%$![4
+%<hectare>
+%<are>
+%<centiare>
+%<acre>
+%m
+%²
+%<carré>
+%2
+%<2>
+%<millilitre>
+%<centilitre>
+%<décilitre>
+%<litre>
+%<décalitre>
+%<hectolitre>
+%ml
+%cl
+%dl
+%dal
+%hl
+%<stère>
+%<baril>
+%³
+%<cube>
+%3
+%<3>
+%ko
+%Mo
+%Go
+%To
+%<TOKEN><<(kilo|méga|giga|téra|k|m|g|t)(octet|octets)>>
+%kilo
+%méga
+%téra
+%octet
+%octets
+%bit
+%bits
+%byte
+%bytes
+%kb
+%Mb
+%Gb
+%Tb
+%<TOKEN><<(kilo|méga|giga|téra|k|m|g|t)(bit|bits|byte|bytes)>>
+%millimètre/{
+%mercure
+%millimètres/{
+%mm/{
+%<pascal>/{
+%<térapascal>/{
+%<gigapascal>/{
+%<decapascal>/{
+%<millipascal>/{
+%<micropascal>/{
+%<nanopascal>/{
+%<mégapascal>/{
+%<kilopascal>/{
+%<hectopascal>/{
+%<bar>/{
+%<millibar>/{
+%<barye>/{
+%<pièze>/{
+%Pa/{
+%tPa/{
+%gPa/{
+%dPa/{
+%mPa/{
+%µ/{
+%Pa
+%kPa/{
+%hPa/{
+%mbar/{
+%<atmosphère>/{
+%mmHg/{
+%torr/{
+%psi/{
+%atm/{
+%$![5
+%b/{
+%R
+%rad
+%Gy
+%Bq
+%rem
+%Sv
+%<TOKEN><<^mM$>>_f_
+%µ
+%M
+%%
+%v
+%/
+%w
+%)
+%μ
+%<nomNSceDitalic>
+%<nomNSceFitalic>
+%celsius
+%kelvin
+%fahrenheit
+%réaumur
+%rankine
+%rømer
+%delisle
+%newton
+%K
+%C
+%double/{
+%triple/{
+%quadruple/{
+%quintuple/{
+%sextuple/{
+%septuple/{
+%décuple/{
+%centuple/{
+%ou
+%bien
+%voire
+%puis
+%enfin
+%petit
+%chouia
+%poil
+%instant
+%moment
+%temps
+%très
+%infiniment
+%ce
+%cet
+%cette
+%ces
+%<centigon>
+%<grade>
+%<mi>
+%<angulaire>
+%<milligon>
+%<milliradian>
+%<minute>
+%arc
+%<quadrant>
+%<radian>
+%<seconde>
+%mrad
+%'/{
+%<minute>/{
+%<seconde>/{
+%<kilogramme-poids>/{
+%<gramme force>/{
+%<gramme poids>/{
+%<kilogramme force>/{
+%gf/{
+%gp/{
+%kgf/{
+%kgp/{
+%<cheval>/{
+%vapeur
+%CV/{
+%<newton>/{
+%<giganewton>/{
+%<méganewton>/{
+%<micronewton>/{
+%<nanonewton>/{
+%<kilonewton>/{
+%<décanewton>/{
+%<millinewton>/{
+%N/{
+%<mètre>
+%<hectomètre>
+%<décamètre>
+%<picomètre>
+%<femtomètre>
+%<kilomètre>
+%<décimètre>
+%<centimètre>
+%<millimètre>
+%<micron>
+%<micromètre>
+%<nanomètre>
+%mm
+%cm
+%dm
+%dam
+%hm
+%km
+%$![6
+f

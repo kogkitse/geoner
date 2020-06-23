@@ -1,0 +1,46 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+26
+"<E>" 116 543 2 3 25 
+"" 939 543 0 
+"<num>/{" 461 543 1 6 
+"<E>/${0}$" 204 543 2 10 11 
+"de" 245 323 1 24 
+":tagAn" 352 323 1 19 
+"<E>/,.gYear}" 563 543 1 7 
+"$![" 619 543 1 8 
+"<N:p>+%+-+_+<num>" 670 543 1 9 
+"$]" 775 543 1 12 
+"<E>" 408 543 1 2 
+"de+-" 304 582 1 10 
+"<E>" 801 543 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 371 82 0 
+"Dans Etape, que des années en chiffre" 107 126 0 
+"<num>/{" 474 323 1 17 
+":tagApresAn" 643 276 1 18 
+"<E>/,.gYear}" 572 323 2 16 18 
+"<E>" 758 323 1 1 
+"<E>" 417 323 1 15 
+"<num>/{" 479 180 1 22 
+":tagApresAn" 669 180 1 1 
+"<E>/,.gYear}" 569 180 1 21 
+"<E>" 414 180 1 20 
+"<E>" 301 323 2 23 5 
+"<E>/${1}$" 176 423 2 4 24 

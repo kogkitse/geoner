@@ -1,0 +1,60 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+40
+"<E>" 75 281 2 5 30 
+"" 1654 281 0 
+":tagFonctionAdministrative+:tagFonctionPolitique+:tagFonctionJustice+:tagFonctionMilitaire+:tagFonctionReligieuse+:tagFonctionUniversitaire+:tagProfessionSeule" 711 281 1 6 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1509 537 0 
+":B" 654 281 1 2 
+"<PREP>+<CONJS>+<CONJC>+<DET>+," 165 281 2 18 39 
+"<E>/,.roleName+type=\"office\"+grfroleName}" 917 281 2 15 20 
+"<E>/${1}$" 318 281 3 12 17 19 
+"<E>/${2}$" 368 492 2 9 22 
+"<agent.N:m>+<aide>+<cadre>+<facteur.N:m>+garde+<indicateur.N:m>+<lanceur.N:m>+<licencié>+<modèle>" 904 492 1 20 
+"/noms ambigüs" 494 538 0 
+":tagViceEx" 429 365 1 13 
+":B" 363 365 1 11 
+"<E>/,.preInclude}" 519 365 1 19 
+":tagGentileS+:tagGentileP" 1065 202 1 16 
+":B" 999 202 1 14 
+"<E>/,.postInclude}" 1155 202 1 20 
+":tagGentileS+:tagGentileP" 439 138 1 27 
+"<E>" 289 281 2 7 8 
+"<E>" 577 281 1 4 
+"<E>" 1212 281 2 1 28 
+"<PREP>+<PREPDET>" 1128 616 1 1 
+"cocher+conseiller+<demandeur>+<principal>/{{" 523 616 1 23 
+"<E>/,.w+type=\"noun\"}" 665 616 1 25 
+"/adjectif qui peut etre antéposé ou infinitif" 258 620 0 
+"<E>/,.roleName+type=\"office\"+grfroleName}" 810 616 1 21 
+"/boucher infinitif précédé d'un pronom semble rare" 514 676 0 
+"<E>" 1333 138 1 1 
+":listDeLe+:listALe" 1289 231 1 29 
+":tagOrgRole" 1377 231 1 1 
+":tagOrgRole" 295 71 1 31 
+"(" 440 71 1 36 
+":tagFonctionAdministrative" 542 71 1 37 
+"\:" 809 71 2 34 38 
+":patternIncludePersName" 1067 71 1 27 
+"/la DRME (Directeur : Pr. Dubois" 529 109 0 
+":B" 481 71 1 32 
+"<E>/,.roleName+type=\"office\"+grfroleName}" 734 71 1 33 
+"\<\/s\> \<s\>" 892 35 1 34 
+"'" 258 244 1 18 

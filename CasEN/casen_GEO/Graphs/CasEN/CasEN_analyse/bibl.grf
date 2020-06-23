@@ -1,0 +1,66 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+46
+"<E>" 30 251 3 19 20 23 
+"" 1671 251 0 
+"/(Voir GIRODET, Jean (2007). Dictionnaire des pièges et difficultés de la langue française, Paris : Bordas)." 70 109 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 836 99 0 
+")+]" 1606 251 1 1 
+"(+[" 199 192 1 6 
+":B" 310 251 1 8 
+"<E>/,.bibl+grfbibl}" 1495 251 1 4 
+"<ref>" 373 251 1 9 
+",+." 464 251 1 12 
+"<placeName+type=\"settlement\">" 588 251 1 13 
+"<TOKEN>" 826 251 2 12 14 
+"$![" 533 251 1 10 
+"$]" 788 251 1 11 
+"<placeName+type=\"settlement\">" 926 251 1 17 
+")+]" 1236 251 1 18 
+"<TOKEN>" 1338 251 2 17 7 
+"$![" 1196 251 1 15 
+"$]" 1285 251 1 16 
+"voir+cf.+d'après+in+extrait de" 97 192 1 5 
+"(+[" 120 304 1 21 
+"voir+cf.+d'après+in+extrait de" 181 304 1 6 
+"/Revue française des Laboratoires, octobre 2000, N°326" 296 382 0 
+"revue/{{" 215 498 1 24 
+"<E>/,.w+quaero=\"kind\"}" 280 498 2 25 26 
+"<E>" 463 498 1 27 
+":tagDemonym" 359 439 1 25 
+":listDeLe" 516 497 1 28 
+":patternNomMixte" 618 497 1 33 
+"<date+quaero=\"abs\">" 902 420 1 41 
+"," 818 420 1 29 
+"n°" 861 575 1 32 
+"<num+type=\"cardinal\">" 913 575 2 35 44 
+"<E>" 740 497 5 30 44 29 31 45 
+"," 1134 537 1 36 
+"<E>" 1085 575 2 34 36 
+"<E>" 1165 575 1 37 
+"<date+quaero=\"abs\">" 1213 575 1 43 
+"n°" 1160 420 1 39 
+"<num+type=\"cardinal\">" 1212 420 1 43 
+"," 1095 391 1 42 
+"<E>" 1051 420 3 40 42 44 
+"<E>" 1131 420 1 38 
+"<E>/,.bibl+grfbibl}" 1404 497 1 1 
+"<E>" 1094 497 1 43 
+"," 796 575 1 31 

@@ -1,0 +1,24 @@
+0000000001
+-1 productGenerique
+: 3 1 
+: 4 2 
+: 10 4 8 5 5 4 2 3 
+: 1 6 
+: 6 7 
+: 6 8 
+t 
+: 7 3 
+: 9 3 
+f 
+%<E>
+%<E>/+grfprodGenerique}
+%name/,.productName
+%$/{
+%G
+%surname/,.productName
+%.
+%persName
+%place/,.productName
+%placeName
+%surname/,.product
+f

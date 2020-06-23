@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 53 246 3 2 4 6 
+"" 806 245 0 
+"<certain>+chaque+plusieurs+quelques+quelque+n'importe <quel>+encore quelques" 290 183 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 449 71 0 
+"<tous>" 211 273 1 5 
+":listLe+:listCe" 393 273 1 1 
+":listLe+:listCe" 224 359 1 7 
+"<seul>+<autre>+<même>+<dernier>" 399 359 1 1 

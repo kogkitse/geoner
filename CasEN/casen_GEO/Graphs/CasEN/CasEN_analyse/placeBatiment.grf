@@ -1,0 +1,35 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+15
+"<E>" 93 347 2 12 11 
+"" 947 347 0 
+":tagBatimentCulturel+:tagBatimentHabitat+:tagBatimentHistorique+:tagBatimentIndustriel+:tagBatimentReligieux+:tagBatimentSportif+:tagBatimentTransport+:tagBatimentVille" 465 347 1 14 
+"<E>/,.placeName+type=\"building\"+grfplaceBatiment}" 836 521 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 36 96 0 
+"Chez/{" 546 521 1 6 
+":patternNomMixte" 659 521 1 3 
+".+?+!+\:" 339 521 1 9 
+"$![" 299 521 1 7 
+"$]" 378 521 1 10 
+"<TOKEN>" 417 521 1 5 
+"<E>/${1}$" 258 347 1 13 
+"<E>/${2}$" 268 520 1 8 
+":B" 351 347 1 2 
+"<E>/,.place+type=\"building\"+grfplaceBatiment}" 632 347 1 1 

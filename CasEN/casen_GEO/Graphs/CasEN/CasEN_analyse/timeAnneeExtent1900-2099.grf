@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 201 225 1 7 
+"" 836 225 0 
+"<E>/,.datePeriod+quaero=\"abs\"+grftimeAnneePeriode2000}" 461 225 2 1 5 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 378 394 0 
+":listPredeterminant" 579 186 1 6 
+":B" 548 186 1 4 
+"<E>/,.postInclude+quaero=\"time-modifier\"}" 705 187 1 1 
+"<extent+1900a2099>/{" 285 225 1 2 

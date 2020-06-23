@@ -1,0 +1,92 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+72
+"<E>" 21 414 1 2 
+"" 1754 414 0 
+":TEItimeAvantGHour" 53 414 2 9 43 
+":TEIgMinute" 378 21 2 12 28 
+"<E>/$avant.UNSET$" 889 21 1 5 
+"<E>/$gHour$$unitH$ $gMinute$$unitM$ $gSeconde$$unitS$" 1043 21 1 18 
+"<E>/$avant.SET$" 886 67 1 7 
+"<E>/$avant$ " 992 67 1 5 
+"/<_time>A <_gHour>8</_gHour><_unit>h</_unit> <_gMinute>30</_gMinute><_unit>mn</_unit>+<_gSeconde>20</_gSeconde><_unit>s</_unit> exactement</_time>" 61 741 0 
+"#" 257 21 1 10 
+":TEIunitH" 293 21 1 3 
+":TEIunitM" 511 21 1 13 
+"#" 473 21 1 11 
+":TEIgSeconde" 596 21 2 15 22 
+":TEIunitSApresTime" 738 21 2 4 6 
+"#" 701 21 1 14 
+"<E>/$avant.UNSET$" 928 119 1 17 
+"<E>/$gHour$$unitH$ $gMinute$$unitM$ $gSeconde$ $unitS$" 1084 119 1 18 
+":TEIapresTime" 1603 414 1 1 
+"<E>/$avant.SET$" 924 167 1 20 
+"<E>/$avant$ " 1038 167 1 17 
+":TEIunitSApresTime" 777 119 2 16 19 
+"\" \"" 740 119 1 21 
+"<E>/$avant.UNSET$" 944 219 1 24 
+"<E>/$gHour$$unitH$ $gMinute$ $unitM$ $gSeconde$$unitS$" 1113 219 1 18 
+"<E>/$avant.SET$" 942 268 1 26 
+"<E>/$avant$ " 1058 268 1 24 
+":TEIunitM" 566 219 1 29 
+"\" \"" 528 219 1 27 
+":TEIgSeconde" 651 219 2 31 37 
+":TEIunitSApresTime" 793 219 2 23 25 
+"#" 756 219 1 30 
+"<E>/$avant.UNSET$" 984 320 1 33 
+"<E>/$gHour$$unitH$ $gMinute$ $unitM$ $gSeconde$ $unitS$" 1157 320 1 18 
+"<E>/$avant.SET$" 980 367 1 35 
+"<E>/$avant$ " 1125 367 1 33 
+":TEIunitSApresTime" 833 320 2 32 34 
+"\" \"" 796 320 1 36 
+":TEIgMinute" 363 480 2 46 61 
+"<E>/$avant.UNSET$" 874 480 1 40 
+"<E>/$gHour$ $unitH$ $gMinute$$unitM$ $gSeconde$$unitS$" 1031 480 1 18 
+"<E>/$avant.SET$" 871 526 1 42 
+"<E>/$avant$ " 988 526 1 40 
+"\" \"" 242 480 1 44 
+":TEIunitH" 278 480 1 38 
+":TEIunitM" 496 480 1 47 
+"#" 458 480 1 45 
+":TEIgSeconde" 581 480 2 49 55 
+":TEIunitSApresTime" 723 480 2 39 41 
+"#" 686 480 1 48 
+"<E>/$avant.UNSET$" 913 578 1 51 
+"<E>/$gHour$ $unitH$ $gMinute$$unitM$ $gSeconde$ $unitS$" 1075 578 1 18 
+"<E>/$avant.SET$" 909 626 1 53 
+"<E>/$avant$ " 1025 626 1 51 
+":TEIunitSApresTime" 762 578 2 50 52 
+"\" \"" 725 578 1 54 
+"<E>/$avant.UNSET$" 929 678 1 57 
+"<E>/$gHour$ $unitH$ $gMinute$ $unitM$ $gSeconde$$unitS$" 1088 678 1 18 
+"<E>/$avant.SET$" 927 727 1 59 
+"<E>/$avant$ " 1045 727 1 57 
+":TEIunitM" 551 678 1 62 
+"\" \"" 513 678 1 60 
+":TEIgSeconde" 636 678 2 64 70 
+":TEIunitSApresTime" 778 678 2 56 58 
+"#" 741 678 1 63 
+"<E>/$avant.UNSET$" 969 779 1 66 
+"<E>/$gHour$ $unitH$ $gMinute$ $unitM$ $gSeconde$ $unitS$" 1117 779 1 18 
+"<E>/$avant.SET$" 965 826 1 68 
+"<E>/$avant$ " 1080 826 1 66 
+":TEIunitSApresTime" 818 779 2 65 67 
+"\" \"" 781 779 1 69 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 64 612 0 

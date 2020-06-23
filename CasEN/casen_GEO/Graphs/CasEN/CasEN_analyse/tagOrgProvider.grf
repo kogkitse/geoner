@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10027008
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 72 383 1 22 
+"" 1473 383 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 156 140 0 
+"<orgName>/{{" 274 297 1 4 
+"<E>/,.erase}" 370 297 1 10 
+"<orgName>/{{" 789 177 1 6 
+"<E>/,.erase}" 885 177 1 14 
+"(" 750 177 1 5 
+":patternNomMixte" 305 383 1 10 
+":B" 246 383 1 8 
+"<E>/,.orgName+type=\"provider\"+grftagOrgProvider}" 436 383 1 15 
+"(" 759 272 1 13 
+")" 1368 272 1 23 
+":B" 800 272 1 25 
+"<E>/,.orgName+type=\"provider\"+grftagOrgProvider}" 990 272 2 27 29 
+"<E>" 572 383 2 18 23 
+"<E>/${2}$" 197 297 1 3 
+"<E>/${1}$" 165 383 1 9 
+"<E>" 635 272 2 19 20 
+"<E>/${2}$" 694 177 1 7 
+"<E>/${1}$" 691 272 1 11 
+"/les laboratoires Reckitt et Colman pour" 105 541 0 
+"<E>" 120 383 2 16 17 
+"<E>" 1424 383 2 1 24 
+"et+&" 739 549 1 22 
+":patternNomMixte+0+<num>" 847 273 3 25 26 14 
+"#-#" 878 355 1 25 
+"," 1030 223 1 28 
+"<placeName>" 1072 223 1 29 
+"<E>" 1180 272 1 12 

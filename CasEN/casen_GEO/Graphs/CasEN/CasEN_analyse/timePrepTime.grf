@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 46 420 2 2 6 
+"" 1622 417 0 
+":B" 148 420 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 366 134 0 
+":patternPrepTime" 208 420 1 11 
+":tagAmountDureeTime" 869 317 1 24 
+"<dater>" 102 512 1 8 
+":listDe+:listDeLe" 224 512 1 9 
+":BB" 174 512 1 7 
+"<E>/,.w+type=\"preposition\"}" 310 512 1 11 
+":B" 777 420 2 5 13 
+"<E>" 368 420 2 29 22 
+"<E>" 594 420 2 14 15 
+":tagDureeHour+:tagAmountDureeMatin" 856 481 1 17 
+":tagDebutFin" 627 374 1 15 
+"<E>" 723 420 1 10 
+"<E>/,.time+quaero=\"rel\"+grftimePrepTime}" 1409 481 1 1 
+"<E>" 1006 481 2 19 18 
+"<complet>+<entier>/{" 1072 442 1 20 
+"<E>" 1206 481 2 16 21 
+"<E>/,.w+type=\"adjective\"}" 1165 442 1 19 
+":tagDateSuivante+:tagAffilee" 1273 425 1 16 
+":listPredeterminant" 413 372 1 29 
+"<E>/,.date+quaero=\"rel\"+grftimePrepTime}" 1415 317 1 1 
+"<E>" 1012 317 2 26 25 
+"<complet>+<entier>/{" 1066 267 1 27 
+"<E>" 1212 317 2 23 28 
+"<E>/,.w+type=\"adjective\"}" 1159 267 1 26 
+":tagDateSuivante+:tagAffilee" 1274 257 1 23 
+"<E>/,.preInclude}" 557 420 1 12 

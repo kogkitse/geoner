@@ -1,0 +1,61 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+41
+"<E>" 35 300 4 2 3 21 39 
+"" 1308 300 0 
+"<E>" 179 707 2 4 16 
+"<collège>+<collège> <lycée>+<collège>-<lycée>+<institution>+<lycée>+<pensionnat>+CEG+CES/{" 180 600 2 8 37 
+"<académie>+<conservatoire>+<école>/{" 231 836 1 10 
+"<national>+<régional>+<départemental>+<municipal>/{" 421 769 1 11 
+"musique+danse+dessin+beaux arts/{" 845 836 1 13 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1544 800 0 
+"<E>/,.w+type=\"noun\"+kind}" 441 600 2 17 15 
+"<E>/,.w+type=\"adjective\"}" 614 520 1 15 
+"<E>/,.w+type=\"noun\"+kind}" 352 836 2 12 5 
+"<E>/,.w+type=\"adjective\"}" 539 770 1 12 
+":listDe" 753 836 1 6 
+"<E>/,.w+type=\"noun\"+name}" 1020 836 1 1 
+"<A+Toponyme:f>+<biblique>+<catholique>+<coranique>+<européen.A:f>+<islamique>+<juif.A:f>+<musulman.A:f>+<protestant.A:f>+<réformé.A:f>/{" 1086 145 1 18 
+"<E>" 673 600 1 24 
+"<crêche>+<crèche>+<halte> <garderie>+<maternel.A:f>/{" 556 707 1 19 
+"<technique>+<polyvalent>+<professionnel>+<primaire>+<secondaire>+<scolaire>/{" 504 520 1 9 
+"<E>/,.w+type=\"adjective\"}" 1205 146 1 1 
+"<E>/,.w+type=\"noun\"+kind}" 685 707 1 24 
+"<E>/,.w+type=\"noun\"+kind}" 237 300 3 24 25 27 
+"<école>/{" 161 300 2 20 22 
+"d'été" 329 53 1 23 
+"<E>/,.w+type=\"noun\"+name}" 1239 53 1 1 
+"<E>" 803 300 2 30 32 
+"<maternel.A:f>+<national.A:f> <supérieur.A:f>+<normal.A:f>+<normal.A:f> <supérieur.A:f>+<polytechnique>+<polyvalent.A:f>+<primaire>+<professionnel.A:f>+<secondaire>+<supérieur.A:f>+<technique>/{" 332 183 1 26 
+"<E>/,.w+type=\"adjective\"}" 538 183 1 24 
+":listDeLe" 304 359 2 28 33 
+"armée+commerce+ingénieurs+langues+management+marine/{" 400 359 1 29 
+"<E>/,.w+type=\"noun\"+name}" 540 359 1 24 
+"<départemental.A:f>+<municipal.A:f>+<national.A:f>+<privé.A:f>+<public.A:f>+<régional.A:f>/{" 842 227 1 31 
+"<E>/,.w+type=\"adjective\"}" 982 227 1 32 
+"<E>" 1039 300 2 1 14 
+"armée/{" 385 443 1 36 
+"terre+air/" 541 443 1 35 
+"<E>/,.w+type=\"noun\"+name}" 597 443 1 24 
+":listDeLe" 458 443 1 34 
+"d'enseignement" 326 563 1 8 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 858 424 0 
+"<institut>+<établissement>/{" 163 484 2 37 40 
+"<E>/,.w+type=\"noun\"+kind}" 304 485 1 17 

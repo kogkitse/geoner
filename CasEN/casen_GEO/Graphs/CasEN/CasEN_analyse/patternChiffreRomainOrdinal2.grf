@@ -1,0 +1,66 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+46
+"<E>" 21 397 4 21 22 33 45 
+"" 964 397 0 
+"ème+e+eme" 312 189 1 5 
+"s" 443 154 1 4 
+"<E>" 483 189 1 12 
+"<E>" 403 189 2 4 3 
+"i" 254 160 1 2 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 630 84 0 
+"<nomDhi>" 318 397 1 19 
+"<nomFhi>" 793 397 1 1 
+"nd+nde+d+de" 312 67 1 5 
+"II" 175 189 3 10 6 2 
+"$>" 534 189 1 1 
+"ème+e+eme" 534 397 1 16 
+"s" 665 362 1 15 
+"<E>" 705 397 1 20 
+"<E>" 625 397 2 15 14 
+"i" 476 368 1 13 
+"nd+nde+d+de" 534 275 1 16 
+"$<" 397 397 3 18 17 13 
+"$>" 756 397 1 9 
+"$<" 101 189 1 11 
+"II" 142 397 2 8 34 
+"<nomNSceDsup>" 213 485 1 30 
+"<nomNSceFsup>" 660 485 1 1 
+"ème+e+eme" 442 485 1 28 
+"s" 542 450 1 27 
+"<E>" 582 485 1 31 
+"<E>" 502 485 2 27 26 
+"i" 392 451 1 25 
+"$<" 336 485 3 25 29 32 
+"$>" 619 485 1 24 
+"nd+nde+d+de" 442 564 1 28 
+"II" 180 485 1 23 
+"<nomFhi>+<nomDFlb>" 204 332 1 8 
+"<nomDsc>" 277 665 1 42 
+"<nomFsc>" 698 665 1 1 
+"ème+e+eme" 480 665 1 40 
+"s" 580 630 1 39 
+"<E>" 620 665 1 43 
+"<E>" 540 665 2 39 38 
+"i" 430 631 1 37 
+"$<" 374 665 3 37 41 44 
+"$>" 657 665 1 36 
+"nd+nde+d+de" 480 744 1 40 
+"II" 218 665 1 35 

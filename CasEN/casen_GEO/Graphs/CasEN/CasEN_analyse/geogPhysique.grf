@@ -1,0 +1,70 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+50
+"<E>" 82 238 5 4 20 23 15 33 
+"" 1744 238 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 809 435 0 
+"Sahara marocain" 303 668 0 
+"<N+Toponyme+Geonyme>/{" 179 614 1 25 
+"<E>/,.geogFeat+kind}" 814 238 2 7 6 
+":tagDemonym" 846 192 1 7 
+"<E>" 952 238 2 13 19 
+"<N+Toponyme+Geonyme>+<A+Toponyme>/{" 1178 238 1 9 
+"<E>" 1498 238 2 17 18 
+"<E>/${1}$" 1120 386 1 46 
+":patternMajMinTiret" 1372 386 3 9 48 49 
+"<E>/${2}$" 1123 238 1 8 
+"<E>" 1073 238 2 12 10 
+"<E>" 371 538 1 43 
+":B" 224 238 1 44 
+"<E>/,.geogName+grfgeogPhysique}" 1702 238 1 1 
+":tagDemonym" 1539 192 1 18 
+"<E>" 1645 238 1 16 
+":listDeLe" 981 185 1 13 
+"versant+adret+ubach/{" 194 434 2 21 22 
+"<nord>+<sud>+<ouest>+<est>+ensoleillé+enneigé+<oriental>+<septentrional>+<occidental>+<méridional>" 266 339 1 22 
+"<E>" 389 434 2 29 42 
+"Petit+Grand+Bas+Haut/{" 204 538 2 14 24 
+"-" 314 499 1 14 
+"<E>" 406 614 2 26 27 
+":tagDemonym" 448 679 1 27 
+"<E>" 553 614 1 28 
+"<E>" 1602 613 1 16 
+":listDeLe" 478 434 1 30 
+"<massif.N>+<pic>+:listGeogPhysique" 583 434 1 42 
+":patternMajMinTiret" 201 754 2 32 34 
+"#'s+#-#" 362 705 1 34 
+":B" 165 754 1 31 
+"<E>" 410 754 1 35 
+"valley+mountain+mount" 454 754 1 37 
+":tagDemonym" 696 717 1 38 
+"<E>" 660 754 2 38 36 
+"<E>" 801 754 1 28 
+":B" 1322 386 1 11 
+"<E>/,.geogFeat+grfgeogPhysique}" 905 80 1 41 
+"<E>" 1612 80 1 1 
+"<E>" 740 238 2 5 40 
+"<massif.N>+<pic>+:listGeogPhysique" 586 538 1 5 
+":listGeogPhysique" 531 238 1 42 
+"Ouest+Est+Nord+Sud" 1207 386 1 47 
+"$![" 1167 386 1 45 
+"$]" 1274 386 1 39 
+"#'s+#-#" 1510 445 1 49 
+"valley+mountain+mount" 1566 385 1 9 

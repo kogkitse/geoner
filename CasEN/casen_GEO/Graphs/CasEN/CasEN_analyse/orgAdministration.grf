@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10027008
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 29 329 6 13 8 2 4 18 23 
+"" 947 329 0 
+":orgAdministrative+:orgArmee+:orgAssemblee+:orgGouvernement+:orgJustice+:orgPartiPolitique+:orgPlaceGeoPolitique+:orgPolice+:orgPompier+:orgSyndicat" 509 329 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 914 582 0 
+"<num+type=\"ordinal\">/{{" 258 457 1 7 
+":orgArmee" 746 457 1 1 
+"<E>/,.preInclude}" 695 457 1 5 
+"<E>/,.w+type=\"adjective\"}" 484 457 1 6 
+"<administration>+<comité>+<comité> d’éthique+<conseil>+<conseil> <supérieur.A:m>+<direction>+<fédération>+<service>/{{" 234 187 1 9 
+"<E>/,.w+type=\"noun\"+kind}" 499 187 1 10 
+":listDeLe" 542 187 1 12 
+":orgAdministrative+:orgArmee+:orgJustice+:orgPartiPolitique+:orgPolice+:orgSyndicat" 792 187 1 1 
+"<E>/,.preInclude}" 687 187 1 11 
+"<syndicat>/{{" 244 78 1 14 
+"<E>/,.w+type=\"noun\"+kind}" 446 78 1 15 
+":listDeLe" 499 78 1 17 
+":orgAdministrative+:orgJustice+:orgPlaceGeoPolitique+:orgPolice+:orgPompier" 811 78 1 1 
+"<E>/,.preInclude}" 636 78 1 16 
+"<centre>+<préfecture>+<poste>/{{" 207 564 1 19 
+"<E>/,.w+type=\"noun\"+kind}" 300 564 1 22 
+":orgPolice" 743 564 1 1 
+"<E>/,.preInclude}" 581 564 1 20 
+":listDeLe" 418 564 1 21 
+"<caserne>/{{" 209 685 1 24 
+"<E>/,.w+type=\"noun\"+kind}" 302 685 1 27 
+":orgArmee+:orgPompier" 745 685 1 1 
+"<E>/,.preInclude}" 583 685 2 25 20 
+":listDeLe" 420 685 1 26 

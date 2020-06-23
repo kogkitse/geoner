@@ -1,0 +1,52 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+32
+"<E>" 20 408 4 10 11 21 30 
+"" 977 408 0 
+"avent+carême/{" 780 408 1 4 
+"<E>" 690 408 1 2 
+"<E>/,.w+type=\"noun\"}" 916 408 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 568 92 0 
+"ramadan/{" 776 520 1 4 
+"<E>" 710 520 1 6 
+"semaine sainte/{" 760 240 1 4 
+"<E>" 452 240 1 8 
+"<E>" 367 408 5 3 9 20 14 17 
+"période/{" 89 339 1 12 
+"<E>/,.w+type=\"noun\"}" 153 339 1 13 
+"de la+du+de l'" 301 339 1 10 
+"temps/{" 477 333 1 15 
+"<E>/,.w+type=\"noun\"}" 541 333 1 16 
+"du+de l'" 602 333 1 3 
+"mois/{" 460 451 1 18 
+"<E>/,.w+type=\"noun\"}" 525 451 1 19 
+"du" 586 451 1 7 
+"<E>" 437 520 1 7 
+"année/{" 98 652 1 22 
+"<E>/,.w+type=\"noun\"}" 167 652 1 26 
+"du" 622 696 1 24 
+"christianisme+catholicisme/{" 670 696 1 25 
+"<E>/,.w+type=\"noun\"}" 777 696 1 29 
+"jubilaire/{" 314 652 1 27 
+"<E>/,.w+type=\"adjective\"}" 395 652 1 28 
+"<E>" 568 652 2 23 29 
+"<E>" 886 652 1 1 
+"Jubilé/{" 216 555 1 31 
+"<E>/,.w+type=\"noun\"}" 285 555 1 28 

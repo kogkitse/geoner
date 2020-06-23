@@ -1,0 +1,76 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+56
+"<E>" 43 347 6 3 13 22 35 36 37 
+"" 1088 347 0 
+"<E>/,.gDay}" 441 96 2 6 39 
+"<num+type=\"ordinal\"+1a1+chiffre>+<num+1a29+chiffre>/{" 205 96 1 2 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 920 103 0 
+"<E>/,.gMonth}" 1040 347 1 1 
+"-" 511 61 1 39 
+"<E>" 514 347 3 10 46 45 
+"<nomFhi>" 716 238 1 29 
+"bre" 675 238 1 8 
+"7+9/{" 545 238 3 11 25 26 
+"<nomDhi>" 588 238 1 9 
+"<E>/,.gDay}" 372 347 2 14 7 
+"<num+type=\"ordinal\"+1a1+chiffre>+<num+1a30+chiffre>/{" 135 347 1 12 
+"-" 461 303 1 7 
+"janvier+mars+mai+juillet+août+octobre+décembre/{" 664 679 1 34 
+"<E>" 576 679 3 15 19 51 
+"<nomFhi>" 786 555 1 34 
+"bre" 745 555 1 17 
+"8+<10>/{" 601 555 3 20 30 33 
+"<nomDhi>" 658 555 1 18 
+"<E>/,.gDay}" 434 679 2 23 16 
+"<num+type=\"ordinal\"+1a1+chiffre>+<num+1a31+chiffre>/{" 183 679 1 21 
+"-" 509 626 1 16 
+"/Le tiret pour les adresses: rue du 11-novembre" 244 577 0 
+"bre" 642 195 1 29 
+"<nomNSceDsup>" 576 276 1 27 
+"bre" 717 276 1 28 
+"<nomNSceFsup>" 765 276 1 29 
+"<E>" 911 238 1 5 
+"<nomNSceDsup>" 658 518 1 31 
+"bre" 799 518 1 32 
+"<nomNSceFsup>" 847 518 1 34 
+"bre" 683 596 1 34 
+"<E>" 1003 555 1 5 
+"<extent+type=\"ordinal\"+1a1+chiffre>+<extent+1a29+chiffre>/{" 208 162 1 2 
+"<extent+type=\"ordinal\"+1a1+chiffre>+<extent+1a30+chiffre>/{" 133 410 1 12 
+"<extent+type=\"ordinal\"+1a1+chiffre>+<extent+1a31+chiffre>/{" 155 758 1 21 
+"février/{" 621 96 1 29 
+"<E>" 576 96 2 38 40 
+"fév+fev/{" 627 40 2 41 29 
+"." 699 40 1 43 
+"\<\/s\>" 786 40 1 44 
+"$![" 746 40 1 42 
+"$]" 854 40 1 29 
+"avril+juin+septembre+novembre/{" 630 347 1 5 
+"avr+jun+sep+nov/{" 587 406 2 47 5 
+"." 680 426 1 49 
+"\<\/s\>" 767 426 1 50 
+"$![" 727 426 1 48 
+"$]" 835 426 1 5 
+"jan+janv+mar+jul+aoû+aou+oct+déc+dec/{" 737 781 2 52 34 
+"." 807 781 1 54 
+"\<\/s\>" 894 781 1 55 
+"$![" 854 781 1 53 
+"$]" 962 781 1 34 

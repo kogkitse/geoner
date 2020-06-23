@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1647 855
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 60 432 2 3 2 
+"" 615 432 0 
+"m" 150 432 3 3 4 1 
+":patternRomainMinuscule1-999" 383 233 1 1 
+"m" 256 373 3 3 5 1 
+"m" 326 353 2 3 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 625 180 0 

@@ -1,0 +1,61 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+41
+"<E>" 38 397 2 4 39 
+"" 1494 397 0 
+"<E>" 1212 397 1 7 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 165 110 0 
+"les+ces+des/{" 380 397 3 10 13 16 
+":tagApresEntier" 1091 356 1 2 
+"<E>" 1060 397 2 5 2 
+"<E>/,.measure+type=\"duration\"grfamountDureeLesHour}" 1255 397 2 1 36 
+":tagHeuresUnit" 606 119 2 6 20 
+"<E>/,.gHour}" 546 119 1 8 
+"<num>/{" 476 119 1 9 
+":tagMinutesUnit" 614 242 2 6 23 
+"<E>/,.gMinute}" 554 242 1 11 
+"<num>/{" 484 242 1 12 
+":tagSecondesUnit" 637 397 2 6 26 
+"<E>/,.gSeconde}" 577 397 1 14 
+"<num>/{" 507 397 1 15 
+":tagDixiemesUnit" 638 565 2 6 29 
+"<E>/,.gTenth}" 578 565 1 17 
+"<num>/{" 508 565 1 18 
+"<E>" 511 201 2 21 22 
+"<E>" 635 201 1 13 
+":listEtOu" 560 181 1 21 
+"<E>" 633 338 2 24 25 
+"<E>" 757 338 1 16 
+":listEtOu" 682 304 1 24 
+"<E>" 626 507 2 27 28 
+"<E>" 750 507 1 19 
+":listEtOu" 675 473 1 27 
+"<E>" 659 664 2 30 31 
+"<E>" 783 664 1 34 
+":listEtOu" 708 630 1 30 
+":tagCentiemesUnit" 713 716 0 
+"<E>/,.gHundredth}" 653 716 1 32 
+"<num>/{" 583 716 1 33 
+":listPredeterminant" 1317 329 1 37 
+":B" 1290 329 1 35 
+"<E>/,.postInclude+quaero=\"qualifier\"}" 1446 329 1 1 
+":listPredeterminant" 133 310 1 40 
+":B" 106 310 1 38 
+"<E>/,.preInclude}" 262 310 1 4 

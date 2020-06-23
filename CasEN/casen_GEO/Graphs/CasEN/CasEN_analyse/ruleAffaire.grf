@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 36 236 1 5 
+"" 1291 236 0 
+"<E>/,.name+type=\"rule\"+grfruleAffaire}" 1241 236 1 1 
+":tagAdjectifGeoPolitique+:tagDemonym" 216 88 2 6 14 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 993 127 0 
+"affaire+jugement+décision+jurisprudence/{{" 64 236 1 15 
+"<persName>+<orgName>+<placeName>+<geogName>/{" 396 236 2 16 18 
+":listDeLe" 812 278 3 9 11 19 
+":patternVille" 947 278 1 20 
+"<N+Toponyme+Pays~Hum>/{" 941 331 1 10 
+"<E>/,.country}" 1137 331 1 13 
+"<N+Toponyme+Region~Hum>/{" 922 373 1 12 
+"<E>/,.region}" 1137 373 1 13 
+"<E>" 1197 236 1 2 
+"<E>" 731 236 2 7 13 
+"<E>/,.w+type=\"noun\"+kind}" 159 236 2 3 6 
+"#-#" 516 318 1 17 
+"<persName>+<orgName>+<placeName>+<geogName>" 565 318 1 18 
+"<E>/,.w+type=\"noun\"+name}" 683 236 1 14 
+":B" 911 278 1 8 
+"<E>/,.settlement}" 1036 278 1 13 

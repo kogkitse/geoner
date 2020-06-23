@@ -1,0 +1,45 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+25
+"<E>/" 48 246 4 3 2 7 23 
+"" 733 246 0 
+"<fête>/{" 179 246 1 18 
+"<parc>+<square>+<zoo>+<jardin>+<serre>/{" 123 379 1 15 
+"<botanique>+<<tropical>>+<zoologique>+<aquatique>+<animalier>/{" 342 460 1 16 
+"loisirs+attractions+acclimatation/{" 395 325 1 21 
+"<E>" 518 379 1 1 
+"<centre>/{" 130 129 1 13 
+"<aéré.N:m>+<nautique.N:m>+<équestre.N:m>+<aquatique.N:m>/{" 359 178 1 14 
+"de" 301 73 1 10 
+"thalassothérapie+balnéothérapie+loisirs/{" 361 73 1 11 
+"<E>/,.w+type=\"noun\"+name}" 497 73 1 22 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 888 114 0 
+"<E>/,.w+type=\"noun\"+kind}" 199 129 2 9 8 
+"<E>/,.w+type=\"adjective\"}" 492 178 1 22 
+"<E>/,.w+type=\"noun\"+kind}" 210 379 3 6 17 4 
+"<E>/,.w+type=\"adjective\"}" 448 460 1 6 
+":listDe" 242 325 1 5 
+"<E>/,.w+type=\"noun\"+kind}" 233 246 1 19 
+"<forain.N:f>/{" 338 246 1 20 
+"<E>/,.w+type=\"adjective\"}" 463 246 1 1 
+"<E>/,.w+type=\"adjective\"}" 496 325 1 6 
+"<E>" 542 129 1 1 
+"<réserve>/{" 88 460 1 24 
+"<E>/,.w+type=\"noun\"+kind}" 176 460 1 4 

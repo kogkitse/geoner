@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 41 280 2 3 6 
+"" 516 280 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 706 102 0 
+"de" 89 280 1 5 
+"heure en heure+après-midi en après-midi" 305 420 1 1 
+"seconde en seconde+tantôt en tantôt+matin en matin+matinée en matinée+soir en soir+soirée en soirée+nuit en nuit+minute en minute" 246 280 1 1 
+"d'" 90 420 1 4 

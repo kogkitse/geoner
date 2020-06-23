@@ -1,0 +1,87 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+67
+"<E>" 75 338 7 11 17 29 18 8 49 59 
+"" 1212 470 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1235 329 0 
+":listDeLe" 612 233 3 37 39 52 
+":patternVille" 789 221 1 53 
+":tagAdjectifGeoPolitique+:tagDemonym" 624 196 1 6 
+"<E>/,.org+type=\"country\"+geopolitique+grforgPlaceGeoPolitique}" 1097 196 1 1 
+"<E>/,.w+type=\"noun\"+kind}" 446 196 1 9 
+"<état>+<nation>+<confédération>+<royaume>+<duché>+grand-<duché>+<principauté>+<république>+<empire>/{{" 334 195 1 7 
+"<E>" 553 196 2 3 5 
+"<E>/,.w+type=\"noun\"+kind}" 456 470 1 16 
+"<région>+<département>+<canton>+<province>+<marquisat>+<comté>+<seigneurie>+<arrière-pays>/{{" 342 470 1 10 
+":listDeLe" 600 519 2 31 54 
+":patternVille" 757 519 1 55 
+":tagAdjectifGeoPolitique+:tagDemonym" 626 470 1 15 
+"<E>/,.place+type=\"region\"+grforgPlaceGeoPolitique}" 1079 470 1 1 
+"<E>" 545 470 2 12 14 
+"<hameau>+<ville>+<village>+<intercommunalité>/{{" 294 612 1 23 
+"zone/{{" 358 67 1 19 
+"<E>/,.w+type=\"noun\"+kind}" 425 67 3 20 33 35 
+"euro/{" 682 67 1 21 
+"<E>/,.w+type=\"noun\"}" 901 67 1 22 
+"<E>/,.orgName+type=\"bloc\"+geopolitique+grforgPlaceGeoPolitique}" 1086 67 1 1 
+"<E>/,.w+type=\"noun\"+kind}" 430 612 1 28 
+":listDeLe" 566 642 2 50 56 
+":patternVille" 733 642 1 57 
+":tagAdjectifGeoPolitique+:tagDemonym" 645 612 1 27 
+"<E>/,.place+type=\"settlement\"+grforgPlaceGeoPolitique}" 1101 612 1 1 
+"<E>" 525 612 2 24 26 
+":tagPaysDe" 248 338 1 30 
+"<E>" 983 338 1 1 
+"<N+Toponyme+Region~Hum>/{" 683 561 1 32 
+"<E>/,.region}" 890 561 1 64 
+":tagDemonym" 657 110 1 34 
+"<E>" 978 110 1 62 
+"<N+Toponyme+Supranational~Hum>/{" 689 142 1 36 
+"<E>/,.bloc}" 1001 142 1 62 
+"<N+Toponyme+Pays~Hum>/{" 747 261 1 38 
+"<E>/,.country}" 943 261 1 63 
+"<N+Toponyme+Region~Hum>/{" 728 303 1 40 
+"<E>/,.region}" 994 303 1 63 
+"<N+Toponyme+Pays~Hum>/{" 674 713 1 42 
+"<E>/,.country}" 870 713 1 65 
+"<N+Toponyme+Region~Hum>/{" 655 755 1 44 
+"<E>/,.region}" 945 755 1 65 
+"<E>/,.w+type=\"noun\"+kind}" 322 755 1 48 
+":listDeLe" 508 755 2 41 43 
+":tagAdjectifGeoPolitique+:tagDemonym" 566 837 1 66 
+"<E>" 417 755 2 46 47 
+"<capitale>/{{" 237 755 1 45 
+"<N+Toponyme+Region~Hum>/{" 630 670 1 51 
+"<E>/,.region}" 827 670 1 65 
+":B" 724 233 1 4 
+"<E>/,.settlement}" 879 221 1 63 
+":B" 695 519 1 13 
+"<E>/,.settlement}" 840 519 1 64 
+":B" 662 642 1 25 
+"<E>/,.w+type=\"noun\"+name}" 819 642 1 65 
+"/fédération est ambigu" 468 263 0 
+"Région/{" 314 383 1 60 
+":patternNomMixte" 488 383 1 61 
+"<E>/,.orgName+type=\"region\"+grforgPlaceGeoPolitique}" 748 383 1 1 
+"<E>/,.org+type=\"bloc\"+geopolitique+grforgPlaceGeoPolitique}" 1087 125 1 1 
+"<E>/,.orgName+type=\"country\"+geopolitique+grforgPlaceGeoPolitique}" 1083 261 1 1 
+"<E>/,.placeName+type=\"region\"+grforgPlaceGeoPolitique}" 1020 519 1 1 
+"<E>/,.placeName+type=\"settlement\"+grforgPlaceGeoPolitique}" 1099 670 1 1 
+"<E>/,.place+type=\"settlement\"+grforgPlaceGeoPolitique}" 1072 837 1 1 

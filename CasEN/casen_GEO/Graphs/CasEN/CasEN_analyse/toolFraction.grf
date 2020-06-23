@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 278 231 2 3 6 
+"" 939 231 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 35 92 0 
+"un+une+le+la+du/{" 442 231 1 4 
+"<num+ordinal+lettre+5aN>" 548 231 1 5 
+"<E>/,.num+type=\"fraction\"+lettre+grftoolFraction}" 881 231 1 1 
+"<num+lettre>/{" 404 360 1 7 
+"<moitié>+<demi>+tiers+<quart>+<num+ordinal+lettre+5aN>" 653 360 1 5 

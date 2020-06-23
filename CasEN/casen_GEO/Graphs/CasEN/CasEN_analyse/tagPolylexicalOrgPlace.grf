@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10053120
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 89 301 7 3 5 7 9 11 13 15 
+"" 694 301 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1093 214 0 
+"états-unis+états unis+royaume-uni+royaume uni/{" 251 202 1 4 
+"<E>/,.placeName+type=\"country\"+grftoolPolylexical}" 377 202 1 1 
+"Communauté européenne+Bibliothèque vaticane/{" 235 383 1 6 
+"<E>/,.orgName+type=\"administrative\"+grftoolPolylexical}" 453 383 1 1 
+"Rio de Janeiro+New-York+New York/{" 259 301 1 8 
+"<E>/,.placeName+type=\"settlement\"+grftoolPolylexical}" 408 301 1 1 
+"Île-de-France+Île de France+Ile-de-France+Ile de France/{" 244 90 1 10 
+"<E>/,.placeName+type=\"region\"+grftoolPolylexical}" 401 90 1 1 
+"Outre-Atlantique+Outre-Mer/{" 237 453 1 12 
+"<E>/,.placeName+type=\"area\"+grftoolPolylexical}" 393 453 1 1 
+"canal de Suez/{" 221 530 1 14 
+"<E>/,.placeName+type=\"hydronym\"+grftoolPolylexical}" 372 530 1 1 
+"Wall Street+W-Street/{" 215 643 1 16 
+"<E>/,.orgName+type=\"company\"+grftoolPolylexical}" 356 643 1 1 

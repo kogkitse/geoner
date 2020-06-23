@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 213 432 3 3 6 8 
+"" 1520 432 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1521 100 0 
+"AK+AL+AR+AZ+CA+CO+CT+FL+GA+HI+IA+ID+IL+IN+KS+KY+MD+MI+MN+MO+MS+MT+NC+ND+NH+NJ+NM+NV+NY+OH+OK+OR+PA+RI+SC+SD+TN+TX+UT+VA+VT+WA+WI+WV+WY/{" 272 432 1 4 
+"<E>/,.adrLine+country+grftagEtatsAmeriqueCode}" 1449 432 1 1 
+"/Codes Etats-Unis sauf DE, LA, MA, ME, NE" 245 34 0 
+"AS+BC+BS+CC+CH+CL+CM+CS+DF+DG+GR+GT+HG+JC+MC+MN+MS+NL+NT+OC+PL+QR+QT+SL+SP+SR+TC+TL+TS+VZ+YN+ZS/{" 765 328 1 4 
+"/Codes Mexique" 734 50 0 
+"AB+BC+MB+NB+NL+NT+NS+NU+PE+QC+SK+YT/{" 1149 617 1 4 
+"/Codes Canada sauf ON" 1131 475 0 

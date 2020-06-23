@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1392 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 70 202 1 2 
+"" 975 202 0 
+"mémorial+monument/{" 141 202 3 3 4 13 
+":listDeLe" 405 202 3 7 8 17 
+"du+en" 229 119 1 5 
+"souvenir+mémoire" 293 119 1 3 
+"<event>" 584 111 1 12 
+"<E>/${3}$" 506 111 1 6 
+"<E>/${1}$" 507 305 1 9 
+":B" 551 305 1 10 
+":patternMajMinTiret" 593 305 1 11 
+"<E>/,.event}" 731 305 1 12 
+"<E>/,.place+type=\"building\"+grfplaceMemorial}" 921 202 1 1 
+"aux" 251 268 1 14 
+"morts+soldats+combattants+victimes+tués+résistants" 302 268 1 3 
+"<E>/,.event+reference-era}" 696 202 1 12 
+"<N+PR+Histoire~DetZ>/{" 539 202 1 15 
+"<E>/${2}$" 494 202 1 16 

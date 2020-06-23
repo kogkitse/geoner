@@ -1,0 +1,419 @@
+0000000021
+-1 timeDateRelative
+: -2 1 
+: -2 6 -4 5 -5 5 -6 5 -8 4 -13 4 -14 3 16 2 15 2 
+: 17 7 
+: -3 8 -10 4 
+: -3 8 
+: -3 8 1 9 
+: -9 10 
+: -4 13 -5 5 -6 5 -7 13 -8 13 -12 12 -14 11 
+: 1 9 
+t 
+: 17 7 3 2 2 2 
+: -3 8 -10 13 -11 5 10 15 4 14 1 9 
+: -3 8 -10 13 -11 5 1 9 
+: -3 8 -11 5 1 9 
+: 6 17 5 16 
+: 6 18 5 16 
+: -3 8 -10 13 -11 5 
+: 8 19 
+: 12 20 
+: 7 21 
+: 14 22 13 20 11 21 
+: 9 8 
+: 14 22 11 21 
+f 
+-2 B
+: 19 2 18 1 
+: 19 2 
+t 
+f 
+-3 tagFinDateRelative
+: -15 3 31 2 20 1 
+: 29 2 24 6 23 5 21 4 
+: 28 8 25 7 
+t 
+: 22 9 
+: 28 10 25 9 
+: 25 9 
+: 28 8 
+: 30 11 
+: 28 10 
+: 26 12 
+: 27 13 
+: 27 14 
+: -15 3 
+t -15 3 
+f 
+-4 tagSaison
+: -2 4 41 3 40 3 39 2 21 1 
+: 22 2 
+: 17 5 
+: 17 6 
+: 37 7 36 7 35 7 34 7 33 7 32 7 
+: -2 8 
+: -2 4 
+: 27 9 
+: 38 7 37 7 36 7 35 7 34 7 33 7 32 7 
+: -3 11 1 10 
+t 
+: 1 10 
+f 
+-5 tagNomDeFete
+: -10 16 -12 16 -14 16 98 15 97 14 89 13 88 12 85 1 84 1 83 1 82 1 80 11 79 1 77 10 74 9 73 9 72 9 71 9 70 9 68 1 67 1 66 1 65 1 64 1 63 1 62 1 61 8 59 7 58 6 55 6 54 5 52 5 50 4 47 3 44 2 43 1 42 1 
+: 27 17 
+: 46 1 45 18 
+: 48 19 
+: 45 20 
+: 53 1 
+: 20 21 
+: 60 22 
+: 57 23 
+: 27 16 
+: 78 1 
+: 81 1 
+: 102 1 101 1 45 24 
+: 90 25 
+: 27 26 
+: 100 27 99 27 27 17 
+: 76 29 20 28 
+t 
+: 46 1 
+: 49 1 
+: 51 1 
+: 56 30 
+: 69 1 20 21 
+: 27 31 
+: 102 1 101 1 
+: 27 32 
+: -17 35 76 34 48 33 
+: 87 1 86 1 45 36 
+: 98 15 97 14 89 13 88 12 85 1 84 1 83 1 82 1 80 11 79 1 77 10 75 29 68 1 67 1 66 1 65 1 64 1 63 1 62 1 61 8 59 7 58 6 56 37 55 6 54 5 52 5 50 4 47 3 44 2 43 1 42 1 
+: 98 15 97 14 89 13 88 12 85 1 84 1 83 1 82 1 80 11 79 1 77 10 68 1 67 1 66 1 65 1 64 1 63 1 62 1 61 8 59 7 58 6 55 6 54 5 52 5 50 4 47 3 44 2 43 1 42 1 
+: 22 38 
+t 92 39 
+: 92 39 91 42 76 41 48 41 20 40 
+: 95 43 94 43 93 1 
+: 103 1 
+: 98 15 88 12 85 1 84 1 83 1 82 1 80 11 79 1 77 10 68 1 67 1 66 1 65 1 64 1 63 1 62 1 61 38 59 7 58 6 55 6 54 5 52 5 50 4 47 3 44 2 43 1 42 1 
+: 87 1 86 1 
+: 22 29 
+: 57 1 
+: 96 17 
+: -16 17 75 41 56 42 
+: -16 17 
+: 22 41 
+: 104 1 
+f 
+-6 tagPeriodeDeFete
+: 116 7 111 6 110 5 108 4 107 3 106 3 105 3 30 2 26 1 
+: 27 8 
+: 27 9 
+: 27 10 
+: 109 3 
+: 27 11 
+: 27 12 
+: 27 13 
+: 114 14 
+: 76 15 
+t 
+: 76 17 20 16 
+: 76 19 20 18 
+t 76 20 
+: 115 13 
+: 107 3 
+: 75 17 56 21 
+: 111 6 108 4 107 3 106 3 105 3 30 2 
+: 56 22 
+: 106 3 105 3 
+: 113 3 112 3 
+: 22 17 
+: 22 19 
+f 
+-7 tagMois
+: -2 1 
+: -18 2 
+: 117 3 
+t 
+f 
+-8 tagSemaine
+: 120 1 
+: 27 2 
+: 118 3 
+: 119 4 
+t 
+f 
+-9 listCe
+: 124 1 123 1 122 1 121 1 
+t 
+f 
+-10 tagPartieJournee
+: 130 1 128 2 127 1 126 1 125 1 
+: 27 3 
+: 45 4 
+t 
+: 129 1 
+f 
+-11 tagCi
+: 135 2 134 1 133 1 132 1 
+: 131 3 
+: 45 4 
+t 
+: 134 1 133 1 132 1 
+f 
+-12 tagLendemain
+: -2 1 
+: -19 2 
+: 27 3 
+t 
+f 
+-13 patternMoisSeul
+: -7 3 137 2 136 2 30 1 
+: 27 4 
+: 146 5 145 5 144 5 143 5 142 5 141 5 140 5 139 6 138 5 
+t 
+: 148 8 147 7 
+: -20 9 
+: 45 10 
+: 149 9 
+: 22 7 
+: -7 3 
+: 129 5 
+f 
+-14 tag7Jours
+: -2 1 
+: -21 2 
+: 150 3 
+t 
+f 
+-15 tagDateSuivante
+: 159 4 155 3 154 1 153 1 152 1 151 1 19 2 16 1 15 1 
+: 115 5 
+: 45 6 
+: 156 1 
+: 162 7 161 7 160 7 
+t 
+: 158 1 157 1 
+: 163 5 
+f 
+-16 tagPays
+: 164 1 
+: 165 2 
+t 
+f 
+-17 listDeLe
+: 91 3 76 2 48 2 20 1 
+t 75 2 56 3 
+t 
+: 22 2 
+f 
+-18 listMois
+: 177 1 176 1 175 1 174 1 173 1 172 1 171 1 170 1 169 1 168 1 167 1 166 1 69 1 
+t 
+f 
+-19 listLendemain
+: 181 1 180 2 179 1 178 1 
+t 
+: 179 1 45 3 
+: 179 1 
+f 
+-20 listDe
+: 91 2 76 1 48 1 20 1 
+t 
+: 22 1 
+f 
+-21 list7Jour
+: 188 1 187 1 186 1 185 1 184 1 183 1 182 1 
+t 
+f 
+%<E>
+%<E>/,.date+rel+grftimeDateRelative}
+%<prochain>
+%<précédent>
+%<num+1a31>
+%<E>/${1}$
+%<E>/${0}$
+%<N:p>
+%$![0
+%$]
+%<num+type=\"ordinal\"+1a1>
+%<N:s>
+%$![1
+%<ADV>
+%<A:s>
+%<prochain>/{
+%<précédent>/{
+%<E>/,.preInclude}
+@ 
+%#/{
+%de
+%l/{
+%'
+%cette/{
+%la/{
+%même
+%année/{
+%<E>/,.w+type="noun"}
+%<E>/,.w+type="determiner"}
+%ce/{
+%mois/{
+%du/{
+%étés/{
+%<automne>/{
+%<hiver>/{
+%printemps/{
+%Été/{
+%Eté/{
+%été/{
+%un/{
+%le/{
+%les/{
+%épiphanie/{
+%chandeleur/{
+%mardi/{
+%-
+%gras
+%mercredi/{
+%des
+%cendres
+%mi/{
+%carême
+%jeudi/{
+%saint
+%vendredi/{
+%jour/{
+%l
+%an
+%premier/{
+%1/{
+%er
+%nouvel/{
+%pâques/{
+%Ascension/{
+%pentecôte/{
+%armistice/{
+%assomption/{
+%toussaint/{
+%noël/{
+%mai
+%<période>/{
+%<pont>/{
+%<week-end>/{
+%<nuit>/{
+%<jour>/{
+%la
+%du
+%yom/{
+%kippour
+%kippour/{
+%roch/{
+%hachana
+%hanoucca/{
+%pessah/{
+%soukkot/{
+%souccot/{
+%fitr
+%kebir
+%saint/{
+%fête/{
+%nationale
+%d
+%<A+Pays:fs>/{
+%rois/{
+%trois/{
+%3/{
+%<E>/,.w+type="adjective"+demonym}
+%<fête>/{
+%aïd/{
+%al
+%el
+%sylvestre
+%valentin
+%travail/{
+%rois
+%avent/{
+%carême/{
+%ramadan/{
+%semaine/{
+%sainte
+%période/{
+%temps/{
+%christianisme/{
+%catholicisme/{
+%jubilaire/{
+%<E>/,.w+type="adjective"}
+%Jubilé/{
+%<E>/,.gMonth}
+%<nombre+1a54>/{
+%<E>/,.val}
+%<semaine>/{
+%ce
+%cet
+%cette
+%ces
+%matin/{
+%midi/{
+%tantôt/{
+%après/{
+%midi
+%soir/{
+%<E>/,.w+type="adverb"+grftagCi}
+%ci/{
+%là/{
+%même/{
+%#
+%un
+%une
+%matin
+%après
+%soir
+%matinée
+%soirée
+%nuit
+%jour
+%journée
+%semaine
+%de/{
+%d/{
+%<E>/,.w+type="preposition"}
+%<E>/,.gDayName}
+%<dernier>/{
+%<suivant>/{
+%<passer.V:K>/{
+%<écouler.V:K>/{
+%à/{
+%venir
+%ci
+%là
+%qui
+%<précèder.V:3>/{
+%<suivre.V:3>/{
+%<venir:3>/{
+%<E>/,.w+type="verb"}
+%<N+Pays~hum>/{
+%<E>/,.placeName+type="country"+grftagPays}
+%janvier
+%février
+%avril
+%juin
+%juillet
+%août
+%aout
+%septembre
+%octobre
+%novembre
+%décembre
+%<LOWER><<^mars$>>
+%<lendemain>
+%<veille>
+%avant
+%<surlendemain>
+%lundi
+%mardi
+%mercredi
+%jeudi
+%vendredi
+%samedi
+%dimanche
+f

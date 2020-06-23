@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 50 375 1 3 
+"" 361 375 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 351 151 0 
+"<académie>+<agence>+<alliance>+<assemblée>+<assistance>+<association>+<autorité>+<bureau>+<cabinet>+<cellule>+<centre>+<cercle>+<club>+<comité>+<commissariat>+<commission>+<communauté>+<compagnie>+<confédération>+<confrérie>+<congrégation>+<conseil>+<corps>+<crédit>+<délégation>+<département>+<direction>+<division>+<fédération>+<fondation>+<forum>+<front>+<groupe>+<groupement>+<intersyndicale>+<institut>+<institut> de recherche+<laboratoire>+<ligue>+<marché>+<mission>+<mouvement>+<office>+<organisation>+<organisme>+<plan>+<programme>+<projet>+<rassemblement>+<réforme>+<réseau>+<section>+<service>+<société>+<union>+<unité>+<zone>+<zone> d'exclusion/{" 98 375 1 4 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 294 375 1 1 

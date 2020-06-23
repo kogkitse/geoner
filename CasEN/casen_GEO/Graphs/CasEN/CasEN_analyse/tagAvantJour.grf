@@ -1,0 +1,46 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+26
+"<E>" 59 356 1 12 
+"" 1011 356 0 
+":tagLendemain" 495 356 1 14 
+":tagPartieJournee" 675 401 1 5 
+":listDeLe" 358 301 2 16 23 
+"<E>" 807 356 2 7 8 
+"<journée>/{" 218 234 1 13 
+"du+des+," 875 309 1 8 
+"<E>" 954 356 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 712 111 0 
+"<week-end>+weekend+weekends+<nuit>/{" 335 519 1 15 
+"du+des" 588 519 2 8 17 
+"<E>" 114 356 6 19 20 23 24 6 10 
+"<E>/,.w+type=\"noun\"}" 309 234 2 4 5 
+"<E>" 640 356 2 5 3 
+"<E>/,.w+type=\"noun\"}" 450 519 1 11 
+":tag7Jours" 450 301 1 14 
+":tagNumJourMois+:tagJourMois" 685 519 1 18 
+"au" 818 519 1 8 
+":tagPartieJournee+:tagMatinee" 214 301 1 4 
+":tagMatinee" 173 150 1 5 
+"<jour>/{" 514 396 1 22 
+"<E>/,.w+type=\"noun\"}" 581 396 1 14 
+"<E>" 460 356 2 2 21 
+":tag7Jours" 362 437 1 25 
+"<E>" 612 437 1 14 

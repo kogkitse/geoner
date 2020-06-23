@@ -1,0 +1,39 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+19
+"<E>" 154 209 2 2 12 
+"" 655 209 0 
+":amountAmountPar+:amountPrix+:amountVitesse" 260 209 2 1 17 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 172 609 0 
+"sur" 183 454 1 5 
+":B" 269 454 1 6 
+"<num+type=\"cardinal\">" 310 454 1 9 
+"<E>/,.amount+type=\"empan\"+grfamountEmpan}" 701 454 0 
+"<N>+<A>" 536 454 1 10 
+"$![" 496 454 1 8 
+"$]" 606 454 1 7 
+"supprimer amountEmpan.grf" 338 504 0 
+":B" 311 299 1 13 
+":patternNbLetter" 367 299 1 14 
+"<E>/,.sigleNum}" 492 299 1 1 
+"/Cette boîte n'est pas un amount+mais doit être passée après le graphe Amount" 292 360 0 
+":listPredeterminant" 452 146 1 18 
+":B" 425 146 1 16 
+"<E>/,.postInclude+quaero=\"qualifier\"+grftagQualifierPred}" 581 146 1 1 

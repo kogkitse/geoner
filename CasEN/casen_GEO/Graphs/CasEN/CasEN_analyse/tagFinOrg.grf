@@ -1,0 +1,64 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+44
+"<E>" 46 298 3 2 12 14 
+"" 1294 298 0 
+"<E>" 214 298 2 8 9 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 1036 130 0 
+"<E>" 677 298 3 34 15 23 
+":tagAdjectifGeoPolitique+:tagDemonym+:tagOrganisationEtranger" 382 298 1 4 
+"<N+Commerce>/{" 421 175 1 38 
+"<E>" 624 175 2 4 5 
+"<E>/${2}$" 294 298 3 5 6 11 
+"<E>/${1}$" 368 45 1 10 
+":B" 404 45 1 36 
+":patternIncludePersName+:patternIncludeOrgName+:patternSaint" 417 117 1 7 
+"sur+contre+pour" 84 237 1 13 
+":listLe" 152 237 1 2 
+":listDeLe" 103 348 2 2 16 
+"<E>" 1250 298 1 1 
+"<E>" 477 495 4 18 20 29 40 
+":patternVille" 662 495 1 30 
+"<N+Toponyme+Pays~Hum>/{" 593 544 1 19 
+"<E>/,.country}" 795 544 1 22 
+"<N+Toponyme+Region~Hum>/{" 598 604 1 21 
+"<E>/,.region}" 806 604 1 22 
+"<E>" 975 495 1 35 
+"(" 770 328 3 24 26 32 
+"<N+Toponyme+Pays~Hum>/{" 882 380 1 25 
+"<E>/,.country}" 1084 380 1 28 
+"<N+Toponyme+Region~Hum>/{" 876 429 1 27 
+"<E>/,.region}" 1084 429 1 28 
+")" 1131 328 1 15 
+":B" 584 495 1 17 
+"<E>/,.settlement}" 778 495 1 22 
+":patternVille" 912 328 1 33 
+":B" 834 328 1 31 
+"<E>/,.settlement}" 1028 328 1 28 
+":listDeLe" 559 379 1 16 
+"<E>" 1166 495 1 15 
+":patternNomMixte" 458 45 1 37 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"+grftagFinOrg}" 577 45 1 7 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"+grftagFinOrg}" 533 175 1 7 
+"<oriental>+<septentrionnal>+<occidental>+<méridional>/{" 641 679 1 41 
+"<E>" 551 679 2 39 43 
+"<E>/,.offset}" 774 679 1 22 
+":patternPointCardinal" 637 754 1 41 
+":B" 597 754 1 42 

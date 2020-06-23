@@ -1,0 +1,87 @@
+d000000003
+-1 persOrgPlaceAcronymeC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\persOrgPlaceAcronyme.grf
+: 22 4 15 3 8 2 1 1 
+: 2 5 
+: 9 6 
+: 16 7 
+: 23 8 
+: 5 9 
+: 12 10 
+: 19 11 
+: 26 12 
+: -3 13 
+: -3 14 
+: -3 15 
+: -3 16 
+: 6 17 
+: 13 18 
+: 20 19 
+: 27 20 
+: 3 21 
+: 10 22 
+: 17 23 
+: 24 24 
+: -2 25 
+: -2 26 
+: -2 27 
+: -2 28 
+: 4 29 
+: 11 30 
+: 18 31 
+: 25 32 
+: 7 33 
+: 14 33 
+: 21 33 
+: 28 33 
+t 
+f 
+-2 patternMajC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\patternMaj.grf
+: 30 1 
+: 31 2 
+: 29 3 
+: 32 4 29 3 
+: 33 5 
+t 
+f 
+-3 BC:\Users\Public\Documents\Unitex-GramLab\Unitex\French_tutoriel_casen\French_CaSEN\Graphs\CasEN\CasEN_analyse\B.grf
+: 35 2 34 1 
+: 35 2 
+t 
+f 
+%<E>
+%<persName>/1:2:0<persName>
+%(/1:4:0(
+%<E>/1:5:0<2
+%<E>/1:5:0>2
+%<E>/1:6:0<3
+%<E>/1:6:0>3
+%<E>/,.persName+grfpersOrgPlaceAcronyme}1:7:0<E>
+%<orgName>/1:8:0<orgName>
+%(/1:9:0(
+%<E>/1:10:0<2
+%<E>/1:10:0>2
+%<E>/1:11:0<3
+%<E>/1:11:0>3
+%<E>/,.orgName+grfpersOrgPlaceAcronyme}1:12:0<E>
+%<placeName>/1:13:0<placeName>
+%(/1:14:0(
+%<E>/1:15:0<2
+%<E>/1:15:0>2
+%<E>/1:16:0<3
+%<E>/1:16:0>3
+%<E>/,.persName+grfplaceOrgPlaceAcronyme}1:17:0<E>
+%<geogName>/1:18:0<geogName>
+%(/1:19:0(
+%<E>/1:20:0<2
+%<E>/1:20:0>2
+%<E>/1:21:0<3
+%<E>/1:21:0>3
+%<E>/,.geogName+grfpersOrgPlaceAcronyme}1:22:0<E>
+%<UPPER>/2:2:0<UPPER>
+%<E>/2:4:0$<
+%$<
+%<E>/2:5:0$>
+%$>
+@ /3:2:0 
+%#/{3:3:0#
+f

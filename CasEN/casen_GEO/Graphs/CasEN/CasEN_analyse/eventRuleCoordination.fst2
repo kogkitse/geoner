@@ -1,0 +1,119 @@
+0000000010
+-1 eventRuleCoordination
+: -2 1 -3 1 
+t 
+f 
+-2 eventCoordination
+: -6 1 
+: -5 3 -6 2 
+: -7 4 
+: -4 5 
+: 1 6 
+: 3 8 2 7 
+: -4 9 
+: -5 10 
+: -6 11 
+: -5 10 -6 2 
+: -4 5 4 12 
+: -7 13 
+t 
+: 1 10 
+f 
+-3 ruleCoordination
+: -6 1 
+: -6 3 -8 2 
+: -4 4 
+: -7 5 
+: 3 7 2 6 
+: 5 8 
+: -8 9 
+: -6 10 
+: -4 11 
+: -4 4 6 12 
+: -7 13 
+: -6 3 -8 9 
+t 
+: 5 9 
+f 
+-4 listEtOu
+: 16 3 15 4 13 3 12 3 11 3 8 2 7 1 
+t 17 6 14 5 
+t 17 6 10 3 9 7 
+t 17 6 
+t 17 6 16 3 15 3 13 3 12 3 11 3 8 2 7 1 
+: 8 3 
+: 17 8 
+t 17 6 10 3 
+: 17 9 
+t 
+f 
+-5 patternIncludeEvent
+: 19 1 18 0 
+t 20 1 
+f 
+-6 B
+: 22 2 21 1 
+: 22 2 
+t 
+f 
+-7 patternNomMixte
+: -9 1 -10 1 24 1 23 1 
+t 25 2 
+: 29 3 27 4 26 4 17 3 16 3 
+: 25 5 
+t 
+: -9 1 -10 1 28 1 24 1 23 1 
+f 
+-8 patternIncludeRule
+: 30 1 18 0 
+t 20 1 
+f 
+-9 patternMajMin
+: 31 1 
+: 32 2 
+: 33 3 32 3 
+: 34 4 33 3 32 3 
+t 
+f 
+-10 patternMaj1
+: 31 1 
+: 32 2 
+: 34 3 
+t 
+f 
+%<E>
+%<E>/,.event}
+%<E>/${2}$
+%<E>/${1}$
+%<E>/,.listEvent+grfeventCoordination}
+%<E>/,.rule}
+%<E>/,.listRule+grfruleCoordination}
+%et
+%ou
+%bien
+%encore
+%voire
+%puis
+%enfin
+%/
+%,
+%-
+%.
+%<preInclude>
+%<event>
+%<postInclude>
+@ 
+%#/{
+%<sigleNum>
+%<vieuxSigle>
+%#
+%®
+%©
+%<num>
+%'
+%<rule>
+%$<
+%<UPPER>
+%<LOWER>
+%$>
+f

@@ -1,0 +1,88 @@
+0000000004
+-1 orgIncludeGenerique
+: -4 5 20 1 19 1 18 1 16 4 15 1 14 1 13 1 8 3 4 2 3 1 2 1 
+: 22 6 
+: 22 6 5 7 
+: 22 6 11 9 9 1 5 8 
+: 17 1 
+: -3 10 
+: -2 11 
+: 6 12 
+: 6 13 
+: 12 1 
+: 21 14 
+: 21 15 
+: 7 1 
+: 10 1 
+: 20 1 19 1 18 1 16 4 15 1 14 1 13 1 8 3 4 2 3 1 2 1 
+: 1 16 
+t 
+f 
+-2 listDeLe
+: 24 3 23 3 11 2 5 1 
+: 6 3 
+t 26 1 25 3 
+t 
+f 
+-3 tagViceEx
+: 39 2 38 2 37 2 36 2 35 2 34 2 33 2 32 2 31 2 30 2 29 1 28 1 27 1 
+: 42 4 40 3 
+: 43 5 
+: 41 6 
+t 
+t 29 1 28 1 27 1 
+: 40 7 
+: 42 4 
+f 
+-4 B
+: 45 2 44 1 
+: 45 2 
+t 
+f 
+%<E>
+%<orgName+generique>
+%<administration>/{{
+%<caserne>/{{
+%<comité>/{{
+%d
+%'
+%éthique
+%<conseil>/{{
+%<supérieur.A:m>
+%administration
+%de
+%surveillance
+%<direction>/{{
+%<filiale>/{{
+%<fédération>/{{
+%<maison>/{{
+%<mère>
+%<service>/{{
+%<succursale>/{{
+%<syndicat>/{{
+%<E>/,.preInclude}
+%<E>/,.w+type="noun"+kind}
+%des
+%du
+%la
+%l
+%vice/{
+%ex/{
+%sous/{
+%<actuel>/{
+%<ancien>/{
+%<antique>/{
+%<dernier>/{
+%<futur>/{
+%<haut>/{
+%<nouveau>/{
+%<ordinal>/{
+%<prochain>/{
+%<précédent>/{
+%#
+%-
+%<E>/,.w+type="prefix"}
+%<E>/,.w+type="adjective"}
+@ 
+%#/{
+f

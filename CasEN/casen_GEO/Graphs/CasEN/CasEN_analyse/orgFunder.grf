@@ -1,0 +1,75 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10027008
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+55
+"<E>" 25 499 8 9 11 14 18 30 37 41 53 
+"" 1487 500 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1502 348 0 
+"<E>" 661 376 3 25 26 36 
+":listEtOu" 1030 273 2 16 17 
+"par" 352 499 2 6 17 
+":listLe" 447 553 1 17 
+":tagOrgFunder+:tagProgrammeOrgFunder+:tagProjetOrgFunder" 1253 500 2 15 29 
+"<aide>+<contribution>+couverture+<participation>+<soutien>" 426 314 2 3 13 
+"grâce+grace" 170 202 2 10 34 
+":listALe" 231 202 1 40 
+"par+avec" 193 260 1 12 
+":listLe+<DET>" 263 260 1 40 
+"<financier>" 540 376 1 3 
+"<financer>" 184 499 2 5 20 
+"<E>" 1429 500 2 1 4 
+":listDeLe+:listLe+:listA" 1150 273 1 17 
+"<E>" 918 500 2 21 22 
+"<mener>+<réaliser>" 223 624 1 19 
+"<PREP+dansLeCadre>" 438 624 1 17 
+"<ADV>" 274 444 2 20 5 
+"<E>" 1210 500 1 7 
+":patternRoleOuPersonneRole" 975 455 1 23 
+":listDeLe" 1144 455 1 21 
+"financement+subsides+subvention" 434 202 1 3 
+":listDeLe" 798 447 1 17 
+"<accordé>" 714 376 1 27 
+"par" 800 376 1 28 
+":listLe" 850 376 1 17 
+"<PREP+dansLeCadre>" 1264 595 1 7 
+"(" 175 744 2 31 32 
+"<PREP+dansLeCadre>" 242 706 1 32 
+":tagProgrammeOrgFunder+:tagProjetOrgFunder" 423 744 1 33 
+")" 1325 744 1 1 
+"à" 251 145 1 35 
+"<DET>" 300 145 1 40 
+"provenant" 705 447 1 25 
+"bénéficié" 140 82 2 38 39 
+":listDeLe" 302 39 1 40 
+":listDe" 250 82 1 35 
+"<E>" 373 202 3 24 8 42 
+":listLe+<DET>" 334 314 1 8 
+"bourse" 456 128 4 45 48 17 49 
+"<E>" 890 128 1 17 
+":listDeLe" 710 128 1 43 
+"<accordé>" 603 175 1 46 
+"par" 689 175 1 47 
+":listLe" 739 175 1 43 
+"provenant" 617 128 1 44 
+":listDeLe" 573 37 1 50 
+":tagProgrammeOrgFunder+:tagProjetOrgFunder" 794 37 1 51 
+"<E>" 1264 37 2 1 52 
+":listEtOu" 947 115 1 49 
+"une" 133 21 1 54 
+"<E>" 404 21 1 42 

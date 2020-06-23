@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 61 396 1 5 
+"" 1148 396 0 
+"<E>" 668 396 2 9 15 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 50 110 0 
+":tagApresEntier" 547 356 1 2 
+"<E>" 168 396 1 6 
+":tagHeuresUnit+:tagMinutesUnit+:tagSecondesUnit+:tagDixiemesUnit+:tagCentiemesUnit" 281 396 1 7 
+"<E>" 516 396 3 4 2 11 
+":tagEntier" 393 284 2 8 5 
+":tagParNomDeTemps" 729 337 1 15 
+"<E>" 344 284 1 8 
+"<E>" 237 284 2 12 10 
+":listEtOu" 271 247 1 10 
+"<E>/,.postInclude}" 1086 336 1 1 
+":listPredeterminant" 962 335 1 13 
+"<E>" 892 396 2 16 1 
+":B" 925 335 1 14 

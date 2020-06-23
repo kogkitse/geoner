@@ -1,0 +1,59 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+39
+"<E>" 26 390 3 21 22 6 
+"" 1202 390 0 
+"épiphanie+chandeleur+mardi-gras+mardi gras+mercredi des cendres+mi-carême+jeudi saint+vendredi saint/{" 724 161 1 17 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1100 98 0 
+"jour de l'an+premier de l'an+1er de l'an+nouvel an+pâques+Ascension+pentecôte+armistice+assomption+toussaint+noël+1er mai/{" 745 390 1 17 
+"<E>" 555 390 5 4 2 8 10 31 
+"<période>+<pont>+<week-end>+<nuit>+<jour>/{" 89 456 1 20 
+"de+de la+de l'+du" 237 432 1 22 
+"yom kippour+kippour+roch hachana+hanoucca+pessah+soukkot+souccot/{" 735 568 1 17 
+"fitr+kebir" 911 698 1 17 
+"saint/{" 706 274 2 34 35 
+"fête nationale/{" 626 756 1 18 
+"de+du+d'+des+de la+ de l'" 846 756 1 13 
+":tagPays" 899 756 1 1 
+"<A+Pays:fs>/{" 855 833 1 19 
+"rois/{" 876 86 1 17 
+"trois+3/{" 776 57 1 38 
+"<E>/,.w+type=\"noun\"}" 1058 390 1 1 
+"<E>/,.w+type=\"noun\"}" 730 756 2 12 14 
+"<E>/,.w+type=\"adjective\"+demonym}" 971 833 1 1 
+"<E>/,.w+type=\"noun\"}" 176 455 1 7 
+":tag7Jours+:tagPartieJournee+:tagLendemain" 64 571 1 7 
+"<E>" 313 390 3 5 28 23 
+"<fête>/{" 377 309 1 25 
+":listDeLe" 479 309 1 5 
+"<E>/,.w+type=\"noun\"}" 430 309 3 24 26 36 
+"des" 634 86 1 27 
+"<E>" 699 86 2 15 16 
+"<E>" 583 756 2 11 29 
+"nouvel an/{" 635 833 1 30 
+"<E>/,.w+type=\"noun\"}" 733 833 1 14 
+"aïd/{" 747 667 2 32 17 
+"al+el" 798 698 2 9 33 
+"-" 856 670 1 9 
+"sylvestre+valentin" 806 274 1 17 
+"-" 768 244 1 34 
+"du" 625 32 1 37 
+"travail/{" 932 32 1 17 
+"rois" 892 57 1 17 

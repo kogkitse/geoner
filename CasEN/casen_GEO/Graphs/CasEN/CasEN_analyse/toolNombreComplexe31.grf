@@ -1,0 +1,85 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+65
+"<E>" 40 583 7 9 7 2 6 31 44 45 
+"" 1147 578 0 
+"à partir/{{" 108 220 1 12 
+"<E>/,.extent+0a59+0a99+1a30+1a31+1a54+10a99+1a999+1a9999+lettre+complexe+grftoolnumComplexe31}" 1051 404 1 1 
+"<E>/,.w+type=\"preposition\"}" 251 264 2 40 34 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 64 70 0 
+":BB" 135 318 1 64 
+"depuis/{{" 124 264 1 4 
+"<E>/,.w+type=\"preposition\"}" 198 583 2 16 24 
+"entre/{{" 147 583 1 8 
+"<E>/,.w+type=\"preposition\"}" 756 185 1 11 
+"<trente-et-un>+<trente-et-une>+<trente et un>+<trente et une>/{" 914 185 1 13 
+":listDe" 176 220 1 4 
+"<E>/,.val}" 1019 185 1 3 
+"<num+1a30+lettre>+<ordinal+1a1+lettre>/{" 358 529 1 17 
+":listEtOu" 618 529 1 18 
+"<E>" 329 525 2 14 47 
+"<E>/,.val}" 499 529 1 21 
+"<E>/,.w+type=\"preposition\"}" 688 529 1 19 
+"<trente-et-un>+<trente-et-une>+<trente et un>+<trente et une>/{" 817 529 1 20 
+"<E>/,.val}" 930 529 1 3 
+":B" 573 529 1 15 
+"<trente-et-un>+<trente-et-une>+<trente et un>+<trente et une>/{" 819 404 1 23 
+"<E>/,.val}" 939 404 1 3 
+"<num+1a30+chiffre>+<ordinal+1a1+chiffre>/{" 366 601 1 26 
+":listEtOu" 628 601 1 27 
+"<E>/,.val}" 509 601 1 30 
+"<E>/,.w+type=\"preposition\"}" 698 601 1 28 
+"<31>/{" 809 601 1 29 
+"<E>/,.val}" 956 601 1 33 
+":B" 583 601 1 25 
+"<num+1a30+chiffre>+<ordinal+1a1+chiffre>/{{" 298 740 1 32 
+"<E>/,.val}" 454 740 2 59 56 
+"<E>/,.extent+0a59+0a99+1a30+1a31+1a54+10a99+1a999+1a9999+chiffre+complexe+grftoolnumComplexe31}" 1090 601 1 1 
+"<num+1a30+chiffre>+<ordinal+1a1+chiffre>/{" 409 264 1 35 
+"<E>/,.val}" 558 264 1 63 
+"<E>/,.w+type=\"preposition\"}" 747 264 1 37 
+"<31>/{" 846 264 1 38 
+"<E>/,.val}" 910 264 1 33 
+"<num+1a30+lettre>+<ordinal+1a1+lettre>/{" 426 185 1 41 
+"<E>" 393 185 2 39 42 
+"<E>/,.val}" 572 185 1 61 
+"un+une/{{" 451 113 1 43 
+"<E>/,.num+type=\"cardinal\"+lettre}" 504 113 1 41 
+"<num+1a30+lettre>+<ordinal+1a1+lettre>/{{" 258 404 1 50 
+"un+une/{{{" 283 332 1 46 
+"<E>/,.num+lettre}" 336 332 1 50 
+"un+une/{{" 359 457 1 48 
+"<E>/,.num+type=\"cardinal\"+lettre}" 446 457 1 17 
+"à" 564 404 1 22 
+"<E>/,.val}" 413 404 2 49 53 
+"<num+1a30+lettre>/{" 654 321 1 52 
+"<E>/,.val}" 801 321 1 53 
+":listEtOu" 513 356 2 51 22 
+"<31>/{" 937 740 1 55 
+"<E>/,.val}" 993 740 1 33 
+"à" 682 740 1 54 
+"<num+1a30+chiffre>/{" 772 657 1 58 
+"<E>/,.val}" 919 657 1 59 
+":listEtOu" 631 692 2 57 54 
+":listJusque+:listA" 670 185 1 10 
+":B" 640 185 1 60 
+":listJusque+:listA" 659 264 1 36 
+":B" 629 264 1 62 
+":listDe" 187 318 1 4 

@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 109 250 1 2 
+"" 447 250 0 
+"<boutique>+<centre> <commercial.A:m>+<établissement>+<galerie>+<grand.A:f> <surface>+<hypermarché>+<magasin>+shopping center+<supermarché>+<supérette>/{" 181 250 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 356 94 0 
+"<E>/,.w+type=\"noun\"+kind}" 403 250 1 1 

@@ -1,0 +1,352 @@
+0000000015
+-1 rule
+: -2 2 -4 1 
+: -3 3 
+t 
+: 1 4 
+: -2 2 
+f 
+-2 ruleAffaire
+: 6 1 5 1 4 1 3 1 
+: 15 2 
+: -5 4 -6 4 10 3 9 3 8 3 7 3 
+: 22 6 16 5 
+: -7 8 10 3 9 3 8 3 7 3 2 7 
+: 17 9 
+: -7 8 2 7 
+t 
+: -4 12 13 11 11 10 
+: 16 13 
+: 12 14 
+: 14 14 
+: -8 15 
+: 21 16 20 16 19 16 18 16 
+: 2 7 
+: 23 14 
+: 22 6 
+f 
+-3 tagEx
+: 26 1 25 1 24 1 
+: 27 3 16 2 
+: 17 4 
+t 
+: 16 5 
+: 27 3 
+f 
+-4 B
+: 29 2 28 1 
+: 29 2 
+t 
+f 
+-5 tagAdjectifGeoPolitique
+: -6 2 67 1 66 1 65 1 64 1 63 1 62 1 61 1 60 1 59 1 58 1 57 1 56 1 55 1 54 1 53 1 52 1 51 1 50 1 49 1 48 1 47 1 46 1 45 1 44 1 43 1 42 1 41 1 40 1 39 1 38 1 37 1 36 1 35 1 34 1 33 1 32 1 31 1 30 1 
+: -6 4 68 3 
+: 67 1 66 1 65 1 64 1 63 1 62 1 61 1 60 1 59 1 58 1 57 1 56 1 55 1 54 1 53 1 52 1 51 1 50 1 49 1 48 1 47 1 46 1 45 1 44 1 43 1 42 1 41 1 40 1 39 1 38 1 37 1 36 1 35 1 34 1 33 1 32 1 31 1 30 1 
+t 
+: 68 3 
+f 
+-6 tagDemonym
+: -4 3 -10 2 80 1 
+: 81 4 
+t -9 0 
+: -11 5 
+: 82 6 
+: 76 8 75 8 74 8 73 8 17 7 
+: 88 9 87 9 86 9 85 9 84 9 83 9 72 8 71 8 70 8 69 8 
+: 76 8 75 8 74 8 73 8 
+: 77 2 
+: 68 2 
+f 
+-7 listDeLe
+: 92 3 91 2 90 1 89 1 
+t 
+t 95 3 94 1 
+: 93 1 
+f 
+-8 patternVille
+: 101 3 99 2 98 1 
+: -4 5 96 4 
+: -4 6 
+t 102 7 
+: 97 3 16 8 
+: -12 9 
+: -13 10 -14 10 
+t 
+: 17 11 
+: 16 12 
+: 97 3 
+: 16 13 
+: 17 14 
+: 99 15 98 6 
+: 16 16 
+: -12 10 
+: 100 10 
+f 
+-9 listEtOu
+: 111 4 109 1 108 1 107 1 104 3 103 2 17 1 
+t 112 5 
+t 112 5 110 6 
+t 112 5 106 1 105 7 
+t 112 5 111 1 109 1 108 1 107 1 104 3 103 2 17 1 
+: 112 8 
+: 104 1 
+t 112 5 106 1 
+: 112 9 
+t 
+f 
+-10 patternPFXPhone
+: 113 1 
+: 114 2 
+: 116 3 115 3 
+: 117 4 
+: 68 5 
+t 
+f 
+-11 patternPrefixeToponyme
+: 124 2 123 2 122 2 121 2 120 2 119 2 118 1 
+t 118 1 17 3 
+t 17 4 
+: 118 1 
+t 
+f 
+-12 patternMajMin
+: 113 1 
+: 125 2 
+: 126 3 125 3 
+: 126 3 125 3 117 4 
+t 
+f 
+-13 patternNomVille
+: 99 2 98 1 
+: 143 3 142 3 141 3 140 3 139 3 138 3 137 3 136 3 135 3 134 3 133 3 132 3 131 3 130 3 129 3 128 3 127 3 
+: -15 4 
+: -12 6 16 5 
+t 
+: 17 7 
+t 147 9 146 10 145 9 144 9 110 9 16 8 
+: 16 11 
+: 17 12 
+: -12 4 16 13 
+: -12 4 110 9 16 13 
+: -12 6 
+: 16 14 
+: 17 15 
+: 147 9 146 10 145 9 144 9 110 9 
+: 16 16 
+: -12 4 
+f 
+-14 patternLeNomVille
+: 151 2 150 1 149 1 148 1 
+: -12 4 16 3 
+: 93 1 
+: 17 5 
+: 147 7 146 8 145 7 144 7 110 7 16 6 
+: 16 9 
+: 17 10 
+: -12 12 16 11 
+: -12 12 110 7 16 11 
+: -12 4 
+: 16 13 
+: 17 14 
+t 
+: 147 7 146 8 145 7 144 7 110 7 
+: 16 15 
+: -12 12 
+f 
+-15 patternNomVilleFin
+: 113 1 
+: 125 2 
+: 126 3 125 3 
+: 167 5 166 5 165 5 164 5 163 5 162 5 161 5 160 5 159 5 158 5 157 5 156 5 155 5 154 5 153 5 152 5 126 3 125 3 17 4 
+: 117 6 
+: 117 7 
+: 169 11 147 9 146 10 145 9 144 9 110 9 94 8 
+t 
+: 17 12 
+: 16 13 
+: 110 9 16 13 
+: 17 14 
+: 171 15 168 15 
+: 17 16 
+: 173 7 172 15 170 15 
+t 169 17 
+: 16 18 
+: 17 19 
+: -12 7 
+: 173 7 
+f 
+%<E>
+%<E>/,.preInclude}
+%<E>/,.name+type="rule"+grfruleAffaire}
+%affaire/{{
+%jugement/{{
+%décision/{{
+%jurisprudence/{{
+%<persName>/{
+%<orgName>/{
+%<placeName>/{
+%<geogName>/{
+%<N+Toponyme+Pays~Hum>/{
+%<E>/,.country}
+%<N+Toponyme+Region~Hum>/{
+%<E>/,.region}
+%<E>/,.w+type="noun"+kind}
+%#
+%-
+%<persName>
+%<orgName>
+%<placeName>
+%<geogName>
+%<E>/,.w+type="noun"+name}
+%<E>/,.settlement}
+%vice/{
+%ex/{
+%sous/{
+%<E>/,.w+type="prefix"}
+@ 
+%#/{
+%<autonome>/{
+%<central>/{
+%<confédéral>/{
+%<constitutionnel>/{
+%<démocratique>/{
+%<départemental>/{
+%<économique>/{
+%<extérieur>/{
+%<intérieur>/{
+%<fédéral>/{
+%<impérial>/{
+%<indépendant>/{
+%<interieur>/{
+%<interministériel>/{
+%<international>/{
+%<interrégional>/{
+%<intercommunal>/{
+%<islamique>/{
+%<légal>/{
+%<local>/{
+%<loyaliste>/{
+%<national>/{
+%<militaire>/{
+%<mixte>/{
+%<mondial>/{
+%<municipal>/{
+%<officiel>/{
+%<politique>/{
+%<populaire>/{
+%<présidentiel>/{
+%<religieux>/{
+%<régional>/{
+%<républicain>/{
+%<révolutionnaire>/{
+%<royal>/{
+%<supérieur>/{
+%<territorial>/{
+%<universel>/{
+%<E>/,.w+type="adjective"}
+%<A+Toponyme>/{
+%<A+Ethnonyme~Religion>/{
+%<N+Hum+Toponyme>/{
+%<N+Ethnonyme~Religion>/{
+%<A+Toponyme>
+%<A+Ethnonyme~Religion>
+%<N+Hum+Toponyme>
+%<N+Ethnonyme~Religion>
+%<E>/,.w+type="adjective"+demonym}
+%pro
+%anti
+%$![0
+%<N+Prenom>
+%$]
+%<A+Ethnonyme+Religion>/{
+%<N+Ethnonyme+Religion>/{
+%<noir>/{
+%<blanc>/{
+%<A+PartiPolitique>/{
+%<N+PartiPolitique>/{
+%des
+%du
+%de
+%d
+%'
+%la
+%l
+%<N+Toponyme+Ville~Hum>/{
+%<E>/,.placeName+type="settlement"+grftagVille}
+%<E>/${2}$
+%<E>/${1}$
+%<N+Toponyme+Ville~Hum>
+%<placeName+type=\"settlement\">
+%<num>
+%et
+%ou
+%bien
+%encore
+%voire
+%puis
+%enfin
+%/
+%,
+%.
+%$<
+%<PFX+Toponyme>/{
+%phone
+%phones
+%$>
+%<PFX+Toponyme>
+%outre
+%nord
+%sud
+%est
+%ouest
+%midi
+%<UPPER>
+%<LOWER>
+%Ville
+%Port
+%Château
+%Saint
+%St
+%Ste
+%Stes
+%Saintes
+%Las
+%Los
+%New
+%San
+%Santiago
+%Santo
+%Saõ
+%Sao
+%Puerto
+%lès
+%sous
+%ss
+%sur
+%La
+%Le
+%Les
+%L
+%berg
+%borough
+%bourg
+%burgh
+%burgo
+%caster
+%city
+%dorf
+%grad
+%ham
+%shima
+%shire
+%stad
+%stadt
+%town
+%york
+%nouvelle
+%le
+%nouveau
+%neuve
+%neuf
+%château
+f

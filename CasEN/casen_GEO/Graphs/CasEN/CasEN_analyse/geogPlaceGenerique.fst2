@@ -1,0 +1,15 @@
+0000000001
+-1 geogPlaceGenerique
+: 3 1 
+: 4 2 
+: 5 3 2 3 
+: 1 4 
+t 
+f 
+%<E>
+%<E>/+grforgGenerique}
+%<E>/,.geogName
+%$/{
+%G
+%<E>/,.placeName
+f

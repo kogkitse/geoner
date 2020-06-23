@@ -1,0 +1,93 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10027008
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+73
+"<E>" 69 370 6 7 6 29 41 57 70 
+"" 1557 370 0 
+":geogAstonomie+:geogHydro+:geogMer+:geogPhysique+:geogRiviere" 555 331 1 8 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1523 663 0 
+":tagEx" 261 320 1 5 
+"<E>/,.preInclude}" 332 320 1 7 
+":B" 213 320 1 4 
+"<E>" 391 370 2 9 11 
+"<E>" 758 370 1 1 
+"<E>/${2}$" 497 330 1 2 
+":geogPlaceDico" 561 408 1 8 
+"<E>/${1}$" 500 408 1 10 
+"amont+aval/{" 250 570 1 16 
+"en/{" 241 501 1 14 
+"amont+aval" 295 501 1 16 
+"<E>/,.offset}" 434 501 2 17 18 
+":listDe" 367 501 1 15 
+"<E>" 527 501 2 23 22 
+":listLe" 470 463 1 17 
+":geogHydro+:geogMer+:geogRiviere" 904 455 1 24 
+":tagEx" 653 451 1 21 
+"<E>/,.preInclude}" 712 451 1 23 
+":B" 605 451 1 20 
+"<E>" 771 501 2 25 26 
+"<E>" 1049 501 1 1 
+"<E>/${2}$" 843 455 1 19 
+"<E>/${1}$" 820 536 1 27 
+"<N+Hydronyme>/{" 875 536 1 28 
+"<E>/,.geogName+type=\"hydronym\"+grfgeogPlace}" 995 536 1 24 
+"<E>" 197 501 2 13 12 
+"<oriental>+<septentrional>+<occidental>+<méridional>/{" 918 206 1 51 
+"<E>" 511 87 2 35 36 
+":geogHydro+:geogMer+:geogPhysique+:geogRiviere" 929 52 1 37 
+":tagEx" 631 42 1 34 
+"<E>/,.preInclude}" 703 42 1 36 
+":B" 583 42 1 33 
+"<E>" 765 87 2 38 40 
+"<E>" 1132 87 1 1 
+"<E>/${2}$" 868 52 1 32 
+":geogPlaceDico" 917 125 1 37 
+"<E>/${1}$" 874 125 1 39 
+"<E>" 265 206 2 46 45 
+":geogHydro+:geogMer+:geogPhysique+:geogRiviere" 683 171 1 50 
+":tagEx" 385 151 1 44 
+"<E>/,.preInclude}" 457 151 1 46 
+":B" 337 151 1 43 
+"<E>" 519 206 2 47 49 
+"<E>/${2}$" 622 171 1 42 
+":geogPlaceDico" 671 244 1 50 
+"<E>/${1}$" 628 244 1 48 
+"<E>" 828 206 2 30 53 
+"<E>/,.offset}" 1051 206 1 37 
+":patternPointCardinal" 914 281 1 51 
+":B" 874 281 1 52 
+":patternPointCardinal" 213 86 2 55 56 
+"<E>/,.offset}" 484 86 1 31 
+":listDeLe" 382 36 1 55 
+":B" 172 86 1 54 
+"au/{" 248 665 1 59 
+"pied+sommet" 302 665 1 61 
+"<E>/,.offset}" 441 665 2 62 63 
+":listDe" 374 665 1 60 
+"<E>" 534 665 2 68 67 
+":listLe" 477 627 1 62 
+":geogPhysique" 906 665 1 69 
+":tagEx" 660 615 1 66 
+"<E>/,.preInclude}" 719 615 1 68 
+":B" 612 615 1 65 
+"<E>" 778 665 1 64 
+"<E>" 1056 665 1 1 
+"<E>" 204 665 2 58 71 
+"à/{" 244 745 1 72 
+"mi-côte" 281 745 1 61 

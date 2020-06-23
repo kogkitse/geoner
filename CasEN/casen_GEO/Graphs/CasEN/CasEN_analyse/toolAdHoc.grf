@@ -1,0 +1,46 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10053120
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+26
+"<E>" 112 525 3 8 15 23 
+"" 1149 525 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 30 111 0 
+"New/{" 457 45 2 4 5 
+"York" 572 45 1 6 
+"-" 528 21 1 4 
+"<E>/,.entity+loc+adm+town+grftoolAdHoc}" 869 45 1 1 
+"/ambiguïté avec la dynastie York" 643 20 0 
+"<E>" 358 94 3 3 9 12 
+"Hong/{" 439 100 2 10 11 
+"Kong" 594 100 1 6 
+"-" 534 77 1 10 
+"Champs/{" 390 144 2 13 14 
+"Élysées+Elysées" 644 144 1 6 
+"-" 512 125 1 13 
+"Europe/{" 316 525 3 16 19 22 
+"de l" 487 429 1 17 
+":listApostrophe" 536 429 1 18 
+"Ouest+Est" 664 430 1 21 
+"du" 504 525 1 20 
+"Nord+Sud" 668 525 1 21 
+"<E>/,.entity+loc+adm+sup+grftoolAdHoc}" 827 525 1 1 
+"centrale" 557 589 1 21 
+"Royaume/{" 399 210 2 24 25 
+"Uni" 653 210 1 6 
+"-" 521 191 1 24 

@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 94 284 1 2 
+"" 783 284 0 
+":B" 143 284 1 10 
+"<E>" 392 284 2 7 9 
+"<E>/,.measure+type=\"concentration\"+grfamountConcentration}" 589 284 1 1 
+":listConcentration" 247 284 1 11 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 67 96 0 
+":tagApresMesure" 420 325 1 9 
+":tagEntreMesure" 231 355 1 10 
+"<E>" 545 284 1 4 
+":B" 210 284 1 5 
+"<E>/,.unit}" 365 284 2 3 8 

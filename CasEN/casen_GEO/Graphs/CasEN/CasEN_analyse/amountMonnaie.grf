@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 137 393 3 3 2 12 
+"" 1182 393 0 
+"<N+Monnaie>+€+£+$+fr.+F/{{" 311 393 1 17 
+"<ancien>/{{" 236 275 1 14 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1147 259 0 
+"<E>/,.measure+type=\"currency\"+grfamountMonnaie}" 1146 393 1 1 
+":tagCentimes" 805 482 1 9 
+"<E>/,.unit}" 664 393 2 9 8 
+":tagEntreMesure" 688 482 1 6 
+"<E>" 919 393 2 10 11 
+"<E>" 1073 393 1 5 
+":tagApresMesure" 951 354 1 10 
+"<livre>/{{" 307 482 2 13 15 
+"<E>/,.unit}" 508 482 1 8 
+"<N+Monnaie>+€+£+$+fr.+F" 316 275 1 17 
+"net+brut" 411 537 1 13 
+"net+brut" 542 328 1 7 
+"<E>" 447 393 2 7 16 

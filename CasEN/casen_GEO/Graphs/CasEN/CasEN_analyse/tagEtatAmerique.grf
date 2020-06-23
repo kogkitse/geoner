@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 148 224 2 3 4 
+"" 447 224 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 575 183 0 
+":tagEtatAmeriqueAbreviation+:tagEtatAmeriqueCode" 232 224 1 1 
+"DE+LA+MA+ME+NE+ON/{" 226 354 1 5 
+"<E>/,.adrLine+country+grftagEtatsAmerique}" 300 354 1 1 
+"/codes ambigus retirés du sous-graphe" 131 452 0 

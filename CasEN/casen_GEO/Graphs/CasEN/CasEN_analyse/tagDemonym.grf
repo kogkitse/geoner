@@ -1,0 +1,45 @@
+#Unigraph
+SIZE 1887 867
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+25
+"<E>" 93 293 1 6 
+"" 1052 293 0 
+"<A+Toponyme>+<A+Ethnonyme~Religion>+<N+Hum+Toponyme>+<N+Ethnonyme~Religion>/{" 624 420 1 9 
+":listEtOu" 523 19 1 6 
+"-" 638 273 1 5 
+"<A+Toponyme>+<A+Ethnonyme~Religion>+<N+Hum+Toponyme>+<N+Ethnonyme~Religion>" 692 293 1 9 
+"<E>" 145 293 2 15 11 
+"<E>" 1004 293 2 1 3 
+"<E>" 531 420 2 2 20 
+"<E>/,.w+type=\"adjective\"+demonym}" 941 293 1 7 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 955 81 0 
+"<E>" 315 293 2 16 24 
+"<E>" 139 459 0 
+"pro+anti" 68 459 2 12 14 
+"-" 116 440 1 12 
+":patternPFXPhone" 332 217 1 19 
+"$![" 369 420 1 17 
+"<N+Prenom>" 407 420 1 18 
+"$]" 507 420 1 8 
+"<E>" 835 217 1 7 
+"<A+Ethnonyme+Religion>+<N+Ethnonyme+Religion>+<noir>+<blanc>+<A+PartiPolitique>+<N+PartiPolitique>/{" 619 545 1 21 
+"<E>/,.w+type=\"adjective\"}" 829 545 1 7 
+":patternPrefixeToponyme" 410 293 1 23 
+"<E>" 588 293 2 4 5 
+":B" 367 293 1 22 

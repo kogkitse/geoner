@@ -1,0 +1,67 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+47
+"<E>" 65 106 1 3 
+"" 1471 659 0 
+"/<date><gDayName>jeudi</gDayName> <gDay>31</gDay> <gMonth>décembre</gMonth></date>" 575 48 0 
+"\<_date\>" 143 106 2 4 42 
+"\<_gDay\>" 112 258 1 10 
+"\<\/_gDay\>" 308 258 1 7 
+"$![" 267 258 1 5 
+"$]" 427 258 1 8 
+"<TOKEN>" 480 258 2 6 11 
+"\<\/_gDay\>" 622 258 1 12 
+"$gDay(" 227 258 1 6 
+"$gDay)" 581 258 1 9 
+"<E>" 560 311 1 13 
+"\<_gMonth\>" 46 389 1 19 
+"\<\/_gMonth\>" 242 389 1 16 
+"$![" 201 389 1 14 
+"$]" 361 389 1 17 
+"<TOKEN>" 408 389 2 15 20 
+"\<\/_gMonth\>" 550 389 1 21 
+"$gMonth(" 161 389 1 15 
+"$gMonth)" 509 389 1 18 
+"<E>" 666 513 2 23 44 
+"<E>/<_date when=\"-$gMonth$-$gDay$\">" 423 659 1 32 
+"\<\/_date\>" 1099 513 1 22 
+"$]" 438 106 1 25 
+"<TOKEN>" 489 106 2 26 43 
+"$![" 264 106 1 27 
+"\<_gDayName\>+\<_gDay\>+\<_gMonth\>+\<_gYear\>+\<\/_date\>" 305 106 1 24 
+"$]" 904 451 1 29 
+"<TOKEN>" 955 451 2 30 45 
+"$![" 755 451 1 31 
+"\<\/_date\>" 796 451 1 28 
+"<E>" 774 659 2 33 40 
+"<E>/$avant.UNSET$" 831 659 1 34 
+"<E>/$gDay$ $gMonth$" 1026 659 1 35 
+"<E>" 1165 659 2 36 38 
+"<E>/$apres.UNSET$" 1244 659 1 37 
+"<E>/</_date>" 1421 659 1 1 
+"<E>/$apres.SET$" 1250 734 1 39 
+"<E>/ $apres$" 1367 734 1 37 
+"<E>/$avant.SET$" 830 723 1 41 
+"<E>/$avant$ " 950 723 1 34 
+"$avant(" 224 106 1 26 
+"$avant)" 590 106 1 4 
+"$apres(" 715 451 1 30 
+"$apres)" 1056 451 1 23 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 892 205 0 

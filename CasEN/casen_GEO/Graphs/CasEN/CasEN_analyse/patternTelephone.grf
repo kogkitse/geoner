@@ -1,0 +1,35 @@
+#Unigraph
+SIZE 1392 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+15
+"<E>" 92 254 2 4 8 
+"" 1031 254 0 
+"<E>/,.addrLine+add+elec+grftagTelephone}" 963 254 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 886 82 0 
+"\+<num+type=\"cardinal\">+(\+<num+type=\"cardinal\">)/{" 126 207 2 5 13 
+"-" 321 172 1 13 
+"<num+type=\"cardinal\">" 713 214 2 7 9 
+"#-#" 649 214 1 6 
+"<num+type=\"cardinal\">/{" 223 306 1 14 
+"<E>" 917 254 1 2 
+"<num+type=\"cardinal\">" 706 161 2 11 9 
+"#.#" 645 161 1 10 
+"<num+type=\"cardinal\">" 679 315 2 9 12 
+"<num+type=\"cardinal\">" 359 207 1 14 
+"<E>" 552 254 4 9 7 11 12 

@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 73 329 2 3 6 
+"" 752 317 0 
+"<courant>+<début>+<orée>+<fin>+<milieu>+<moitié>+<cours>/{" 328 284 1 7 
+"le+la+ce+cette+les+ces" 158 256 1 6 
+":listDeLe" 631 242 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 292 104 0 
+"<E>" 243 329 2 2 8 
+"<E>/,.w+type=\"noun\"}" 519 284 2 4 1 
+"mi-+<plein>/{" 361 420 1 9 
+"<E>/,.w+type=\"adjective\"}" 478 420 1 1 

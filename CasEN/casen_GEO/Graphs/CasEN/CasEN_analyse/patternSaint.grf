@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1686 840
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 42 202 2 2 10 
+"" 757 202 0 
+"saint" 114 202 2 3 4 
+"<N+Prenom>" 232 202 3 5 8 9 
+"-" 187 177 1 3 
+":listDeLe" 451 202 2 6 7 
+":patternMajMinTiret" 616 202 1 1 
+"-" 566 174 1 6 
+"-" 386 176 1 5 
+"-" 270 108 1 3 
+"Notre-Dame+la Vierge" 238 297 1 5 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 960 118 0 

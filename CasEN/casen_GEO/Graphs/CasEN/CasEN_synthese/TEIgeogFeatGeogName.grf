@@ -1,0 +1,61 @@
+#Unigraph
+SIZE 1887 876
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+41
+"<E>" 92 261 1 2 
+"" 716 769 0 
+"\<_geogFeat" 150 261 2 28 30 
+"\<\/_geogFeat\>" 820 261 1 6 
+"<TOKEN>" 1007 261 2 5 8 
+"$![" 763 261 1 3 
+"$]" 946 261 1 4 
+"$geogFeat(" 710 261 1 5 
+"$geogFeat)" 1163 261 1 9 
+"\<\/_geogFeat\>" 1216 261 1 32 
+"\<_geogName" 347 487 2 13 15 
+"\>" 549 535 1 14 
+"<TOKEN>" 685 535 2 13 15 
+"$![" 499 535 1 11 
+"$]" 605 535 1 12 
+"\>" 826 487 1 20 
+"\<" 985 487 1 19 
+"<TOKEN>" 1135 487 2 18 21 
+"$![" 915 487 1 16 
+"$]" 1055 487 1 17 
+"$name(" 875 487 1 18 
+"$name)" 1291 487 1 22 
+"\<\/_geogName\>" 1344 487 1 37 
+"<E>/<_geogName><_geogFeat>$geogFeat$</_geogFeat> $name$</_geogName>" 648 769 1 1 
+"/Je vais au <geogFeat>lac</geogFeat> <geogName type=\"hydronym\">Dutiticaca</geogName>. Je vais sur les <geogFeat>berges</geogFeat> du <geogFeat>lac</geogFeat> <geogName type=\"sea\">Dutiticaca</geogName>. Ce <geogFeat>lac</geogFeat> est beau." 115 30 0 
+"/Je vais au <geogName>lac Dutiticaca</geogName>. Je vais sur les berges du <geogName>lac Dutiticaca</geogName>. Ce lac est beau." 173 76 0 
+"\>" 353 208 1 29 
+"<TOKEN>" 489 208 2 28 30 
+"$![" 306 208 1 26 
+"$]" 409 208 1 27 
+"\>" 653 261 1 7 
+"/<geogFeat>lac</geogFeat>" 243 146 0 
+"<E>" 58 487 2 10 35 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1476 135 0 
+"des+du+de+d'+de la+de l'" 164 588 1 36 
+"$de(" 124 588 1 34 
+"$de)" 238 588 1 10 
+"<E>" 354 675 2 38 39 
+"<E>/$de.SET$" 457 675 1 40 
+"<E>/$de.UNSET$" 472 769 1 23 
+"<E>/<_geogName><_geogFeat>$geogFeat$</_geogFeat> $de$ $name$</_geogName>" 584 675 1 1 

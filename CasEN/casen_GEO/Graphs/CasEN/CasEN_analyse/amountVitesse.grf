@@ -1,0 +1,66 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+46
+"<E>" 52 342 2 3 4 
+"" 1621 342 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 108 210 0 
+"<measure~type=\"currency\">/{{" 244 342 1 12 
+":tagAvantEntier+:tagApproximatif" 139 421 2 5 8 
+"<pied>+<pouce>+<tour>+tr/{{" 393 421 1 6 
+"<E>/,.unit}" 480 421 1 10 
+"/1000<ce:hsp sp=\"0.25\" />tr<ce:hsp sp=\"0.25\" />min<ce:sup>−1</ce:sup>" 166 698 0 
+"<nomNSceDFhsp>/{" 266 521 1 27 
+"<nomNSceDFhsp>" 481 521 1 10 
+"<E>" 621 421 1 26 
+"<E>/,.measure+type=\"speed\"+grfamountVitesse}" 1573 342 1 1 
+"<E>/,.erase}" 457 342 1 26 
+"par+\/" 988 342 3 35 29 31 
+"<E>" 1115 254 3 16 18 22 
+"<E>" 1528 254 1 11 
+"<nomDsup>" 1169 182 1 20 
+"<nomFsup>" 1380 182 1 15 
+"-" 1282 254 1 19 
+"<1>+<2>+<3>" 1316 254 1 15 
+"-" 1281 182 1 21 
+"<1>+<2>+<3>" 1315 182 1 17 
+"<nomNSceDsup>" 1153 116 1 24 
+"<nomNSceFsup>" 1385 116 1 15 
+"-" 1286 116 1 25 
+"<1>+<2>+<3>" 1320 116 1 23 
+"<E>" 663 342 2 13 45 
+"tr/{" 409 521 1 28 
+"<E>/,.unit}" 439 521 1 9 
+"h+min+mn/{" 1168 430 1 30 
+"<E>/,.unit}" 1338 342 1 11 
+"s/{" 1127 505 1 33 
+"'" 1205 505 1 34 
+"$![" 1165 505 1 32 
+"$]" 1252 505 1 30 
+":B" 1055 342 1 36 
+":listNomDeTempsJourPlus+:listNomDeTempsJourMoins" 1102 342 1 30 
+"h+min+mn/{" 910 179 1 38 
+"<E>/,.unit}" 1053 254 1 14 
+"s/{" 869 254 1 41 
+"'" 947 254 1 42 
+"$![" 907 254 1 40 
+"$]" 994 254 1 38 
+":B" 797 91 1 44 
+":listNomDeTempsJourPlus+:listNomDeTempsJourMoins" 844 91 1 38 
+"<E>" 734 254 3 39 37 43 

@@ -1,0 +1,70 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+50
+"<E>" 67 248 1 25 
+"" 1293 248 0 
+".+?+!+\:" 468 248 2 2 3 
+"<E>/</s>" 523 248 1 9 
+":listMotAvecMajusculeFinale+:listMotSuiviDeMajuscule" 252 148 1 2 
+"<E>/${1}$" 193 248 1 2 
+"<E>/${2}$" 191 55 1 27 
+"<E>/${3}$" 196 148 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1467 201 0 
+"<E>" 594 248 2 23 22 
+"/{$} est la fin du texte" 765 452 0 
+"<E>/${5}$" 196 487 3 14 36 48 
+"<E>/</s>" 721 487 1 13 
+"{$}" 796 487 1 16 
+"{^}" 262 605 1 21 
+"#/<s>" 505 605 1 34 
+"<E>" 1132 487 1 1 
+"<E>" 762 248 1 18 
+":patternMajMin+:patternMaj1+<NB>+\\\"+(+-" 864 248 2 1 31 
+"/{^} est le début du texte" 265 645 0 
+"\" \"" 448 572 1 15 
+"<E>" 388 605 2 15 20 
+"#/<s>" 674 248 1 17 
+"\" \"" 632 210 1 22 
+"<TOKEN>" 793 605 1 16 
+"<E>" 103 248 5 6 7 11 5 29 
+"<TOKEN>" 612 487 1 12 
+":patternMotifAvecPoint+:listAbreviationAvecPoint" 609 55 1 33 
+"<vieuxSigle>" 383 369 1 3 
+"<E>/${4}$" 233 369 1 28 
+"/{$} est la fin du texte" 1026 198 0 
+"<E>/</s>" 1031 135 1 32 
+"{$}" 1096 135 1 1 
+"<E>" 1082 55 1 1 
+"$![" 559 605 1 38 
+"$]" 743 605 1 24 
+"$![" 258 487 1 39 
+"$]" 491 487 1 26 
+"<name=?>+<name=!>+<name=tei>+<name=TEI>+<name=text>+<name=TEXT>+<name=body>+<name=BODY>+<name=div>+<name=DIV>+<name=p>+<name=P>" 621 605 1 35 
+"<name=?>+<name=!>+<name=tei>+<name=TEI>+<name=text>+<name=TEXT>+<name=body>+<name=BODY>+<name=div>+<name=DIV>+<name=p>+<name=P>" 323 487 1 37 
+"<name=p>+<name=P>" 516 726 1 43 
+"#/<s>" 724 813 1 45 
+"\" \"" 667 780 1 41 
+"<E>" 607 813 2 41 42 
+"<TOKEN>" 978 813 1 16 
+"$![" 778 813 1 47 
+"$]" 928 813 1 44 
+"\<s\>" 840 813 1 46 
+"<name=body>+<name=BODY>" 261 813 2 43 49 
+"<name=div>+<name=DIV>" 402 746 2 40 43 

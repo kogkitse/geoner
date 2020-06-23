@@ -1,0 +1,5 @@
+La cascade CasEN utilise le dictionnaire CasEN_Dico.
+
+Il est disponible sous licence LGPL-LR.
+
+Voir http://tln.li.univ-tours.fr/Tln_CasEN.html

@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 56 360 3 3 10 13 
+"" 669 367 0 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 516 370 1 1 
+"<centre>+<terrain>+<stade>/{" 180 260 3 4 7 8 
+"de" 274 295 1 5 
+"<N+Sport>" 334 295 1 2 
+"<E>" 482 259 1 2 
+"-" 288 202 1 8 
+"omnisport+<vélodrome>+<olympique>" 344 202 1 6 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 347 91 0 
+"<arène>+<circuit> <automobile>+<complexe> <sportif.A:m>+<gymnase>+<hippodrome>+<patinoire>+<piscine>+<piscine> <olympique>+<piste> de ski+<station> de ski+stades+<téléphérique>+<télésiège>+palais <omnisport>+palais des sports+remonte-<pente>+tire-<fesse>/{" 210 461 1 2 
+"à ce" 168 712 1 14 
+"stade/{" 364 712 1 2 
+"$![" 128 712 1 11 
+"$]" 238 712 1 15 
+"<TOKEN>" 271 712 1 12 

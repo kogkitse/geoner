@@ -1,0 +1,28 @@
+﻿#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 57 275 2 3 6 
+"" 656 274 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 452 132 0 
+"autant+autour+aux alentours+davantage+pas mal+assez+trop+tant+peu+une moitié+un nombre+une partie+le peu+la plupart+le plus clair+le gros+l'un+le millier+chacun+quelques-uns+près+la période" 312 276 1 1 
+"moins+plus" 486 553 1 1 
+":listPeu+beaucoup" 327 498 2 4 1 
+"<E>" 207 553 2 4 5 
+

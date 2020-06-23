@@ -1,0 +1,82 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+62
+"<E>" 26 519 9 2 22 28 30 44 46 52 56 58 
+"" 1254 519 0 
+"<banque>+<coopérative>+<assurance>+<bancassurance>+<holding>+<mutualité>+<société> de bourse+<trust>/{{" 99 519 1 12 
+"<agricole>+<boursier>+<commercial>+<financier>+<monétaire>+<mutualiste>+<spéculatif>+<structurel>+<économique>/{" 555 403 1 13 
+"<E>" 925 519 1 19 
+"<A:s>" 766 577 1 6 
+"<E>" 889 606 1 4 
+"et" 593 540 1 9 
+"pour" 457 609 1 9 
+"le+la" 522 609 1 10 
+"développement+reconstruction/{" 574 609 1 26 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 1481 84 0 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 239 519 2 20 21 
+"<E>/,.w+type=\"adjective\"}" 667 403 1 17 
+":listDe" 528 240 1 15 
+"aide+commerce extérieur+coopération+développement+investissement+spéculation+épargne/{" 579 240 1 18 
+"<E>" 468 403 2 3 32 
+"<E>" 733 403 1 4 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 708 240 2 17 31 
+"<E>/,.org+type=\"finance\"+quaero=\"ent\"+grforgFinance}" 972 519 2 1 33 
+":tagAdjectifGeoPolitique+:tagDemonym" 276 468 1 21 
+"<E>" 426 519 3 4 16 8 
+"<compagnie>/{{" 119 703 1 24 
+"<financier.A:f>/{" 490 703 1 25 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 225 703 1 23 
+"<E>/,.w+type=\"adjective\"}" 594 703 1 51 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 675 606 3 6 5 7 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 218 328 2 16 20 
+"Bourse+Bourses/{{" 125 768 1 29 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 594 768 1 51 
+":tagCaisse" 107 132 1 54 
+":listEtOu" 567 104 1 32 
+"<E>" 494 240 1 14 
+":listDeLe" 1008 737 1 34 
+"<E>" 951 866 1 43 
+":patternNomMixte" 290 69 2 37 45 
+"<assurance>+<banque>+<mutuelle>+<mutualité>+<retraite>+<sécurité>+<prévoyance>" 651 69 1 42 
+"-" 466 47 1 45 
+":BB" 249 69 1 35 
+"$![" 125 75 1 40 
+"<DET>+<ADV>" 161 69 1 41 
+"$]" 228 69 1 38 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 768 69 1 53 
+"<E>" 54 866 1 0 
+"<E>" 76 75 1 39 
+"<E>" 532 69 1 36 
+"<agence>/{{" 106 656 1 50 
+"de" 333 656 1 48 
+"notation/{" 450 656 1 49 
+"<E>/,.w+type=\"noun\"+quaero=\"name\"}" 516 657 1 51 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 184 656 1 47 
+"<E>" 713 657 1 6 
+"<bourse>+<crédit>+<mutuelle>/{{" 135 328 1 27 
+"<E>/,.orgName+type=\"finance\"+quaero=\"ent\"+grforgFinance}" 1043 69 1 1 
+"<E>" 931 132 1 1 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 211 197 1 16 
+"<fond>/{{" 128 197 1 55 
+"/fonds grec de la Bibliothèque vaticane" 144 167 0 
+"places/{{" 89 814 1 60 
+"<A+Toponyme+Supranational:fp>+<N+Hum+Toponyme+Supranational:fp>/{" 366 814 1 61 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 144 814 1 59 
+"<E>/,.w+type=\"adjective\"}" 888 814 1 19 

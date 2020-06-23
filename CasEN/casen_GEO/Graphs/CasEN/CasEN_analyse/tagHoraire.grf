@@ -1,0 +1,60 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+40
+"<E>" 60 560 3 35 30 3 
+"" 1235 643 0 
+":tagApresHoraire" 1002 603 1 29 
+"<E>" 114 207 1 15 
+":tagEtQuart" 785 559 1 9 
+"<E>" 506 477 4 14 23 24 16 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 63 107 0 
+"<num+0a24+chiffre>/{" 172 416 1 31 
+":tagHeuresUnit" 404 416 1 5 
+"<E>" 974 643 2 2 29 
+"<E>" 1199 643 1 1 
+"<E>" 527 643 4 14 22 17 38 
+"<E>" 1049 207 1 13 
+"<E>" 1154 315 1 10 
+"<E>" 655 559 2 4 9 
+":tagNumHeureMinuteSeconde" 311 207 2 16 12 
+":tagApresHoraire" 547 242 1 12 
+"moins/{" 573 729 1 18 
+"<num+1a29+lettre>" 637 729 1 21 
+":tagMinutesUnit" 825 780 1 20 
+"<E>" 939 729 1 9 
+"<E>/,.gMinute}" 794 729 2 19 20 
+":tagMinutesSecondes" 706 643 1 9 
+":tagNumMinutesSecondes" 686 391 2 27 10 
+"moins/{" 558 315 1 25 
+"<num+1a29+chiffre>" 629 315 1 28 
+":tagMinutesUnit" 879 273 2 27 13 
+":tagApresHoraire" 1004 391 1 13 
+"<E>/,.gMinute}" 792 315 3 26 27 13 
+"<E>" 1126 643 1 10 
+"<E>" 125 416 2 32 7 
+"<E>/,.gHour}" 331 416 1 8 
+":tagMidi" 240 477 1 5 
+"<num+0a24+lettre>+une/{" 147 692 1 36 
+":tagHeuresUnit" 389 692 1 11 
+"<E>" 97 692 2 37 33 
+"<E>/,.gHour}" 303 692 1 34 
+":tagMidi" 174 643 1 11 
+":tagApresHoraire" 561 831 1 39 
+"<E>" 1009 831 1 10 

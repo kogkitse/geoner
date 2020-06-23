@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 74 326 5 11 10 12 13 19 
+"" 868 199 0 
+"dix+vingt+trente+quarante+cinquante+quatre-vingts+quatre vingts+septante+octante+nonante+huitante+neuvante" 504 199 1 5 
+"soixante" 504 326 2 7 5 
+"dix" 747 363 1 1 
+"<E>" 679 199 1 1 
+"-" 698 320 1 4 
+"<E>" 669 363 2 6 4 
+"quatre-vingt+quatre vingt" 503 371 1 7 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1538 93 0 
+"mille" 326 84 2 12 15 
+"deux+trois+quatre+cinq+six+sept+huit+neuf" 204 84 1 10 
+"<E>" 390 326 3 2 3 8 
+"onze+douze+treize+quatorze+quinze+seize+dix-sept+dix-huit+dix-neuf" 190 411 2 14 16 
+"cent" 327 352 1 12 
+"<E>" 724 84 1 1 
+"cents" 733 411 1 1 
+"<10>+<20>+<30>+<40>+<50>+<60>+<70>+<80>+<90>" 304 517 1 20 
+"<1910>+<1920>+<1930>+<1940>+<1950>+<1960>+<1970>+<1980>+<1990>" 356 618 1 20 
+"<E>" 143 517 2 17 18 
+"<E>" 781 517 1 1 

@@ -1,0 +1,71 @@
+0000000004
+-1 placeEvent
+: 2 1 1 1 
+: -2 4 12 3 4 2 3 2 
+: 6 5 5 5 
+: 18 5 17 5 16 5 15 5 14 5 13 5 
+: 21 8 9 7 8 6 
+: -2 4 
+: 7 9 
+: -3 10 
+: 20 11 
+: 11 12 
+: -4 13 
+: 19 9 
+t 
+: 10 9 
+f 
+-2 listDeLe
+: 24 3 23 2 22 1 3 1 
+t 
+t 27 3 26 1 
+: 25 1 
+f 
+-3 B
+: 29 2 28 1 
+: 29 2 
+t 
+f 
+-4 patternMajMinTiret
+: 33 1 
+: 30 2 
+: 31 3 30 3 
+: 34 1 32 4 31 3 30 3 
+t 
+f 
+%<E>
+%mémorial/{
+%monument/{
+%du
+%en
+%souvenir
+%mémoire
+%<event>
+%<E>/${3}$
+%<E>/${1}$
+%<E>/,.event}
+%<E>/,.place+type="building"+grfplaceMemorial}
+%aux
+%morts
+%soldats
+%combattants
+%victimes
+%tués
+%résistants
+%<E>/,.event+reference-era}
+%<N+PR+Histoire~DetZ>/{
+%<E>/${2}$
+%des
+%de
+%d
+%'
+%la
+%l
+@ 
+%#/{
+%<UPPER>
+%<LOWER>
+%$>
+%$<
+%-
+f

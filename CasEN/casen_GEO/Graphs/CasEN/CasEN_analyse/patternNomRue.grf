@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 304 386 1 4 
+"" 956 386 0 
+"<E>" 838 386 1 1 
+":patternNomMixte" 588 386 1 2 
+"<E>" 385 386 5 11 14 12 9 10 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 102 160 0 
+":tagNomFamille+:tagSaint+:tagDemonym" 580 449 1 2 
+":patternIncludePersName+:patternIncludeOrgName+:patternIncludePlaceName+:patternIncludeGeogName+:patternIncludeDate+:patternIncludeTime+:patternIncludeEvent+:patternIncludeRule+:patternIncludeRoleName" 554 260 2 2 15 
+"<N+Toponyme+Edifice>+<N+Toponyme+Voie>" 528 601 1 2 
+"<E>/${4}$" 458 601 1 8 
+"<E>/${5}$" 474 260 1 7 
+"<E>/${1}$" 487 386 1 3 
+"<E>/${3}$" 509 518 1 13 
+"<N+PR>/" 605 518 1 2 
+"<E>/${2}$" 478 449 1 6 
+"#-#" 624 65 2 7 16 
+":patternNomMixte" 686 65 2 15 2 

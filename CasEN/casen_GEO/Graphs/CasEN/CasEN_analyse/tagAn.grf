@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 300 384 1 4 
+"" 999 384 0 
+"an+année/{" 714 384 2 3 9 
+"de grâce" 818 326 1 9 
+"l'+la+cet+cette" 360 384 2 5 7 
+"même/{" 451 292 1 8 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 520 100 0 
+"<E>" 615 384 1 2 
+"<E>/,.w+type=\"adjective\"}" 537 292 1 7 
+"<E>/,.w+type=\"noun\"}" 921 384 1 1 

@@ -1,0 +1,48 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+28
+"<E>" 55 314 3 10 18 21 
+"" 972 314 0 
+"<E>/,.ref+type=\"url\"+grfrefAdresseWeb}" 863 314 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 64 120 0 
+"\/" 804 286 1 2 
+"<E>" 749 314 2 4 2 
+"<E>" 366 314 2 7 12 
+"http+https+ftp/{" 406 205 1 8 
+"#\:\/\/#" 472 205 1 19 
+"/si transcription+arobase+at+ad" 1112 636 0 
+":tagSiteInternet" 195 314 2 6 11 
+"\:" 324 276 1 6 
+":B" 444 314 1 19 
+"<E>" 634 444 1 5 
+":patternUrl" 342 444 1 16 
+"#@#" 464 444 1 17 
+"<E>" 418 444 1 15 
+":patternUrl" 544 444 1 13 
+":B" 269 444 1 14 
+":patternUrl" 569 314 2 20 5 
+"#\/#+#\/~#" 583 248 1 19 
+"<baliseXml+Dext-link>" 115 550 1 22 
+":B" 295 550 1 24 
+"<baliseXml+Fext-link>" 383 550 1 25 
+"$![" 343 550 1 23 
+"$]" 553 550 1 26 
+"<TOKEN>" 604 550 2 24 27 
+"<baliseXml+Fext-link>/,.ref+type=\"url\"+grflocAdresseWeb}" 722 550 1 1 

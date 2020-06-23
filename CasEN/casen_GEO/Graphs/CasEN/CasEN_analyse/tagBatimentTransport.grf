@@ -1,0 +1,33 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+13
+"<E>" 25 348 3 7 2 3 
+"" 604 348 0 
+"gare/{" 159 348 1 6 
+"aéroport/{" 159 409 1 9 
+"TGV+SNCF+routière/{" 286 282 1 12 
+"<civil.A:m>+<international.A:m>+<militaire>/{" 298 510 1 11 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 226 348 2 1 4 
+"viaduc+aqueduc+pont+tunnel+aérogare+port+quai/{" 213 144 1 10 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 664 204 0 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 234 409 2 1 5 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 337 144 1 1 
+"<E>/,.w+type=\"adjective\"}" 452 510 1 1 
+"<E>/,.w+type=\"adjective\"}" 363 282 1 1 

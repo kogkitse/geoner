@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 115 337 3 5 6 8 
+"" 590 337 0 
+" le quart+quart+<¼>" 325 337 1 4 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 901 102 0 
+"<E>/,.val}" 541 337 1 1 
+"<num+horaire>/{" 299 203 1 4 
+"et/{" 195 524 1 7 
+"<un quart>+<¼>+<½>+quart+demie+demi" 302 524 1 4 
+"moins/{" 237 337 1 2 

@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 81 281 3 2 5 8 
+"" 893 281 0 
+"<documentaire>+<hebdo>+<bimensuel>+<écho>+<revue> de presse/{" 204 281 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 879 488 0 
+"<E>/,.w+type=\"noun\"+kind}" 359 281 1 7 
+"<chronique>+<journal>+<gazette>+<bulletin>/{" 243 469 2 6 16 
+"<E>/,.w+type=\"noun\"+kind}" 562 469 1 7 
+"<E>" 839 281 1 1 
+"<magazine>/{" 206 140 2 10 11 
+"d'information+d'info+de télévision" 398 77 1 10 
+"<E>/,.w+type=\"noun\"+kind}" 515 140 2 12 14 
+":listDe" 317 77 1 9 
+"<spécialisé>+<télévisé>/{" 585 79 1 13 
+"<E>/,.w+type=\"adjective\"}" 695 79 1 14 
+"<E>" 782 140 1 7 
+"matin+midi+soir+nuit" 427 407 1 6 
+":listDeLe" 346 407 1 15 
+"/quotidien, hebdomadaire, nouvelle, mensuel, supplément sont ambigüs" 361 202 0 

@@ -1,0 +1,62 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+42
+"<E>" 22 329 9 2 11 16 20 25 31 32 36 41 
+"" 1235 329 0 
+"<avionneur>+<cabinet> de conseil+<cartel>+<consortium>+<entreprise>+<firme>+<industrie>+<manufacture>+<trust>+<usine>+GAEC+ONG+PME+PMI+SA+SARL/{{" 123 329 1 15 
+"<commercial>+<boursier>+<agricole>/{" 955 189 1 7 
+"<E>" 1151 329 1 8 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 1200 106 0 
+"<E>" 690 329 2 9 10 
+"<E>/,.w+type=\"adjective\"}" 1055 189 1 4 
+"<E>/,.org+type=\"company\"+quaero=\"ent\"+grforgEntreprise}" 1196 329 1 1 
+":tagAdjectifGeoPolitique+:tagDemonym" 737 257 1 10 
+"<E>" 907 329 2 4 3 
+"<compagnie>/{{" 125 558 2 13 34 
+"<minier.A:f>+<pétrolier.A:f>/{" 491 561 1 14 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 223 561 1 12 
+"<E>/,.w+type=\"adjective\"}" 595 561 1 6 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 270 329 1 6 
+"<opérateur>/{{" 80 82 1 17 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 176 82 1 18 
+"<privé>+<public>/{" 449 82 1 19 
+"<E>/,.w+type=\"adjective\"}" 542 82 1 6 
+"<comice>+<coopérative>+<exploitation>/{{" 128 704 1 21 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 221 704 2 22 24 
+"<agricole>/{" 279 653 1 23 
+"<E>/,.w+type=\"adjective\"}" 366 653 1 24 
+"<E>" 467 704 1 4 
+"dans le+le" 65 24 1 26 
+"privé+public/{{" 197 24 1 27 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 293 24 1 28 
+"<E>" 1036 23 1 8 
+":tagCentraleEnergie" 169 612 1 30 
+"<E>" 525 612 1 4 
+":B" 128 612 1 29 
+"<chantier>/{{" 124 508 1 34 
+"<naval.A:f>/{" 348 414 1 35 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 281 448 1 33 
+"<E>/,.w+type=\"adjective\"}" 452 414 1 6 
+"<atelier>+<constructeur>+<fabrique>/{{" 96 150 1 37 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 195 150 1 38 
+"<automobile>/{" 466 150 1 39 
+"<E>/,.w+type=\"adjective\"}" 559 150 1 6 
+"<E>" 555 789 1 1 
+":tagOrgNameEntreprise" 125 789 1 40 

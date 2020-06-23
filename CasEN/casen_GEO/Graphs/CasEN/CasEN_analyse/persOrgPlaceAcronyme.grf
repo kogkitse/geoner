@@ -1,0 +1,43 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10027008
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+23
+"<E>" 85 470 4 2 8 13 18 
+"" 1065 469 0 
+"<persName>" 202 346 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 600 120 0 
+"(" 376 346 1 6 
+":patternMaj" 522 346 1 7 
+":B" 443 346 1 5 
+"<E>/,.persName+grfpersOrgPlaceAcronyme}" 669 346 1 1 
+"<orgName>" 181 470 1 9 
+"(" 355 470 1 11 
+":patternMaj" 501 470 1 12 
+":B" 422 470 1 10 
+"<E>/,.orgName+grfpersOrgPlaceAcronyme}" 648 470 1 1 
+"<placeName>" 196 580 1 14 
+"(" 370 580 1 16 
+":patternMaj" 516 580 1 17 
+":B" 437 580 1 15 
+"<E>/,.persName+grfplaceOrgPlaceAcronyme}" 663 580 1 1 
+"<geogName>" 212 683 1 19 
+"(" 386 683 1 21 
+":patternMaj" 532 683 1 22 
+":B" 453 683 1 20 
+"<E>/,.geogName+grfpersOrgPlaceAcronyme}" 679 683 1 1 

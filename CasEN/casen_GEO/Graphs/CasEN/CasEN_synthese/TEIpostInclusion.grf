@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 44 220 1 4 
+"" 1456 251 0 
+"<E>/ $include$</$balise$>" 1397 145 1 1 
+"<E>/$include$</$balise$>" 1395 310 1 1 
+"\<\/" 115 220 1 9 
+"\>" 267 220 1 8 
+"<TOKEN>" 371 220 2 7 10 
+"$![" 227 220 1 5 
+"$]" 329 220 1 6 
+"$balise(" 187 220 1 7 
+"$balise)" 470 220 1 11 
+"\>" 516 220 2 12 20 
+"\" \"\<_postInclude\>" 691 145 1 18 
+"\<\/_postInclude\>" 922 145 1 16 
+"<TOKEN>" 1088 145 2 15 19 
+"$![" 879 145 1 13 
+"$]" 1046 145 1 14 
+"\<\/_postInclude\>" 1230 145 1 2 
+"$include(" 839 145 1 15 
+"$include)" 1188 145 1 17 
+"#\<_postInclude\>" 696 309 1 26 
+"\<\/_postInclude\>" 915 310 1 24 
+"<TOKEN>" 1080 310 2 23 27 
+"$![" 881 310 1 21 
+"$]" 1038 310 1 22 
+"\<\/_postInclude\>" 1222 310 1 3 
+"$include(" 841 310 1 23 
+"$include)" 1180 310 1 25 
+"/</persName><postInclude>, alias <addName>Toutoune</addName></postInclude>" 850 441 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 121 403 0 

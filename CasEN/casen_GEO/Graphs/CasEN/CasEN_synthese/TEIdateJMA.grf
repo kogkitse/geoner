@@ -1,0 +1,96 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+76
+"<E>" 67 115 1 3 
+"" 1748 629 0 
+"/<date><gDayName>jeudi</gDayName> <gDay>31</gDay> <gMonth>décembre</gMonth> <gYear>1998</gYear></date>" 539 20 0 
+"\<_date\>" 145 115 2 41 4 
+"\<_gDay\>" 366 214 1 10 
+"\<\/_gDay\>" 562 214 1 7 
+"$![" 521 214 1 5 
+"$]" 681 214 1 8 
+"<TOKEN>" 734 214 2 6 11 
+"\<\/_gDay\>" 876 214 1 12 
+"$gDay(" 481 214 1 6 
+"$gDay)" 835 214 1 9 
+"<E>" 247 351 2 13 68 
+"\<_gMonth\>" 545 351 1 19 
+"\<\/_gMonth\>" 741 351 1 16 
+"$![" 700 351 1 14 
+"$]" 860 351 1 17 
+"<TOKEN>" 907 351 2 15 20 
+"\<\/_gMonth\>" 1049 351 2 58 60 
+"$gMonth(" 660 351 1 15 
+"$gMonth)" 1008 351 1 18 
+"\<_gYear\>" 626 541 1 27 
+"\<\/_gYear\>" 822 541 1 24 
+"$![" 781 541 1 22 
+"$]" 941 541 1 25 
+"<TOKEN>" 990 541 2 23 28 
+"\<\/_gYear\>" 1133 541 2 30 43 
+"$gYear(" 741 541 1 23 
+"$gYear)" 1091 541 1 26 
+"<E>/<_date when=\"$gYear$-$gMonth$-$gDay$\">" 38 683 1 31 
+"\<\/_date\>" 1659 541 1 29 
+"<E>" 359 683 2 45 51 
+"$]" 440 115 1 33 
+"<TOKEN>" 491 115 2 40 42 
+"$![" 266 115 1 35 
+"\<_gDayName\>+\<_gDay\>+\<_gMonth\>+\<_gYear\>+\<\/_date\>" 307 115 1 32 
+"$]" 1432 479 1 37 
+"<TOKEN>" 1483 479 2 38 44 
+"$![" 1283 479 1 39 
+"\<\/_date\>" 1324 479 1 36 
+"<E>" 358 18 1 34 
+"$avant(" 226 115 1 34 
+"$avant)" 592 115 1 4 
+"$apres(" 1243 479 1 38 
+"$apres)" 1584 479 1 30 
+"<E>/$avant.UNSET$" 418 683 1 70 
+"<E>" 1384 629 2 47 49 
+"<E>/$apres.UNSET$" 1482 629 1 48 
+"<E>/</_date>" 1679 629 1 1 
+"<E>/$apres.SET$" 1488 704 1 50 
+"<E>/ $apres$" 1614 704 1 48 
+"<E>/$avant.SET$" 417 747 1 52 
+"<E>/$avant$ " 533 747 1 70 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1404 106 0 
+"\<_gYear\>+\<\/_date\>" 1287 293 1 56 
+"$![" 1246 293 1 54 
+"$]" 1406 293 1 57 
+"<TOKEN>" 1455 293 2 55 59 
+"$entre(" 1206 293 1 55 
+"$entre)" 1556 293 1 60 
+"<E>" 1630 350 1 21 
+"/<date><gDayName>jeudi</gDayName> <gDay>31</gDay> <gMonth>décembre</gMonth> de l'année <gYear>1998</gYear></date>" 551 48 0 
+"<E>/$entre.UNSET$" 990 629 1 65 
+"<E>/$entre.SET$" 994 690 1 64 
+"<E>/ $entre$" 1110 690 1 65 
+"<E>/ $gYear$" 1152 629 1 46 
+"/<_date><_gDay>06</_gDay>.<_gMonth>04</_gMonth>.<_gYear>2018</_gYear></_date>" 586 844 0 
+"#.#+#-#+#\/#" 375 443 1 69 
+"$slash(" 333 443 1 67 
+"$slash)" 436 443 1 13 
+"<E>/$gDay$" 573 683 2 71 72 
+"<E>/$slash.UNSET$" 656 650 1 74 
+"<E>/$slash.SET$" 668 778 1 73 
+"<E>/$slash$$gMonth$$slash$$gYear$" 1076 778 1 46 
+"<E>/ $gMonth$" 818 650 1 75 
+"<E>" 916 650 2 62 63 

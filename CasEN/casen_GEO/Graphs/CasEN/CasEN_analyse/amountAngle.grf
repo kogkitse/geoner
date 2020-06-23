@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 236 306 2 15 12 
+"" 998 306 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 805 123 0 
+"°+<degré>/{" 580 246 1 11 
+"<E>" 733 306 2 7 9 
+"<E>/,.measure+type=\"angle\"+grfamountAngle}" 949 306 1 1 
+":listAngle" 613 306 1 11 
+":tagApresMesure" 770 347 1 9 
+":tagEntreMesure" 581 377 1 14 
+"<E>" 895 306 1 5 
+":B" 560 306 1 6 
+"<E>/,.unit}" 700 306 2 4 8 
+":tagVal+:tagApproximatif" 287 306 1 17 
+":tagDegre" 543 170 1 4 
+"<E>" 504 306 2 10 3 
+"<num>/{{" 411 170 1 16 
+"<E>/,.val}" 480 170 1 13 
+":B" 427 306 1 14 

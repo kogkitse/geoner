@@ -1,0 +1,44 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10040064
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+24
+"<E>" 214 549 5 3 7 14 18 22 
+"" 1000 549 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1154 346 0 
+"<police>+<brigade>/{{" 256 549 1 4 
+"<E>/,.w+type=\"noun\"+kind}" 339 549 3 5 11 16 
+"<municipal.A:f>+<national.A:s>+<judiciaire>+<financier.A:s>+<scientifique>+<technique>+<spécial.A:s>+anti-gang+d'état+anti-<criminel.A:f>+<anticriminel.A:f>+<métropolitain.A:f>/{" 488 440 1 6 
+"<E>/,.w+type=\"adjective\"+qualifier}" 617 440 1 21 
+"gendarmerie/{{" 283 687 1 8 
+"<E>/,.w+type=\"noun\"+name}" 393 687 2 9 21 
+"nationale+maritime/{" 530 649 1 10 
+"<E>/,.w+type=\"adjective\"+qualifier}" 612 649 1 21 
+"des" 498 222 1 12 
+"polices+moeurs+stup'+stup+stups'+stups+stupéfiants+mineurs/{" 551 222 1 13 
+"<E>/,.w+type=\"noun\"+name}" 692 222 1 21 
+"PJ/{{" 284 637 1 15 
+"<E>/,.w+type=\"noun\"+name}" 331 637 1 21 
+"de" 469 123 1 17 
+"répression du banditisme+proximité/{" 516 123 1 13 
+"<E>" 271 761 1 19 
+"gestapo+stasi+tchéka+guépéou+NKVD+KGB +CIA+Interpol/{" 723 761 1 20 
+"<E>/,.orgName+adm+police+grforgPolice}" 948 549 1 1 
+"<E>" 820 549 1 20 
+"<police>+<brigade>/{" 406 44 1 23 
+"<E>/,.org+adm+police+grforgPolice}" 874 44 1 1 

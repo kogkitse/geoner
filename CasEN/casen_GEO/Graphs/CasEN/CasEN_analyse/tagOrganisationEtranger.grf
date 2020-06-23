@@ -1,0 +1,49 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+29
+"<E>" 280 219 3 8 20 17 
+"" 1241 220 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 587 109 0 
+"<E>/,.w+type=\"noun\"+name}" 1192 220 1 1 
+"<E>" 1146 219 3 3 23 26 
+"Cie+Co+Corp." 1083 687 1 3 
+"&+and" 1004 653 1 5 
+":patternNomMixte" 410 687 3 11 26 27 
+":B" 373 687 1 7 
+":patternNomMixte" 642 356 1 10 
+"'s" 778 356 1 12 
+"<E>" 567 356 3 9 13 14 
+"<E>" 843 356 1 18 
+":listOrgEtranger" 671 304 1 12 
+"British+Deutsche+Deutsch+American+European+Center+Society+school+business school+university+college+institute+hochschule+New+the+&+and+-i-+of" 652 523 1 12 
+":patternNomMixte" 403 219 1 16 
+"'s" 539 219 1 25 
+":B" 328 219 2 15 19 
+"<E>" 837 219 2 21 24 
+":listOrgEtranger" 421 172 1 25 
+"British+Deutsche+Deutsch+American+European+Center+Society+school+business school+university+college+institute+hochschule+the/{" 408 357 1 25 
+":patternNomMixte" 902 219 2 22 4 
+"'s" 1051 193 1 4 
+"<E>" 987 96 1 18 
+"the+&+and+-i-+of" 960 292 1 4 
+"<E>" 578 219 1 18 
+"<E>" 943 687 2 5 6 
+"British+Deutsche+Deutsch+American+European+Center+Society+school+business school+university+college+institute+hochschule+New" 603 798 2 26 28 
+"<E>" 1132 799 1 3 

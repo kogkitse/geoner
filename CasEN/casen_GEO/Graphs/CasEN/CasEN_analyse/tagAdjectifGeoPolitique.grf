@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 82 431 2 2 5 
+"" 682 431 0 
+"<autonome>+<central>+<confédéral>+<constitutionnel>+<démocratique>+<départemental>+<économique>+<extérieur>+<intérieur>+<fédéral>+<impérial>+<indépendant>+<interieur>+<interministériel>+<international>+<interrégional>+<intercommunal>+<islamique>+<légal>+<local>+<loyaliste>+<national>+<militaire>+<mixte>+<mondial>+<municipal>+<officiel>+<politique>+<populaire>+<présidentiel>+<religieux>+<régional>+<républicain>+<révolutionnaire>+<royal>+<supérieur>+<territorial>+<universel>/{" 290 431 2 4 6 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 714 97 0 
+"<E>/,.w+type=\"adjective\"}" 590 431 1 1 
+":tagDemonym" 154 378 1 2 
+":tagDemonym" 461 372 1 4 

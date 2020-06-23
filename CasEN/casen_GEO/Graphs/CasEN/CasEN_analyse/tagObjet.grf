@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 13 297 2 6 13 
+"" 867 297 0 
+"<E>/,.object}" 639 297 1 9 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 820 96 0 
+"<E>" 376 297 2 5 11 
+"chocolat en poudre+député du Front National+<étudiant> de Grenoble+eux+farine de blé complet+pays de la Ligue Arabe+<point> de surveillance+<type> de spectateurs+<policier> d'élite+<camion>-<citerne>+<fief> de la rébellion+<bastion> des rebelles+<farine> de châtaignes+bug" 442 468 1 2 
+"fois+<reprise>" 85 161 1 7 
+"<E>" 710 162 1 1 
+"'" 766 297 1 10 
+"$![" 721 297 1 8 
+"$]" 802 297 1 1 
+":patternNomMixte+:patternMin" 464 297 1 2 
+"<A~Toponyme>+<V:K>" 241 355 1 4 
+":B" 76 297 4 14 12 4 15 
+"<ADV>" 104 355 2 14 12 
+":tagDemonym" 351 188 1 2 

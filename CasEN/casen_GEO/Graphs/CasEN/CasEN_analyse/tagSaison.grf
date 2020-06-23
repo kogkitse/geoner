@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 107 370 1 12 
+"" 789 370 0 
+"étés+<automne>+<hiver>+printemps/{" 411 370 1 5 
+"<été> ambigu avec le verbe !+il ne devrait pas être reconnu seul" 339 214 0 
+":B" 347 370 2 2 7 
+"<E>/,.w+type=\"noun\"}" 564 370 2 15 16 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 884 114 0 
+"Été+Eté/{" 403 268 1 10 
+"été/{" 446 437 1 5 
+"l'+un/{" 192 437 1 14 
+"<E>" 488 268 1 5 
+"le+les/{" 188 306 1 13 
+"<E>" 142 370 3 11 9 4 
+"<E>/,.preInclude}" 240 306 1 4 
+"<E>/,.preInclude}" 234 437 2 4 17 
+"<E>/,.date+rel+grftimeDateRelative}" 749 370 1 1 
+":tagFinDateRelative" 622 308 1 15 
+":B" 342 437 1 8 

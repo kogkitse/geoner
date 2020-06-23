@@ -1,0 +1,1197 @@
+0000000044
+-1 place
+: -3 5 22 4 21 4 17 3 4 2 3 1 
+: -3 7 -5 6 -6 6 -7 6 -8 6 
+: -9 12 24 11 9 10 7 9 5 8 
+: 18 13 
+: 18 6 
+: -2 15 -10 14 
+t 
+: -5 18 -6 17 -7 16 -8 16 
+: 6 12 
+: 8 12 
+: 10 12 
+: 18 12 
+t -3 21 23 20 16 19 15 19 14 19 13 19 
+: 20 19 19 19 
+: -11 23 11 22 
+: 1 24 
+: -4 25 
+: -4 26 
+: -4 27 
+: 11 6 
+: -3 21 16 19 15 19 14 19 13 19 
+: -10 19 
+: -3 30 9 29 7 28 
+: 11 22 
+: 4 2 3 1 
+: 25 6 
+: 6 6 
+: 2 6 
+: 8 6 
+: 10 6 
+: -2 32 -9 31 
+: 12 6 
+: 1 33 
+: -3 34 9 29 7 28 
+: -9 31 
+f 
+-2 tagEx
+: 28 1 27 1 26 1 
+: 30 3 29 2 
+: 23 4 
+t 
+: 29 5 
+: 30 3 
+f 
+-3 B
+: 32 2 31 1 
+: 32 2 
+t 
+f 
+-4 tagFinOrg
+: -11 4 36 3 35 3 34 3 4 2 3 1 
+: -12 7 -13 7 -14 7 -15 6 -16 6 -17 6 33 5 
+: -3 8 
+: -18 9 
+: -3 13 16 12 15 12 14 12 13 12 9 11 7 10 4 2 3 1 
+: 42 6 
+t -11 15 -12 7 -13 7 -14 7 39 14 
+t -11 15 39 14 
+: -19 5 
+: 4 2 3 1 
+: 37 16 
+: 38 16 
+: 11 16 
+: -9 17 -10 12 
+: -3 20 9 19 7 18 
+: -3 13 16 12 15 12 14 12 13 12 9 11 7 10 
+t 
+: 41 16 
+: 37 21 
+: 38 21 
+: -9 22 
+: 40 16 
+: 41 21 
+f 
+-5 placeQuartier
+: 58 5 56 4 51 3 50 1 49 1 46 2 45 1 44 1 43 1 
+: 60 6 
+: 48 1 47 1 
+: 55 1 53 7 52 1 
+: 57 1 
+: 59 1 
+: 61 8 
+: 54 1 
+t 
+f 
+-6 placeBatiment
+: 4 2 3 1 
+: 68 3 
+: -3 4 
+: 67 5 66 5 65 5 64 5 
+: -20 6 -21 6 -22 6 -23 6 -24 6 -25 6 -26 6 -27 6 
+: 69 7 
+: 71 8 
+: 70 9 
+t 
+: 63 10 
+: -19 11 
+: 62 8 
+f 
+-7 placeRoutes
+: 103 8 102 8 97 7 92 6 86 5 82 4 79 3 75 2 73 1 72 1 
+: 60 9 
+: 60 10 
+: 60 11 
+: 60 13 53 12 
+: 60 14 
+: 60 15 
+: 96 16 67 16 66 16 65 16 64 16 
+: 29 17 
+: 78 18 
+: 78 18 77 19 76 19 
+: 81 19 80 19 
+: 107 20 106 1 
+: 85 19 84 19 83 19 
+: -15 9 95 19 94 19 93 19 89 21 88 19 87 19 
+: 95 19 94 19 93 19 
+: 69 22 
+: 104 23 
+t -3 26 91 25 4 24 
+: 105 9 
+: 106 1 
+: 90 19 
+: 70 27 
+: 74 28 
+: 103 8 102 8 101 8 100 8 99 8 98 8 
+: -3 29 
+: -28 23 
+: 101 8 100 8 99 8 98 8 
+t 
+: -19 23 
+f 
+-8 placeTram
+: 123 4 122 4 121 4 120 4 115 3 109 2 56 1 
+: 60 5 
+: 60 6 
+: 60 7 
+: 60 8 
+: 135 9 
+: 53 12 4 11 3 10 
+: 124 15 53 14 29 13 
+: 126 17 125 16 124 15 29 13 
+: 134 18 133 18 132 18 131 18 130 18 129 18 128 18 
+: -15 19 -29 19 -30 19 -31 19 -32 19 
+: -19 19 
+: 113 20 112 20 111 20 110 20 
+: 104 21 
+: 113 22 112 22 111 22 110 22 
+: 117 23 
+: 124 15 29 13 
+: 125 16 
+: 69 24 
+: 108 25 
+: 114 26 
+: 119 25 
+: 116 16 
+: 118 27 
+: 4 11 3 10 
+t 
+: 127 25 4 11 3 10 
+: 119 25 29 13 
+f 
+-9 patternVille
+: 139 3 4 2 3 1 
+: -3 5 136 4 
+: -3 6 
+t 140 7 
+: 137 3 29 8 
+: -33 9 
+: -34 10 -35 10 
+t 
+: 23 11 
+: 29 12 
+: 137 3 
+: 29 13 
+: 23 14 
+: 4 15 3 6 
+: 29 16 
+: -33 10 
+: 138 10 
+f 
+-10 patternPointCardinal
+: 150 2 149 3 148 2 147 2 146 2 145 2 143 2 142 1 141 1 
+t 144 2 143 2 23 4 
+t 
+: 144 2 143 2 142 2 141 2 23 5 
+: 144 2 143 2 
+: 144 2 143 2 142 2 141 2 
+f 
+-11 listDeLe
+: 153 3 152 2 151 2 53 1 
+t 156 3 155 2 
+t 
+: 154 2 
+f 
+-12 tagAdjectifGeoPolitique
+: -13 2 194 1 193 1 192 1 191 1 190 1 189 1 188 1 187 1 186 1 185 1 184 1 183 1 182 1 181 1 180 1 179 1 178 1 177 1 176 1 175 1 174 1 173 1 172 1 171 1 170 1 169 1 168 1 167 1 166 1 165 1 164 1 163 1 162 1 161 1 160 1 159 1 158 1 157 1 
+: -13 4 105 3 
+: 194 1 193 1 192 1 191 1 190 1 189 1 188 1 187 1 186 1 185 1 184 1 183 1 182 1 181 1 180 1 179 1 178 1 177 1 176 1 175 1 174 1 173 1 172 1 171 1 170 1 169 1 168 1 167 1 166 1 165 1 164 1 163 1 162 1 161 1 160 1 159 1 158 1 157 1 
+t 
+: 105 3 
+f 
+-13 tagDemonym
+: -3 3 -37 2 206 1 
+: 207 4 
+t -36 0 
+: -38 5 
+: 69 6 
+: 202 8 201 8 200 8 199 8 23 7 
+: 213 9 212 9 211 9 210 9 209 9 208 9 198 8 197 8 196 8 195 8 
+: 202 8 201 8 200 8 199 8 
+: 203 2 
+: 105 2 
+f 
+-14 tagOrganisationEtranger
+: -3 3 250 1 249 1 248 1 247 1 246 1 245 2 244 1 243 1 242 1 241 1 240 1 239 1 238 1 237 1 
+: -19 6 236 5 234 5 218 5 217 5 23 4 
+: 227 1 
+: -19 7 -39 1 
+: 235 8 
+: -19 6 236 5 234 5 218 5 217 5 216 11 215 10 214 10 116 9 23 4 
+: -19 6 236 5 234 5 218 5 217 5 216 11 215 10 214 10 154 12 116 9 23 4 
+: -19 17 -39 1 236 1 234 1 233 5 232 5 231 5 230 5 229 5 228 16 227 5 226 5 225 5 224 5 223 5 222 5 221 5 220 5 218 15 217 15 216 11 215 10 214 10 154 14 23 13 
+: 23 5 
+t 
+: 116 9 
+: 64 10 
+: 219 5 
+: 235 18 
+: 219 1 
+: -19 6 236 5 234 5 218 5 217 5 216 11 215 10 214 10 23 4 
+: 227 5 
+: 154 14 
+: 23 1 
+f 
+-15 patternIncludePersName
+: 254 0 253 1 252 1 
+t 251 1 
+f 
+-16 patternIncludeOrgName
+: 257 1 256 2 255 1 254 0 
+t 251 1 
+: 255 1 
+f 
+-17 patternSaint
+: 259 3 258 2 155 1 
+: 261 4 
+: 207 6 23 5 
+: 23 7 
+: -11 8 
+: 207 6 
+: -11 8 23 9 
+: 260 4 
+: -40 11 23 10 
+: -11 8 207 6 
+: -40 11 
+t 
+f 
+-18 listLe
+: 263 1 262 1 156 2 155 1 
+t 
+: 154 1 
+f 
+-19 patternNomMixte
+: -33 1 -41 1 265 1 264 1 
+t 29 2 
+: 267 4 266 4 154 3 64 3 23 3 
+: 29 5 
+t 
+: -33 1 -41 1 265 1 264 1 140 1 
+f 
+-20 tagBatimentCulturel
+: 304 10 300 9 299 8 296 7 295 6 286 5 284 4 282 3 280 1 279 1 278 1 277 1 275 2 274 1 273 1 272 1 271 1 270 1 269 1 268 1 
+: 281 11 
+: 151 12 
+: 153 13 
+: 285 11 
+: -42 14 281 11 
+: 294 1 292 1 53 15 
+: 298 1 297 1 
+: 151 16 
+: 298 1 297 1 53 17 
+: 151 19 53 18 
+t 
+: 276 1 
+: 154 20 
+: 290 22 287 21 
+: 293 1 
+: 303 1 302 1 
+: 301 1 
+: 155 23 
+: 305 24 
+: 283 1 
+: 289 1 288 1 
+: 291 1 23 25 
+: 306 24 
+: 307 10 281 11 
+: 291 1 
+f 
+-21 tagBatimentHabitat
+: 328 4 327 1 326 1 324 3 323 1 322 1 321 1 320 1 319 1 318 1 317 1 315 2 314 1 313 1 312 1 311 1 310 1 309 1 308 1 304 1 
+: 281 5 
+: 316 1 
+: 23 6 
+: 332 8 331 7 330 1 329 1 
+t 
+: 325 1 
+: 330 1 329 1 
+: 332 8 331 7 
+f 
+-22 tagBatimentHistorique
+: 353 1 352 1 351 1 350 1 349 1 348 1 347 1 346 1 345 1 344 1 343 1 342 1 341 1 340 1 339 1 338 1 336 3 334 2 333 2 275 1 
+: 281 4 
+: 335 1 281 4 
+: 53 5 
+t 
+: 337 1 
+f 
+-23 tagBatimentIndustriel
+: 354 1 
+: 281 2 
+: 53 3 
+: 355 4 
+: 281 5 
+t 
+f 
+-24 tagBatimentReligieux
+: 393 2 374 1 373 1 372 1 371 1 370 1 369 1 368 1 367 1 366 1 365 1 364 1 363 1 362 1 361 1 360 1 359 1 358 1 357 1 356 1 
+: 281 3 
+: 281 4 
+t 392 5 391 5 390 5 389 5 388 5 387 5 386 5 385 5 384 5 383 5 382 5 381 5 380 5 379 5 378 5 377 5 376 5 375 5 
+: 392 5 391 5 390 5 389 5 388 5 387 5 386 5 385 5 384 5 383 5 382 5 381 5 380 5 379 5 378 5 377 5 376 5 375 5 
+: 105 6 
+t 
+f 
+-25 tagBatimentSportif
+: 422 10 417 9 415 8 412 4 411 4 410 4 409 7 408 7 407 6 406 4 405 4 404 4 401 5 400 4 395 2 394 2 296 3 295 2 275 1 
+: 413 4 151 11 
+: 399 4 398 4 397 4 53 13 23 12 
+: 403 4 
+: 281 14 
+: 402 4 
+: 399 4 281 14 
+: 53 15 
+: 23 16 
+: 23 17 
+: 419 18 
+: 414 4 
+: 399 4 398 4 397 4 
+: 396 4 
+t 
+: 54 4 
+: 416 4 
+: 418 4 
+: 420 19 
+: 69 20 
+: 70 21 
+: 421 4 
+f 
+-26 tagBatimentTransport
+: 436 3 435 3 434 3 433 3 432 3 431 3 430 3 424 2 423 1 
+: 281 4 
+: 281 5 
+: 281 6 
+t 427 7 426 7 425 7 
+t 429 7 428 7 179 7 
+t 
+: 105 6 
+f 
+-27 tagBatimentVille
+: 472 14 470 13 468 12 465 11 449 10 448 10 447 6 444 9 443 6 442 6 440 8 438 7 437 6 328 5 304 4 300 3 295 2 275 1 
+: 53 15 
+: 281 16 
+: 281 17 
+: 281 18 
+: 458 14 
+: 281 19 
+: 53 20 
+: 53 21 
+: 445 6 
+: 281 22 
+: 281 23 
+: 281 24 
+: 281 25 
+: 281 26 
+: 446 6 
+: -42 28 471 27 450 27 
+: -42 29 
+: -42 30 464 27 
+t 
+: 439 6 
+: 441 6 
+: 451 27 450 27 
+: 467 32 53 31 
+t 53 33 
+: 471 27 450 27 
+t 473 27 
+: 105 19 
+: 463 6 462 6 461 6 460 6 459 6 455 6 
+: 457 6 456 6 455 6 454 6 453 6 452 6 
+: 463 6 462 6 461 6 460 6 455 6 
+: 466 6 
+: -43 34 
+: 469 6 
+: 69 19 
+f 
+-28 tagDeA
+: -11 4 480 3 91 2 3 1 
+: -29 5 -30 5 479 5 478 5 477 5 476 5 
+: -3 6 
+: 4 8 3 7 
+: 91 2 3 1 
+t 475 10 474 9 419 9 23 9 
+: -40 11 
+: -29 12 -30 12 479 12 478 12 477 12 476 12 
+: -3 13 
+: 4 15 3 14 
+: 154 16 
+: 481 17 
+: 307 9 
+: -40 18 
+: -29 19 -30 19 479 19 478 19 477 19 476 19 
+: -3 20 
+: 419 9 
+: 475 21 474 14 419 14 23 14 
+: 481 22 
+t 
+: -40 23 
+: 154 24 
+: 307 14 
+: 481 19 
+: 419 14 
+f 
+-29 patternIncludePlaceName
+: 484 1 483 2 482 1 254 0 
+t 251 1 
+: 482 1 
+f 
+-30 patternIncludeGeogName
+: 486 2 485 1 484 1 254 0 
+t 251 1 
+: -11 4 -13 3 486 2 485 1 
+: -11 4 486 2 485 1 
+: 486 2 485 1 
+f 
+-31 patternIncludeDate
+: 487 1 254 0 
+t 251 1 
+f 
+-32 patternIncludeRule
+: 488 1 254 0 
+t 251 1 
+f 
+-33 patternMajMin
+: 124 1 
+: 117 2 
+: 489 3 117 3 
+: 489 3 118 4 117 3 
+t 
+f 
+-34 patternNomVille
+: 4 2 3 1 
+: 505 3 504 3 503 3 502 3 501 3 500 3 499 3 498 3 497 3 496 3 495 3 494 3 493 3 492 3 491 3 490 3 233 3 
+: -44 4 
+: -33 6 29 5 
+t 
+: 23 7 
+t 509 9 508 10 507 9 506 9 34 9 29 8 
+: 29 11 
+: 23 12 
+: -33 4 29 13 
+: -33 4 509 9 29 13 
+: -33 6 
+: 29 14 
+: 23 15 
+: 509 9 508 10 507 9 506 9 34 9 
+: 29 16 
+: -33 4 
+f 
+-35 patternLeNomVille
+: 513 2 512 1 511 1 510 1 
+: -33 4 29 3 
+: 154 1 
+: 23 5 
+: 509 7 508 8 507 7 506 7 34 7 29 6 
+: 29 9 
+: 23 10 
+: -33 12 29 11 
+: -33 12 509 7 29 11 
+: -33 4 
+: 29 13 
+: 23 14 
+t 
+: 509 7 508 8 507 7 506 7 34 7 
+: 29 15 
+: -33 12 
+f 
+-36 listEtOu
+: 519 1 518 1 517 1 514 4 307 3 126 2 23 1 
+t 64 5 
+t 519 1 518 1 517 1 514 4 307 3 126 1 64 5 23 1 
+t 509 6 64 5 
+t 516 1 515 7 64 5 
+: 64 8 
+: 514 1 
+t 516 1 64 5 
+: 64 9 
+t 
+f 
+-37 patternPFXPhone
+: 124 1 
+: 520 2 
+: 522 3 521 3 
+: 118 4 
+: 105 5 
+t 
+f 
+-38 patternPrefixeToponyme
+: 525 1 524 1 523 2 144 1 143 1 142 1 141 1 
+t 23 3 
+t 523 2 23 4 
+t 
+: 523 2 
+f 
+-39 listOrgEtranger
+: 594 1 593 1 592 1 591 1 590 1 589 1 588 1 587 1 586 1 584 3 583 1 582 1 581 1 580 1 579 1 578 1 577 1 576 1 575 1 574 1 573 1 572 1 571 1 570 1 569 1 568 1 567 1 566 1 565 1 564 1 563 1 562 1 561 1 560 1 559 1 558 1 557 1 556 1 555 1 554 1 553 1 552 1 551 1 550 1 549 1 548 1 547 1 546 1 545 1 544 1 543 1 542 2 541 1 540 1 539 1 538 1 537 1 536 1 535 1 534 1 533 1 532 1 531 1 530 1 529 1 528 1 527 1 526 1 
+t 
+: 64 1 
+: 23 4 
+: 585 1 
+f 
+-40 patternMajMinTiret
+: 124 1 
+: 117 2 
+: 489 3 117 3 
+: 489 3 118 4 117 3 23 1 
+t 
+f 
+-41 patternMaj1
+: 124 1 
+: 117 2 
+: 118 3 
+t 
+f 
+-42 listDe
+: 153 2 152 1 151 1 53 1 
+t 
+: 154 1 
+f 
+-43 listALe
+: 596 2 595 2 419 1 
+t 156 3 155 2 
+t 
+: 154 2 
+f 
+-44 patternNomVilleFin
+: 124 1 
+: 117 2 
+: 489 3 117 3 
+: 612 5 611 5 610 5 609 5 608 5 607 5 606 5 605 5 604 5 603 5 602 5 601 5 600 5 599 5 598 5 597 5 489 3 117 3 23 4 
+: 118 6 
+: 118 7 
+: 509 8 508 11 507 8 506 8 262 10 155 9 34 8 
+t 
+: 29 12 
+: 23 13 
+: 23 14 
+: 509 8 29 12 
+: 23 15 
+: 615 16 613 16 
+: 617 7 616 16 614 16 
+: 29 17 
+t 262 18 
+: -33 7 
+: 23 19 
+: 617 7 
+f 
+%<E>
+%<E>/,.preInclude}
+%<E>/,.placeName+type="district"+grfplace}
+%<E>/${2}$
+%<E>/${1}$
+%<N+Edifice>/{
+%<E>/,.placeName+type="building"+grfplace}
+%<N+Toponyme+Pays~Hum>/{
+%<E>/,.placeName+type="country"+grfplace}
+%<N+Toponyme+Region~Hum>/{
+%<E>/,.placeName+type="region"+grfplace}
+%<E>/,.offset}
+%<E>/,.placeName+type="settlement"+grfplace}
+%<oriental>/{
+%<septentrionnal>/{
+%<occidental>/{
+%<méridional>/{
+%hémisphère/{
+%<E>/,.placeName+type="area"+grfplace}
+%nord/{
+%sud/{
+%orient/{
+%occident/{
+%-
+%<N+Toponyme+Supranational~Hum>/{
+%<E>/,.placeName+type="oronym"+grfplace}
+%vice/{
+%ex/{
+%sous/{
+%#
+%<E>/,.w+type="prefix"}
+@ 
+%#/{
+%<N+Commerce>/{
+%sur
+%contre
+%pour
+%<E>/,.country}
+%<E>/,.region}
+%(
+%)
+%<E>/,.settlement}
+%<E>/,.w+type="noun"+quaero="name"+grftagFinOrg}
+%<quartier>/{{
+%<banlieue>/{{
+%<bourg>/{{
+%centre/{{
+%<ville>
+%<bourg>
+%<ghetto>/{{
+%<port>/{{
+%<station>/{{
+%<balnéaire>
+%de
+%ski
+%<portuaire>
+%station/{{
+%marine
+%stations/{{
+%marines
+%<E>/,.w+type="noun"+kind}
+%<E>/,.place+type="district"+grfplaceQuartier}
+%<E>/,.placeName+type="building"+grfplaceBatiment}
+%Chez/{
+%.
+%?
+%!
+%:
+%$![0
+%$]
+%<TOKEN>
+%<E>/,.place+type="building"+grfplaceBatiment}
+%autoroute/{{
+%départementale/{{
+%<E>/,.placeName+type="oronym"+grfplaceRoutes}
+%route/{{
+%nationale/{
+%départementale/{
+%<E>/,.place+type="oronym"+grfplaceRoutes}
+%axe/{{
+%routier/{
+%autoroutier/{
+%chemin/{{
+%communal/{
+%pédestre/{
+%vicinal/{
+%voie/{{
+%rapide/{
+%romaine/{
+%sur/{
+%berge
+%<E>/${0}$
+%liaison/{{
+%ferroviaire/{
+%maritime/{
+%aerienne/{
+%{S}
+%$![1
+%A/{
+%C/{
+%D/{
+%E/{
+%GR/{
+%RN/{
+%<nombre+1a999+chiffre>
+%<E>/,.w+type="adjective"}
+%randonnée
+%grande
+%<E>/,.placeName+grftagTram}
+%arrêt/{{
+%bus/{
+%métro/{
+%tram/{
+%tramway/{
+%<E>/,.w+type="noun"}
+%ligne/{{
+%<E>/,.w+type="noun"+name}
+%<UPPER>
+%$>
+%<E>/,.placeName+type="oronyme"+grftagTram}
+%bus/{{
+%métro/{{
+%tram/{{
+%tramway/{{
+%$<
+%ligne
+%,
+%<E>/,.place+grftagTram}
+%Unix
+%Sun
+%Windows
+%Mac
+%Dec
+%DellBull
+%IBM
+%$![2
+%<N+Toponyme+Ville~Hum>/{
+%<E>/,.placeName+type="settlement"+grftagVille}
+%<N+Toponyme+Ville~Hum>
+%<placeName+type=\"settlement\">
+%<num>
+%nord
+%sud
+%ouest
+%est
+%north
+%south
+%west
+%east
+%centre
+%Est
+%des
+%du
+%d
+%'
+%la
+%l
+%<autonome>/{
+%<central>/{
+%<confédéral>/{
+%<constitutionnel>/{
+%<démocratique>/{
+%<départemental>/{
+%<économique>/{
+%<extérieur>/{
+%<intérieur>/{
+%<fédéral>/{
+%<impérial>/{
+%<indépendant>/{
+%<interieur>/{
+%<interministériel>/{
+%<international>/{
+%<interrégional>/{
+%<intercommunal>/{
+%<islamique>/{
+%<légal>/{
+%<local>/{
+%<loyaliste>/{
+%<national>/{
+%<militaire>/{
+%<mixte>/{
+%<mondial>/{
+%<municipal>/{
+%<officiel>/{
+%<politique>/{
+%<populaire>/{
+%<présidentiel>/{
+%<religieux>/{
+%<régional>/{
+%<républicain>/{
+%<révolutionnaire>/{
+%<royal>/{
+%<supérieur>/{
+%<territorial>/{
+%<universel>/{
+%<A+Toponyme>/{
+%<A+Ethnonyme~Religion>/{
+%<N+Hum+Toponyme>/{
+%<N+Ethnonyme~Religion>/{
+%<A+Toponyme>
+%<A+Ethnonyme~Religion>
+%<N+Hum+Toponyme>
+%<N+Ethnonyme~Religion>
+%<E>/,.w+type="adjective"+demonym}
+%pro
+%anti
+%$![3
+%<N+Prenom>
+%<A+Ethnonyme+Religion>/{
+%<N+Ethnonyme+Religion>/{
+%<noir>/{
+%<blanc>/{
+%<A+PartiPolitique>/{
+%<N+PartiPolitique>/{
+%Cie
+%Co
+%Corp
+%&
+%and
+%s
+%British
+%Deutsche
+%Deutsch
+%American
+%European
+%Center
+%Society
+%school
+%business
+%university
+%college
+%institute
+%hochschule
+%New
+%the
+%i
+%of
+%British/{
+%Deutsche/{
+%Deutsch/{
+%American/{
+%European/{
+%Center/{
+%Society/{
+%school/{
+%business/{
+%university/{
+%college/{
+%institute/{
+%hochschule/{
+%the/{
+%<postInclude>
+%<persName>
+%<listPers>
+%<preInclude>
+%<orgName>
+%<org>
+%<listOrg>
+%saint
+%Notre
+%Dame
+%Vierge
+%le
+%les
+%<sigleNum>
+%<vieuxSigle>
+%®
+%©
+%MJC/{
+%<amphithéâtre>/{
+%<bibliothèque>/{
+%<cinéma>/{
+%<muséum>/{
+%<médiathèque>/{
+%<opéra>/{
+%palais/{
+%congrés
+%<scène>/{
+%<théatre>/{
+%<théâtre>/{
+%<vidéothèque>/{
+%<E>/,.w+type="noun"+quaero="kind"}
+%<studio>/{
+%enregistrement
+%opéra
+%comique
+%musée/{
+%art
+%contemporain
+%moderne
+%beaux
+%arts
+%<culturel.A:m>
+%conférences
+%<social.A:m>
+%<centre>/{
+%<complexe>/{
+%multifonctions
+%<polyvalent>
+%<parc>/{
+%<salle>/{
+%presse
+%expos
+%expositions
+%<maison>/{
+%jeunes
+%culture
+%et
+%<building>/{
+%<bungalow>/{
+%<bâtiment>/{
+%<chalet>/{
+%<chaumière>/{
+%demeures/{
+%<gentilhommière>/{
+%<hôtel>/{
+%<particulier,.A:m>
+%<immeuble>/{
+%<logement>/{
+%<maisonnette>/{
+%<manoir>/{
+%<pavillon>/{
+%<résidence>/{
+%<villa>/{
+%gratte/{
+%ciel
+%logis/{
+%mas/{
+%<DET:f>
+%demeure/{
+%<tour>/{
+%<A:f>
+%<ADV>
+%<château>/{
+%<chateau>/{
+%<fort,.A:m>
+%<arc>/{
+%triomphe
+%<bastide>/{
+%<beffroi>/{
+%<castel>/{
+%<citadelle>/{
+%<cénotaphe>/{
+%<donjon>/{
+%<forteresse>/{
+%<mausolée>/{
+%<nécropole>/{
+%<pagode>/{
+%<pyramide>/{
+%<rempart>/{
+%<statue>/{
+%<sépulcre>/{
+%<tourelle>/{
+%chastel/{
+%enceinte/{
+%confinement/{
+%<abbatiale>/{
+%<abbaye>/{
+%<basilique>/{
+%<cathédrale>/{
+%<chapelle>/{
+%<cimetière>/{
+%<cloître>/{
+%<collégiale>/{
+%<monastère>/{
+%<mosquée>/{
+%<oratoire>/{
+%<paroisse>/{
+%<prieuré>/{
+%<sanctuaire>/{
+%<synagogue>/{
+%<temple>/{
+%<tombeau>/{
+%<église>/{
+%parvis/{
+%<anglican>/{
+%<baptiste>/{
+%<bouddhiste>/{
+%<calviniste>/{
+%<catholique>/{
+%<chrétien>/{
+%<copte>/{
+%<hindou>/{
+%<intégriste>/{
+%<juif>/{
+%<libéral>/{
+%<orthodoxe>/{
+%<pentecôtiste>/{
+%<protestant>/{
+%<romain>/{
+%<shintoïste>/{
+%<traditionaliste>/{
+%<évangélique>/{
+%<tombe>/{
+%<terrain>/{
+%<stade>/{
+%<N+Sport>
+%omnisport
+%<vélodrome>
+%<olympique>
+%<arène>/{
+%<circuit>/{
+%<automobile>
+%<sportif.A:m>
+%<gymnase>/{
+%<hippodrome>/{
+%<patinoire>/{
+%<piscine>/{
+%<piste>/{
+%<station>/{
+%stades/{
+%<téléphérique>/{
+%<télésiège>/{
+%<omnisport>
+%sports
+%remonte/{
+%<pente>
+%tire/{
+%<fesse>
+%à
+%ce
+%stade/{
+%$![4
+%gare/{
+%aéroport/{
+%TGV/{
+%SNCF/{
+%routière/{
+%<civil.A:m>/{
+%<international.A:m>/{
+%viaduc/{
+%aqueduc/{
+%pont/{
+%tunnel/{
+%aérogare/{
+%port/{
+%quai/{
+%<abattoir>/{
+%<auberge>/{
+%jeunesse
+%<bureau>/{
+%poste
+%<crèche>/{
+%<halle>/{
+%<marché>/{
+%<couvert.A:m>
+%justice
+%<pénitencier>/{
+%<restaurant>/{
+%<cantine>/{
+%<scolaire>/{
+%<administratif>/{
+%abstinence/{
+%consommation/{
+%désintoxication/{
+%presse/{
+%sevrage/{
+%shoot/{
+%<poste>/{
+%hébergement/{
+%arrêt/{
+%correction/{
+%détention/{
+%rétention/{
+%consulaire/{
+%<commissariat>/{
+%police/{
+%$![5
+%<caserne>/{
+%pompiers/{
+%<établissement>/{
+%<pénitenciaire>/{
+%<prison>/{
+%<central.A:f>/{
+%jusque
+%jusqu
+%<district>
+%<settlement>
+%<region>
+%<country>
+%entre
+%<E>/,.placeName+grftagDeA}
+%<placeName>
+%<place>
+%<listPlace>
+%<geogName>
+%<geogFeat>
+%<date>
+%<rule>
+%<LOWER>
+%Ville
+%Port
+%Château
+%Saint
+%St
+%Ste
+%Stes
+%Saintes
+%Las
+%Los
+%San
+%Santiago
+%Santo
+%Saõ
+%Sao
+%Puerto
+%lès
+%sous
+%ss
+%/
+%La
+%Le
+%Les
+%L
+%ou
+%bien
+%encore
+%voire
+%puis
+%enfin
+%<PFX+Toponyme>/{
+%phone
+%phones
+%<PFX+Toponyme>
+%outre
+%midi
+%Bank
+%Banca
+%Banco
+%Bros
+%Brother
+%Consulting
+%Communications
+%Communication
+%Company
+%Computers
+%Corporation
+%Credit
+%Engineering
+%Foundation
+%Group
+%Holding
+%Inc
+%Aero
+%Aerolineas
+%Air
+%Association
+%Agency
+%Airways
+%Board
+%Bill
+%Club
+%Congress
+%Council
+%Department
+%Dept
+%District
+%Fund
+%Federation
+%Institute
+%International
+%Labs
+%Land
+%Movement
+%Office
+%Organisation
+%Project
+%Research
+%Securities
+%System
+%Systems
+%United
+%Band
+%Opera
+%Theater
+%Ltd
+%Limited
+%Management
+%Media
+%Motors
+%Oil
+%Products
+%Sites
+%Software
+%Stock
+%Exchange
+%Task
+%Technologies
+%Technology
+%Telekom
+%Telefonica
+%Telefon
+%Trade
+%Trust
+%Food
+%au
+%aux
+%berg
+%borough
+%bourg
+%burgh
+%burgo
+%caster
+%city
+%dorf
+%grad
+%ham
+%shima
+%shire
+%stad
+%stadt
+%town
+%york
+%nouvelle
+%nouveau
+%neuve
+%neuf
+%château
+f

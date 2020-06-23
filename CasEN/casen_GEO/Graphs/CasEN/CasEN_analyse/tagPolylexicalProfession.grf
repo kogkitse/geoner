@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 9843200
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 125 373 3 4 5 7 
+"" 561 373 0 
+"<E>/,.N+grftagPolylexicalProfession}" 440 373 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 683 136 0 
+"<cavalier> <seul>/{" 244 373 1 2 
+"<bailleur> de fonds+<dame> de compagnie/{" 190 466 1 6 
+"<E>/,.roleName+type=\"office\"+grftagPolylexicalProfession}" 387 466 1 1 
+"gens de/{" 188 589 1 8 
+"théatre+théâtre+cinéma" 274 589 1 6 

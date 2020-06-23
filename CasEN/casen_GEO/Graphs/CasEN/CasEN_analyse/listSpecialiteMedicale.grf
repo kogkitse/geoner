@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 93 380 1 6 
+"" 986 381 0 
+"addictologie+alcoolisme+alcoologie+allergologie+amniocentèse+anatomie+anatomie pathologique+anatomopathologie+anatomo-pathologie+andrologie+anesthésie+anesthésiologie-réanimation+angiologie+biologie médicale+cancérologie+cardiologie+chimiothérapie+cytologie+dermatologie+doppler+échographie+éducation de la santé+endocrinologie+endoscopie+gastroentérologie+génétique+gériatrie+hématologie+hépato-gastro-entérologie+imagerie médicale+immunologie+infectiologie+informatique médicale+néonatologie+néphrologie+neurochirurgie+neurologie+obstétrique+odontologie+oncologie+ophtalmologie+ORL+orthopédie+oto-rhino-laryngologie+pathologie+pédiatrie+pédopsychiatrie+pneumologie+psychiatrie+radiodiagnostique+radiologie+radiothérapie+réanimation+rhumatologie+santé publique+sédation+stomatologie+tabagisme+toxicologie+toxicomanie+traumatologie+urologie+vasculaire+vénérologie" 309 380 1 10 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1338 118 0 
+"médecine" 544 266 2 5 10 
+"d'urgence+du travail+esthétique+physique et de réadaptation+fœtale +générale+hyperbare+interne+nucléaire+nutritionnelle+préventive" 720 195 2 10 14 
+"<E>" 144 380 4 4 2 7 9 
+"chirurgie" 563 623 2 8 10 
+"cardiaque+dentaire+digestive+esthétique+générale+infantile+maxillofaciale+orthopédique+plastique+reconstructrice+thoracique+urologique+vasculaire+viscérale" 726 734 2 10 13 
+"gynécologie+gynéco" 523 493 3 10 11 12 
+"<E>" 922 383 2 1 15 
+"obstétrique" 680 411 1 10 
+"-" 638 411 1 11 
+":listEtOu" 738 528 1 8 
+":listEtOu" 759 30 1 5 
+":listEtOu" 1019 513 1 6 

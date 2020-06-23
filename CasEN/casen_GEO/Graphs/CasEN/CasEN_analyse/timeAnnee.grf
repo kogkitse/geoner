@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 13395456
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 10 268 1 16 
+"" 1183 268 0 
+"<E>/,.date+quaero=\"abs\"+grftimeAnnee}" 1072 268 1 1 
+"<num+1a9999+chiffre>+<num+1a9999+lettre>/{" 625 268 1 5 
+":tagApresAn" 952 222 1 2 
+"<E>/,.gYear}" 902 268 2 4 6 
+"$![" 929 339 1 7 
+"<N:p>+%+<num>" 970 339 1 8 
+"$]" 1039 339 1 2 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 501 137 0 
+"<E>" 359 268 2 11 12 
+"<E>/,.w+type=\"noun\"}" 468 268 1 3 
+"de grâce" 396 236 1 11 
+"l'/{" 118 199 1 14 
+"<E>/,.preInclude}" 168 199 1 15 
+"an+année/{{" 265 268 1 10 
+"<E>" 58 268 2 15 13 

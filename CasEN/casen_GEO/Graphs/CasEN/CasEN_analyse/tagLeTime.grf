@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 13395456
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 99 397 1 2 
+"" 1359 397 0 
+"<E>" 178 397 6 15 11 18 22 25 26 
+":listNomDeTempsJourPlus" 583 397 1 16 
+"<E>" 1320 397 1 1 
+"<E>" 861 397 1 30 
+"<complet>+<entier>/{" 1034 346 1 9 
+"<E>" 1168 397 2 4 8 
+":tagAffilee" 1215 332 1 4 
+"<E>/,.w+type=\"adjective\"}" 1110 345 1 7 
+"<E>" 477 397 2 12 17 
+"chaque+tout+<quel>+<certain>+<tel>+même+<plein>/{" 307 371 1 20 
+":B" 525 397 1 3 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 849 255 0 
+":tag7Jours" 565 168 1 5 
+"<E>" 216 168 1 14 
+"<E>/,.w+type=\"noun\"}" 750 397 1 5 
+":tagNomDeFete+:tag7Jours" 579 346 1 5 
+"<tout>/{" 227 221 1 19 
+":listLe" 295 221 2 20 21 
+"<E>/,.w+type=\"adjective\"}" 526 273 1 10 
+"<même>+:patternAdjectif" 414 209 1 20 
+":B" 239 289 1 23 
+":listLe" 283 289 1 24 
+"<même>+:patternAdjectif" 373 289 1 20 
+":listLe+:tagApproximatif" 264 483 1 10 
+"un+une/{" 239 556 1 27 
+"<E>/,.extractor}" 279 555 1 28 
+"des+de ces" 364 555 1 10 
+"<E>" 1007 397 2 7 6 
+"<E>" 915 397 1 29 

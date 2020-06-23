@@ -1,0 +1,62 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+42
+"<E>" 69 531 2 3 9 
+"" 1712 531 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 95 104 0 
+"<orgName>/{{" 126 310 1 41 
+"(" 630 310 2 15 16 
+":B" 734 310 1 6 
+":patternMajMaj" 778 310 1 7 
+"<E>/,.orgName+grforgSuiviDeParentheses}" 887 310 2 8 18 
+")" 1562 310 1 1 
+":B" 461 531 1 10 
+":patternMajMaj" 505 531 1 11 
+"<E>/,.orgName+grforgSuiviDeParentheses}" 616 531 1 12 
+"(" 871 531 2 30 31 
+"<orgName>" 1010 531 2 14 18 
+")" 1657 531 1 1 
+"<E>/${1}$" 672 310 1 5 
+"<E>/${2}$" 713 220 2 20 22 
+":tagVilleAmerique+:tagEtatAmerique" 923 220 1 21 
+"," 1126 443 2 26 27 
+":patternIncludePlaceName" 800 125 1 23 
+":B" 757 220 1 17 
+"<E>/,.adress+grforgSuiviDeParentheses}" 1117 220 1 8 
+":BB" 756 125 1 19 
+"<E>/,.adrLine}" 1007 125 1 21 
+":tagVilleAmerique+:tagEtatAmerique" 1380 468 1 29 
+":patternIncludePlaceName" 1229 373 1 28 
+":B" 1186 468 1 24 
+":BB" 1185 373 1 25 
+"<E>/,.adrLine}" 1419 373 1 29 
+"<E>/,.adress+grforgSuiviDeParentheses}" 1570 468 1 14 
+"<E>/${2}$" 949 531 1 13 
+"<E>/${1}$" 984 646 1 32 
+":B" 1070 646 1 33 
+":patternMajMinTiret" 1133 646 2 34 33 
+"<E>/,.orgName+grforgSuiviDeParentheses}" 1265 646 1 14 
+"(+\<\/s\>+<nomFs>" 327 310 1 38 
+"<WORD>+'" 463 310 2 39 40 
+"$![" 285 310 1 35 
+"$]" 426 310 1 36 
+"<E>" 364 219 1 37 
+"<E>/,.orgName}" 553 310 1 4 
+"<E>/,.erase}" 229 310 1 37 

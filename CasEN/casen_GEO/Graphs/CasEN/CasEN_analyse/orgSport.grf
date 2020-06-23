@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 32 303 2 7 10 
+"" 977 303 0 
+":tagDemonym" 499 450 1 9 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 967 217 0 
+"<E>/,.org+type=\"sport\"+quaero=\"ent\"+grforgSport}" 497 303 1 1 
+"<E>" 254 303 1 2 
+":tagClub" 146 303 2 5 4 
+"olympique/{{" 106 208 1 8 
+"<E>/,.w+type=\"noun\"+name}" 202 208 1 5 
+"<E>/,.orgName+type=\"sport\"+quaero=\"ent\"+grforgSport}" 620 450 1 1 
+":B" 92 303 1 6 

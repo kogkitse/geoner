@@ -1,0 +1,91 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+71
+"<E>" 109 372 5 7 21 36 37 38 
+"" 1501 268 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 63 105 0 
+"<E>/,.geogFeat+kind}" 698 268 2 4 5 
+":tagDemonym" 730 222 1 5 
+"<E>" 836 268 2 18 60 
+"<affluent>+cours d'eau+<fleuve>+<oued>+<rio>+<rivière>+<ru>+<ruisseau>+<torrent>/{" 582 373 2 3 57 
+"<haut>+<bas>/{" 573 173 1 13 
+"#-#" 695 137 1 9 
+"<E>" 742 173 1 10 
+"<N+Toponyme+Hydronyme>" 800 173 1 14 
+"<N+Toponyme+Hydronyme>/{" 1057 268 1 12 
+"<E>/,.geogName+type=\"river\"+grfgeogRiviere}" 1339 268 1 1 
+"<E>" 646 173 2 9 8 
+"<E>/,.placeName+grfgeogRiviere}" 1024 173 1 1 
+"<E>/${1}$" 1009 314 1 28 
+":patternMajMinTiret" 1111 314 3 12 67 68 
+"<E>/${2}$" 1002 268 1 11 
+"<E>" 947 268 2 17 15 
+":patternMajMin" 553 94 2 20 22 
+"#'s+#-#" 691 45 1 22 
+":B" 517 94 1 19 
+"river" 760 94 1 24 
+":tagDemonym" 997 57 1 25 
+"<E>" 961 94 2 25 23 
+"<E>" 1102 94 1 26 
+"<E>/,.geogName+type=\"river\"+grfgeogRiviere}" 1177 94 1 1 
+"<E>" 1317 373 1 1 
+":B" 1061 314 1 16 
+"amont+aval/{" 208 546 1 33 
+"en/{" 199 477 1 31 
+"amont+aval" 253 477 1 33 
+"<E>/,.offset}" 392 477 2 34 35 
+":listDe" 325 477 1 32 
+"<E>" 485 477 1 37 
+":listLe" 428 439 1 34 
+"<E>" 155 477 2 30 29 
+"<E>" 531 373 1 6 
+"<E>" 154 724 2 39 50 
+":tagACoteHydronyme" 202 612 2 51 58 
+":listDeLe" 467 555 1 41 
+"<E>" 538 612 2 47 49 
+"<N+Toponyme+Hydronyme>/{" 1095 612 1 43 
+"<E>/,.geogName+grfgeogRiviere}" 1389 612 1 1 
+"<E>/${1}$" 1063 557 1 48 
+":patternMajMinTiret" 1165 557 3 43 70 69 
+"<E>/${2}$" 1040 612 1 42 
+"<E>" 990 612 2 46 44 
+":B" 1115 557 1 45 
+"<affluent>+cours d'eau+<fleuve>+<oued>+<rio>+<rivière>+<ru>+<ruisseau>+<torrent>/{" 587 723 2 55 61 
+":tagACoteHydronymeAmbigu" 188 724 1 54 
+"<E>" 443 612 2 41 40 
+":listDeLe" 407 668 1 53 
+"<E>" 478 724 1 49 
+"<E>" 383 724 2 53 52 
+"<E>/,.geogFeat+type=\"river\"+grfgeogRiviere}" 708 812 1 56 
+"<E>" 1369 812 1 1 
+"<E>/,.geogFeat+type=\"river\"+grfgeogRiviere}" 751 373 1 27 
+"<E>" 525 503 1 59 
+"<E>" 1141 502 1 27 
+":listDeLe" 873 211 1 18 
+"<E>/,.geogFeat+kind}" 692 723 2 63 62 
+":tagDemonym" 727 673 1 63 
+"<E>" 831 723 1 66 
+":listDeLe" 885 666 1 65 
+"<E>" 956 723 1 47 
+"<E>" 861 723 2 65 64 
+"#'s+#-#" 1254 345 1 68 
+"river" 1300 314 1 12 
+"#'s+#-#" 1297 505 1 70 
+"river" 1342 557 1 43 

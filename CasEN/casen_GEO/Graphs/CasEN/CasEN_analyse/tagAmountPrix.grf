@@ -1,0 +1,43 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+23
+"<E>" 393 305 2 15 3 
+"" 1319 305 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1391 132 0 
+"par+\/+:listLe" 520 305 1 18 
+":tagApresMesure" 935 287 1 7 
+"<E>" 908 305 2 4 7 
+":listNomDeTempsJourPlus+:listLongueur+:listSurface+:listVolume" 689 226 1 21 
+"<E>" 1052 305 2 9 8 
+":tagQualifierPred" 1120 271 1 9 
+"<E>" 1242 305 1 1 
+"l+m" 683 405 3 13 11 22 
+":tagApresMesure" 856 352 1 7 
+"'+`" 988 492 1 14 
+"$![" 948 492 1 12 
+"$]" 1035 492 1 9 
+"pour" 553 148 1 16 
+"<measure>" 613 148 1 17 
+"<E>" 1187 148 1 9 
+"<E>" 616 305 3 19 20 10 
+":tagEnergie+:tagForce+:tagPression+:tagTemperature+:tagMasse" 694 305 1 5 
+":B" 653 226 1 6 
+"<E>/,.unit}" 873 226 1 5 
+":tagQualifierPred" 914 405 1 9 

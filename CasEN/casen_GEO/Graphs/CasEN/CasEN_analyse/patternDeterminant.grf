@@ -1,0 +1,31 @@
+#Unigraph
+SIZE 1887 863
+FONT Arial:  12
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+11
+"<E>" 223 287 2 2 7 
+"" 924 321 0 
+":listPredeterminant" 270 216 2 7 8 
+":listDeterminantAdjectival" 495 250 1 1 
+":listDeterminantNominal" 496 321 1 5 
+":listDe+:listDeLe" 677 321 1 1 
+":listDeterminantAdverbial" 528 408 2 1 10 
+"<E>" 420 287 3 3 4 6 
+"<E>" 713 216 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------*" 808 140 0 
+":listPredeterminant" 754 408 1 1 

@@ -1,0 +1,270 @@
+0000000018
+-1 toolNombreRomain
+: 4 4 3 3 2 2 1 1 
+: -2 5 
+: -3 5 
+: 34 5 
+: 32 7 31 7 30 7 29 7 28 5 27 5 26 5 25 5 24 5 23 5 22 5 21 5 20 5 19 5 18 5 17 5 16 5 15 5 14 5 13 5 12 5 11 5 10 5 9 6 8 6 7 6 6 6 
+t 
+: 5 5 
+: 33 5 
+f 
+-2 toolNombreRomainMajuscule
+: 2 2 1 1 
+: -4 3 
+: -4 4 
+: -7 7 -8 6 -9 5 
+: -6 9 40 8 
+: 39 10 
+: 37 10 
+: 38 10 
+: -5 11 
+: 35 10 
+t 
+: 41 12 
+: 36 10 
+f 
+-3 toolNombreRomainMinuscule
+: -4 1 
+: 40 2 
+: -10 3 
+: 41 4 
+: 42 5 
+t 
+f 
+-4 B
+: 44 2 43 1 
+: 44 2 
+t 
+f 
+-5 patternChiffreRomain
+: -11 2 45 1 
+t -11 2 45 3 
+t 
+t -11 2 45 4 
+t -11 2 
+f 
+-6 patternChiffreRomainOrdinal
+: 40 1 
+: -5 2 
+: 41 3 
+: -12 5 46 4 
+: -13 5 
+t 
+f 
+-7 patternChiffreRomainOrdinal1
+: 40 2 29 1 
+: 58 6 57 4 55 5 54 4 53 3 
+: 29 7 
+: 40 8 
+: 53 3 
+: 40 9 
+: 40 10 
+: 52 12 50 11 49 11 48 11 47 11 
+: 52 14 50 13 49 13 48 13 47 13 
+: 52 16 50 15 49 15 48 15 47 15 
+: 52 18 50 17 49 17 48 17 47 17 
+: 51 20 41 19 
+: 50 11 49 11 48 11 47 11 
+: 51 22 41 21 
+: 50 13 49 13 48 13 47 13 
+: 51 24 41 23 
+: 50 15 49 15 48 15 47 15 
+: 51 26 41 25 
+: 50 17 49 17 48 17 47 17 
+t 
+: 41 19 
+: 54 19 
+: 41 21 
+: 56 19 
+: 41 23 
+: 59 19 
+: 41 25 
+f 
+-8 patternChiffreRomainOrdinal3-4
+: 61 1 60 1 
+: -12 3 46 2 
+: -13 3 
+t 
+f 
+-9 patternChiffreRomainOrdinal2
+: 67 2 40 1 
+: 67 3 
+: 58 7 57 5 55 6 54 5 53 4 
+: 66 8 65 8 64 8 63 8 62 8 52 9 47 8 7 8 
+: 40 10 
+: 53 4 
+: 40 11 
+: 40 12 
+: 51 14 41 13 
+: 63 8 62 8 47 8 
+: 66 15 65 15 64 15 63 15 62 15 52 16 47 15 7 15 
+: 66 17 65 17 64 17 63 17 62 17 52 18 47 17 7 17 
+: 66 19 65 19 64 19 63 19 62 19 52 20 47 19 7 19 
+t 
+: 41 13 
+: 51 22 41 21 
+: 63 15 62 15 47 15 
+: 51 24 41 23 
+: 63 17 62 17 47 17 
+: 51 26 41 25 
+: 63 19 62 19 47 19 
+: 54 13 
+: 41 21 
+: 56 13 
+: 41 23 
+: 59 13 
+: 41 25 
+f 
+-10 patternChiffreRomainMinuscule
+: -14 2 9 1 
+t -14 2 9 3 
+t 
+t -14 2 9 4 
+t -14 2 
+f 
+-11 patternRomain1-999
+: -15 3 69 2 68 1 
+t -15 3 69 4 
+t -15 3 69 6 68 5 45 5 
+t 
+t -15 3 69 6 
+t -15 3 
+t -15 3 69 5 
+f 
+-12 patternIemeBalises
+: 58 4 57 2 55 3 54 2 53 1 
+: -13 5 
+: 53 1 
+: -13 6 
+: -13 7 
+: 54 8 
+: 56 8 
+: 59 8 
+t 
+f 
+-13 patternIeme
+: 40 1 
+: 63 2 62 2 52 3 47 2 
+: 51 5 41 4 
+: 63 2 62 2 47 2 
+t 
+: 41 4 
+f 
+-14 patternRomainMinuscule1-999
+: -16 3 7 2 6 1 
+t -16 3 9 5 7 5 6 4 
+t -16 3 6 6 
+t 
+t -16 3 6 5 
+t -16 3 
+t -16 3 6 4 
+f 
+-15 patternRomain1-99
+: -17 3 70 2 32 1 
+t -17 3 70 5 69 5 32 4 
+t -17 3 32 6 
+t 
+t -17 3 32 5 
+t -17 3 
+t -17 3 32 4 
+f 
+-16 patternRomainMinuscule1-99
+: -18 3 71 2 8 1 
+t -18 3 71 4 
+t -18 3 71 6 8 5 6 5 
+t 
+t -18 3 71 6 
+t -18 3 
+t -18 3 71 5 
+f 
+-17 patternRomain1-9
+: 31 2 29 1 
+t 32 4 31 4 29 3 
+t 29 5 
+t 29 4 
+t 
+t 29 3 
+f 
+-18 patternRomainMinuscule1-9
+: 72 2 52 1 
+t 72 4 71 4 52 3 
+t 52 5 
+t 52 4 
+t 
+t 52 3 
+f 
+%<E>
+%<E>/${2}$
+%<E>/${1}$
+%<num+chiffre>
+%<E>/${3}$
+%'
+%c
+%d
+%l
+%m
+%CD
+%Ce
+%Ces
+%DC
+%De
+%Des
+%Le
+%Les
+%MME
+%MMES
+%me
+%mes
+%Vie
+%Vies
+%ci
+%cm
+%dix
+%mi
+%mm
+%I
+%MM
+%V
+%X
+%.
+%<WORD>
+%<E>/,.num+type="ordinal"+romain+grftoolNombreRomainMajuscule}
+%<E>/,.num+type="cardinal"+romain+grftoolNombreRomainMajuscule}
+%<E>/,.num+type="ordinal"+1a4+romain+grftoolNombreRomainMajuscule}
+%<E>/,.num+type="ordinal"+1a1+1a2+1a4+romain+grftoolNombreRomainMajuscule}
+%<E>/,.num+type="ordinal"+1a2+1a4+romain+grftoolNombreRomainMajuscule}
+%$<
+%$>
+%<E>/,.num+type="cardinal"+romain+grftoolNombreRomainMinuscule}
+@ 
+%#/{
+%M
+%#
+%e
+%er
+%ère
+%ere
+%s
+%i
+%<nomDhi>
+%<nomFhi>
+%<nomNSceDsup>
+%<nomNSceFsup>
+%<nomDFlb>
+%<nomDsc>
+%<nomFsc>
+%III
+%IV
+%ème
+%eme
+%nd
+%nde
+%de
+%II
+%D
+%C
+%L
+%x
+%v
+f

@@ -1,0 +1,29 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+9
+"<E>" 107 261 3 6 5 2 
+"" 716 261 0 
+"CNRS+INRA+INRIA+INSERM" 309 339 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 969 278 0 
+":patternMajMinTiret+<num+type=\"cardinal\"+chiffre>+<0>+<00>" 452 261 2 8 1 
+"URA+UMR" 221 191 2 4 7 
+"EA" 268 261 1 4 
+"CNRS+INRA+INRIA+INSERM" 321 147 1 4 
+"#" 533 150 1 4 

@@ -1,0 +1,92 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+72
+"<E>" 33 491 8 5 16 23 36 28 54 21 7 
+"" 1094 482 0 
+"hier+avant-hier+demain+après-demain/{" 538 268 1 3 
+":listPartieJournee" 696 268 1 47 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1426 315 0 
+":B" 96 820 1 14 
+"tantôt+maintenant+tout à l'heure+tout-à-l'heure/{" 495 550 1 52 
+"<E>" 118 797 1 8 
+"pour+en/{{" 260 797 1 9 
+":listLe+:listCe" 340 797 1 10 
+"<E>/,.w+type=\"preposition\"}" 423 797 1 19 
+"moment+instant+heure+minute+seconde" 593 797 2 13 53 
+":listNomDeTempsJourMoins" 693 482 1 18 
+"#-ci+#-là" 694 797 2 53 65 
+":patternPrepPoint" 277 873 2 17 19 
+"<E>" 793 873 1 31 
+":BB" 93 491 2 29 61 
+":tagTimePoint" 589 873 1 15 
+"<E>/,.w+type=\"noun\"}" 873 482 1 31 
+":B" 553 797 1 11 
+"à présent" 425 630 1 52 
+"<E>" 104 662 2 22 69 
+"à présent+tantôt+tout à l'heure+tout-à-l'heure+prochainement+tout de suite+bientôt/{{" 534 662 1 53 
+"<E>" 112 178 4 33 32 43 45 
+":listJusque" 180 232 1 44 
+"<E>/,.w+type=\"preposition\"}" 377 178 2 2 46 
+":listLe" 316 368 1 51 
+"matinée+après-midi+soirée+nuit/{" 549 368 1 40 
+"à partir de/{{" 149 583 1 30 
+":listJusque" 150 550 2 30 20 
+"<E>/,.w+type=\"preposition\"}" 327 550 1 6 
+"<E>/,.time+type=\"adverb\"+quaero=\"rel\"+grftimeAdverbeTempsHeure}" 1026 482 1 1 
+"dès/{{" 190 178 1 25 
+"à partir/{{" 176 132 1 34 
+":listDe" 247 132 1 25 
+"aujourd'hui+hier+avant-hier+demain+après-demain" 703 368 1 60 
+"<E>" 100 368 2 49 50 
+"dès/{{" 232 335 1 26 
+"à partir/{{" 170 303 1 39 
+":listDeLe" 278 303 1 51 
+":listDe" 638 368 1 35 
+":B" 644 482 1 12 
+":listDIci" 190 267 1 44 
+":BB" 138 232 2 24 42 
+"<E>" 276 232 1 25 
+"<E>" 158 77 1 56 
+"aujourd'hui/{" 549 178 1 55 
+"<E>/,.w+type=\"adverb\"}" 902 229 1 31 
+":listDIci+:listJusque" 205 393 1 26 
+":BB" 134 368 2 48 26 
+"<E>" 121 335 2 37 38 
+"<E>/,.w+type=\"preposition\"}" 369 368 1 27 
+"<E>" 617 550 1 53 
+"<E>/,.w+type=\"adverb\"}" 840 550 1 31 
+"dès/{{" 150 630 2 30 20 
+"midi+tantôt" 786 178 1 47 
+"<E>" 347 77 2 58 57 
+"hier+avant-hier+demain+après-demain/{{" 639 77 1 59 
+"aujourd'hui/{{" 540 130 1 55 
+":listPartieJournee" 766 77 1 47 
+"<E>/,.w+type=\"noun\"}" 817 368 1 31 
+":listTot" 189 482 3 62 63 52 
+"dans" 303 447 1 63 
+":listLe+:listCe" 404 482 1 64 
+"<E>/,.w+type=\"preposition\"}" 481 482 1 41 
+"<E>/,.w+type=\"noun\"}" 766 797 1 31 
+"<DET>+<PRO>" 230 752 1 70 
+"maintenant/{{" 444 752 1 71 
+"<TOKEN>" 332 752 1 67 
+"$![" 190 752 1 66 
+"$]" 306 752 1 68 
+"<E>" 637 727 1 53 

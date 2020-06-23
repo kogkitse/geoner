@@ -1,0 +1,61 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+41
+"<E>" 33 761 5 26 13 21 6 31 
+"" 1055 280 0 
+"hier+avant-hier+aujourd'hui+demain+après-demain/{" 576 280 1 5 
+"<E>/,.date+type=\"adverb\"+quaero=\"rel\"+grftimeAdverbeTempsJours}" 1005 280 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1074 132 0 
+"<E>/,.w+type=\"adverb\"}" 768 280 1 3 
+":BB" 109 761 1 7 
+":listTot" 208 761 2 8 9 
+"dans" 277 718 1 9 
+":listLe+:listCe" 339 761 1 11 
+":listNomDeTempsJourPlusSing" 613 761 1 12 
+"<E>/,.w+type=\"preposition\"}" 416 761 1 16 
+"<E>/,.w+type=\"noun\"}" 831 761 1 3 
+"<E>" 171 280 4 14 18 27 35 
+"dès+depuis/{{" 227 280 1 15 
+"<E>/,.w+type=\"preposition\"}" 397 280 1 2 
+":B" 563 761 1 10 
+":listDIci+:listJusque" 283 221 1 15 
+"à partir/{{" 235 338 1 19 
+":listDe" 305 338 1 15 
+"la journée/{" 439 596 1 25 
+"<E>" 180 618 2 24 30 
+":listJusque+:listDIci" 257 664 1 23 
+"<E>/,.w+type=\"preposition\"}" 406 618 1 20 
+"dès+à partir de+dans/{{" 266 594 1 23 
+":listDe" 530 596 1 28 
+"quotidiennement+antan+jadis+auparavant+autrefois+depuis toujours+pour toujours+depuis la nuit des temps+actuellement+depuis longtemps+depuis très longtemps/{" 62 111 1 33 
+":BB" 224 221 1 17 
+"hier+avant-hier+demain+avant hier+après-demain+aujourd'hui" 592 596 1 29 
+"<E>/,.w+type=\"noun\"}" 696 596 1 3 
+":BB" 214 664 1 22 
+"<E>" 168 544 2 32 39 
+"la journée/{{" 413 544 1 25 
+"<E>" 628 111 1 3 
+"hier+avant-hier+aujourd'hui+demain+après-demain/{" 466 181 1 33 
+"<E>" 225 181 1 34 
+"au jour d'aujourd'hui+à l'heure actuelle" 443 383 1 40 
+"jusqu'/{" 370 383 1 36 
+"au jour d'aujourd'hui+à l'heure actuelle/{" 405 450 1 40 
+"<E>" 287 450 2 37 38 
+"<E>" 651 450 1 3 

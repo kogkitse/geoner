@@ -1,0 +1,67 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+47
+"<E>" 84 410 4 4 13 15 26 
+"" 1556 410 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 31 148 0 
+"<E>/,.geogFeat+kind}" 379 303 2 10 38 
+"<mer>+<océan>/{" 217 410 2 3 33 
+"<N+Toponyme+Hydronyme>+<A+Toponyme>/{" 583 303 1 6 
+"<E>/,.geogName+type=\"sea\"+grfgeogMer}" 865 303 1 1 
+"<E>/${1}$" 535 349 1 32 
+":patternMajMinTiret" 637 349 1 6 
+"<E>/${2}$" 528 303 1 5 
+"<E>" 478 303 2 9 7 
+":patternMajMinTiret" 442 197 2 12 14 
+"#'s+#-#" 617 150 1 14 
+":B" 406 197 1 11 
+"sea+ocean" 690 197 1 6 
+":tagACoteHydronyme" 123 548 2 27 34 
+":listDeLe" 328 516 1 17 
+"<E>" 399 548 2 23 25 
+"<N+Toponyme+Hydronyme>+<A+Toponyme>/{" 1013 548 1 19 
+"<E>/,.geogName+type=\"sea\"+grfgeogMer}" 1380 548 1 1 
+"<E>/${1}$" 981 493 1 24 
+":patternMajMinTiret" 1083 493 3 19 45 46 
+"<E>/${2}$" 958 548 1 18 
+"<E>" 908 548 2 22 20 
+":B" 1033 493 1 21 
+"<mer>+<océan>/{" 488 660 2 37 39 
+":tagACoteHydronymeAmbigu" 109 660 1 30 
+"<E>" 304 548 2 17 16 
+":listDeLe" 328 604 1 29 
+"<E>" 399 660 1 25 
+"<E>" 304 660 2 29 28 
+"<E>" 1287 726 1 1 
+":B" 588 349 1 8 
+"<E>/,.geogFeat+type=\"sea\"+grfgeogMer}" 423 410 1 36 
+"<E>" 320 453 1 35 
+"<E>" 764 453 1 36 
+"<E>" 854 410 1 1 
+"<E>/,.geogFeat+type=\"sea\"+grfgeogMer}" 612 726 1 31 
+":listDeLe" 411 262 1 10 
+"<E>/,.geogFeat+kind}" 569 662 2 41 40 
+":tagDemonym" 604 612 1 41 
+"<E>" 708 662 1 44 
+":listDeLe" 775 605 1 43 
+"<E>" 846 662 1 23 
+"<E>" 751 662 2 43 42 
+"#'s+#-#" 1249 447 1 46 
+"sea+ocean" 1312 493 1 19 

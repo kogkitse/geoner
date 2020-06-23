@@ -1,0 +1,122 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+102
+"<E>" 28 434 6 3 2 15 14 23 61 
+"" 1598 267 0 
+"à partir/{{" 53 46 1 13 
+":B" 81 433 1 11 
+"<E>" 464 123 2 84 86 
+"<E>/,.datePeriod+quaero=\"rel\"+grftimeNumONtpsDatePeriode}" 1319 267 2 1 93 
+"<E>/,.date+quaero=\"rel\"}" 1182 267 1 5 
+"et" 921 246 1 32 
+":listEtOu" 823 450 2 32 78 
+"<E>/,.w+type=\"preposition\"}" 133 123 1 90 
+":tagTimeDet" 273 88 1 16 
+"<E>" 112 433 4 30 28 36 29 
+"------------------------------------------------------------------+Licence LGPL-LR+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+------------------------------------------------------------------" 1299 594 0 
+":listDe" 120 46 1 9 
+":BB" 84 168 1 58 
+"depuis/{{" 65 123 1 9 
+"<E>" 357 123 2 17 4 
+":tagDebutFin" 378 90 1 4 
+":listLe" 199 82 1 19 
+"<E>" 250 123 2 16 10 
+"<E>/,.date+quaero=\"rel\"}" 937 123 1 99 
+"<E>/,.w+type=\"preposition\"}" 127 246 1 91 
+":tagTimeDet" 250 209 1 24 
+"entre/{{" 80 246 1 21 
+"<E>" 334 246 2 25 43 
+":tagDebutFin" 355 211 1 43 
+":listLe" 176 203 1 27 
+"<E>" 227 246 2 24 22 
+":tagTimeDet" 172 385 2 29 37 
+":tagDebutFin" 260 433 1 37 
+":listLe" 127 330 2 28 37 
+":tagDeNtps" 1105 267 1 6 
+"<E>" 881 385 3 34 35 79 
+":tagDebutFin" 994 347 1 79 
+":listLe" 914 351 1 35 
+"<E>" 967 364 2 33 79 
+":listLe" 160 471 1 29 
+"<E>" 350 385 2 46 60 
+":listAn+:listNomDeTempsPeriode" 712 81 1 41 
+"<E>" 643 123 2 20 40 
+":B" 679 81 1 38 
+"<E>/,.w+type=\"noun\"}" 873 82 1 20 
+":listDeLe" 1308 385 1 56 
+"<E>" 441 246 2 87 89 
+"<E>/,.date+quaero=\"rel\"}" 882 246 1 7 
+"<E>" 630 246 2 44 50 
+"<ordinal+lettre~1a1>+<ordinal+chiffre>/{" 379 385 1 48 
+"<E>/,.date+quaero=\"rel\"}" 803 385 1 8 
+"<E>" 527 385 2 47 53 
+":listAn+:listNomDeTempsPeriode" 688 193 1 51 
+":B" 653 193 1 49 
+"<E>/,.w+type=\"noun\"}" 849 194 1 44 
+":listAn+:listNomDeTempsPeriode" 592 348 1 54 
+":B" 551 348 1 52 
+"<E>/,.w+type=\"noun\"}" 753 349 1 47 
+":listAn+:listNomDeTempsPeriode" 1415 385 1 57 
+":B" 1382 385 1 55 
+"<E>/,.w+type=\"noun\"}" 1574 386 1 31 
+":listDe" 124 168 1 9 
+":listDernier" 412 339 1 48 
+":B" 378 339 1 59 
+"<E>" 121 556 2 62 65 
+"<ordinal+lettre~1a1>+<ordinal+chiffre>/{{" 150 556 1 63 
+"<E>" 389 556 1 48 
+":listDernier" 192 510 1 63 
+":BB" 149 510 1 64 
+"<E>" 626 539 2 67 74 
+"<ordinal+lettre~1a1>+<ordinal+chiffre>/{" 655 539 1 69 
+"<E>/,.date+quaero=\"rel\"}" 1079 539 1 8 
+"<E>" 803 539 2 68 71 
+":listAn+:listNomDeTempsPeriode" 884 602 1 72 
+":B" 843 602 1 70 
+"<E>/,.w+type=\"noun\"}" 1045 603 1 68 
+":listDernier" 689 613 1 69 
+":B" 655 613 1 73 
+":tagDebutFin" 565 469 1 66 
+":listLe" 485 473 1 77 
+"<E>" 538 486 2 75 66 
+"<E>" 450 539 3 66 76 77 
+"<E>" 1093 385 2 80 83 
+"<ordinal+lettre~1a1>+<ordinal+chiffre>/{" 1122 385 1 81 
+"<E>" 1270 385 1 42 
+":listDernier" 1156 459 1 81 
+":B" 1122 459 1 82 
+"<ordinal+lettre~1a1>+<ordinal+chiffre>/{" 494 123 1 39 
+":listDernier" 532 74 1 39 
+":B" 498 74 1 85 
+"<ordinal+lettre~1a1>+<ordinal+chiffre>/{" 483 246 1 45 
+":listDernier" 529 199 1 45 
+":B" 495 199 1 88 
+"<E>" 165 123 2 18 19 
+"<E>" 152 246 2 26 27 
+":listPredeterminant" 1410 210 1 94 
+":B" 1372 210 1 92 
+"<E>/,.postInclude+quaero=\"time-modifier\"}" 1537 210 1 1 
+":listA" 1128 123 1 96 
+"<E>/,.w+type=\"preposition\"}" 1222 123 1 32 
+":B" 1060 123 2 95 100 
+"et" 1028 82 1 101 
+"<E>" 985 123 2 98 97 
+":listJusque" 1120 82 1 96 
+":B" 1077 82 1 100 

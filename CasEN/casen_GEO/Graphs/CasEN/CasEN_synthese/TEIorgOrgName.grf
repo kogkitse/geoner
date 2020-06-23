@@ -1,0 +1,57 @@
+#Unigraph
+SIZE 1887 876
+FONT Times New Roman:  12
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+37
+"<E>" 62 364 2 4 26 
+"" 1366 490 0 
+"/L'<orgName><org type=\"company\">entreprise</org> Duduche</orgName> a acheté une autre <org type=\"company\">entreprise</org>." 251 23 0 
+"/L'<orgName>entreprise Durant</orgName> a été rachetée par une autre entreprise" 258 63 0 
+"\<_orgName\>\<_org" 115 364 2 7 9 
+"\>" 334 316 1 8 
+"<TOKEN>" 470 316 2 7 9 
+"$![" 284 316 1 5 
+"$]" 390 316 1 6 
+"\>" 626 364 1 14 
+"\<\/_org\>" 759 364 1 13 
+"<TOKEN>" 935 364 2 12 15 
+"$![" 715 364 1 10 
+"$]" 855 364 1 11 
+"$org(" 675 364 1 12 
+"$org)" 1091 364 1 24 
+"\<\/_orgName\>" 358 490 1 19 
+"<TOKEN>" 543 490 2 18 21 
+"$![" 323 490 1 16 
+"$]" 487 490 1 17 
+"$name(" 283 490 1 18 
+"$name)" 699 490 1 22 
+"\<\/_orgName\>" 781 490 1 23 
+"<E>/<_org>$org$ <_orgName>$name$</_orgName></_org>" 1025 490 1 1 
+"\<\/_org\>" 1141 364 1 35 
+"<E>/<_orgName>" 1121 188 1 1 
+"\<_orgName type=" 132 188 1 29 
+"\>" 339 188 1 30 
+"<TOKEN>" 513 188 2 29 31 
+"$![" 289 188 1 27 
+"$]" 433 188 1 28 
+"\>" 637 188 1 25 
+"/<orgName type=\"local\">INSERM</orgName>" 339 241 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1312 112 0 
+"/<orgName>ex-<orgName>république soviétique</orgName> d'Asie centrale</orgName>" 264 93 0 
+"<E>" 250 421 1 20 
+"/L'<orgName><org type=\"company\">ONG</org> Human Rights Watch</orgName>" 309 129 0 

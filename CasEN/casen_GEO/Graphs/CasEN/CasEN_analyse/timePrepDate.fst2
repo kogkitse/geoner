@@ -1,0 +1,294 @@
+0000000019
+-1 timePrepDate
+: -3 3 -6 2 3 1 1 1 
+t -3 4 
+: 1 1 
+: -2 7 -4 6 -5 5 
+: -2 8 
+: 4 9 
+: -5 5 4 9 
+: 4 10 
+: 2 11 
+: -6 2 1 1 
+: -3 12 -6 2 3 1 1 1 
+t 
+: -4 6 -5 5 
+f 
+-2 listPredeterminant
+: 34 5 33 10 32 5 31 5 30 5 27 9 25 8 24 7 23 5 22 5 21 5 20 5 19 5 17 6 16 5 15 4 13 3 11 2 5 1 
+: 10 5 9 5 8 5 7 5 6 5 
+: 12 5 
+: 14 5 
+: 7 5 
+t 
+: 18 5 12 5 
+: 12 11 
+: 36 13 35 5 12 12 
+: 28 14 
+: 28 15 23 5 
+: 25 16 
+: 37 5 
+: 31 5 
+: 29 5 
+: 23 5 
+: 26 5 
+f 
+-3 B
+: 39 2 38 1 
+: 39 2 
+t 
+f 
+-4 patternPrepDate
+: -7 7 -8 7 -9 8 -10 8 -11 7 -12 7 -15 6 54 2 47 2 46 2 45 5 44 2 43 2 42 2 41 2 40 2 25 4 13 2 12 3 11 2 5 1 
+: 52 9 51 9 50 9 49 9 48 9 
+t -13 7 -14 7 
+: 5 10 
+: 55 11 53 9 
+t -11 7 -12 7 -13 7 -14 7 
+: 54 2 11 2 
+t 
+t -11 7 -12 7 -13 7 
+: -7 7 -8 7 
+: 52 9 
+: 56 12 
+: 57 13 
+t -7 7 -8 7 
+f 
+-5 patternDeterminant
+: -2 4 -16 3 -17 2 -18 1 
+t -2 3 
+: -7 3 -8 3 
+t 
+t -16 3 -17 2 -18 1 
+f 
+-6 tagDebutFin
+: 74 5 73 4 71 1 70 1 69 1 68 1 67 1 66 2 65 2 64 2 63 2 62 2 60 3 59 2 58 2 14 1 
+: 74 5 73 4 66 2 65 2 64 2 63 2 62 2 60 3 59 2 58 2 
+: 72 6 
+: 61 2 
+: 28 5 
+: 72 7 
+t -7 7 -8 7 
+t 
+f 
+-7 listDe
+: 77 2 76 1 75 1 15 1 
+t 
+: 56 1 
+f 
+-8 listDeLe
+: 77 3 76 1 75 2 15 1 
+t 
+t 68 1 55 3 
+: 56 1 
+f 
+-9 listJusque
+: 79 2 78 1 
+: 56 3 
+t 
+t -12 2 -19 2 
+f 
+-10 listDIci
+: 77 1 
+: 56 2 
+: 80 3 
+t -19 4 
+t 
+f 
+-11 listALe
+: 81 1 25 2 5 1 
+t 
+t 68 1 55 3 
+: 56 1 
+f 
+-12 listEnLe
+: 17 1 
+t 68 2 55 3 14 2 
+t 
+: 56 2 
+f 
+-13 listLe
+: 68 1 67 1 55 2 14 1 
+t 
+: 56 1 
+f 
+-14 listCe
+: 82 1 71 1 70 1 69 1 
+t 
+f 
+-15 listPeu
+: 91 3 90 3 83 2 36 1 
+t 75 4 
+: 88 7 87 7 86 7 85 7 84 6 36 1 12 5 
+: 36 1 
+: 89 7 
+: 84 6 
+: 88 7 87 7 86 7 85 7 36 1 
+t 
+f 
+-16 listDeterminantAdjectival
+: -13 5 -14 5 100 4 97 3 96 2 95 2 94 2 93 2 92 2 19 1 
+: 95 2 
+t 
+: 56 6 
+: -13 2 -14 2 
+: 104 2 103 2 102 2 101 2 
+: 98 7 
+: 99 2 
+f 
+-17 listDeterminantNominal
+: -15 10 123 10 120 1 113 9 112 1 111 1 110 1 108 1 106 1 105 1 95 8 83 7 81 6 68 5 67 4 55 3 36 1 31 1 24 2 10 1 7 1 
+t 
+: 109 1 
+: 56 11 
+: 119 1 36 1 18 1 10 12 
+: 122 1 117 1 
+: 107 1 
+: 115 1 
+: 28 13 
+: 116 1 114 1 
+t 10 1 7 1 
+: 83 1 
+: 118 1 
+: 121 1 
+f 
+-18 listDeterminantAdverbial
+: 130 1 129 1 128 1 127 1 126 1 125 1 124 1 32 1 22 1 
+t 
+f 
+-19 listA
+: 81 1 25 1 5 1 
+t 
+f 
+%<E>
+%<date~type=\"adverb\">
+%<E>/,.postInclude+quaero="time-modifier"+grftimePrepDate}
+%<date+type=\"adverb\">
+%<E>/,.preInclude+quaero="time-modifier"+grftimePrepDate}
+%au
+%mieux
+%moins
+%pire
+%pis
+%plus
+%avant
+%tout
+%dans
+%les
+%du
+%déjà
+%en
+%gros
+%encore
+%ensuite
+%environ
+%exactement
+%même
+%pas
+%à
+%fait
+%peut
+%-
+%être
+%presque
+%près
+%précisément
+%quand
+%surtout
+%peine
+%peu
+%casser
+@ 
+%#/{
+%depuis
+%durant
+%dès
+%pendant
+%pour
+%sauf
+%sur
+%vers
+%bout
+%coeur
+%cours
+%creux
+%long
+%partir
+%après
+%l
+%'
+%horizon
+%<courant>/{
+%<début>/{
+%déb/{
+%.
+%<orée>/{
+%<fin>/{
+%<milieu>/{
+%<moitié>/{
+%<cours>/{
+%le
+%la
+%ce
+%cette
+%ces
+%<E>/,.offset}
+%mi/{
+%<plein>/{
+%de
+%des
+%d
+%jusqu
+%jusque
+%ici
+%aux
+%cet
+%un
+%petit
+%chouia
+%poil
+%instant
+%moment
+%temps
+%très
+%infiniment
+%<certain>
+%chaque
+%plusieurs
+%quelques
+%quelque
+%n
+%importe
+%<quel>
+%<tous>
+%<seul>
+%<autre>
+%<même>
+%<dernier>
+%autant
+%autour
+%alentours
+%davantage
+%mal
+%assez
+%trop
+%tant
+%une
+%moitié
+%nombre
+%partie
+%plupart
+%clair
+%millier
+%chacun
+%uns
+%période
+%beaucoup
+%approximativement
+%pratiquement
+%seulement
+%simplement
+%uniquement
+%sûrement
+%certainement
+f

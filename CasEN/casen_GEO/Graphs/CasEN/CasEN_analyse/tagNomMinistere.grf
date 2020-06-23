@@ -1,0 +1,26 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+6
+"<E>" 74 365 1 2 
+"" 544 365 0 
+"Affaires étrangères+Affaires européennes+Affaires sociales+Agriculture+Aménagement du territoire+Budget+Chasse+Co-développement+Codéveloppement+Collectivités territoriales+Commerce+Commerce extérieur+Communication+Comptes+Comptes publics+Coopération+Culture+Défense+Développement+Développement durable+DOM-TOM+Écologie+Économie+Éducation nationale+Éducation publique+Emploi+Énergie+Énergie atomique+Enseignement public+Enseignement supérieur+Environnement+Famille+Finances+Francophonie+Guerre+Identité nationale+Immigration+Industrie+Instruction publique+Intégration+Intérieur+Jeunesse+Justice+Logement+Marine+Outre-mer+Pétrole+Pêche+Recherche+Relations sociales+Santé+Sécurité sociale+Service publique+Solidarité+Sports+Travail+Ville/{" 237 365 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 723 89 0 
+"<E>/,.w+type=\"noun\"+name+grftagNomMinistere}" 485 365 1 1 
+"intérieur trop ambigu pour qu'il soit mis dans listnomministereorgadm qui est utilisé ailleurs" 561 187 0 

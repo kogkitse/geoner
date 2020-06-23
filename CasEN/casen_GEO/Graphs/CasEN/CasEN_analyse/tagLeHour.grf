@@ -1,0 +1,49 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 13395456
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+29
+"<E>" 204 371 6 24 22 11 19 15 23 
+"" 1452 374 0 
+":listNomDeTempsJourMoins" 767 374 1 10 
+"<E>" 1397 374 1 1 
+"<E>" 981 374 2 6 5 
+"<complet>+<entier>/{" 1026 322 1 8 
+"<E>" 1177 374 2 3 7 
+":tagAffilee" 1238 301 1 3 
+"<E>/,.w+type=\"adjective\"}" 1114 322 1 6 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 932 143 0 
+"<E>/,.w+type=\"noun\"}" 949 374 1 4 
+"chaque+tout+<quel>+<certain>+<tel>+même+<plein>/{" 395 371 1 17 
+"<E>" 643 374 3 13 14 27 
+"<moment>+<instant>/{" 791 462 1 10 
+":B" 707 374 1 2 
+"<tout>/{" 293 188 1 16 
+":listLe" 361 188 2 17 18 
+"<E>/,.w+type=\"adjective\"}" 592 240 1 12 
+"<même>+:patternAdjectif" 474 170 1 17 
+":B" 305 256 1 20 
+":listLe" 349 256 1 21 
+"<même>+:patternAdjectif" 439 256 1 17 
+":listLe" 410 520 1 12 
+":tagApproximatif" 396 293 1 12 
+"un+une/{" 299 565 1 25 
+"<E>/,.quaero=\"extractor\"}" 339 564 1 26 
+"des+de ces" 519 564 1 12 
+"heure" 785 553 1 28 
+"matinale+tardive" 953 556 1 3 

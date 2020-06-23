@@ -1,0 +1,77 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+57
+"<E>" 42 409 6 3 15 24 54 55 56 
+"" 1087 409 0 
+"<E>/,.gDay}" 422 126 2 8 48 
+"<num+type=\"ordinal\"+1a1+lettre>+<num+1a29+lettre>/{" 183 126 1 2 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 944 95 0 
+"février/{" 566 126 1 31 
+"avril+juin+septembre+novembre/{" 707 409 1 7 
+"<E>/,.gMonth}" 1039 409 1 1 
+"-" 479 91 1 48 
+"<E>" 513 409 3 6 12 39 
+"<nomFhi>" 715 300 1 31 
+"bre" 674 300 1 10 
+"7+9/{" 544 300 3 13 27 28 
+"<nomDhi>" 587 300 1 11 
+"<E>/,.gDay}" 371 409 2 16 9 
+"<num+type=\"ordinal\"+1a1+lettre>+<num+1a30+lettre>/{" 134 409 1 14 
+"-" 460 365 1 9 
+"janvier+mars+mai+juillet+août+aout+octobre+décembre/{" 617 715 1 36 
+"<E>" 529 715 3 17 21 40 
+"<nomFhi>" 739 591 1 36 
+"bre" 698 591 1 19 
+"8+<10>/{" 554 591 3 22 32 35 
+"<nomDhi>" 611 591 1 20 
+"<E>/,.gDay}" 387 715 2 25 18 
+"<num+type=\"ordinal\"+1a1+lettre>+<num+1a31+lettre>/{" 136 715 1 23 
+"-" 462 662 1 18 
+"/Le tiret pour les adresses: rue du 11-novembre" 186 837 0 
+"bre" 641 257 1 31 
+"<nomNSceDsup>" 575 338 1 29 
+"bre" 716 338 1 30 
+"<nomNSceFsup>" 764 338 1 31 
+"<E>" 910 300 1 7 
+"<nomNSceDsup>" 611 554 1 33 
+"bre" 752 554 1 34 
+"<nomNSceFsup>" 800 554 1 36 
+"bre" 636 632 1 36 
+"<E>" 930 591 1 7 
+"jan+janv+mar+jul+aoû+aou+oct+déc+dec/{" 698 799 2 36 38 
+"." 791 799 2 36 42 
+"avr+jun+sep+nov/{" 666 463 2 7 44 
+"<E>" 600 799 1 37 
+"\<\/s\>" 878 799 1 43 
+"$![" 838 799 1 41 
+"$]" 946 799 1 7 
+"." 757 488 1 46 
+"\<\/s\>" 844 488 1 47 
+"$![" 804 488 1 45 
+"$]" 912 488 1 7 
+"<E>" 521 126 2 5 49 
+"fév+fev/{" 572 70 2 50 31 
+"." 644 70 1 52 
+"\<\/s\>" 731 70 1 53 
+"$![" 691 70 1 51 
+"$]" 799 70 1 31 
+"<extent+type=\"ordinal\"+1a1+lettre>+<extent+1a29+lettre>/{" 180 194 1 2 
+"<extent+type=\"ordinal\"+1a1+lettre>+<extent+1a30+lettre>/{" 125 469 1 14 
+"<extent+type=\"ordinal\"+1a1+lettre>+<extent+1a31+lettre>/{" 112 783 1 23 

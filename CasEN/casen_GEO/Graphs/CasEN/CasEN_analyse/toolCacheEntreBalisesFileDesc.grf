@@ -1,0 +1,118 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+98
+"<E>" 84 472 12 2 8 14 22 28 53 57 65 71 81 89 97 
+"" 1439 472 0 
+"<Xml+Begin+name=publisher>" 292 472 1 37 
+"<Xml+End+name=publisher>" 593 472 1 6 
+"<TOKEN>" 836 472 2 5 42 
+"$![" 550 472 1 3 
+"$]" 776 472 1 4 
+"<Xml+End+name=publisher>" 1006 472 1 1 
+"<Xml+Begin+name=pubPlace>" 303 602 1 38 
+"<Xml+End+name=pubPlace>" 588 602 1 12 
+"<TOKEN>" 820 602 2 11 43 
+"$![" 545 602 1 9 
+"$]" 781 602 1 10 
+"<Xml+End+name=pubPlace>" 990 602 1 1 
+"<Xml+Begin+name=availability>" 269 659 1 39 
+"<Xml+End+name=availability>" 561 659 1 18 
+"<TOKEN>" 817 659 2 17 44 
+"$![" 518 659 1 15 
+"$]" 748 659 1 16 
+"<Xml+End+name=availability>" 987 659 1 1 
+"<Xml+Begin+name=affiliation>+<Xml+Begin+name=note>+<Xml+Begin+name=title>/{" 409 53 1 34 
+"<Xml+End+name=affiliation>+<Xml+End+name=note>+<Xml+End+name=title>/{" 435 130 1 36 
+"<Xml+Begin+name=idno>" 292 769 1 40 
+"<Xml+End+name=idno>" 576 769 1 26 
+"<TOKEN>" 832 769 2 25 45 
+"$![" 533 769 1 23 
+"$]" 775 769 1 24 
+"<Xml+End+name=idno>" 979 769 1 1 
+"<Xml+Begin+name=biblScope>" 297 824 1 41 
+"<Xml+End+name=biblScope>" 581 824 1 32 
+"<TOKEN>" 837 824 2 31 46 
+"$![" 538 824 1 29 
+"$]" 780 824 1 30 
+"<Xml+End+name=biblScope>" 984 824 1 1 
+"<E>/,.cacheBalise+debut+grftoolCacheEntreBalisesFileDesc}" 1220 53 1 1 
+"/cette balise peut etre trop grosse" 1434 34 0 
+"<E>/,.cacheBalise+fin+grftoolCacheEntreBalisesFileDesc}" 1188 130 1 1 
+":B" 501 472 1 5 
+":B" 492 602 1 11 
+":B" 473 659 1 17 
+":B" 466 769 1 25 
+":B" 485 824 1 31 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 939 472 1 7 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 923 602 1 13 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 928 659 1 19 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 948 769 1 27 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 938 824 1 33 
+":B" 449 711 1 51 
+"$]" 713 711 1 50 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 918 711 1 54 
+"<TOKEN>" 804 711 2 51 49 
+"$![" 505 711 1 52 
+"<Xml+End+name=email>" 548 711 1 48 
+"<Xml+Begin+name=email>" 272 711 1 47 
+"<Xml+End+name=email>" 1027 711 1 1 
+"/addrLine+affiliation+availability+biblScope+date+editor+email+forename+idno+note+publisher+pubPlace+surname+title" 50 162 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1511 583 0 
+"<Xml+Begin+name=editor>" 284 196 1 63 
+"<Xml+End+name=editor>" 565 196 1 61 
+"<TOKEN>" 821 196 2 60 64 
+"$![" 522 196 1 58 
+"$]" 764 196 1 59 
+"<Xml+End+name=editor>" 1041 196 1 1 
+":B" 471 196 1 60 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 946 196 1 62 
+"<Xml+Begin+name=surname>" 270 253 1 77 
+"<Xml+End+name=surname>" 568 253 1 69 
+"<TOKEN>" 824 253 2 68 79 
+"$![" 525 253 1 66 
+"$]" 757 253 1 67 
+"<Xml+End+name=surname>" 1064 253 1 1 
+"<Xml+Begin+name=forename>" 264 335 1 78 
+"<Xml+End+name=forename>" 569 335 1 75 
+"<TOKEN>" 825 335 2 74 80 
+"$![" 526 335 1 72 
+"$]" 768 335 1 73 
+"<Xml+End+name=forename>" 1045 335 1 1 
+":B" 474 253 1 68 
+":B" 475 335 1 74 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 958 253 1 70 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 950 335 1 76 
+"<Xml+Begin+name=addrLine>" 291 413 1 87 
+"<Xml+End+name=addrLine>" 572 413 1 85 
+"<TOKEN>" 828 413 2 84 88 
+"$![" 529 413 1 82 
+"$]" 771 413 1 83 
+"<Xml+End+name=addrLine>" 1048 413 1 1 
+":B" 478 413 1 84 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesListBibl}" 953 413 1 86 
+"<Xml+Begin+name=date>" 282 538 1 95 
+"<Xml+End+name=date>" 567 538 1 93 
+"<TOKEN>" 799 538 2 92 96 
+"$![" 524 538 1 90 
+"$]" 760 538 1 91 
+"<Xml+End+name=date>" 1026 538 1 1 
+":B" 471 538 1 92 
+"<E>/,.cacheBalise+grftoolCacheEntreBalisesFileDesc}" 902 538 1 94 
+"<E>" 287 130 2 20 21 

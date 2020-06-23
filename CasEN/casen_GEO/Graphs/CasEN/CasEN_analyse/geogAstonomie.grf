@@ -1,0 +1,39 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+19
+"<E>" 65 258 2 12 3 
+"" 1381 381 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1110 118 0 
+"<planète>+étoile+astre+comète+astéroïde+météorite+supernova+nébuleuse/{" 256 258 1 15 
+"<E>/,.geogFeat+kind}" 570 258 2 16 17 
+"<E>/,.geogName+type=\"astronomy\"+grfgeogAstonomie}" 1225 258 1 1 
+"<N+Astronyme>/{{" 859 192 1 9 
+":BB" 830 258 1 8 
+":patternNomMixte" 915 258 1 9 
+"<E>/,.w+type=\"noun\"+name}" 1050 258 1 5 
+"<E>/${0}$" 777 258 1 7 
+"<E>/${1}$" 769 192 1 6 
+"<ceinture>+<nuage>/{" 173 396 1 13 
+":listDe" 273 396 1 14 
+"comètes+astéroïdes+météorites" 356 396 1 15 
+"<E>" 507 258 2 4 18 
+"<E>" 701 258 2 10 11 
+":listDeLe" 621 204 1 16 
+"<E>/,.geogFeat+type=\"astronomy\"+grfgeogAstonomie}" 609 381 1 1 

@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 270 426 1 3 
+"" 790 426 0 
+"un quart+et quart+et un quart+1\/4+¼+et 1\/4+et ¼/15" 487 260 1 4 
+"<E>" 323 426 4 2 5 8 7 
+"<E>" 726 426 1 1 
+"et demi+et demie+et ½+½/30" 492 426 1 4 
+" le quart+quart+un quart+¼" 541 511 1 4 
+"moins/-15" 453 511 1 6 
+"trois quarts+3\/4+¾/45" 475 639 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 116 204 0 

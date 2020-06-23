@@ -1,0 +1,30 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+10
+"<E>" 114 308 2 5 3 
+"" 628 308 0 
+"<E>/,.w+type=\"noun\"+quaero=\"kind\"}" 555 308 1 1 
+"<building>+<bungalow>+<bâtiment>+<chalet>+<chaumière>+demeures+<gentilhommière>+<hôtel> <particulier,.A:m>+<immeuble>+<logement>+<maison>+<maisonnette>+<manoir>+<pavillon>+<résidence>+<villa>+gratte-ciel+logis+mas/{" 238 308 1 2 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 720 105 0 
+"<DET:f>" 175 102 3 6 7 8 
+"demeure+<tour>/{" 430 102 1 2 
+"<A:f>" 352 48 1 6 
+"<ADV>" 260 48 2 7 8 
+"/domaine, propriété ambigüs" 321 524 0 

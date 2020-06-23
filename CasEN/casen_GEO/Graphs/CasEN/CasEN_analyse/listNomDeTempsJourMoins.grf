@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 100 306 2 3 6 
+"" 750 306 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 663 126 0 
+"demi+demie" 294 460 2 4 5 
+"<journée>+<heure>" 565 460 1 1 
+"-" 446 482 1 4 
+"<matin>+<après-midi>+<tantôt>+<soir>+<matinée>+<soirée>+<nuit>+<heure>+<minute>+secondes+moment+instant" 413 306 1 1 
+"/seconde est ambigü" 361 103 0 

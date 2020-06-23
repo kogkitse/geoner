@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 48 109 2 3 9 
+"" 1080 109 0 
+"/On essaie de taguer un paragraphe entier.+Une fois le paragraphe est tagué, ça devient un token pour le graphe qui suit dans la cascade.+Mais, puisque la taille du token est très grande on pense que Tokenize n'arrive pas à trouver la fin du token (ou bien l'accolade fermante) et il plante.++Dans Token.h on a la taille limite d’un token+#define MAX_TAG_LENGTH 4000+Qui provoque l’arret (ligne 623/626 de Token.h)+Dans l’absolu on peut toujours augmenter cette constante (mais jusqu’à combien) ?" 54 333 0 
+"<cacheBalise+debut>/" 114 109 1 10 
+"<cacheBalise+fin>" 878 109 1 1 
+"<E>/,.cacheBalise+complet+grftoolCacheEntreGrosseBalise}" 739 109 1 4 
+":toolIgnoreCache/$[1,80]$" 385 109 2 7 5 
+"<E>/,.cacheBalise+incomplet+grftoolCacheEntreGrosseBalise}" 912 40 1 1 
+"<E>" 352 109 1 6 
+"<cacheBalise+incomplet>" 118 204 1 10 
+":B" 309 109 1 8 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 960 232 0 

@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 10053120
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 106 180 1 2 
+"" 1143 180 0 
+"<Prenom>/{{" 247 180 2 15 13 
+"Noël+Ramadan" 552 105 1 5 
+"-" 419 105 2 3 6 
+"<E>/,.forename}" 754 105 1 12 
+"Noël+Ramadan" 484 180 1 8 
+":tagNomFamille" 714 180 1 17 
+"<E>/,.forename}" 573 180 1 16 
+"<E>/,.forename}" 461 435 1 14 
+"<E>/,.surname}" 778 435 1 12 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 29 78 0 
+"<E>/,.persName+grfpersAmbigus}" 1024 180 1 1 
+"<E>/${0}$" 377 435 1 9 
+"Noël+Ramadan+Janvier+Février+Mars+Avril+Mai+Juin+Juillet+Août+Aout+Septembre+Octobre+Novembre+Décembre+Dimanche+Lundi+Mardi+Mercredi+Jeudi+Vendredi+Samedi/{" 588 435 1 10 
+"<E>/${1}$" 350 180 2 4 6 
+":B" 646 180 1 7 
+"<E>/,.surname}" 843 180 1 12 

@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 250 282 1 6 
+"" 1382 282 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1027 527 0 
+"sur l'échelle de richter/{" 1116 201 1 5 
+"<E>" 1336 282 1 1 
+"<E>/,.offset}" 1263 201 1 4 
+"magnitude/{" 302 282 1 12 
+"<E>/,.measure+type=\"magnitude\"+grfamountSeisme}" 730 282 3 3 14 4 
+"<num>/{{" 442 282 2 9 11 
+",+." 539 240 1 10 
+"<num>" 574 240 1 11 
+"<E>/,.val}" 665 282 1 7 
+"<E>/,.unit}" 394 282 1 8 
+":listPredeterminant" 873 201 1 15 
+":B" 823 201 1 13 
+"<E>/,.postInclude}" 1011 201 1 3 

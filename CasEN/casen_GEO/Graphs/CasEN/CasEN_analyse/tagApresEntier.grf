@@ -1,0 +1,34 @@
+#Unigraph
+SIZE 1602 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+14
+"<E>" 30 203 3 6 7 9 
+"" 618 203 0 
+"<dixième>+<centième>+<millième>+<millionième>" 426 158 1 5 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 592 98 0 
+"un+une+<num>/{" 207 203 1 11 
+"<E>/,.val}" 563 203 1 1 
+"et" 69 227 2 7 8 
+"<E>" 114 203 2 4 10 
+"<num+type=\"fraction\">/{" 280 337 1 5 
+"<E>" 100 337 1 8 
+"zéro/{" 156 148 2 12 13 
+"<E>" 373 203 2 2 5 
+"<num>" 275 148 1 11 
+"zéro" 218 119 2 13 12 

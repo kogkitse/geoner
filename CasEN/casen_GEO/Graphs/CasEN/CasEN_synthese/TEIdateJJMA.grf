@@ -1,0 +1,95 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+75
+"<E>" 67 115 1 3 
+"" 1453 689 0 
+"/<date><gDayName>jeudi</gDayName> <gDay>31</gDay> <gMonth>décembre</gMonth> <gYear>1998</gYear></date>" 577 57 0 
+"\<_date\>" 145 115 2 37 51 
+"\<_gDay\>" 92 373 1 10 
+"\<\/_gDay\>" 288 373 1 7 
+"$![" 247 373 1 5 
+"$]" 407 373 1 8 
+"<TOKEN>" 460 373 2 6 11 
+"\<\/_gDay\>" 602 373 1 12 
+"$gDay(" 207 373 1 6 
+"$gDay)" 561 373 1 9 
+"<E>" 307 423 1 13 
+"\<_gMonth\>" 27 500 1 19 
+"\<\/_gMonth\>" 223 500 1 16 
+"$![" 182 500 1 14 
+"$]" 342 500 1 17 
+"<TOKEN>" 389 500 2 15 20 
+"\<\/_gMonth\>" 531 500 2 21 69 
+"$gMonth(" 142 500 1 15 
+"$gMonth)" 490 500 1 18 
+"<E>" 1040 500 1 22 
+"\<_gYear\>" 76 624 1 28 
+"\<\/_gYear\>" 272 624 1 25 
+"$![" 231 624 1 23 
+"$]" 391 624 1 26 
+"<TOKEN>" 440 624 2 24 29 
+"\<\/_gYear\>" 583 624 2 31 53 
+"$gYear(" 191 624 1 24 
+"$gYear)" 541 624 1 27 
+"<E>/<_date when=\"$gYear$-$gMonth$-$gDay$\">" 31 750 1 41 
+"\<\/_date\>" 1109 624 1 30 
+"$]" 594 218 1 35 
+"\<\/_gDayName\>" 785 218 1 40 
+"$gDayName)" 744 218 1 33 
+"<TOKEN>" 643 218 2 38 34 
+"$gDayName(" 380 218 1 38 
+"\<_gDayName\>" 265 218 1 36 
+"$![" 420 218 1 39 
+"\<\/_gDayName\>" 461 218 1 32 
+"<E>" 608 273 1 4 
+"<E>" 383 750 2 55 62 
+"$]" 440 115 1 43 
+"<TOKEN>" 491 115 2 50 52 
+"$![" 266 115 1 45 
+"\<_gDayName\>+\<_gDay\>+\<_gMonth\>+\<_gYear\>+\<\/_date\>" 307 115 1 42 
+"$]" 888 581 1 47 
+"<TOKEN>" 939 581 2 48 54 
+"$![" 739 581 1 49 
+"\<\/_date\>" 780 581 1 46 
+"<E>" 358 18 1 44 
+"$avant(" 226 115 1 44 
+"$avant)" 592 115 1 37 
+"$apres(" 699 581 1 48 
+"$apres)" 1040 581 1 31 
+"<E>/$avant.UNSET$" 434 750 1 56 
+"<E>/$gDayName$ $gDay$ $gMonth$" 627 750 2 71 72 
+"<E>/ $gYear$" 1136 689 2 58 60 
+"<E>/$apres.UNSET$" 1220 689 1 59 
+"<E>/</_date>" 1402 689 1 1 
+"<E>/$apres.SET$" 1226 764 1 61 
+"<E>/ $apres$" 1352 764 1 59 
+"<E>/$avant.SET$" 433 814 1 63 
+"<E>/$avant$ " 544 814 1 56 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1324 104 0 
+"\<_gYear\>+\<\/_date\>" 747 459 1 67 
+"$![" 706 459 1 65 
+"$]" 866 459 1 68 
+"<TOKEN>" 915 459 2 66 70 
+"$entre(" 666 459 1 66 
+"$entre)" 1016 459 1 21 
+"<E>/$entre.UNSET$" 901 689 1 74 
+"<E>/$entre.SET$" 905 750 1 73 
+"<E>/ $entre$" 1021 750 1 74 
+"<E>" 1063 689 1 57 

@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 32 168 1 4 
+"" 959 459 0 
+"\<\/form\>\<code\>" 583 168 1 6 
+"\<\/csc\>" 769 459 1 14 
+"\<csc\>\<form\>" 79 168 1 12 
+"\<\/code\>" 333 459 2 17 3 
+"A+ADV+INTJ+N+PREP+V+baliseXml+cacheBalise+extractor+generique+none+num+sigleNum+vieuxSigle+w+Xml" 733 168 1 5 
+"/<csc><form>maintenant</form><code>w</code><code>type=\"adverb\"</code></csc>" 239 104 0 
+"\<\/form\>+\<csc\>" 302 168 1 11 
+"<TOKEN>" 448 168 2 10 13 
+"$![" 262 168 1 8 
+"$]" 394 168 1 9 
+"$form(" 222 168 1 10 
+"$form)" 549 168 1 2 
+"<E>/$form$" 889 459 1 1 
+"\<\/csc\>" 486 530 1 18 
+"<TOKEN>" 632 530 2 17 3 
+"$![" 446 530 1 15 
+"$]" 574 530 1 16 
+"/on empêche le fonctionnement si imbrication:+seules les balises internes seront touchées+A passer en \"until fix point\"" 278 228 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 13 322 0 

@@ -1,0 +1,821 @@
+0000000042
+-1 timeAnneeSiecle
+: -2 4 -3 4 -4 4 -5 4 -6 4 -7 3 -8 2 -9 1 
+: -2 4 -3 4 -4 4 -5 4 -6 4 
+: 2 5 
+: -8 2 2 5 
+t -11 6 
+: 3 7 
+: -10 8 
+: 4 4 
+: 1 9 
+t 
+f 
+-2 timeDateAbsolueAnnee
+: -11 2 -13 1 
+t 
+: -14 3 -15 3 -16 3 -17 3 
+: -12 4 
+: 5 1 
+f 
+-3 timeAnnee
+: 21 2 20 2 17 1 
+: 18 3 
+: 15 5 14 4 
+: 19 6 
+: 8 7 7 7 
+: 16 8 
+: 21 2 20 2 
+: 3 9 
+: 14 4 
+: -18 11 9 10 
+: 12 12 11 12 10 12 
+: 6 13 
+: 13 11 
+t 
+f 
+-4 timeDecennie
+: 24 2 23 1 
+: 15 4 14 3 
+: 25 5 
+: -11 8 8 7 7 6 
+: 16 9 
+: 23 1 
+: 3 10 
+: 3 11 
+: -19 12 
+: 14 3 
+: -18 15 -20 14 22 13 
+: -18 15 -20 16 22 13 
+: 3 17 
+t 
+: 7 6 
+: 22 13 
+: 8 7 
+: -18 15 22 13 
+f 
+-5 timeSiecle
+: -11 1 
+: 30 3 27 2 
+: 29 5 28 4 
+: 31 7 28 6 
+: -20 8 
+: 28 9 
+: -20 10 
+: 32 11 
+: 27 2 
+: -18 13 -20 8 26 12 
+: 30 3 
+: 28 14 
+t 
+: 26 12 
+: -18 13 -20 10 26 12 
+f 
+-6 timeMillenaire
+: 37 2 34 1 
+: 36 3 
+: 19 4 
+: 35 5 
+: 34 1 
+: -18 7 33 6 
+t 
+: 33 6 
+f 
+-7 listPrepAnnee
+: -24 7 -27 6 -28 5 -29 5 56 1 55 1 53 5 50 4 49 3 45 2 44 1 43 1 42 1 41 1 40 1 39 1 38 1 
+t -25 7 -26 7 
+: 52 8 48 8 47 8 46 8 
+: 45 9 
+: 57 11 54 10 51 8 
+t -23 7 -24 7 -25 7 
+: 56 1 55 1 
+t 
+: -21 7 -22 7 
+: 48 8 
+t -22 7 -25 7 
+: 18 12 
+: 54 10 
+f 
+-8 patternDeterminant
+: -10 4 -30 3 -31 2 -32 1 
+t -10 3 
+: -21 3 -22 3 
+t 
+t -30 3 -31 2 -32 1 
+f 
+-9 tagDebutFin
+: 74 5 72 4 70 1 69 1 68 1 67 1 66 1 65 2 64 2 63 2 62 2 61 2 60 3 59 2 58 2 24 1 
+: 74 5 72 4 65 2 64 2 63 2 62 2 61 2 60 3 59 2 58 2 
+: 71 6 
+: 32 2 
+: 73 5 
+: 71 7 
+t -21 7 -22 7 
+t 
+f 
+-10 listPredeterminant
+: 97 6 96 10 95 6 94 6 93 6 91 9 89 8 88 6 87 6 86 6 85 6 84 6 82 7 81 6 80 5 56 4 50 3 45 2 38 1 
+: 24 6 
+: 79 6 78 6 77 6 76 6 75 6 
+: 99 12 98 6 49 11 
+: 49 6 
+: 76 6 
+t 
+: 83 6 49 6 
+: 49 13 
+: 73 14 
+: 88 6 73 15 
+: 100 6 
+: 94 6 
+: 50 16 
+: 92 6 
+: 88 6 
+: 90 6 
+f 
+-11 B
+: 102 2 101 1 
+: 102 2 
+t 
+f 
+-12 tagFinDateAbsolueAnnee
+: 107 2 104 1 
+: 103 4 73 3 15 3 
+: -33 7 103 6 15 5 
+: 103 4 
+: 3 8 
+: -33 7 103 6 
+: 3 9 
+: 103 10 
+: 105 11 
+: -18 12 
+: 3 13 
+: 106 14 73 14 12 14 11 14 10 14 
+t 
+t -18 12 
+: 13 12 
+f 
+-13 tagSaisonAbsolue
+: -11 4 116 2 115 3 37 2 17 1 
+: 18 3 
+: 19 5 
+: 19 6 
+: 113 7 112 7 111 7 110 7 109 7 108 7 
+: -11 4 
+: -11 8 
+: 14 9 
+: 114 7 113 7 112 7 111 7 110 7 109 7 108 7 
+: -12 10 
+: 5 11 
+t 
+f 
+-14 tagNomDeFete
+: -35 16 -36 16 -37 16 168 15 167 14 159 13 158 12 155 2 154 2 153 2 152 2 150 11 149 2 147 10 146 9 145 9 144 9 143 9 142 9 140 2 139 2 138 2 137 2 136 2 135 2 134 2 133 8 131 7 130 6 128 6 127 5 125 5 121 4 119 3 118 2 117 2 72 1 
+: 73 17 
+: 14 18 
+: 120 2 73 19 
+: 122 20 
+: 126 2 
+: 15 21 
+: 132 22 
+: 129 23 
+: 14 16 
+: 148 2 
+: 151 2 
+: 172 2 171 2 73 24 
+: 160 25 
+: 14 26 
+: 170 27 169 27 14 18 
+: 80 29 15 28 
+: 124 2 
+t 
+: 120 2 
+: 123 2 
+: 57 30 
+: 141 2 15 21 
+: 14 31 
+: 172 2 171 2 
+: 14 32 
+: -22 35 122 34 80 33 
+: 157 2 156 2 73 36 
+: 168 15 167 14 159 13 158 12 155 2 154 2 153 2 152 2 150 11 149 2 147 10 140 2 139 2 138 2 137 2 136 2 135 2 134 2 133 8 131 7 130 6 128 6 127 5 125 5 121 4 119 3 118 2 117 2 72 1 67 29 57 37 
+: 168 15 167 14 159 13 158 12 155 2 154 2 153 2 152 2 150 11 149 2 147 10 140 2 139 2 138 2 137 2 136 2 135 2 134 2 133 8 131 7 130 6 128 6 127 5 125 5 121 4 119 3 118 2 117 2 72 1 
+: 18 38 
+t 162 39 
+: 162 39 161 42 122 41 80 41 15 40 
+: 173 2 
+: 165 43 164 43 163 2 
+: 168 15 158 12 155 2 154 2 153 2 152 2 150 11 149 2 147 10 140 2 139 2 138 2 137 2 136 2 135 2 134 2 133 38 131 7 130 6 128 6 127 5 125 5 121 4 119 3 118 2 117 2 72 1 
+: 157 2 156 2 
+: 18 29 
+: 129 2 
+: 166 18 
+: -34 18 67 41 57 42 
+: -34 18 
+: 18 41 
+: 174 2 
+f 
+-15 tagPeriodeDeFete
+: 188 7 183 6 182 5 181 4 180 3 178 2 177 1 176 1 175 1 
+: 14 8 
+: 179 1 
+: 14 9 
+: 14 10 
+: 14 11 
+: 14 12 
+: 14 13 
+t 
+: 80 15 15 14 
+: 80 17 15 16 
+: 80 18 
+: 186 19 
+t 80 20 
+: 67 15 57 21 
+: 182 5 181 4 178 2 177 1 176 1 175 1 
+: 57 22 
+: 176 1 175 1 
+: 177 1 
+: 187 13 
+: 185 1 184 1 
+: 18 15 
+: 18 17 
+f 
+-16 patternMoisSeul
+: -38 3 190 2 189 2 182 1 
+: 14 4 
+: 199 6 198 6 197 6 196 6 195 6 194 6 193 6 191 6 55 5 
+t 
+: 201 8 200 7 
+: 73 9 
+: -21 10 
+: 202 10 
+: 18 7 
+: 192 6 
+: -38 3 
+f 
+-17 patternSemaine
+: 203 1 
+: 14 2 
+: 204 3 
+: 205 4 
+t 
+f 
+-18 tagApresAn
+: 221 7 219 6 209 5 208 5 207 4 206 3 200 2 21 1 
+: 14 8 
+: 215 10 57 9 
+: 214 6 212 12 210 11 
+: 215 10 214 6 212 12 210 11 57 9 
+: 32 3 
+: 71 13 
+: 21 1 
+: 186 14 
+: 218 15 18 15 
+: 216 6 
+: 73 16 
+: 73 18 32 17 
+t 
+: 187 19 
+: 217 6 
+: 211 6 
+: 213 21 73 20 
+: 213 22 
+: 220 13 80 23 
+: 213 21 
+: 32 6 
+: 71 13 32 6 
+: 185 24 184 24 
+: 14 25 
+: 220 13 
+f 
+-19 listDizaine
+: 268 2 267 2 266 2 265 2 264 2 263 2 262 2 261 2 260 2 259 2 258 2 257 2 256 2 255 2 254 2 253 2 252 2 251 2 248 7 247 7 246 7 245 7 244 7 243 7 242 6 241 6 240 6 239 6 238 6 237 6 236 6 235 5 234 4 233 2 232 2 231 2 230 2 229 2 227 3 226 2 225 2 224 2 223 2 222 1 
+t 73 8 
+t 
+: 235 5 228 2 223 10 73 9 
+t 222 2 73 11 
+t 234 4 233 2 232 2 231 2 230 2 229 2 227 12 226 2 225 2 224 2 223 2 222 2 
+: 235 5 
+: 250 2 249 13 
+: 242 7 241 7 240 7 
+: 228 2 223 10 
+: 222 2 73 11 
+: 222 2 
+: 228 2 223 10 73 9 
+: 234 4 233 2 232 2 231 2 230 2 229 2 227 12 226 2 225 2 224 2 223 2 222 2 
+f 
+-20 listEtOu
+: 274 1 273 1 272 1 270 4 269 3 221 2 73 1 
+t 32 5 
+t 274 1 273 1 272 1 270 4 269 3 221 1 73 1 32 5 
+t 275 6 32 5 
+t 271 7 84 1 32 5 
+: 32 8 
+: 270 1 
+t 84 1 32 5 
+: 32 9 
+t 
+f 
+-21 listDe
+: 161 2 122 1 80 1 15 1 
+t 
+: 18 1 
+f 
+-22 listDeLe
+: 161 3 122 2 80 2 15 1 
+t 67 2 57 3 
+t 
+: 18 2 
+f 
+-23 listALe
+: 276 1 50 2 45 1 
+t 
+t 67 1 57 3 
+: 18 1 
+f 
+-24 listEnLe
+: 82 1 
+t 67 2 57 3 24 2 
+t 
+: 18 2 
+f 
+-25 listLe
+: 67 1 66 1 57 2 24 1 
+t 
+: 18 1 
+f 
+-26 listCe
+: 277 1 70 1 69 1 68 1 
+t 
+f 
+-27 listPeu
+: 285 3 284 3 189 2 99 1 
+t 15 4 
+: 282 7 281 7 280 7 279 7 278 6 99 1 49 5 
+: 99 1 
+: 283 7 
+: 278 6 
+: 282 7 281 7 280 7 279 7 99 1 
+t 
+f 
+-28 listJusque
+: 287 2 286 1 
+: 18 3 
+t 
+t -24 2 -39 2 
+f 
+-29 listDIci
+: 161 1 
+: 18 2 
+: 288 3 
+t -39 4 
+t 
+f 
+-30 listDeterminantAdjectival
+: -25 5 -26 5 297 4 294 3 293 2 292 2 291 2 290 2 289 2 84 1 
+: 292 2 
+t 
+: 18 6 
+: -25 2 -26 2 
+: 301 2 300 2 299 2 298 2 
+: 295 7 
+: 296 2 
+f 
+-31 listDeterminantNominal
+: -27 10 319 10 316 4 309 4 308 4 307 4 305 4 303 4 302 4 292 9 276 8 190 7 189 6 99 4 94 4 89 5 79 4 76 4 67 3 66 2 57 1 
+: 18 11 
+: 315 4 99 4 83 4 79 12 
+: 318 4 313 4 
+t 
+: 306 4 
+: 311 4 
+: 312 4 310 4 
+: 304 4 
+: 73 13 
+t 79 4 76 4 
+: 189 4 
+: 314 4 
+: 317 4 
+f 
+-32 listDeterminantAdverbial
+: 326 1 325 1 324 1 323 1 322 1 321 1 320 1 95 1 87 1 
+t 
+f 
+-33 tagAn
+: 277 2 69 2 67 2 57 1 
+: 18 2 
+: 328 4 327 3 183 3 
+: 15 6 14 5 
+: 187 7 
+t 
+: 16 8 
+: 327 3 183 3 
+: 14 5 
+f 
+-34 tagPays
+: 329 1 
+: 330 2 
+t 
+f 
+-35 tag7Jours
+: -11 1 
+: -40 2 
+: 331 3 
+t 
+f 
+-36 tagPartieJournee
+: 335 2 334 2 333 2 332 2 206 1 
+: 73 3 
+: 14 4 
+: 192 2 
+t 
+f 
+-37 tagLendemain
+: -11 1 
+: -41 2 
+: 14 3 
+t 
+f 
+-38 tagMois
+: -11 1 
+: -42 2 
+: 336 3 
+t 
+f 
+-39 listA
+: 276 1 50 1 45 1 
+t 
+f 
+-40 list7Jour
+: 343 1 342 1 341 1 340 1 339 1 338 1 337 1 
+t 
+f 
+-41 listLendemain
+: 346 2 345 2 344 2 56 1 
+: 345 2 73 3 
+t 
+: 345 2 
+f 
+-42 listMois
+: 358 1 357 1 356 1 355 1 354 1 353 1 352 1 351 1 350 1 349 1 348 1 347 1 141 1 
+t 
+f 
+%<E>
+%<E>/,.postInclude+quaero="time-modifier"}
+%<num+type=\"cardinal\"+1900a2099>/{{
+%<E>/,.gYear}
+%<E>/,.date+quaero="abs"+grftimeAnneeSiecle}
+%<E>/,.date+quaero="abs"+grftimeDateAbsolueAnnee}
+%<E>/,.date+quaero="abs"+grftimeAnnee}
+%<num+1a9999+chiffre>/{
+%<num+1a9999+lettre>/{
+%$![0
+%<N:p>
+%%
+%<num>
+%$]
+%<E>/,.w+type="noun"}
+%de
+%grâce
+%l/{
+%'
+%<E>/,.preInclude}
+%an/{{
+%année/{{
+%<E>/,.date+quaero="abs"+grftimeDecennie}
+%années/{{
+%les
+%<E>/,.preInclude
+%<E>/,.date+quaero="abs"+grftimeSiecle}
+%<num+type=\"ordinal\">/{
+%<E>/,.gCentury}
+%<siècle>
+%<num+type=\"ordinal\"+romain>/{
+%s
+%.
+%<E>/,.date+quaero="abs"+grftimeMillenaire}
+%<num+type=\"ordinal\">/{{
+%<E>/,.gMillenium}
+%<millénaire>
+%le/{
+%dans
+%depuis
+%dès
+%durant
+%pendant
+%pour
+%vers
+%au
+%bout
+%cours
+%long
+%tout
+%à
+%partir
+%coeur
+%sauf
+%horizon
+%après
+%avant
+%l
+%<courant>/{
+%<début>/{
+%déb/{
+%<orée>/{
+%<fin>/{
+%<milieu>/{
+%<moitié>/{
+%<cours>/{
+%le
+%la
+%ce
+%cette
+%ces
+%<E>/,.offset}
+%mi/{
+%-
+%<plein>/{
+%mieux
+%moins
+%pire
+%pis
+%plus
+%du
+%déjà
+%en
+%gros
+%encore
+%ensuite
+%environ
+%exactement
+%même
+%pas
+%fait
+%peut
+%être
+%presque
+%près
+%précisément
+%quand
+%surtout
+%peine
+%peu
+%casser
+@ 
+%#/{
+%<num>/{
+%<E>/${0}$
+%$![1
+%_
+%<E>/${1}$
+%étés/{
+%<automne>/{
+%<hiver>/{
+%printemps/{
+%Été/{
+%Eté/{
+%été/{
+%un/{
+%les/{
+%épiphanie/{
+%chandeleur/{
+%mardi/{
+%gras
+%mercredi/{
+%des
+%cendres
+%carême
+%jeudi/{
+%saint
+%vendredi/{
+%jour/{
+%an
+%premier/{
+%1/{
+%er
+%nouvel/{
+%pâques/{
+%Ascension/{
+%pentecôte/{
+%armistice/{
+%assomption/{
+%toussaint/{
+%noël/{
+%mai
+%<période>/{
+%<pont>/{
+%<week-end>/{
+%<nuit>/{
+%<jour>/{
+%yom/{
+%kippour
+%kippour/{
+%roch/{
+%hachana
+%hanoucca/{
+%pessah/{
+%soukkot/{
+%souccot/{
+%fitr
+%kebir
+%saint/{
+%fête/{
+%nationale
+%d
+%<A+Pays:fs>/{
+%rois/{
+%trois/{
+%3/{
+%<E>/,.w+type="adjective"+demonym}
+%<fête>/{
+%aïd/{
+%al
+%el
+%sylvestre
+%valentin
+%travail/{
+%rois
+%avent/{
+%carême/{
+%ramadan/{
+%semaine/{
+%sainte
+%période/{
+%temps/{
+%mois/{
+%année/{
+%christianisme/{
+%catholicisme/{
+%jubilaire/{
+%<E>/,.w+type="adjective"}
+%Jubilé/{
+%un
+%une
+%matin
+%midi
+%soir
+%matinée
+%soirée
+%nuit
+%jour
+%journée
+%semaine
+%de/{
+%d/{
+%<E>/,.w+type="preposition"}
+%<semaine>/{
+%<nombre+1a54>/{
+%<E>/,.val}
+%après/{
+%avant/{
+%av/{
+%ap/{
+%Jésus
+%Christ
+%J
+%C
+%JC
+%notre
+%ère
+%hégire
+%`
+%BP/{
+%<E>/,.event}
+%,
+%dix
+%vingt
+%trente
+%quarante
+%cinquante
+%quatre
+%vingts
+%septante
+%octante
+%nonante
+%huitante
+%neuvante
+%soixante
+%mille
+%deux
+%trois
+%cinq
+%six
+%sept
+%huit
+%neuf
+%onze
+%douze
+%treize
+%quatorze
+%quinze
+%seize
+%cent
+%cents
+%<10>
+%<20>
+%<30>
+%<40>
+%<50>
+%<60>
+%<70>
+%<80>
+%<90>
+%<1910>
+%<1920>
+%<1930>
+%<1940>
+%<1950>
+%<1960>
+%<1970>
+%<1980>
+%<1990>
+%et
+%ou
+%bien
+%voire
+%puis
+%enfin
+%/
+%aux
+%cet
+%petit
+%chouia
+%poil
+%instant
+%moment
+%temps
+%très
+%infiniment
+%jusqu
+%jusque
+%ici
+%<certain>
+%chaque
+%plusieurs
+%quelques
+%quelque
+%n
+%importe
+%<quel>
+%<tous>
+%<seul>
+%<autre>
+%<même>
+%<dernier>
+%autant
+%autour
+%alentours
+%davantage
+%mal
+%assez
+%trop
+%tant
+%moitié
+%nombre
+%partie
+%plupart
+%clair
+%millier
+%chacun
+%uns
+%période
+%beaucoup
+%approximativement
+%pratiquement
+%seulement
+%simplement
+%uniquement
+%sûrement
+%certainement
+%an/{
+%même/{
+%<N+Pays~hum>/{
+%<E>/,.placeName+type="country"+grftagPays}
+%<E>/,.gDayName}
+%matin/{
+%midi/{
+%tantôt/{
+%soir/{
+%<E>/,.gMonth}
+%lundi
+%mardi
+%mercredi
+%jeudi
+%vendredi
+%samedi
+%dimanche
+%<lendemain>
+%<veille>
+%<surlendemain>
+%janvier
+%février
+%avril
+%juin
+%juillet
+%août
+%aout
+%septembre
+%octobre
+%novembre
+%décembre
+%<LOWER><<^mars$>>
+f

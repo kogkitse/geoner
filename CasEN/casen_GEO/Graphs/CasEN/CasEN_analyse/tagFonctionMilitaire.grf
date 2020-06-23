@@ -1,0 +1,45 @@
+#Unigraph
+SIZE 1887 880
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+25
+"<E>" 85 330 4 2 12 23 9 
+"" 1175 330 0 
+"<adjudant.N:s>+<agent.N:s>+<amiral.N:s>+<brigadier.N:s>+<brigadier.N:s> <général.N:s>+<colonel.N:s>+<inspecteur.N:s>+<lieutenant.N:s>+<lieutenant.N:s>-<colonel.N:s>+<lieutenant.N:s>-juge+<officier.N:s>+<officier.N:s>+<sergent.N:s>+capitaine+commissaire+fonctionnaire+major+sous-<lieutenant.N:s>+sous-<officier.N:s>/{" 163 582 4 8 3 4 18 
+"-" 381 529 1 4 
+"chef+major" 452 529 1 8 
+"<police>+services secrets+<armée>+rebelles+rébellion/{" 789 237 1 7 
+":listDeLe" 679 237 2 5 21 
+"<E>/,.w+type=\"noun\"}" 1047 237 1 17 
+"<E>/,.w+type=\"noun\"}" 511 582 1 15 
+":tagGeneral+:tagChef" 200 330 1 15 
+"interarmes+interarmés" 933 141 1 7 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 744 461 0 
+"médecin/{" 207 205 3 13 14 19 
+"chef+<général.N:s>+<amiral.N:s>+:listCommandant+<colonel.N:s>+<lieutenant.N:s>+<lieutenant.N:s>-<colonel.N:s>+<officier.N:s>+<maréchal.N:s>+capitaine" 319 205 1 16 
+"-" 290 176 1 13 
+"<E>" 627 330 2 6 17 
+"<E>/,.w+type=\"noun\"}" 539 205 1 15 
+"<E>" 1126 330 1 1 
+"en chef" 413 626 1 8 
+"en chef" 299 59 1 20 
+"<E>" 500 59 1 16 
+"état major+état-major/{" 789 141 2 10 7 
+":listCommandant" 269 388 1 24 
+":B" 190 388 1 22 
+"<E>/,.w+type=\"noun\"}" 440 388 1 15 

@@ -1,0 +1,149 @@
+0000000010
+-1 timeDateAbsolue
+: -2 2 2 1 
+: 15 3 
+: -3 5 -4 5 -5 4 
+: -2 6 
+: -6 5 9 9 3 8 1 7 
+: 1 7 
+: -5 4 
+t 
+: 5 11 4 10 
+: 5 12 4 10 
+: -6 5 
+: 7 13 
+: 11 14 
+: 14 13 6 15 
+: 13 16 12 14 10 15 
+: 8 5 
+: 13 16 10 15 
+f 
+-2 B
+: 17 2 16 1 
+: 17 2 
+t 
+f 
+-3 tagSemaine
+: 20 1 
+: 21 2 
+: 18 3 
+: 19 4 
+t 
+f 
+-4 patternMoisSeul
+: -7 3 24 2 23 2 22 1 
+: 21 4 
+: 35 5 34 5 33 5 32 5 31 5 30 5 29 5 26 6 25 5 
+t 
+: 37 8 36 7 
+: -8 9 
+: 27 10 
+: 39 9 
+: 38 7 
+: -7 3 
+: 28 5 
+f 
+-5 tag7Jours
+: -2 1 
+: -9 2 
+: 40 3 
+t 
+f 
+-6 tagPartieJournee
+: 45 1 44 2 43 1 42 1 41 1 
+: 21 3 
+: 27 4 
+t 
+: 28 1 
+f 
+-7 tagMois
+: -2 1 
+: -10 2 
+: 46 3 
+t 
+f 
+-8 listDe
+: 50 2 49 1 48 1 47 1 
+t 
+: 38 1 
+f 
+-9 list7Jour
+: 57 1 56 1 55 1 54 1 53 1 52 1 51 1 
+t 
+f 
+-10 listMois
+: 70 1 69 1 68 1 67 1 66 1 65 1 64 1 63 1 62 1 61 1 60 1 59 1 58 1 
+t 
+f 
+%<E>
+%<E>/,.date+abs+grftimeDateAbsolue}
+%le/{
+%<num+1a31>
+%<E>/${1}$
+%<E>/${0}$
+%<N:p>
+%$![0
+%$]
+%<num+type=\"ordinal\"+1a1>
+%<N:s>
+%$![1
+%<ADV>
+%<A:s>
+%<A:p>
+%<E>/,.preInclude}
+@ 
+%#/{
+%<nombre+1a54>/{
+%<E>/,.val}
+%<semaine>/{
+%<E>/,.w+type="noun"}
+%mois/{
+%un
+%une
+%matin
+%après
+%-
+%midi
+%soir
+%matinée
+%soirée
+%nuit
+%jour
+%journée
+%semaine
+%de/{
+%d/{
+%'
+%<E>/,.w+type="preposition"}
+%<E>/,.gDayName}
+%matin/{
+%midi/{
+%tantôt/{
+%après/{
+%soir/{
+%<E>/,.gMonth}
+%de
+%des
+%du
+%d
+%lundi
+%mardi
+%mercredi
+%jeudi
+%vendredi
+%samedi
+%dimanche
+%janvier
+%février
+%avril
+%mai
+%juin
+%juillet
+%août
+%aout
+%septembre
+%octobre
+%novembre
+%décembre
+%<LOWER><<^mars$>>
+f

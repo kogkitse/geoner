@@ -1,0 +1,49 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+29
+"<E>" 114 111 2 21 22 
+"" 1561 111 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+-----------------------------------------------------------------" 1345 297 0 
+"<E>/,.org+type=\"transport\"+quaero=\"ent\"+grforgTransport}" 983 111 1 1 
+"<compagnie>/{{" 249 111 1 6 
+"<aérien.A:f>+<maritime.A:f>+low cost/{" 578 111 1 7 
+"<E>/,.w+type=\"noun\"+kind}" 345 111 2 5 10 
+"<E>/,.w+type=\"adjective\"}" 683 111 2 10 27 
+"<E>" 593 233 1 23 
+"-" 558 198 1 8 
+"air/{" 445 233 1 11 
+"<E>/,.w+type=\"noun\"+name}" 507 233 2 8 9 
+":patternNomMixte" 390 376 2 13 14 
+"air+airlines+aviation+voyages" 589 376 1 19 
+"-" 539 343 1 13 
+":BB" 349 376 1 12 
+"$![" 226 376 1 17 
+"<DET>+<ADV>" 261 376 1 18 
+"$]" 328 376 1 15 
+"<E>/,.w+type=\"noun\"+name}" 661 376 1 20 
+"<E>/,.orgName+type=\"transport\"+quaero=\"ent\"+grforgTransport}" 903 376 1 1 
+"<E>/${2}$" 164 111 2 4 25 
+"<E>/${1}$" 187 376 1 16 
+"<N+Toponyme>/{" 723 233 1 24 
+"<E>/,.w+type=\"noun\"+name}" 835 233 1 20 
+"air/{{" 443 301 1 11 
+"<E>" 941 111 1 3 
+"<E>" 772 111 2 26 28 
+":tagDemonym" 820 81 1 26 

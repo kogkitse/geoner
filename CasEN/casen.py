@@ -79,7 +79,6 @@ result_unitex_tags= re.sub(regex_unitex_tags, subst_unitex_tags, output_file, 0,
 result_tags = re.sub(regex_tags, subst_tags, result_unitex_tags, 0, re.MULTILINE)
 result_geogName = re.sub(regex_geogName, subst_geogName, result_tags, 0, re.MULTILINE)
 
-
 # write output to output_casen directory
 base_rename_extention = "{}".format('hypo_casEN_' + base_prefix + '.txt')
 outuput_path = (os.path.dirname(sys.argv[0])+"\output_casen\\"+ base_rename_extention)

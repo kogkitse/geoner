@@ -1,4 +1,9 @@
 #!/bin/bash
+#Project Cité des Dames 
+#files with the name 'hypo' contain outputs of execution
+#Author : kogkitse
+
+
 
 if [ $# -lt 1 ]; then
 	echo "illegal number of parameters, use e.g."
@@ -11,10 +16,13 @@ fi
 REFERENCE="$1"
 #HYPOTHESIS="$2"
 
+
 for HYPOTHESIS in `find "../SpaCy/output_spacy/" "../SEM/output_sem/" "../Perdido/output_perdido/" "../CoreNLP/output_corenlp/" "../CasEN/output_casen/" -name "hypo_*.txt"`
 
 do
-
+HYPOTHESIS_FILENAME=$(basename "$HYPOTHESIS")
+HYPOTHESIS_EXTENSION="${HYPOTHESIS_FILENAME##*.}"
+HYPOTHESIS_FILENAME="${HYPOTHESIS_FILENAME%.*}"
 
 # by default grep add line numbers
 GREP_ADD_LINE_NUMBER="n"
@@ -63,13 +71,25 @@ function eval_corpus() {
 	# number of relevant entities
 	n_reference=$(wc -l "/tmp/$set_reference" | awk -F" " '{print $1}')
 	echo "$name relevant entities (tp+fn): $n_reference"
-		
+
+	#false negatives	
+	comm -13 /tmp/set_hypothesis_location.txt /tmp/set_reference_location.txt > "./$HYPOTHESIS_FILENAME-fn.txt"
+
+
 	# ref (intersection) hypothesis
 	comm -12 "/tmp/$set_reference" "/tmp/$set_hypothesis" | sort -n > "/tmp/$intersection"
 
 	# number of correct entitites
 	n_true_positive=$(wc -l "/tmp/$intersection" | awk -F" " '{print $1}')
 	echo "$name true positive entities (tp): $n_true_positive"
+
+
+	# Faux positives
+	comm -23 /tmp/set_hypothesis_location.txt /tmp/set_reference_location.txt > "./$HYPOTHESIS_FILENAME-fp.txt"
+	
+	# true positives 
+	comm -12 /tmp/set_hypothesis_location.txt /tmp/set_reference_location.txt > "./$HYPOTHESIS_FILENAME-tp.txt"
+
 
 	precision=$(echo "scale=3 ; $n_true_positive/$n_hypothesis" | bc)
 	echo "$name precision tp/(tp+fp): $precision"
@@ -86,8 +106,10 @@ function eval_corpus() {
 	echo "$name fscore 2*((p*r)/(p+r)): $fscore"
 		
 	echo "========================================================="
-	 >> scores.txt
+
+
+
 
 }
-eval_corpus "location" \<placeName\>.*?\<\/placeName\> 
+eval_corpus "location" \<placeName\>.*?\<\/placeName\> >> scores.txt
 done 

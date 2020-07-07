@@ -8,7 +8,6 @@
 set INPUT=%1
 
 
-:: 
 :: Run spaCy classification 
 
 D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\Spacy\Call_spaCy.py  %INPUT%
@@ -24,6 +23,10 @@ D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\Perdido\perdido
 :: Run CoreNLP
 
 D:\CiteDames\GeoNER-tools\CoreNLP\run_corenlp %INPUT%
+
+:: Run CasEN
+
+D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\CasEN\casen.py %INPUT%
 
 
 :: Preprocessing corpus ref

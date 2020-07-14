@@ -12,14 +12,19 @@ import sys
 
 file_corpus = sys.argv[1] 
 
-file_tsv = r'D:\\CiteDames\\GeoNER-tools\\CoreNLP\\output_corenlp\\output.tsv'
+basename = os.path.basename(file_corpus) 
+base_prefix = os.path.splitext(basename)[0]
+directory = os.path.dirname(sys.argv[0])
+output_path = path.join(directory+"\\output_corenlp\\output_"+base_prefix)
+
+file_tsv = (output_path+"\\output_"+base_prefix+".tsv")
 data_tsv = file_tsv.encode("ansi").decode("utf-8")
-file_txt = r'D:\\CiteDames\\GeoNER-tools\\CoreNLP\\output_corenlp\\output.txt'
+file_txt = (output_path+"\\output_"+base_prefix+".txt")
 data_txt = file_txt.encode("ansi").decode("utf-8")
 
 #  Read file line by line
 def open_doc(filename): 
-    with open(filename) as file:
+    with open(filename, 'r') as file:
         read_line = file.read()
         return read_line
 
@@ -49,7 +54,7 @@ def txt_LOC_tags(data_txt) :
     # Match any other tag
     match_other_tag = r"/(?!placeName)[^\s+]*|\n|\)|\(|\[|\]|»|«|…"
     # Match '?,.,!'
-    match_punct = r"(\.\s*|\!\s*|\?\s*)(\w|<)"
+    match_punct = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<)"
 
     # Substitute LOC tags with <placeName>
     subst_LOC = " <placeName>\\1</placeName>"
@@ -71,8 +76,8 @@ def save_output_files(data):
     directory = os.path.dirname(sys.argv[0])
     base_rename_extention_tsv = "{}".format('hypo_CoreNLP_' + base_prefix + '.tsv')
     base_rename_extention_txt = "{}".format('hypo_CoreNLP_' + base_prefix + '.txt')
-    hypo_output_path_tsv = path.join(directory+"\output_corenlp", base_rename_extention_tsv)
-    hypo_output_path_txt = path.join(directory+"\output_corenlp", base_rename_extention_txt)
+    hypo_output_path_tsv = path.join(output_path, base_rename_extention_tsv)
+    hypo_output_path_txt = path.join(output_path, base_rename_extention_txt)
 
     # hypo_output_path.open("w", encoding="utf-8").write(result_hypo_split)
     with open(hypo_output_path_tsv, 'w', encoding='utf-8') as hypo_tsv, open (hypo_output_path_txt, 

@@ -56,7 +56,7 @@ def tag_LOC(output_hypo):
     # Match every tag except <placeName>
     match_other_tag = r"<(?!placeName|\/placeName)[^>]*>|\n|\)|\(|\[|\]|»|«|…"
     # Match '?,.,!'
-    match_punct = r"(\.\s?|\!\s?|\?\s?)(\w|<|«|»)"
+    match_punct = r"(\.(?<!M\.)\s+|\!\s?|\?\s?)(\w|<|«|»)"
 
     # Substitute Location tags with <placeName>
     subst_LOC = "<placeName>\\1</placeName>"
@@ -103,16 +103,23 @@ def toto(file_name, file_content, output_dir, geckoWebDriver):
    # Write output
    basename = os.path.basename(file_name) 
    base_prefix = os.path.splitext(basename)[0]
+   hypo_create_path = path.join(output_dir+"/output_sem/ouput_"+base_prefix)
+
+   # Check if 'hypo_create_path' existe already
+   if not os.path.exists(hypo_create_path):
+      os.makedirs(hypo_create_path)
+   
    base_rename_extention = "{}".format(base_prefix + '.txt')
-   output_path = path.join(output_dir, "output_sem", "hypo_SEM_" + base_rename_extention)
+
+   output_path = path.join(hypo_create_path, "hypo_SEM_" + base_rename_extention)
    with open(output_path, 'w', encoding='utf-8') as output:
       output.write(tag_LOC(output_hypo))
    
    # hypo_output_path = Path("D:\CiteDames\GeoNER-tools\SEM\output_sem\hypo_SEM_MargueriteDeValois.txt")
    # hypo_output_path.open("w", encoding="utf-8").write(tag_LOC(output_hypo))
    
-   folder = os.path.abspath(os.path.dirname(sys.argv[0]))
-   savePage(geckoWebDriver,os.path.join(folder,"SEM.html"))
+   # folder = os.path.abspath(os.path.dirname(sys.argv[0]))
+   savePage(geckoWebDriver,os.path.join(hypo_create_path,"SEM.html"))
 
 def main():
    output_dir = os.path.dirname(sys.argv[0])

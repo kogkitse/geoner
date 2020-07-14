@@ -9,4 +9,4 @@ set output_dir=..\output_corenlp\output_%basename%
 java -mx1000m -cp stanford-ner.jar;lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers\french-wikiner-4class.crf.ser.gz -textFile %filename% > %output_dir%\output_%basename%.txt
 java -mx1000m -cp stanford-ner.jar;lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers\french-wikiner-4class.crf.ser.gz  -outputFormat tabbedEntities -textFile %filename% > %output_dir%\output_%basename%.tsv
 cd ..
-::D:/Apps/Anaconda/envs/myenv/python.exe d:/CiteDames/GeoNER-tools/CoreNLP/output_processing.py %filename%
+D:/Apps/Anaconda/envs/myenv/python.exe d:/CiteDames/GeoNER-tools/CoreNLP/output_processing.py %filename%

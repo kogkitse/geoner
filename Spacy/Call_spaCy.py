@@ -46,11 +46,17 @@ for sent in doc.sents:
 basename = os.path.basename(file) 
 directory = os.path.dirname(sys.argv[0])
 base_prefix = os.path.splitext(basename)[0]
+hypo_create_path = path.join(directory+"/output_spacy/ouput_"+base_prefix)
+
+# Check if 'hypo_create_path' existe already
+if not os.path.exists(hypo_create_path):
+    os.makedirs(hypo_create_path)
+
 base_rename_extention = "{}".format(base_prefix + '.html')
-output_path = path.join(directory+"\output_spacy", "Spacy_" + base_rename_extention)
+output_path = path.join(hypo_create_path, "Spacy_" + base_rename_extention)
+
 with open(output_path, 'w', encoding='utf-8') as output:
     output.write(html_viz)
-    # output_path.open("w", encoding="utf-8").write(html_viz)
 
 # Remove html balises from output to keep txt with <placeName> tags
 #Read html file line by line
@@ -77,7 +83,8 @@ result_hypo_split = re.sub(match_punct, subst_punct_split, result_hypo, 0, re.MU
 # Save hypothesis' txt output into \output_spacy\file
 base_prefix = os.path.splitext(basename)[0]
 base_rename_extention = "{}".format('hypo_spaCy_' + base_prefix + '.txt')
-hypo_output_path = path.join(directory+"\output_spacy", base_rename_extention)
+hypo_output_path = path.join(directory+"/output_spacy/ouput_"+base_prefix, base_rename_extention)
+
 # hypo_output_path.open("w", encoding="utf-8").write(result_hypo_split)
 with open(hypo_output_path, 'w', encoding='utf-8') as hypo_output:
     hypo_output.write(result_hypo_split)

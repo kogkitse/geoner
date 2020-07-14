@@ -77,7 +77,16 @@ result_tags = re.sub(regex_tags, subst_tags, result_unitex_tags, 0, re.MULTILINE
 result_geogName = re.sub(regex_geogName, subst_geogName, result_tags, 0, re.MULTILINE)
 
 # write output to output_casen directory
+
+hypo_create_path = path.join(directory+"/output_casen/ouput_"+base_prefix)
+
+# Check if 'hypo_create_path' existe already
+if not os.path.exists(hypo_create_path):
+    os.makedirs(hypo_create_path)
+
+
 base_rename_extention = "{}".format('hypo_casEN_' + base_prefix + '.txt')
-outuput_path = (os.path.dirname(sys.argv[0])+"\output_casen\\"+ base_rename_extention)
-with open(outuput_path, "w", encoding="utf-8") as hypothesis: 
+output_path = (hypo_create_path+'//hypo_casEN_' + base_prefix + '.txt')
+print(output_path)
+with open(output_path, "w", encoding="utf-8") as hypothesis: 
     hypothesis.write(result_geogName)

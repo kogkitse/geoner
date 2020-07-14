@@ -31,7 +31,7 @@ The script generates a score file with scores from tool’s files and files cont
 ---- 
 **Important**:
 
-To obtain the results of the evaluation script it is important to ensure a perfect alignment at sentence level between the reference and hypothesis corpora.
+To obtain the results of the evaluation script it is important to ensure a strict alignment at sentence level between the reference and hypothesis corpora.
      
 *preprocessing_corpus.py* script allows you to make the necessary substitutions to the corpus to be processed in order to obtain the alignment between the reference and the hypothesis corpora.
 

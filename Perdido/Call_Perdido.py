@@ -25,11 +25,18 @@ file = sys.argv[1]
 # outputXML = open("D:\CiteDames\Perdido/results_url_XML.txt", "w", encoding="utf-8")
 # outputJSON = open("D:\CiteDames\Perdido/results_url_JSON.txt", "w", encoding="utf-8")
 
+# Save xml output to file
 basename = os.path.basename(file) 
 directory = os.path.dirname(sys.argv[0])
 base_prefix = os.path.splitext(basename)[0]
+hypo_create_path = path.join(directory+"/output_perdido/ouput_"+base_prefix)
+
+# Check if 'hypo_create_path' existe already
+if not os.path.exists(hypo_create_path):
+    os.makedirs(hypo_create_path)
+
 base_rename_extention = "{}".format(base_prefix + '.xml')
-output_path = path.join(directory+"\output_perdido", "Perdido_" + base_rename_extention)
+output_path = path.join(hypo_create_path, "Perdido_" + base_rename_extention)
 output = open(output_path, "w", encoding="utf-8")
 
 #i = 0

@@ -133,7 +133,7 @@ while read HYPOTHESIS; do
       # write evaluation result
       printf '"%s";"%s";%s;%s;%s;%s;%s;%s\n' "${tool}" "${name}" "${n_hypothesis}" "${n_reference}" "${n_true_positive}" "${precision}" "${recall}" "${fscore}" >> "$EVALUATION_RESULT"
 
-      echo "========================================================="
+      echo "======================    ==================================="
   }
   # --------------------------------------------------------------------------
   eval_corpus "location" \<placeName\>.*?\<\/placeName\>

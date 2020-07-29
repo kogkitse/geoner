@@ -5,7 +5,6 @@
 
 from __future__ import unicode_literals, print_function
 import pickle
-import plac
 import random
 from pathlib import Path
 import spacy
@@ -45,8 +44,10 @@ for sent in doc.sents:
 # Save html output to file
 basename = os.path.basename(file) 
 directory = os.path.dirname(sys.argv[0])
+corpus_dir = os.path.dirname(file)
+dir_corpusname = os.path.basename(corpus_dir)
 base_prefix = os.path.splitext(basename)[0]
-hypo_create_path = path.join(directory+"/output_spacy/ouput_"+base_prefix)
+hypo_create_path = path.join(directory+"/output_spacy/ouput_"+dir_corpusname)
 
 # Check if 'hypo_create_path' existe already
 if not os.path.exists(hypo_create_path):
@@ -83,7 +84,7 @@ result_hypo_split = re.sub(match_punct, subst_punct_split, result_hypo, 0, re.MU
 # Save hypothesis' txt output into \output_spacy\file
 base_prefix = os.path.splitext(basename)[0]
 base_rename_extention = "{}".format('hypo_spaCy_' + base_prefix + '.txt')
-hypo_output_path = path.join(directory+"/output_spacy/ouput_"+base_prefix, base_rename_extention)
+hypo_output_path = path.join(directory+"/output_spacy/ouput_"+dir_corpusname, base_rename_extention)
 
 # hypo_output_path.open("w", encoding="utf-8").write(result_hypo_split)
 with open(hypo_output_path, 'w', encoding='utf-8') as hypo_output:

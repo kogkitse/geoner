@@ -15,11 +15,14 @@ file_corpus = sys.argv[1]
 basename = os.path.basename(file_corpus) 
 base_prefix = os.path.splitext(basename)[0]
 directory = os.path.dirname(sys.argv[0])
-output_path = path.join(directory+"\\output_corenlp\\output_"+base_prefix)
+corpus_dir = os.path.dirname(file_corpus)
+dir_corpusname = os.path.basename(corpus_dir)
+base_prefix = os.path.splitext(basename)[0]
+output_path = path.join(directory+"/output_corenlp/ouput_"+dir_corpusname)
 
-file_tsv = (output_path+"\\output_"+base_prefix+".tsv")
+file_tsv = (output_path+"/output_"+base_prefix+".tsv")
 data_tsv = file_tsv.encode("ansi").decode("utf-8")
-file_txt = (output_path+"\\output_"+base_prefix+".txt")
+file_txt = (output_path+"/output_"+base_prefix+".txt")
 data_txt = file_txt.encode("ansi").decode("utf-8")
 
 #  Read file line by line

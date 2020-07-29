@@ -103,7 +103,9 @@ def toto(file_name, file_content, output_dir, geckoWebDriver):
    # Write output
    basename = os.path.basename(file_name) 
    base_prefix = os.path.splitext(basename)[0]
-   hypo_create_path = path.join(output_dir+"/output_sem/ouput_"+base_prefix)
+   corpus_dir = os.path.dirname(file_name)
+   dir_corpusname = os.path.basename(corpus_dir)
+   hypo_create_path = path.join(output_dir+"/output_sem/ouput_"+dir_corpusname)
 
    # Check if 'hypo_create_path' existe already
    if not os.path.exists(hypo_create_path):
@@ -137,3 +139,4 @@ def main():
 if __name__ == "__main__":
    # execute only if run as a script
    main()
+

@@ -29,7 +29,9 @@ file = sys.argv[1]
 basename = os.path.basename(file) 
 directory = os.path.dirname(sys.argv[0])
 base_prefix = os.path.splitext(basename)[0]
-hypo_create_path = path.join(directory+"/output_perdido/ouput_"+base_prefix)
+corpus_dir = os.path.dirname(file)
+dir_corpusname = os.path.basename(corpus_dir)
+hypo_create_path = path.join(directory+"/output_perdido/ouput_"+dir_corpusname)
 
 # Check if 'hypo_create_path' existe already
 if not os.path.exists(hypo_create_path):

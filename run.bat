@@ -13,7 +13,7 @@ set INPUT=%1
 D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\Spacy\Call_spaCy.py  %INPUT%
 
 :: Run SEM classification 
-D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\Spacy\Call_SEM.py  %INPUT%
+D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\SEM\Call_SEM.py  %INPUT%
 
 :: Run Perdido classification 
 D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\Perdido\Call_Perdido.py  %INPUT%

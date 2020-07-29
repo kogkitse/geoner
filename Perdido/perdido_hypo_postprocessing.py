@@ -48,20 +48,21 @@ def tag_LOC(output_hypo):
 basename = os.path.basename(file) 
 directory = os.path.dirname(sys.argv[0])
 base_prefix = os.path.splitext(basename)[0]
-
+corpus_dir = os.path.dirname(file)
+dir_corpusname = os.path.basename(corpus_dir)
 base_rename_extention = "{}".format(base_prefix + '.xml')
-output_path = path.join(directory+"/output_perdido/ouput_"+base_prefix+"/Perdido_" + base_rename_extention)
+output_path = path.join(directory+"/output_perdido/ouput_"+dir_corpusname+"/Perdido_" + base_rename_extention)
 
 # Scrapy lib will call xpath which match every text balise exept //w with @type="NPr"
 output = Selector(text = open_doc(output_path))
 requete= output.xpath('//w[not(@type="NPr")]/text() | //name[@type="place"]/w | //name[@type="unknown"]/w/text()| //name[@type="person"]/w/text()| //p').extract()
 separator = ' '
 clean_output = separator.join(requete)
-clean_path = path.join(directory+"/output_perdido/ouput_"+base_prefix+"/Perdido_clean_"+ base_rename_extention)
+clean_path = path.join(directory+"/output_perdido/ouput_"+dir_corpusname+"/Perdido_clean_"+ base_rename_extention)
 write_doc(clean_path, clean_output)
 
 base_rename_extention = "{}".format(base_prefix + '.txt')
-hypo_output_path = path.join(directory+"/output_perdido/ouput_"+base_prefix+"/hypo_perdido_" + base_rename_extention)
+hypo_output_path = path.join(directory+"/output_perdido/ouput_"+dir_corpusname+"/hypo_perdido_" + base_rename_extention)
 
 write_doc(hypo_output_path, tag_LOC(clean_output))
 # with open(hypo_output_path, 'w', encoding='utf-8') as hypo_output:

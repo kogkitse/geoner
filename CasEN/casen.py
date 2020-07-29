@@ -77,8 +77,9 @@ result_tags = re.sub(regex_tags, subst_tags, result_unitex_tags, 0, re.MULTILINE
 result_geogName = re.sub(regex_geogName, subst_geogName, result_tags, 0, re.MULTILINE)
 
 # write output to output_casen directory
-
-hypo_create_path = path.join(directory+"/output_casen/ouput_"+base_prefix)
+corpus_dir = os.path.dirname(sys.argv[1])
+dir_corpusname = os.path.basename(corpus_dir)
+hypo_create_path = path.join(directory+"/output_casen/ouput_"+dir_corpusname)
 
 # Check if 'hypo_create_path' existe already
 if not os.path.exists(hypo_create_path):

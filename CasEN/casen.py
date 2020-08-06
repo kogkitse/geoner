@@ -37,6 +37,7 @@ file_text_path = path.join(private_dir+'\\Corpus\\'+basename)
 with open(file_text_path, "w", encoding="utf-8") as file_text_path: 
     file_text_path.write(file_endline)
 
+# # Analyse CasEN Geo
 os.system('mkdir "'+input_corpus+base_prefix+'_snt"')
 
 # normalise input
@@ -57,24 +58,43 @@ os.system('CMD /c ""'+unitex_directory+'UnitexToolLogger.exe" Cassys  "-a'+unite
 # extract output
 os.system('CMD /c ""'+unitex_directory+'UnitexToolLogger.exe" Concord "'+unitexFrenchFolder+'Corpus\\'+base_prefix+'_snt\\concord.ind" "-m'+unitexFrenchFolder+'Corpus\\'+base_prefix+'-raw.txt" -qutf8-no-bom"')
 
+# # Synthesize analyse CasEN GEO output
+
+os.system('mkdir "'+input_corpus+base_prefix+'_csc_snt"')
+
+# normalize input
+os.system('CMD /c ""'+unitex_directory+'UnitexToolLogger.exe" Normalize "'+unitexFrenchFolder+'corpus\\'+base_prefix+'_csc.txt" "-r'+unitexFrenchFolder+'Norm.txt" "--output_offsets='+private_dir+'\\corpus\\'+base_prefix+'_csc_snt\\normalize.out.offsets" -qutf8-no-bom"')
+
+# tokenize input
+os.system('CMD /c ""'+unitex_directory+'UnitexToolLogger.exe" Tokenize "'+unitexFrenchFolder+'corpus\\'+base_prefix+'_csc.snt" "-a'+unitexFrenchFolder+'Alphabet.txt" -qutf8-no-bom"')
+
+# run cassys synthesize
+os.system('CMD /c ""'+unitex_directory+'UnitexToolLogger.exe" Cassys  "-a'+unitexFrenchFolder+'Alphabet.txt" "-t'+unitexFrenchFolder+'Corpus\\'+base_prefix+'_csc.snt" "-l'+unitexFrenchFolder+'Cassys\\CasEN_synthese_TEI.csc" "-w'+dela_system+'\\Dela_fr.bin" -v -r'+unitexFrenchFolder+'Graphs\\ "--input_offsets='+unitexFrenchFolder+'Corpus\\'+base_prefix+'_csc_snt\\normalize.out.offsets" -qutf8-no-bom"')
+
+# extract output
+os.system('CMD /c ""'+unitex_directory+'UnitexToolLogger.exe" Concord "'+unitexFrenchFolder+'Corpus\\'+base_prefix+'_csc_snt\\concord.ind" "-m'+unitexFrenchFolder+'Corpus\\'+base_prefix+'_TEI.txt" -qutf8-no-bom"')
+
 
 # post processing clean output 
 
-output = unitexFrenchFolder+'Corpus\\'+base_prefix+'-raw.txt'
+output = unitexFrenchFolder+'Corpus\\'+base_prefix+'_TEI.txt'
 output_file = open_doc(output)
 
-regex_unitex_tags = r"{S} | {S}|{S}"
+match_unitex_tags = r"{S} | {S}|{S}"
+match_placetag = r"(<|</)(placeName|geogName)>(<|</)(placeName|geogName)>"
+match_punct = r"\n|\)|\(|\[|\]|»|«|…"
+match_split = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
 
-regex_tags = r"(\{|(\\\{))+([^,\\]*)(\\,\\.|,.)([^+|\\]*)[^\s]*"
-regex_geogName = r"(<|</)geogName>"
-
+# Substitute punctuation in order to split sentences line by line
 subst_unitex_tags = ""
-subst_tags = "<\\5>\\3</\\5>"
-subst_geogName = "\\1placeName>"
+subst_placetag = "\\1placeName>"
+subst_punct_split = ""
+subst_match_split = "\\1\\n\\2"
 
-result_unitex_tags= re.sub(regex_unitex_tags, subst_unitex_tags, output_file, 0, re.MULTILINE)
-result_tags = re.sub(regex_tags, subst_tags, result_unitex_tags, 0, re.MULTILINE)
-result_geogName = re.sub(regex_geogName, subst_geogName, result_tags, 0, re.MULTILINE)
+result_unitex_tags= re.sub(match_unitex_tags, subst_unitex_tags, output_file, 0, re.MULTILINE)
+result_placetags = re.sub(match_placetag, subst_placetag, result_unitex_tags, 0, re.MULTILINE)
+result_punct = re.sub(match_punct, subst_punct_split, result_placetags, 0, re.MULTILINE)
+result_split = re.sub(match_split, subst_match_split, result_punct, 0, re.MULTILINE)
 
 # write output to output_casen directory
 corpus_dir = os.path.dirname(sys.argv[1])
@@ -88,6 +108,6 @@ if not os.path.exists(hypo_create_path):
 
 base_rename_extention = "{}".format('hypo_casEN_' + base_prefix + '.txt')
 output_path = (hypo_create_path+'//hypo_casEN_' + base_prefix + '.txt')
-print(output_path)
+# print(output_path)
 with open(output_path, "w", encoding="utf-8") as hypothesis: 
-    hypothesis.write(result_geogName)
+    hypothesis.write(result_split)

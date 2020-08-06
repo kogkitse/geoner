@@ -22,8 +22,6 @@ import sys
 # load language model
 nlp = spacy.load('fr_core_news_md') 
 
-
-
 file = sys.argv[1]
 
 # Read file
@@ -35,8 +33,9 @@ def open_doc(filename):
 doc = nlp(open_doc(file))
 # Split text to sentences 
 for sent in doc.sents:
+    print("Analyze :"+ str(sent))  
     # Tag entities in sentence with labels
-    for ent in sent.ents:    
+    for ent in sent.ents:  
         # HTML visualization with displacy render    
         html_viz = displacy.render([doc], style="ent", page=True)
 

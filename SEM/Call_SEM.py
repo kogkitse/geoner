@@ -12,6 +12,10 @@ import io
 # Also install the « Firefox » driver 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 from pathlib import Path
 import re
 import os
@@ -56,7 +60,7 @@ def tag_LOC(output_hypo):
     # Match every tag except <placeName>
     match_other_tag = r"<(?!placeName|\/placeName)[^>]*>|\n|\)|\(|\[|\]|»|«|…"
     # Match '?,.,!'
-    match_punct = r"(\.(?<!M\.)\s+|\!\s?|\?\s?)(\w|<|«|»)"
+    match_punct = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
 
     # Substitute Location tags with <placeName>
     subst_LOC = "<placeName>\\1</placeName>"
@@ -91,8 +95,11 @@ def toto(file_name, file_content, output_dir, geckoWebDriver):
    
    submitButton = geckoWebDriver.find_element_by_css_selector("button[type=submit]")
    submitButton.click()
-   time.sleep(120)
    
+   # Wait until the web page load texte and the "pos" element appear
+   element = WebDriverWait(geckoWebDriver, 1200).until(
+    EC.presence_of_element_located((By.ID, "pos")))
+
    otherTab = geckoWebDriver.find_element_by_css_selector("label[for=tab2]")
    otherTab.click()
    time.sleep(delay)

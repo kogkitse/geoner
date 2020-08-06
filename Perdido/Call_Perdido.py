@@ -82,7 +82,7 @@ with open(file, 'r', encoding="utf8") as file:
 
 #  Nltk tokenizer split text into sentences
    text = (sent_tokenize(text))
-
+   
 # Start analyzing the text
 analyseRemainingSentences(text)
 # outputXML.close

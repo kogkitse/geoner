@@ -58,9 +58,9 @@ def tag_LOC(output_hypo):
     # Match locations tags
     match_LOC = r"<span id=\"Location\" title=\"Location\">([^<]*)<\/span>"
     # Match every tag except <placeName>
-    match_other_tag = r"<(?!placeName|\/placeName)[^>]*>|\n|\)|\(|\[|\]|»|«|…"
+    match_other_tag = r'<(?!placeName|\/placeName)[^>]*>|\n|\)|\(|\[|\]|»|«|…|"'
     # Match '?,.,!'
-    match_punct = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
+    match_punct = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
 
     # Substitute Location tags with <placeName>
     subst_LOC = "<placeName>\\1</placeName>"

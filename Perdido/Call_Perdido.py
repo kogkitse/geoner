@@ -8,7 +8,7 @@ import requests_cache
 from nltk.tokenize import sent_tokenize
 from os import path
 
-requests_cache.install_cache('perdido_cache')
+# requests_cache.install_cache('perdido_cache')
 
 # Please replace the API key below by your own (get it from the dashboard of Dandelion)
 apiKey = "faHfUX2B4L"
@@ -82,7 +82,7 @@ with open(file, 'r', encoding="utf8") as file:
 
 #  Nltk tokenizer split text into sentences
    text = (sent_tokenize(text))
-   
+
 # Start analyzing the text
 analyseRemainingSentences(text)
 # outputXML.close

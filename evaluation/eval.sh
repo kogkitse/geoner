@@ -15,7 +15,7 @@ fi
 # Command line arguments
 REFERENCE="$1"
 HYPOTHESIS_CORPUS_NAME="${2:-MargueriteDeValois}"
-OVERALL_INSTEAD_OF_LINE_BY_LINE="$3"
+OVERALL_INSTEAD_OF_LINE_BY_LINE="$4"
 # ----------------------------------------------------------------------------
 # Internal constants
 BASE_DIR="/media/sf_CiteDames/GeoNER-tools"
@@ -34,7 +34,7 @@ EVALUATION_RESULT="${WORK_DIR}/${HYPOTHESIS_CORPUS_NAME}-evaluation.csv"
 echo -n '' > "$EVALUATION_RESULT"
 # ----------------------------------------------------------------------------
 # Start selecting the set of hypothesis to eval
-find "${BASE_DIR}" -name "${HYPOTHESIS_FILE_REGEX}" | grep "${HYPOTHESIS_FILE_DIR}" | grep "_${HYPOTHESIS_CORPUS_NAME}_" > "$HYPOTHESIS_FILES"
+find "${BASE_DIR}" -name "${HYPOTHESIS_FILE_REGEX}" | grep "${HYPOTHESIS_FILE_DIR}" | grep "_${HYPOTHESIS_CORPUS_NAME}" > "$HYPOTHESIS_FILES"
 # ----------------------------------------------------------------------------
 # loop over each hypothesis file
 while read HYPOTHESIS; do

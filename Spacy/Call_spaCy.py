@@ -66,7 +66,7 @@ match_LOC = r"<mark class=\"entity\" [^>]+\">\s+([^<]*)\n\s+<span [^>]+\">LOC</s
 # Match any other tag
 match_other_tag = r"<mark class=\"entity\" [^>]+\">\s+([^<]*)\n\s+(<span [^>]+\">(PER|ORG|MISC)</span>\n</mark>)|<(?!placeName|\/placeName)[^>]*>|\n|\)|\(|\[|\]|»|«|…|displaCy|^\s+"
 # Match '?,.,!'
-match_punct = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
+match_punct = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
 
 # Substitute LOC tags with <placeName>
 subst_LOC = "<placeName>\\1</placeName> "

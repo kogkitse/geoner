@@ -25,7 +25,7 @@ def read_doc(filename):
 
 def match(read_line):
     match_punct = r"\n|\)|\(|\[|\]|»|«|…"
-    match_split = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
+    match_split = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
     # Substitute punctuation in order to split sentences line by line
     subst_punct_split = ""
     subst_match_split = "\\1\\n\\2"

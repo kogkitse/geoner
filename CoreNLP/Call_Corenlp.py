@@ -4,7 +4,7 @@
 # author: kogkitse
 
 
-import os, sys
+import os, sys, platform
 from os import path
 
 file = sys.argv[1]
@@ -16,7 +16,7 @@ dir_corpusname = os.path.basename(corpus_dir)
 base_prefix = os.path.splitext(basename)[0]
 hypo_create_path = path.join(directory+"/output_corenlp/ouput_"+dir_corpusname)
 
-# Check if 'hypo_create_path' existe already
+#check if 'hypo_create_path' exists already
 if not os.path.exists(hypo_create_path):
     os.makedirs(hypo_create_path)
 
@@ -27,9 +27,14 @@ hypo_output_path_txt = path.join(directory+"/output_corenlp/ouput_"+dir_corpusna
 hypo_output_path_tsv = path.join(directory+"/output_corenlp/ouput_"+dir_corpusname, base_rename_extention_tsv)
 
 
-os.chdir(".\stanford-ner-4.0.0")
-os.system("java -mx1000m -cp stanford-ner.jar;lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers\\french-wikiner-4class.crf.ser.gz -textFile " + file +' > '+ hypo_output_path_txt) 
-os.system("java -mx1000m -cp stanford-ner.jar;lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers\\french-wikiner-4class.crf.ser.gz  -outputFormat tabbedEntities -textFile " + file +' >' + hypo_output_path_tsv)
+os.chdir(".\CoreNLP\stanford-ner-4.0.0")
+#check if the system is Windows or Linux
+if platform.system() == "Windows":
+    os.system("java -mx1000m -cp stanford-ner.jar;lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers\\french-wikiner-4class.crf.ser.gz -textFile " + file +' > '+ hypo_output_path_txt) 
+    os.system("java -mx1000m -cp stanford-ner.jar;lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers\\french-wikiner-4class.crf.ser.gz  -outputFormat tabbedEntities -textFile " + file +' >' + hypo_output_path_tsv)
+else: 
+    os.system("java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/french-wikiner-4class.crf.ser.gz -textFile " + file +' > '+ hypo_output_path_txt)
+    os.system("java -mx600m -cp stanford-ner.jar:lib/* edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier classifiers/french-wikiner-4class.crf.ser.gz -outputFormat tabbedEntities -textFile " + file +' >' + hypo_output_path_tsv)
 
 os.chdir("..")
 

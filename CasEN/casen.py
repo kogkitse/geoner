@@ -83,7 +83,7 @@ output_file = open_doc(output)
 match_unitex_tags = r"{S} | {S}|{S}"
 match_placetag = r"(<|</)(placeName|geogName)>(<|</)(placeName|geogName)>"
 match_punct = r"\n|\)|\(|\[|\]|»|«|…"
-match_split = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
+match_split = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
 
 # Substitute punctuation in order to split sentences line by line
 subst_unitex_tags = ""

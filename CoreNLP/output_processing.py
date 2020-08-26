@@ -57,7 +57,7 @@ def txt_LOC_tags(data_txt) :
     # Match any other tag
     match_other_tag = r"/(?!placeName)[^\s+]*|\n|\)|\(|\[|\]|»|«|…"
     # Match '?,.,!'
-    match_punct = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<)"
+    match_punct = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<)"
 
     # Substitute LOC tags with <placeName>
     subst_LOC = " <placeName>\\1</placeName>"

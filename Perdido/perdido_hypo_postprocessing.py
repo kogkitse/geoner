@@ -29,7 +29,7 @@ def tag_LOC(output_hypo):
     # Match punct 
     match_punct = r"\n|\)|\(|\[|\]|»|«|…"
     # Match '?,.,!'
-    match_split = r"(\.(?<!M\.)\s*|\!\s*|\?\s*)(\w|<)"
+    match_split = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<)"
 
     # Substitute Location tags with <placeName>
     subst_LOC = "<placeName>\\1</placeName>"
@@ -62,7 +62,7 @@ clean_path = path.join(directory+"/output_perdido/ouput_"+dir_corpusname+"/Perdi
 write_doc(clean_path, clean_output)
 
 base_rename_extention = "{}".format(base_prefix + '.txt')
-hypo_output_path = path.join(directory+"/output_perdido/ouput_"+dir_corpusname+"/hypo_perdido_" + base_rename_extention)
+hypo_output_path = path.join(directory+"/output_perdido/ouput_"+dir_corpusname+"/hypo_Perdido_" + base_rename_extention)
 
 write_doc(hypo_output_path, tag_LOC(clean_output))
 # with open(hypo_output_path, 'w', encoding='utf-8') as hypo_output:

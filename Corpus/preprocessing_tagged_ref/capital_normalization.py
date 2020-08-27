@@ -92,37 +92,4 @@ with open ("MDV.txt", "w", encoding='utf-8') as file_out :
             file_out.write("%s" % line)
         else:
             file_out.write("%s " % line)
-
-
-
-
-
-
-    
-exit(0)
-
-first_word = [i.split()[0] for i in line_list]
-
-
-
-# Verify manually in or not dico words
-# not_dico = [string for string in first_word if string not in dico_item]
-# in_dico = [string for string in first_word if string in dico_item]
-
-
-for string in first_word:
-    if string not in dico_item:
-        first_words.append(string.lower())
-    else:
-        first_words.append(string)
-
-second_words = [i.split()[1:] for i in line_list]
-
-
-with open ("Moliere.txt", "w", encoding='utf-8') as filout :
-    for sentence in second_words:
-        sentence_join = ' '.join(sentence)
-        sentence_lowercase = (', ' + first_words[i] + ' ' + sentence_join + ' ')
-        filout.write(' '.join([j for j, m in zip(sentence_lowercase.split(), file_content.split()) if j!=m]))
-
-        i+=1
+            

@@ -35,14 +35,14 @@ def tsv_LOC_tags(data_tsv) :
     # # Match LOC tags 
     match_LOC = r"^([^\t]*)\tI-LOC"
     # Match any other tag
-    match_other_tag = r"\t|\n\n"
+    match_other_tag = r"/(?!placeName)[^\s+]*|\n|\)|\(|\[|\]|»|«|…|\t|\n\n"
     # Match '?,.,!'
-    match_punct = r"(\.\s?|\!\s?|\?\s?)(\w|«|»)"
+    match_punct = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<)"
 
     # Substitute LOC tags with <placeName>
-    subst_LOC = "<placeName>\\1</placeName> "
+    subst_LOC = " <placeName>\\1</placeName>"
     # Substitute LOC tags with nothing
-    subst_other_tag = ""
+    subst_other_tag = " "
     # Substitute punctuation in order to split sentences line by line
     subst_punct_split = "\\1\\n\\2"
 

@@ -71,7 +71,7 @@ match_punct = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
 # Substitute LOC tags with <placeName>
 subst_LOC = "<placeName>\\1</placeName> "
 # Substitute LOC tags with nothing
-subst_other_tag = "\\1"
+subst_other_tag = "\\1 "
 # Substitute punctuation in order to split sentences line by line
 subst_punct_split = "\\1\\n\\2"
 

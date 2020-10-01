@@ -8,23 +8,13 @@ from pathlib import Path
 from os import path
 import sys, os, re, shutil 
 
+# enter hypothesis tool output, for example: 
+#  ./convert2iob.py ../CasEN/output_casen/ouput_Margot_wikisource_20200825/hypo_casEN_MargueriteDeValois-original.txt
 
 file = sys.argv[1]
 basename = os.path.basename(file) 
 directory = os.path.dirname(sys.argv[0])
 base_prefix = os.path.splitext(basename)[0]
-
-# set directories; In order to find Private dictory's position (Info => Preferencies => Directories) 
-
-unitex_directory ="C:\\Program Files (x86)\\Unitex-GramLab\\App\\"
-private_dir = "C:\\Users\\Public\\Documents\\Unitex-GramLab\\Unitex\\French"
-unitex_bin = "C:\\Program Files (x86)\\Unitex-GramLab\\App\\UnitexToolLogger.exe"
-dela_private_dir= "C:\\Users\\Public\\Documents\\Unitex-GramLab\\Unitex\\French\\Dela"  
-dela_system = "C:\\Program Files (x86)\\Unitex-GramLab\\French\\Dela"
-input_corpus = private_dir+'\\Corpus\\'
-
-unitexFrenchFolder="C:\\Users\\Public\\Documents\\Unitex-GramLab\\Unitex\\French\\"
-
 
 def open_doc(filename): 
     with open(filename, 'r', encoding='utf-8') as file:
@@ -77,3 +67,5 @@ output_path = (hypo_path +'\\'+ base_prefix + '_IOB.csv')
 
 with open(output_path, "w", encoding="utf-8") as hypothesis: 
     hypothesis.write(result)
+
+print("Output file created at: " + hypo_path +'\\'+ base_prefix )

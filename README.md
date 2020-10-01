@@ -5,7 +5,7 @@
 
 ## Preliminaries
 
-**CasEN**: Please install Unitex and place into your Unitex’s private directory Casen_GEO files.
+**CasEN**: Please install Unitex and place into your Unitex’s private directory Casen_GEO files and set files into ./CasEN/casen.py.
 
 **Perdido**:  Please fill with your own key the “apiKey” line 14.
 
@@ -14,9 +14,9 @@
 
 ## Execution 
 
-On Windows, *run.bat* file will execute these tools followed by the filename to be processed.  For example: 
+On Windows or Linux, *GeoNER.py* file will execute these tools followed by the filename to be processed.  For example: 
     
-    > run.bat raw_filename.txt 
+    > GeoNER.py raw_corpus.txt tagged_corpus.txt
 
 
 ## Evaluation 
@@ -36,13 +36,3 @@ To obtain the results of the evaluation script it is important to ensure a stric
 *preprocessing_corpus.py* script allows you to make the necessary substitutions to the corpus to be processed in order to obtain the alignment between the reference and the hypothesis corpora.
 
 ---- 
-
-
-
-
-
-
-
-
-
-

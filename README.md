@@ -24,7 +24,7 @@ On Windows or Linux, *GeoNER.py* file will execute these tools followed by the f
 To perform the evaluation you need a reference corpus (manually tagged corpus). In order to obtain the accuracy, recall and f-measure scores run the eval.sh script followed by the reference’s filename corpus.
 For example: 
 
-    eval.sh reference_filename.txt
+    > ./eval.sh REFERENCE_FILE HYPOTHESIS_CORPUS_NAME
 
 The script generates a score file with scores from tool’s files and files containing true positives, false negatives and positives for every hypothesis’s file. It is possible to specify only one input file by changing the hypothesis variable in the script.
 

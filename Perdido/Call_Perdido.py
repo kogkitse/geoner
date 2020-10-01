@@ -10,8 +10,8 @@ from os import path
 
 # requests_cache.install_cache('perdido_cache')
 
-# Please replace the API key below by your own (get it from the dashboard of Dandelion)
-apiKey = "faHfUX2B4L"
+# Please replace the API key below by your own
+apiKey = ""
 
 # urlBegin_1 ="http://erig.univ-pau.fr/PERDIDO/api/nerc/txt_xml/?lang=French&api_key="+apiKey+"&content="
 # urlBegin_2 ="http://erig.univ-pau.fr/PERDIDO/api/toponyms/txt_json/?lang=French&api_key="+apiKey+"&content="
@@ -59,6 +59,8 @@ def analyseRemainingSentences(text):
             response_3 = requests.get(urlBegin_3 + sentence)
             if response_3.status_code == 200:
                break
+            else:
+               print("\n\n[EE] HTTP Error " +  str(response_3.status_code) + " analysing « " + sentence + " »"+" No: " + str(i+1))
             # wait for 2 seconds before analyzing the next sentence
             time.sleep(2)
 

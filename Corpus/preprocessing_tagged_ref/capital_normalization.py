@@ -2,6 +2,7 @@
 # coding: utf8
 # Project : "Cité des dames : créatrices dans la cité"
 # author: kogkitse 
+# 
 
 import re
 from pathlib import Path
@@ -18,7 +19,6 @@ def read_doc(filename):
     with open(filename, 'r', encoding='utf-8') as file:
         read_line = file.read()
         return read_line
-
 
    
 dic = []
@@ -38,6 +38,12 @@ line_list = [line.replace('@@@', ', ') for line in line_list]
 # dico entries
 dico_content = dico_content.strip().split('\n')  
 dico_item = [d.split()[0] for d in dico_content]
+
+# Verify manually in or not dico words
+# first_word = [i.split()[0] for i in line_list]
+# not_dico = [string for string in first_word if string not in dico_item]
+# in_dico = [string for string in first_word if string in dico_item]
+# print(in_dico)
 
 # loop over each line
 line_previous_last_word_is_punctuation = False
@@ -73,7 +79,7 @@ for index, line in enumerate(line_list):
         line_previous_last_word_is_punctuation = False
 
 
-with open ("MDV.txt", "w", encoding='utf-8') as file_out :
+with open ("output_filename.txt", "w", encoding='utf-8') as file_out :
     for index, line in enumerate(line_list):
         line_next_first_word_is_punctuation = True
         # test if there is a next line
@@ -92,4 +98,4 @@ with open ("MDV.txt", "w", encoding='utf-8') as file_out :
             file_out.write("%s" % line)
         else:
             file_out.write("%s " % line)
-            
+exit(0)

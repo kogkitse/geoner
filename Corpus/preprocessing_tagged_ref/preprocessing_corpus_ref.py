@@ -24,13 +24,19 @@ def read_doc(filename):
         return read_line
 
 def match(read_line):
+    match_slong = r"ſ"
+    match_et = r"&"
     match_punct = r"\n|\)|\(|\[|\]|»|«|…"
     match_split = r"(\.(?<![A-Z]\.)\s*|\!\s*|\?\s*)(\w|<|«|»)"
     # Substitute punctuation in order to split sentences line by line
-    subst_punct_split = ""
+    subst_match_slong = "s"
+    subst_matcg_et = "et"
+    subst_punct_split = " "
     subst_match_split = "\\1\\n\\2"
 
-    split_corpus = re.sub(match_punct, subst_punct_split, read_line, 0, re.MULTILINE)
+    sub_s_long = re.sub(match_slong, subst_match_slong, read_line, 0, re.MULTILINE)
+    sub_et = re.sub(match_et, subst_matcg_et, sub_s_long, 0, re.MULTILINE)
+    split_corpus = re.sub(match_punct, subst_punct_split, sub_et, 0, re.MULTILINE)
     split_lines = re.sub(match_split, subst_match_split, split_corpus, 0, re.MULTILINE)
     return split_lines 
 

@@ -3,7 +3,7 @@
 # Project : "Cité des dames : créatrices dans la cité"
 # author: kogkitse
 
-# entry arguments : pyhton GeoNER.py raw_corpus tagged_corpus 
+# entry arguments : python GeoNER.py raw_corpus tagged_corpus 
 # for example :  
 
 import re, os, sys
@@ -26,6 +26,8 @@ if isfile == False :
         os.system("D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\CoreNLP\\Call_Corenlp.py " + entry)
         # Run CasEN
         os.system("D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\CasEN\casen.py " + entry)
+        # Run GeoNER_repair
+        os.system("D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\GeoNER_repair\GeoNER_repair.py " + entry)
         # Run SEM classification 
         os.system("D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\SEM\Call_SEM.py " + entry)
 
@@ -41,6 +43,8 @@ else :
     os.system("D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\CoreNLP\\Call_Corenlp.py " + entry_corpus)
     # Run CasEN
     os.system("D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\CasEN\casen.py " + entry_corpus)
+    # Run GeoNER_repair
+    os.system("D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\GeoNER_repair\GeoNER_repair.py " + entry_corpus)
     # Run SEM classification 
     os.system("D:\Apps\Anaconda\envs\myenv\python.exe D:\CiteDames\GeoNER-tools\SEM\Call_SEM.py " + entry_corpus)
 

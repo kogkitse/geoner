@@ -22,15 +22,18 @@ spacy_file = './Spacy/output_spacy/ouput_' + dir_corpusname +'\\hypo_spaCy_' + b
 corenlp_file = './CoreNLP/output_corenlp/ouput_' + dir_corpusname +'\\hypo_CoreNLP_' + basename_prefix + '_IOB.csv'
 sem_file = './SEM/output_sem/ouput_' + dir_corpusname +'\\hypo_SEM_' + basename_prefix + '_IOB.csv'
 perdido_file = './Perdido/output_perdido/ouput_' + dir_corpusname +'\hypo_Perdido_' + basename_prefix + '_IOB.csv'
+geoner_file = './GeoNER_repair/output_GeoNER_repair/ouput_' + dir_corpusname +'\hypo_GeoNER_' + basename_prefix + '_IOB.csv'
+ref_file = input("Set reference tagged corpus : ")
 
 
 words = [] 
-words_sem = []
 tags_spacy = []   
 tags_sem = []   
 tags_casen = []   
 tags_perdido = []   
 tags_corenlp = []   
+tags_geoner = []
+tags_ref = []
 
 def open_doc(filename): 
     with open(filename, 'r', encoding='utf-8') as file:
@@ -61,20 +64,25 @@ matches_tags_sem = re.finditer(regex_tags, open_doc(sem_file), re.MULTILINE)
 matches_tags_casen = re.finditer(regex_tags, open_doc(casen_file), re.MULTILINE)
 matches_tags_corenlp = re.finditer(regex_tags, open_doc(corenlp_file), re.MULTILINE)
 matches_tags_perdido = re.finditer(regex_tags, open_doc(perdido_file), re.MULTILINE)
+matches_tags_geoner = re.finditer(regex_tags, open_doc(geoner_file), re.MULTILINE)
+matches_tags_ref = re.finditer(regex_tags, open_doc(ref_file), re.MULTILINE)
 
 casen_tag = tags_in_list(tags_casen, matches_tags_casen)
 sem_tag = tags_in_list(tags_sem, matches_tags_sem)
 spacy_tag = tags_in_list(tags_spacy, matches_tags_spacy)
 perdido_tag = tags_in_list(tags_perdido, matches_tags_perdido)
 corenlp_tag = tags_in_list(tags_corenlp, matches_tags_corenlp)
+geoner_tag = tags_in_list(tags_geoner, matches_tags_geoner)
+ref_tag = tags_in_list(tags_ref, matches_tags_ref)
+print(geoner_tag)
 
 output_path = path.join("./evaluation/files/"+ basename_prefix +'/'+ basename_prefix + "_tags.csv")
 df = pd.DataFrame(list(zip(spacy_tag)))
 df.to_csv(output_path, encoding='utf-8', index=False)
 
 # create a dataframe with words and tags from each tool's output
-df = pd.DataFrame(list(zip(words, spacy_tag, casen_tag, sem_tag, perdido_tag, corenlp_tag)), 
-columns =['Word', 'Spacy_tag', 'CasEN_tag', 'SEM_tag', 'Perdido_tag', 'CoreNLP_tag'])
+df = pd.DataFrame(list(zip(words, spacy_tag, casen_tag, sem_tag, perdido_tag, corenlp_tag, geoner_tag, ref_tag)), 
+columns =['Word', 'Spacy_tag', 'CasEN_tag', 'SEM_tag', 'Perdido_tag', 'CoreNLP_tag', 'Geoner_tag', 'Reference_tag'])
 
 # save output in IOB format from dataframe to csv
 output_path = path.join("./evaluation/files/"+ basename_prefix +'/'+ basename_prefix + "_IOB.csv")

@@ -1,0 +1,8 @@
+pandas
+spacy
+pathlib
+future
+nltk
+selenium
+requests
+requests-cache

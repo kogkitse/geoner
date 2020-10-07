@@ -14,16 +14,16 @@ this is not a problem for further processing.
 
 3. Use Corpus/preprocessing_tagged_ref/preprocessing_corpus_ref.py file in order to preprocess your reference tagged file. A file with a "ref" prefix will be created into your corpus file.  
 
-5. Open GeonNER.py file and replace inside os.system your own python executable.
+5. Open <em>GeonNER.py</em> file and replace inside os.system your own python executable.
 
 
 7. Inside geoner-master/CoreNLP folder you should download and unzip the stanford-ner-4.0.0 directory. Please download and follow instructions for installation from: https://nlp.stanford.edu/software/stanford-ner-4.0.0.zip. You should also need to download a french classifier from : http://nlp.stanford.edu/software/stanford-corenlp-4.1.0-models-french.jar
 
-8. In order to call Perdido's API you should create your own key. Please visit http://erig.univ-pau.fr/PERDIDO/demonstration and register yourself in order to receive your own key.
+8. In order to call <em>Perdido's API</em> you should create your own key. Please visit http://erig.univ-pau.fr/PERDIDO/demonstration and register yourself in order to receive your own key.
 
-9. For SEM you should install a Firefox geckodriver. https://selenium-python.readthedocs.io/installation.html
+9. For <em>SEM</em> you should install a Firefox geckodriver. https://selenium-python.readthedocs.io/installation.html
 
-10. CasEN is a module of  Unitex, a grammar-based corpus processing suite. Please install Unitex from: https://unitexgramlab.org/
+10. <em>CasEN</em> is a module of  Unitex, a grammar-based corpus processing suite. Please install Unitex from: https://unitexgramlab.org/
 Launch Unitex and set French, then Info => Preferences and check your private directory in dictionnaire tab. Copy link and close Unitex. Open CasEN/casen.py and set line 17 to 22 with your own directories.
 
 
@@ -40,7 +40,7 @@ Run GeonNER.py, for example:
 
 ## Evaluation 
 
-To perform the evaluation you need a reference corpus (manually tagged corpus). In order to obtain the accuracy, recall and f-measure scores run the eval.sh script followed by the reference’s filename corpus. Evaluation script run in linux terminal. In case you work in windows you can install a cygwin terminal. You may need to install "bc package". Set master directory inside evaluation/eval.sh at line 21.
+To perform the evaluation you need a reference corpus (manually tagged corpus). In order to obtain the accuracy, recall and f-measure scores run the ./eval.sh script followed by the reference’s filename corpus. Evaluation script run in linux terminal. In case you work in windows you can install a cygwin terminal. You may need to install "bc package". Set master directory inside evaluation/eval.sh at line 21.
 
 For example: 
 

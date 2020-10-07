@@ -92,6 +92,9 @@ def toto(file_name, file_content, output_dir, geckoWebDriver):
    geckoWebDriver.execute_script('document.getElementById("textToTag").value="'+file_content.replace('\n',"\\n").replace('"',"''")+'";')
 
    # Start MEDITE by clicking the submit button
+
+   # removes cookies banner
+   geckoWebDriver.find_element_by_link_text('OK').click()
    
    submitButton = geckoWebDriver.find_element_by_css_selector("button[type=submit]")
    submitButton.click()
@@ -137,7 +140,7 @@ def main():
    file_content = readFileIntoString(file_name)
    # print(file_content)
 
-   geckoWebDriver = webdriver.Firefox(executable_path=r'D:\\CiteDames\SEM\\geckodriver.exe')
+   geckoWebDriver = webdriver.Firefox(executable_path=r'./SEM//geckodriver.exe')
 
    toto(file_name, file_content, output_dir, geckoWebDriver)
    

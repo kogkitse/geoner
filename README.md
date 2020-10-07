@@ -9,7 +9,7 @@
 
 2. Set a corpus (raw and tagged text) into geoner-master/Corpus/corpus_name/. 
 Your tagged corpus should be in TEI format, for example : 
-<placeName>Paris</placeName>. If other tags other than placeName are included 
+\<placeName\>Paris\<\/placeName\>. If other tags other than placeName are included 
 this is not a problem for farther processing. 
 
 3. Use Corpus/preprocessing_tagged_ref/preprocessing_corpus_ref.py file in order to preprocess your reference tagged file. A file with a "ref" prefix will be created into your corpus file.  
@@ -44,7 +44,7 @@ To perform the evaluation you need a reference corpus (manually tagged corpus). 
 
 For example: 
 
-    > ./eval.sh REFERENCE_FILE HYPOTHESIS_CORPUS_NAME
+    $ ./eval.sh REFERENCE_FILE HYPOTHESIS_CORPUS_NAME
 
 The script generates a score file with scores from tool’s files and files containing true positives, false negatives and positives for every hypothesis’s file. It is possible to specify only one input file by changing the hypothesis variable in the script.
 

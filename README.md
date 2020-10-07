@@ -10,7 +10,7 @@
 2. Set a corpus (raw and tagged text) into geoner-master/Corpus/corpus_name/. 
 Your tagged corpus should be in TEI format, for example : 
 \<placeName\>Paris\<\/placeName\>. If other tags other than placeName are included 
-this is not a problem for farther processing. 
+this is not a problem for further processing. 
 
 3. Use Corpus/preprocessing_tagged_ref/preprocessing_corpus_ref.py file in order to preprocess your reference tagged file. A file with a "ref" prefix will be created into your corpus file.  
 

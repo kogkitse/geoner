@@ -19,7 +19,7 @@ this is not a problem for further processing.
 
 7. Inside geoner-master/CoreNLP folder you should download and unzip the stanford-ner-4.0.0 directory. Please download and follow instructions for installation from: https://nlp.stanford.edu/software/stanford-ner-4.0.0.zip. You should also need to download a french classifier from : http://nlp.stanford.edu/software/stanford-corenlp-4.1.0-models-french.jar
 
-8. In order to call <em>Perdido's API</em> you should create your own key. Please visit http://erig.univ-pau.fr/PERDIDO/demonstration and register yourself in order to receive your own key.
+8. In order to call <em>Perdido's API</em> you should create your own key. Please visit http://erig.univ-pau.fr/PERDIDO/demonstration and register yourself in order to receive your own key. Please set your key into line 14, variable <em>apiKey</em>.
 
 9. For <em>SEM</em> you should install a Firefox geckodriver. https://selenium-python.readthedocs.io/installation.html
 

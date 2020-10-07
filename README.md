@@ -55,4 +55,6 @@ To obtain the results of the evaluation script it is important to ensure a stric
      
 *preprocessing_corpus.py* script allows you to make the necessary substitutions to the corpus to be processed in order to obtain the alignment between the reference and the hypothesis corpora.
 
+Some other scripts are also delivered for corpus processing inside ./Corpus/preprocessing_tagged_ref/.
+ 
 ---- 

@@ -33,7 +33,7 @@ Install all requirements with
 
     pip install -r requirements.txt
 
-Run GeonNER.py, for example: 
+There is the possibility to run GeonNER.py for an entire directory or for a specific single file, for example: 
     
     > GeoNER.py raw_corpus.txt tagged_corpus.txt
 

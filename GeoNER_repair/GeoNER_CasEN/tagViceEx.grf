@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 198 267 2 3 2 
+"" 786 367 0 
+"vice+ex+sous/" 526 267 2 4 5 
+"<actuel>+<ancien>+<antique>+<dernier>+<futur>+<haut>+<nouveau>+<ordinal>+<prochain>+<précédent>/" 345 367 1 7 
+"#-#" 592 242 1 5 
+"<E>" 634 267 1 11 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 920 106 0 
+"<E>" 459 367 2 8 11 
+"vice+ex+sous/" 570 468 2 9 10 
+"#-#" 636 443 1 10 
+"<E>" 678 468 1 11 
+"<E>" 746 367 1 1 

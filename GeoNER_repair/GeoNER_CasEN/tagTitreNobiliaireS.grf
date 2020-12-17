@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 28 210 2 11 10 
+"" 819 210 0 
+"<archiduc.N:s>+<baron.N:s>+<comte.N:s>+<csar.N:s>+<czar.N:s>+<duc.N:s>+<empereur.N:s>+<marquis.N:s>+mons+monsr+sr+roi+roy+royne+<tsar.N:s>+<tzar.N:s>+<vicomte.N:s>+calife+vizir+pacha+émir+cheikh+seigneur+raja" 478 469 1 9 
+"reine" 408 56 3 4 9 15 
+"régente+mère" 598 56 1 9 
+"prince" 390 210 2 6 9 
+"royal+consor" 524 174 1 9 
+"/shah+chah+schah sont ambigus avec un prénom !" 727 387 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 856 99 0 
+"<E>" 762 210 1 1 
+"<E>" 329 210 4 5 3 2 13 
+"<num+type=\"ordinal\">" 81 145 1 12 
+"<E>" 235 145 1 10 
+"princesse" 406 266 2 9 14 
+"royale" 593 266 1 9 
+"#-#" 501 30 1 4 

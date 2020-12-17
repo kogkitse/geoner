@@ -1,0 +1,51 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+31
+"<E>" 29 200 3 8 19 21 
+"" 1009 288 0 
+":roleName" 274 200 1 5 
+":tagCivilitePersonne+:tagFonctionAdministrative+:tagFonctionPolitique+:tagFonctionJustice+:tagFonctionMilitaire+:tagFonctionReligieuse+:tagFonctionUniversitaire" 106 281 2 2 14 
+"\<geogName type=\\\"" 370 276 1 16 
+":listDeLe" 358 200 1 15 
+"\<\/placeName\>+\<\/geogName\>" 745 200 1 13 
+"<<[^<]>>" 619 200 2 7 11 
+"$pers(" 69 200 2 2 3 
+"$pers)" 443 200 2 4 18 
+"$NE(" 561 200 1 7 
+"$NE)" 708 200 1 6 
+"<E>" 825 288 1 1 
+"<E>/<persName>$pers$ $NE$</persName>" 722 288 1 12 
+"<E>" 315 281 1 5 
+"<E>+:B" 410 120 1 9 
+"<TOKEN>" 526 277 1 17 
+"\\\"\>" 626 276 1 10 
+"\<placeName\>" 474 127 1 10 
+":motions_verbes+:geogFeat_repair" 95 467 1 20 
+"<E>" 805 467 1 12 
+"\<\/persName\>" 77 386 1 29 
+":listDeLe" 223 386 1 30 
+"\<\/placeName\>+\<\/geogName\>" 597 386 1 28 
+"<<[^<]>>" 479 386 2 24 26 
+"$NE(" 434 386 1 24 
+"$NE)" 564 386 1 23 
+"\<placeName\>" 333 386 1 25 
+"<E>/$de$ $NE$ </persName>" 713 385 1 12 
+"$de(" 189 386 1 22 
+"$de)" 312 386 1 27 

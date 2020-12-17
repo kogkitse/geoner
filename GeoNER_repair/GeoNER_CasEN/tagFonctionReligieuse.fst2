@@ -1,0 +1,70 @@
+0000000001
+-1 tagFonctionReligieuse
+: 50 8 48 1 47 1 46 1 45 7 44 1 43 1 42 1 41 1 40 1 39 1 38 1 37 1 36 6 35 1 34 1 33 1 32 1 30 5 29 4 27 3 26 1 25 1 24 1 23 1 22 1 21 1 20 1 19 1 18 1 17 1 16 1 15 1 14 1 13 1 12 1 11 1 10 1 9 1 8 1 7 1 4 2 3 1 2 1 1 1 
+t 
+: 5 9 
+: 28 10 
+t 51 1 28 11 15 1 12 1 
+: 31 1 
+: 28 12 
+: 44 1 
+t 49 1 28 13 7 1 
+: 6 1 
+: 29 1 
+: 51 1 15 1 12 1 
+: 37 1 
+: 49 1 7 1 
+f 
+%<E>
+%<religieux.N:s>
+%frère
+%soeur
+%s
+%œ
+%ur
+%abbesse
+%archiprêtre
+%aumônier
+%aumonière
+%chanoine
+%curé
+%moine
+%moniale
+%abbé
+%évêque
+%pape
+%<prêtre.N:s>
+%prédicateur
+%prélat
+%vicaire
+%archevêque
+%cardinal
+%diacre
+%archidiacre
+%prima
+%saint
+%-
+%père
+%souverain
+%pontife
+%pope
+%bonze
+%brahmane
+%calife
+%dalaï
+%lama
+%druide
+%gourou
+%prophète
+%patriarche
+%pasteur
+%diaconesse
+%rabbin
+%grand
+%imam
+%mollah
+%muezzin
+%supérieure
+%mère
+%supérieur
+f

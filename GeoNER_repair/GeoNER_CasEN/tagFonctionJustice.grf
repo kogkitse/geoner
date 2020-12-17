@@ -1,0 +1,25 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+5
+"<E>" 208 317 1 2 
+"" 461 317 0 
+"<avocat.N:s>+procureur+procureuse+<magistrat.N:s>+juge+juge d'instruction+<greffier.N:s>+assesseur+assesseuse+batonnier+batonnière+bâtonnier+bâtonnière/" 254 317 1 4 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 454 100 0 
+"<E>" 405 317 1 1 

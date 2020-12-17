@@ -1,0 +1,93 @@
+0000000003
+-1 tagFonctionAdministrative
+: 27 2 26 2 25 2 23 4 21 3 20 2 18 2 17 1 
+: 19 2 16 5 
+: 16 5 
+: 22 2 
+: 24 2 
+t -2 8 -3 7 4 6 3 6 2 6 1 6 
+: 5 5 
+: -2 8 
+: 15 10 14 10 13 10 12 10 11 10 10 10 9 10 8 10 6 9 
+: 7 10 
+: 16 11 
+t 
+f 
+-2 listDeLe
+: 31 3 30 2 29 1 28 1 
+t 
+t 34 3 33 1 
+: 32 1 
+f 
+-3 tagGentileS
+: 54 5 52 4 51 3 50 3 49 3 42 2 41 2 40 2 39 2 38 1 37 1 36 1 
+: 35 6 
+: 47 3 46 3 45 7 44 1 43 1 
+: 48 6 
+: 53 8 
+: 53 9 
+t 
+: 47 3 46 3 44 1 43 1 
+: 45 10 
+: 45 11 
+: 53 12 
+: 53 13 
+: 44 1 43 1 
+: 47 3 46 3 
+f 
+%<E>
+%<adjoint.A:s>/{
+%<exécutif.A:s>/{
+%<délégué.A:s>/{
+%<général.A:s>/{
+%<E>/,.w+type="adjective"}
+%ressources/{
+%humaines
+%ventes/{
+%achats/{
+%entreprise/{
+%production/{
+%exploitation/{
+%programmes/{
+%marketing/{
+%personnel/{
+%<E>/,.w+type="noun"}
+%<directeur.N:s>/{
+%DRH/{
+%RH
+%<administrateur.N:s>/{
+%président/{
+%directeur
+%présidente/{
+%directrice
+%PDG/{
+%responsable/{
+%<dirigeant.N:s>/{
+%des
+%du
+%de
+%d
+%'
+%la
+%l
+%<E>/,.demonym+grftagGentileS}
+%<N+PR+Hum~Pays:s>/{
+%<A+Toponyme~Pays:s>/{
+%<N+Ethnonym:s>/{
+%nord/{
+%sud/{
+%est/{
+%ouest/{
+%<N+PR+Hum~Pays:s>
+%<A+Toponyme~Pays:s>
+%-
+%<N+PR+Hum+Pays:s>
+%<A+Toponyme+Pays:s>
+%<E>/,.nationality+grftagGentileS}
+%<N+PR+Hum+Pays:s>/{
+%<A+Toponyme+Pays:s>/{
+%étranger/{
+%<PFX+Toponyme~Pays>/{
+%#
+%<PFX+Toponyme+Pays>/{
+f

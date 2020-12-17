@@ -1,0 +1,42 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+22
+"<E>" 75 189 3 9 11 20 
+"" 760 189 0 
+":patternGeneral" 154 189 3 3 5 6 
+"1+2+3+4+une+deux+trois+quatre" 286 103 1 4 
+"<étoile>" 368 103 1 5 
+"<E>" 713 189 1 1 
+"-+en" 262 224 1 7 
+"chef" 333 224 1 5 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 747 486 0 
+"<maréchal.N:s>+mal+male/" 188 315 1 21 
+"des logis+de France" 631 315 1 5 
+"m/" 149 431 2 12 16 
+"<nomDhi>" 195 431 1 13 
+"al+ale" 302 431 1 15 
+"/TEI" 208 396 0 
+"<nomFhi>" 365 431 1 21 
+"<nomNSceDsup>" 199 547 1 17 
+"al+ale" 337 547 1 18 
+"<nomNSceFsup>" 393 547 1 21 
+"/elsevier" 218 517 0 
+":B" 118 189 1 2 
+"<E>" 560 315 2 10 5 

@@ -1,0 +1,54 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+34
+"<E>" 115 333 8 6 3 9 10 15 23 27 32 
+"" 1178 333 0 
+"<E>" 646 333 2 19 18 
+"<candidat.N:s>+<maire>+<préfet.N:s>+sous-<préfet.N:s>+<haut.A:s> fonctionnaire+premier secrétaire+<président.N:s>+<président.N:s> du conseil+<représentant.N:s>+secrétaire <général.A:s>+<directeur.N:s> du cabinet+<directeur.N:s> de cabinet+<gouverneur.N:s>+<gouverneur.N:s>+premier ministre+dictateur+garde des sceaux/" 234 490 1 5 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 995 474 0 
+"<E>" 523 333 1 2 
+"<député.N:s>+<sénateur.N:s>/" 207 333 2 5 8 
+"maire" 371 294 1 5 
+"#-#" 328 294 1 7 
+"chef/" 221 668 1 11 
+"porte parole+porte-parole/" 207 728 1 12 
+"de l'état+d'état+du gouvernement+de cabinet+suprême" 318 668 1 5 
+"du gouvernement" 339 728 1 5 
+"<déchu>+<démissionnaire>+<démis>+<élu>/" 878 260 1 14 
+"<E>" 1009 260 1 17 
+"secrétaire d'état+ministre/" 235 249 1 21 
+"<national>+commissaire+fonctionnaire+responsable" 701 484 0 
+"<E>" 1138 333 1 1 
+":tagPolitique" 697 286 1 19 
+"<E>" 822 333 2 17 13 
+":tagContexteMinistere" 421 219 1 31 
+"<E>" 381 249 2 20 31 
+"/premier est reconnu comme num" 594 592 0 
+"<ambassadeur.N:s>/" 186 101 1 24 
+"<E>" 328 101 2 25 26 
+":tagContexteAmbassade" 401 55 1 26 
+"<E>" 593 101 1 2 
+"<conseiller.N:s>/" 194 176 1 28 
+"<E>" 336 176 2 29 30 
+":tagContexteConseil" 409 143 1 30 
+"<E>" 577 176 1 2 
+"<E>" 570 249 1 2 
+"despote+tyran/" 163 800 1 33 
+"<E>" 442 800 1 5 

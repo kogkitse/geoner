@@ -1,0 +1,43 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+23
+"<E>" 19 239 2 5 12 
+"" 1079 239 0 
+"<maison>+<château>+<porte>+<port>+<mur>+rue+pont+centre ville+place+quartier" 270 239 1 3 
+":listDeLe" 364 239 1 11 
+"<Toponyme>" 535 239 1 9 
+"\<placeName\>" 58 239 1 10 
+"\<\/placeName\>" 678 239 1 7 
+"<E>/$geogFeat$ <placeName>$topo$</placeName>" 838 239 1 1 
+"$topo(" 495 239 1 4 
+"$topo)" 652 239 1 6 
+"$geogFeat(" 194 239 1 2 
+"$geogFeat)" 443 239 1 8 
+"<E>" 21 368 1 17 
+"\<geogName type=\\\"" 121 368 1 19 
+"\<\/geogName\>" 728 364 1 16 
+"\\\"\>" 454 368 1 18 
+"<E>/<placeName>$topo$</placeName>" 856 319 1 1 
+"$geogName(" 66 368 1 13 
+"$geogName)" 523 368 1 21 
+":SAFETOKEN" 316 368 1 15 
+":SAFETOKEN" 604 362 2 22 20 
+"$topo(" 564 362 1 20 
+"$topo)" 705 362 1 14 

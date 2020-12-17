@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1872 904
+FONT Arial:  10
+OFONT Arial:B 10
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13421772
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 49 405 3 3 5 7 
+"" 679 405 0 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+www.tln.li.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 964 95 0 
+"<religieux.N:s>+frère+soeur+sœur+abbesse+archiprêtre+aumônier+aumonière+chanoine+curé+moine+moniale+abbé+évêque+pape+<prêtre.N:s>+prédicateur+prélat+vicaire+archevêque+cardinal+diacre+archidiacre+prima+saint-père+souverain pontife+pope+bonze+brahmane+calife+dalaï-lama+druide+lama+gourou+prophète+patriarche+pasteur+diaconesse+rabbin+grand rabbin+imam+mollah+muezzin/" 210 531 1 4 
+"<E>" 610 405 1 1 
+"père/" 229 174 3 4 8 10 
+"supérieure+abbesse" 311 85 1 9 
+"mère/" 201 122 3 9 6 11 
+"curé+supérieur+abbé" 325 174 1 4 
+"<E>" 395 122 1 4 
+"-" 284 152 1 8 
+"-" 263 85 1 6 
